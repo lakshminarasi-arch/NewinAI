@@ -1,12 +1,201 @@
 [
   {
-    "id": "sample-1",
-    "category": "Models",
-    "headline": "A faster open model lands",
-    "summary": "A new open-weight model matches last year's flagships on reasoning benchmarks while running on a single consumer GPU. The lab released the weights, the training recipe, and an unusually frank list of what it still gets wrong. Independent testers are already poking holes in the benchmark claims.",
+    "id": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+    "category": "Funding",
+    "headline": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+    "summary": "Nvidia is trying to borrow over $25 billion in a bond sale, which will show how much investors are willing to lend to AI-related companies",
     "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/",
-    "published": "2026-06-15T05:30:00Z"
+    "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+    "published": "2026-06-15T19:07:02.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?post_type=vm_stream&p=950026",
+    "category": "Policy",
+    "headline": "All the news about Anthropic s new AI fight with the White House",
+    "summary": "The US government has ordered Anthropic to limit foreign access to its latest AI models, citing concerns over their capabilities and potential misuse, amid ongoing disputes with the company",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+    "published": "2026-06-15T19:04:53.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
+    "category": "Other",
+    "headline": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
+    "summary": "A Chinese rocket broke apart near a group of Starlink satellites, creating a large amount of new space debris",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
+    "published": "2026-06-15T18:55:41.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132926",
+    "category": "Models",
+    "headline": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "summary": "Meta is adding an AI feature to Facebook that uses public data from its platforms to enhance user experience",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "published": "2026-06-15T18:30:58.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132276",
+    "category": "Other",
+    "headline": "SpaceX is public: Everything you need to know post-IPO",
+    "summary": "SpaceX has gone public, and investors are watching closely to see how the company performs, with some expecting big gains and others more cautious",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "published": "2026-06-15T18:30:34.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
+    "category": "Funding",
+    "headline": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
+    "summary": "Fox is buying Roku for $22 billion to get into smart TV technology and advertising, expanding its media reach",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
+    "published": "2026-06-15T18:29:47.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=949986",
+    "category": "Policy",
+    "headline": "Trump’s Anthropic shutdown just made the case for non-American AI",
+    "summary": "The US government ordered Anthropic to shut down its newest AI models, citing access restrictions for foreign nationals, sparking concerns about American control over AI technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+    "published": "2026-06-15T18:10:27.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+    "category": "Other",
+    "headline": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+    "summary": "AMD removed a memory encryption feature from its consumer CPUs, sparking controversy among users who feel they've lost a security benefit",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+    "published": "2026-06-15T17:55:46.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=949970",
+    "category": "Policy",
+    "headline": "Big Tech’s desperate last push at AI regulation",
+    "summary": "Big Tech companies are pushing for a single federal law to regulate AI, hoping to avoid a patchwork of different state laws and rules",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+    "published": "2026-06-15T17:44:10.000Z"
+  },
+  {
+    "id": "hn:48544637",
+    "category": "Other",
+    "headline": "Claude Corps",
+    "summary": "A company called Claude Corps is getting attention, but details are scarce, leaving many to wonder what they actually do",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "published": "2026-06-15T17:41:24.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+    "category": "Other",
+    "headline": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+    "summary": "Apple's switch to Intel Macs was a significant move, but after 20 years, the company is phasing them out, marking the end of an era",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
+    "published": "2026-06-15T16:32:14.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
+    "category": "Other",
+    "headline": "Good news—we have extra time before the Sun ends life on Earth",
+    "summary": "New findings suggest the Sun won't make Earth uninhabitable as soon as previously thought, giving the planet a bit more time before becoming too hot for life",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
+    "published": "2026-06-15T16:28:17.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132849",
+    "category": "Policy",
+    "headline": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+    "summary": "Cybersecurity experts oppose US restrictions on Anthropic's AI models, saying it hinders their ability to secure software and products",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "published": "2026-06-15T15:29:51.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
+    "category": "Other",
+    "headline": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
+    "summary": "Ferrari brought many upgrades to the Spanish F1 race, hoping to boost their performance",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
+    "published": "2026-06-15T15:25:17.000Z"
+  },
+  {
+    "id": "hn:48542433",
+    "category": "Tools",
+    "headline": "My Homelab AI Dev Platform",
+    "summary": "A developer created a home lab for testing AI projects, sharing the setup and tools used for experimentation",
+    "source": "Hacker News",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "published": "2026-06-15T15:09:40.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132810",
+    "category": "Funding",
+    "headline": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "summary": "Salesforce buys Fin, an AI customer service platform, to boost its Agentforce tool, aiming to improve automated tasks for businesses",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "published": "2026-06-15T14:34:45.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=949195",
+    "category": "Other",
+    "headline": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
+    "summary": "The CEO of Skydio, a top US drone maker, thinks Silicon Valley should be more open to drone uses, including police and military applications, and is focusing on the enterprise market",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+    "published": "2026-06-15T14:00:00.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
+    "category": "Other",
+    "headline": "Russia appears set to finally address long-term, serious space station cracks",
+    "summary": "Russia is taking steps to fix cracks in its space station, resolving a long-standing issue with NASA",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
+    "published": "2026-06-15T13:54:02.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132797",
+    "category": "Funding",
+    "headline": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+    "summary": "Indian startup Sarvam gets big investment from HCLTech, becoming a highly valued company in the AI sector",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "published": "2026-06-15T13:46:08.000Z"
+  },
+  {
+    "id": "hn:48541014",
+    "category": "Models",
+    "headline": "Can Europe train a frontier AI model on the compute it owns?",
+    "summary": "Europe considers training advanced AI using its own computing resources, aiming for independence from other regions",
+    "source": "Hacker News",
+    "url": "https://github.com/sammysltd/euromesh",
+    "published": "2026-06-15T13:31:09.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132746",
+    "category": "Funding",
+    "headline": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+    "summary": "A company called NewCore has raised money to help give identities to AI agents, which are becoming more common in workplaces, to manage their security",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+    "published": "2026-06-15T13:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132502",
+    "category": "Models",
+    "headline": "A satellite just learned to find things on its own — here’s what that means",
+    "summary": "A satellite used AI to independently locate a target, a first for Earth observation satellites, potentially improving their efficiency",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+    "published": "2026-06-15T12:00:00.000Z"
   },
   {
     "id": "sample-2",
@@ -16,6 +205,87 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/category/artificial-intelligence/",
     "published": "2026-06-15T08:30:00Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132765",
+    "category": "Other",
+    "headline": "The AI layoff wave is becoming a powder keg",
+    "summary": "Mass AI layoffs contrast with huge wealth gains for a small group of industry insiders, sparking concerns about inequality",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "published": "2026-06-15T07:25:41.000Z"
+  },
+  {
+    "id": "sample-1",
+    "category": "Models",
+    "headline": "A faster open model lands",
+    "summary": "A new open-weight model matches last year's flagships on reasoning benchmarks while running on a single consumer GPU. The lab released the weights, the training recipe, and an unusually frank list of what it still gets wrong. Independent testers are already poking holes in the benchmark claims.",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/",
+    "published": "2026-06-15T05:30:00Z"
+  },
+  {
+    "id": "hn:48536776",
+    "category": "Models",
+    "headline": "Apple Foundation Models",
+    "summary": "Apple is working on its own foundation models, a type of artificial intelligence that can be fine-tuned for various tasks, potentially rivaling existing models",
+    "source": "Hacker News",
+    "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+    "published": "2026-06-15T04:55:34.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.13682v1",
+    "category": "Research",
+    "headline": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+    "summary": "Researchers propose a new method using deep reinforcement learning and transformers to solve complex scheduling problems in industries, aiming to improve solution quality and efficiency",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.13682",
+    "published": "2026-06-15T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.13683v1",
+    "category": "Models",
+    "headline": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+    "summary": "Researchers propose a new method to help chatbots better adapt to individual users by using real-time feedback and large language models to customize their responses",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.13683",
+    "published": "2026-06-15T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.13703v1",
+    "category": "Research",
+    "headline": "History of the Muddy Children Puzzle",
+    "summary": "Researchers explore the origins of the Muddy Children Puzzle, a classic logic problem, tracing its history through various publications and adaptations over two centuries",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.13703",
+    "published": "2026-06-15T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.13707v1",
+    "category": "Models",
+    "headline": "Orchestra-o1: Omnimodal Agent Orchestration",
+    "summary": "Researchers propose a new system to manage multiple AI agents working together across different types of tasks and data, aiming to improve collaboration and task completion",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.13707",
+    "published": "2026-06-15T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.13710v1",
+    "category": "Research",
+    "headline": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+    "summary": "Researchers propose a new method combining deep research and agent evolution to improve AI agents' ability to learn and adapt in open-ended environments",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.13710",
+    "published": "2026-06-15T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.13715v1",
+    "category": "Models",
+    "headline": "WorkBench Revisited: Workplace Agents Two Years On",
+    "summary": "Researchers re-tested workplace agents and found significant progress, with the best agent now completing 89% of tasks and making fewer harmful mistakes, but it's unclear if this improvement will translate to real-world scenarios",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.13715",
+    "published": "2026-06-15T04:00:00.000Z"
   },
   {
     "id": "sample-3",
