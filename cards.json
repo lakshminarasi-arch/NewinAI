@@ -18,15 +18,6 @@
     "published": "2026-06-15T19:04:53.000Z"
   },
   {
-    "id": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
-    "category": "Other",
-    "headline": "A Chinese rocket breaks apart dangerously close to the Starlink constellation",
-    "summary": "A Chinese rocket broke apart near a group of Starlink satellites, creating a large amount of new space debris",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/",
-    "published": "2026-06-15T18:55:41.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3132926",
     "category": "Models",
     "headline": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
@@ -36,24 +27,6 @@
     "published": "2026-06-15T18:30:58.000Z"
   },
   {
-    "id": "https://techcrunch.com/?p=3132276",
-    "category": "Other",
-    "headline": "SpaceX is public: Everything you need to know post-IPO",
-    "summary": "SpaceX has gone public, and investors are watching closely to see how the company performs, with some expecting big gains and others more cautious",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-    "published": "2026-06-15T18:30:34.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
-    "category": "Funding",
-    "headline": "Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising",
-    "summary": "Fox is buying Roku for $22 billion to get into smart TV technology and advertising, expanding its media reach",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
-    "published": "2026-06-15T18:29:47.000Z"
-  },
-  {
     "id": "https://www.theverge.com/?p=949986",
     "category": "Policy",
     "headline": "Trump’s Anthropic shutdown just made the case for non-American AI",
@@ -61,15 +34,6 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
     "published": "2026-06-15T18:10:27.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-    "category": "Other",
-    "headline": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-    "summary": "AMD removed a memory encryption feature from its consumer CPUs, sparking controversy among users who feel they've lost a security benefit",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-    "published": "2026-06-15T17:55:46.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=949970",
@@ -90,24 +54,6 @@
     "published": "2026-06-15T17:41:24.000Z"
   },
   {
-    "id": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
-    "category": "Other",
-    "headline": "20 years of Intel Macs: Why Apple switched, and why it switched again",
-    "summary": "Apple's switch to Intel Macs was a significant move, but after 20 years, the company is phasing them out, marking the end of an era",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
-    "published": "2026-06-15T16:32:14.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
-    "category": "Other",
-    "headline": "Good news—we have extra time before the Sun ends life on Earth",
-    "summary": "New findings suggest the Sun won't make Earth uninhabitable as soon as previously thought, giving the planet a bit more time before becoming too hot for life",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
-    "published": "2026-06-15T16:28:17.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3132849",
     "category": "Policy",
     "headline": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
@@ -115,15 +61,6 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
     "published": "2026-06-15T15:29:51.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
-    "category": "Other",
-    "headline": "F1 in Spain: An old-fashioned strategy fight can still be thrilling",
-    "summary": "Ferrari brought many upgrades to the Spanish F1 race, hoping to boost their performance",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/",
-    "published": "2026-06-15T15:25:17.000Z"
   },
   {
     "id": "hn:48542433",
@@ -142,24 +79,6 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
     "published": "2026-06-15T14:34:45.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=949195",
-    "category": "Other",
-    "headline": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
-    "summary": "The CEO of Skydio, a top US drone maker, thinks Silicon Valley should be more open to drone uses, including police and military applications, and is focusing on the enterprise market",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-    "published": "2026-06-15T14:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
-    "category": "Other",
-    "headline": "Russia appears set to finally address long-term, serious space station cracks",
-    "summary": "Russia is taking steps to fix cracks in its space station, resolving a long-standing issue with NASA",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
-    "published": "2026-06-15T13:54:02.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3132797",
@@ -198,15 +117,6 @@
     "published": "2026-06-15T12:00:00.000Z"
   },
   {
-    "id": "sample-2",
-    "category": "Funding",
-    "headline": "Another nine figures for an AI coding startup that hasn't shipped",
-    "summary": "A two-year-old company raised a round at a valuation that raised eyebrows across the industry, on the strength of a demo and a waitlist. No public product yet. The pitch: agents that write and merge code unsupervised — review optional, the founders say.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/category/artificial-intelligence/",
-    "published": "2026-06-15T08:30:00Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3132765",
     "category": "Other",
     "headline": "The AI layoff wave is becoming a powder keg",
@@ -214,15 +124,6 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
     "published": "2026-06-15T07:25:41.000Z"
-  },
-  {
-    "id": "sample-1",
-    "category": "Models",
-    "headline": "A faster open model lands",
-    "summary": "A new open-weight model matches last year's flagships on reasoning benchmarks while running on a single consumer GPU. The lab released the weights, the training recipe, and an unusually frank list of what it still gets wrong. Independent testers are already poking holes in the benchmark claims.",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/",
-    "published": "2026-06-15T05:30:00Z"
   },
   {
     "id": "hn:48536776",
@@ -286,60 +187,5 @@
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2606.13715",
     "published": "2026-06-15T04:00:00.000Z"
-  },
-  {
-    "id": "sample-3",
-    "category": "Policy",
-    "headline": "Regulators ask the question everyone's been dodging",
-    "summary": "A draft framework would require disclosure when a person is talking to an AI rather than a human. Industry response split down predictable lines: platforms warned of friction, consumer groups called it overdue. The clause everyone's fighting over is who counts when the other side is a bot.",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence",
-    "published": "2026-06-15T03:30:00Z"
-  },
-  {
-    "id": "sample-4",
-    "category": "Research",
-    "headline": "The lab teaching models to say 'I don't know'",
-    "summary": "Researchers trained a model to flag its own uncertainty instead of bluffing, cutting confident-but-wrong answers by a third. The catch: it refuses more often, and users find that annoying. Honest hesitation beats fluent nonsense, the paper argues.",
-    "source": "The Atlantic",
-    "url": "https://www.theatlantic.com/technology/",
-    "published": "2026-06-15T00:30:00Z",
-    "image": "https://picsum.photos/seed/newinai-research/900/1600"
-  },
-  {
-    "id": "sample-5",
-    "category": "Tools",
-    "headline": "A coding tool that ships its own changelog",
-    "summary": "The latest release writes its own release notes from the diff and the linked issues, then asks a human to approve the wording. Early users say it's the first changelog they actually read. It also quietly flags breaking changes the team forgot to document.",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence",
-    "published": "2026-06-14T21:00:00Z"
-  },
-  {
-    "id": "sample-6",
-    "category": "Models",
-    "headline": "Multimodal goes small enough to run on a phone",
-    "summary": "A compact model handling text, images, and audio now fits comfortably on flagship handsets, running offline. Quality dips against the big cloud versions, but for quick captioning and translation most people won't notice. Battery drain, reviewers note, is another matter entirely.",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/category/ai/",
-    "published": "2026-06-14T16:00:00Z"
-  },
-  {
-    "id": "sample-7",
-    "category": "Research",
-    "headline": "Long-context claims meet a stubborn benchmark",
-    "summary": "A new test feeds models a million tokens then asks about a single buried fact. Most score well near the edges and badly in the middle — the so-called 'lost in the middle' problem persists. Vendors who advertised huge context windows were quieter this week.",
-    "source": "arXiv",
-    "url": "https://arxiv.org/list/cs.CL/recent",
-    "published": "2026-06-14T11:30:00Z"
-  },
-  {
-    "id": "sample-8",
-    "category": "Funding",
-    "headline": "Chip startup banks on inference, not training",
-    "summary": "While most accelerator money chases training workloads, one company raised on the bet that serving models cheaply is the bigger long-term market. Their pitch leans on power efficiency rather than peak throughput. Whether hyperscalers buy versus build remains the open question.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/category/artificial-intelligence/",
-    "published": "2026-06-13T19:45:00Z"
   }
 ]

@@ -33,14 +33,14 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: npm run refresh
 
-      - name: Commit updated cards.json
+      - name: Commit updated data
         run: |
-          if [[ -n "$(git status --porcelain cards.json)" ]]; then
+          if [[ -n "$(git status --porcelain cards.json scripts/seen-ids.json)" ]]; then
             git config user.name  "newinai-bot"
             git config user.email "actions@users.noreply.github.com"
-            git add cards.json
+            git add cards.json scripts/seen-ids.json
             git commit -m "chore: refresh cards.json [skip ci]"
             git push
           else
-            echo "No changes to cards.json"
+            echo "No changes to commit"
           fi

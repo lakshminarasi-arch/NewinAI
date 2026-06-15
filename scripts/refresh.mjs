@@ -20,16 +20,19 @@ import { FEEDS, CATEGORIES, MAX_CARDS, MAX_NEW_PER_RUN } from './feeds.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CARDS_PATH = join(__dirname, '..', 'cards.json');
+// Ids of every story we've already processed (carded OR skipped as non-AI), so the
+// LLM is never called twice on the same story — even after it ages past the card cap.
+const SEEN_PATH = join(__dirname, 'seen-ids.json');
+const SEEN_CAP = 4000;
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.0-flash';
 const GROQ_MODEL = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
-// Throttle between LLM calls. Gemini's free tier is ~15 req/min, so default ~4.5s
-// keeps us safely under it. Set THROTTLE_MS=0 if you're only using Groq.
-const THROTTLE_MS = process.env.THROTTLE_MS != null
-  ? Number(process.env.THROTTLE_MS)
-  : (GEMINI_API_KEY ? 4500 : 600);
+// Throttle between LLM calls, per provider, to respect free-tier rate limits.
+// Gemini free tier ~15 req/min (~4.5s); Groq free tier ~30 req/min (~2.1s).
+const GEMINI_THROTTLE_MS = Number(process.env.GEMINI_THROTTLE_MS ?? 4500);
+const GROQ_THROTTLE_MS   = Number(process.env.GROQ_THROTTLE_MS ?? 2100);
 
 const parser = new Parser({ timeout: 15000, headers: { 'User-Agent': 'NewinAI/1.0 (+github-actions)' } });
 
@@ -43,6 +46,10 @@ function fetchT(url, opts = {}, ms = 25000) {
 }
 
 /* ---------- 1. fetch + normalise every feed (fail soft) ---------- */
+// Cheap, free pre-filter for broad/general feeds (Ars main site, HN front page)
+// so obviously-non-AI stories never reach the LLM. AI-only feeds skip this.
+const AI_RE = /\b(a\.?i\.?|artificial intelligence|machine[- ]?learning|ml|llm|gpt|genai|generative|neural|deep[- ]?learning|models?|openai|anthropic|claude|gemini|deepmind|llama|mistral|nvidia|gpus?|transformers?|diffusion|agents?|agentic|inference|fine[- ]?tun|chatbot|copilot|reinforcement learning|dataset|embedding|multimodal|hugging ?face|chatgpt|deepseek)\b/i;
+
 function stripHtml(s) {
   return String(s || '').replace(/<[^>]*>/g, ' ').replace(/&[a-z#0-9]+;/gi, ' ').replace(/\s+/g, ' ').trim();
 }
@@ -63,8 +70,7 @@ async function fetchRss(feed) {
   })).filter(s => s.url && s.headline);
 }
 
-// Hacker News front page via Algolia — keep only AI-ish titles.
-const AI_RE = /\b(ai|llm|gpt|genai|machine learning|ml|neural|model|openai|anthropic|deepmind|gemini|claude|llama|mistral|diffusion|transformer|agent|inference|fine-tun)/i;
+// Hacker News front page via Algolia.
 async function fetchHn(feed) {
   const res = await fetchT(feed.url, { headers: { 'User-Agent': 'NewinAI/1.0' } }, 15000);
   if (!res.ok) throw new Error(`HN HTTP ${res.status}`);
@@ -78,16 +84,22 @@ async function fetchHn(feed) {
       headline: stripHtml(h.title || h.story_title).slice(0, 200),
       snippet: '',
       published: h.created_at || new Date().toISOString(),
-    }))
-    .filter(s => AI_RE.test(s.headline));
+    }));
 }
 
 async function fetchAll() {
   const out = [];
   for (const feed of FEEDS) {
     try {
-      const items = feed.kind === 'hn' ? await fetchHn(feed) : await fetchRss(feed);
-      log(`${feed.name}: ${items.length} items`);
+      let items = feed.kind === 'hn' ? await fetchHn(feed) : await fetchRss(feed);
+      // Broad feeds get a keyword pre-filter; AI-only feeds pass through untouched.
+      if (!feed.aiOnly) {
+        const before = items.length;
+        items = items.filter(it => AI_RE.test(`${it.headline} ${it.snippet}`));
+        log(`${feed.name}: ${items.length} items (AI-filtered from ${before})`);
+      } else {
+        log(`${feed.name}: ${items.length} items`);
+      }
       out.push(...items);
     } catch (err) {
       warn(`skipping ${feed.name}: ${err.message}`); // one dead feed must not sink the run
@@ -108,8 +120,9 @@ function dedupe(items) {
 
 /* ---------- 3. summarise (Gemini, Groq fallback) ---------- */
 const SYSTEM = `You summarise AI news for a swipe-card app. For the given story, return JSON ONLY (no markdown, no prose) in exactly this shape:
-{"summary": string, "category": "Models"|"Research"|"Funding"|"Tools"|"Policy"|"Other"}
+{"relevant": boolean, "summary": string, "category": "Models"|"Research"|"Funding"|"Tools"|"Policy"|"Other"}
 Rules:
+- relevant: true only if the story is genuinely about artificial intelligence, machine learning, or the AI industry (labs, models, AI funding, AI policy, AI tooling/research). Set false for general tech, space, cars, gadgets, science, sports, or business news that merely mentions a tech company. When false, summary and category can be empty strings.
 - summary: about 50 words, reworded ENTIRELY in plain English. Never paste the article's own sentences.
 - Neutral tone, quietly skeptical of hype.
 - category: choose exactly one from the list that best fits.`;
@@ -126,9 +139,10 @@ function parseModelJson(text) {
   if (start === -1 || end === -1) return null;
   try {
     const obj = JSON.parse(t.slice(start, end + 1));
+    if (obj.relevant === false) return { relevant: false };  // not AI news — skip it
     if (!obj.summary) return null;
     if (!CATEGORIES.includes(obj.category)) obj.category = 'Other';
-    return { summary: String(obj.summary).trim(), category: obj.category };
+    return { relevant: true, summary: String(obj.summary).trim(), category: obj.category };
   } catch (_) { return null; }
 }
 
@@ -153,16 +167,22 @@ async function summariseGemini(story, { allowRetry = true } = {}) {
   if (res.status === 429) {
     const body = (await res.text()).slice(0, 300);
     const wait = retryDelaySeconds(body);
-    // One short retry for a transient per-minute limit; cap the wait so a
-    // genuinely-exhausted daily quota can't stall the run. Then fall through.
-    if (allowRetry && wait != null && wait <= 30) {
+    // A genuine quota/billing exhaustion ("check your plan and billing") won't
+    // recover this run — flag it so the caller can stop calling Gemini entirely.
+    const exhausted = /quota|billing|plan/i.test(body) && wait == null;
+    // One short retry only for a transient per-minute limit that names a delay.
+    if (allowRetry && !exhausted && wait != null && wait <= 30) {
       warn(`gemini 429, retrying in ${wait}s`);
       await sleep(wait * 1000);
       return summariseGemini(story, { allowRetry: false });
     }
-    throw Object.assign(new Error(`gemini rate limit — ${body}`), { rateLimited: true });
+    throw Object.assign(new Error(`gemini rate limit — ${body}`), { rateLimited: true, exhausted });
   }
-  if (!res.ok) throw new Error(`gemini HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  // 403 = key disabled / API not enabled — also a per-run dead end.
+  if (!res.ok) {
+    throw Object.assign(new Error(`gemini HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`),
+      { exhausted: res.status === 403 });
+  }
   const data = await res.json();
   const text = data?.candidates?.[0]?.content?.parts?.map(p => p.text).join('') || '';
   const parsed = parseModelJson(text);
@@ -192,17 +212,25 @@ async function summariseGroq(story) {
   return parsed;
 }
 
+// Circuit breaker: once Gemini reports a non-recoverable quota/billing/disabled
+// error, stop calling it for the rest of this run and go straight to Groq.
+let geminiDown = false;
+
 async function summarise(story) {
-  if (GEMINI_API_KEY) {
+  if (GEMINI_API_KEY && !geminiDown) {
     try {
-      return await summariseGemini(story);
+      return { ...await summariseGemini(story), provider: 'gemini' };
     } catch (err) {
+      if (err.exhausted) {
+        geminiDown = true;
+        warn(`gemini unavailable (${err.message.slice(0, 120)}) — switching to groq for the rest of this run`);
+      }
       if (!GROQ_API_KEY) throw err;        // no fallback configured — surface it
-      warn(`gemini failed (${err.message.slice(0, 140)}); trying groq`);
-      return await summariseGroq(story);
+      if (!err.exhausted) warn(`gemini failed (${err.message.slice(0, 120)}); trying groq`);
+      return { ...await summariseGroq(story), provider: 'groq' };
     }
   }
-  return await summariseGroq(story);        // Groq-only setup
+  return { ...await summariseGroq(story), provider: 'groq' };   // Groq-only / Gemini circuit-broken
 }
 
 /* ---------- 4. merge + write ---------- */
@@ -216,6 +244,20 @@ async function loadExisting() {
   }
 }
 
+async function loadSeen() {
+  try {
+    const arr = JSON.parse(await readFile(SEEN_PATH, 'utf8'));
+    return new Set(Array.isArray(arr) ? arr : []);
+  } catch (_) {
+    return new Set();
+  }
+}
+
+async function saveSeen(set) {
+  const arr = [...set].slice(-SEEN_CAP);   // keep it bounded; newest ids win
+  await writeFile(SEEN_PATH, JSON.stringify(arr) + '\n', 'utf8');
+}
+
 async function main() {
   if (!GEMINI_API_KEY && !GROQ_API_KEY) {
     console.error('No GEMINI_API_KEY or GROQ_API_KEY set. Aborting.');
@@ -224,27 +266,40 @@ async function main() {
 
   const existing = await loadExisting();
   const existingIds = new Set(existing.map(c => c.id));
+  const seen = await loadSeen();
+  existing.forEach(c => seen.add(c.id));   // current cards count as already-processed
 
   const all = dedupe(await fetchAll());
-  const fresh = all.filter(s => !existingIds.has(s.id)).slice(0, MAX_NEW_PER_RUN);
+  const fresh = all
+    .filter(s => !existingIds.has(s.id) && !seen.has(s.id))
+    .slice(0, MAX_NEW_PER_RUN);
   log(`fetched ${all.length} unique, ${fresh.length} new to summarise`);
 
   const newCards = [];
+  let skipped = 0;
   let consecutiveFails = 0;
   for (const story of fresh) {
+    let provider = 'groq';   // for throttle accounting if the call throws
     try {
-      const { summary, category } = await summarise(story);
+      const result = await summarise(story);
+      provider = result.provider;
       consecutiveFails = 0;
-      newCards.push({
-        id: story.id,
-        category,
-        headline: story.headline,
-        summary,
-        source: story.source,
-        url: story.url,
-        published: new Date(story.published).toISOString(),
-      });
-      log(`+ [${category}] ${story.headline.slice(0, 60)}`);
+      seen.add(story.id);    // processed — never summarise this id again
+      if (!result.relevant) {
+        skipped++;
+        log(`- [skip non-AI] ${story.headline.slice(0, 60)}`);
+      } else {
+        newCards.push({
+          id: story.id,
+          category: result.category,
+          headline: story.headline,
+          summary: result.summary,
+          source: story.source,
+          url: story.url,
+          published: new Date(story.published).toISOString(),
+        });
+        log(`+ [${result.category}] ${story.headline.slice(0, 60)}`);
+      }
     } catch (err) {
       consecutiveFails++;
       warn(`could not summarise "${story.headline.slice(0, 50)}": ${err.message}`);
@@ -255,11 +310,15 @@ async function main() {
         break;
       }
     }
-    await sleep(THROTTLE_MS);
+    await sleep(provider === 'gemini' ? GEMINI_THROTTLE_MS : GROQ_THROTTLE_MS);
   }
 
+  // Persist the seen cache even when nothing was carded, so skipped non-AI
+  // stories aren't re-summarised on every run.
+  await saveSeen(seen);
+
   if (!newCards.length) {
-    log('no new cards this run — leaving cards.json unchanged');
+    log(`no new cards this run (${skipped} skipped as non-AI) — leaving cards.json unchanged`);
     return;
   }
 
@@ -268,7 +327,7 @@ async function main() {
     .slice(0, MAX_CARDS);
 
   await writeFile(CARDS_PATH, JSON.stringify(merged, null, 2) + '\n', 'utf8');
-  log(`wrote ${merged.length} cards (${newCards.length} new)`);
+  log(`wrote ${merged.length} cards (${newCards.length} new, ${skipped} skipped as non-AI)`);
 }
 
 main().catch(err => { console.error('[refresh] fatal:', err); process.exit(1); });

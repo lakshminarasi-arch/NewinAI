@@ -1,21 +1,25 @@
 // Feed sources — a single config array so adding/dropping a source is a one-line change.
-// `kind` is "rss" for normal feeds, or "hn" for the Hacker News Algolia API (not RSS).
+// `kind`   : "rss" for normal feeds, or "hn" for the Hacker News Algolia API (not RSS).
+// `aiOnly` : true for feeds that are already AI-only (AI sections, AI labs, arXiv AI lists).
+//            false for broad/general feeds — those get a keyword pre-filter in the script
+//            so non-AI stories (space, cars, sport…) never reach the summariser.
 // IMPORTANT: verify each URL resolves before relying on it — feeds move.
 
 export const FEEDS = [
-  { name: 'TechCrunch',      kind: 'rss', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
-  { name: 'The Verge',       kind: 'rss', url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml' },
-  { name: 'Ars Technica',    kind: 'rss', url: 'https://feeds.arstechnica.com/arstechnica/index' },
-  { name: 'VentureBeat',     kind: 'rss', url: 'https://venturebeat.com/category/ai/feed/' },
-  { name: 'Google DeepMind', kind: 'rss', url: 'https://deepmind.google/blog/rss.xml' },
-  { name: 'OpenAI',          kind: 'rss', url: 'https://openai.com/news/rss.xml' },
+  { name: 'TechCrunch',      kind: 'rss', aiOnly: true,  url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
+  { name: 'The Verge',       kind: 'rss', aiOnly: true,  url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml' },
+  // Ars Technica publishes no AI-only feed — this is the whole site, so it's filtered.
+  { name: 'Ars Technica',    kind: 'rss', aiOnly: false, url: 'https://feeds.arstechnica.com/arstechnica/index' },
+  { name: 'VentureBeat',     kind: 'rss', aiOnly: true,  url: 'https://venturebeat.com/category/ai/feed/' },
+  { name: 'Google DeepMind', kind: 'rss', aiOnly: true,  url: 'https://deepmind.google/blog/rss.xml' },
+  { name: 'OpenAI',          kind: 'rss', aiOnly: true,  url: 'https://openai.com/news/rss.xml' },
   // Anthropic has no public RSS feed at a standard path (all 404 as of 2026-06).
   // Re-enable this line if/when they publish one:
-  // { name: 'Anthropic',    kind: 'rss', url: 'https://www.anthropic.com/news/rss.xml' },
-  { name: 'arXiv cs.AI',     kind: 'rss', url: 'https://rss.arxiv.org/rss/cs.AI' },
-  { name: 'arXiv cs.LG',     kind: 'rss', url: 'https://rss.arxiv.org/rss/cs.LG' },
-  // Hacker News front page — Algolia API, filtered to AI-ish stories in the script.
-  { name: 'Hacker News',     kind: 'hn',  url: 'https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=40' },
+  // { name: 'Anthropic',    kind: 'rss', aiOnly: true,  url: 'https://www.anthropic.com/news/rss.xml' },
+  { name: 'arXiv cs.AI',     kind: 'rss', aiOnly: true,  url: 'https://rss.arxiv.org/rss/cs.AI' },
+  { name: 'arXiv cs.LG',     kind: 'rss', aiOnly: true,  url: 'https://rss.arxiv.org/rss/cs.LG' },
+  // Hacker News front page — Algolia API; broad, so keyword-filtered like Ars.
+  { name: 'Hacker News',     kind: 'hn',  aiOnly: false, url: 'https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=40' },
 ];
 
 export const CATEGORIES = ['Models', 'Research', 'Funding', 'Tools', 'Policy', 'Other'];
