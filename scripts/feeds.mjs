@@ -18,9 +18,9 @@ export const FEEDS = [
   // Anthropic has no public RSS feed at a standard path (all 404 as of 2026-06).
   // Re-enable this line if/when they publish one:
   // { name: 'Anthropic',    kind: 'rss', aiOnly: true,  url: 'https://www.anthropic.com/news/rss.xml' },
-  // arXiv is high-volume and dense — cap it so research preprints don't dominate the feed.
-  { name: 'arXiv cs.AI',     kind: 'rss', aiOnly: true,  cap: 4, url: 'https://rss.arxiv.org/rss/cs.AI' },
-  { name: 'arXiv cs.LG',     kind: 'rss', aiOnly: true,  cap: 4, url: 'https://rss.arxiv.org/rss/cs.LG' },
+  // arXiv is high-volume and dense — cap intake hard so research preprints don't dominate.
+  { name: 'arXiv cs.AI',     kind: 'rss', aiOnly: true,  cap: 2, url: 'https://rss.arxiv.org/rss/cs.AI' },
+  { name: 'arXiv cs.LG',     kind: 'rss', aiOnly: true,  cap: 2, url: 'https://rss.arxiv.org/rss/cs.LG' },
   // Hacker News front page — Algolia API; broad, so keyword-filtered like Ars.
   { name: 'Hacker News',     kind: 'hn',  aiOnly: false, url: 'https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=40' },
 ];
@@ -30,3 +30,7 @@ export const CATEGORIES = ['Models', 'Research', 'Funding', 'Tools', 'Policy', '
 // How many cards.json keeps (newest first), and how many new stories to summarise per run.
 export const MAX_CARDS = 50;
 export const MAX_NEW_PER_RUN = 30;
+// Hard ceiling on arXiv (research-preprint) cards in the final feed, regardless of how
+// many arrive. News is high-signal and low-volume; arXiv is the opposite — this keeps
+// the feed news-led with only a handful of the freshest papers.
+export const MAX_ARXIV_CARDS = 5;

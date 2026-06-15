@@ -16,7 +16,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import Parser from 'rss-parser';
-import { FEEDS, CATEGORIES, MAX_CARDS, MAX_NEW_PER_RUN } from './feeds.mjs';
+import { FEEDS, CATEGORIES, MAX_CARDS, MAX_NEW_PER_RUN, MAX_ARXIV_CARDS } from './feeds.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CARDS_PATH = join(__dirname, '..', 'cards.json');
@@ -241,6 +241,15 @@ async function summarise(story) {
 }
 
 /* ---------- 4. merge + write ---------- */
+const isArxiv = (c) => /arxiv/i.test(c.source || '');
+
+// Keep all non-arXiv cards but at most `max` arXiv ones. Expects newest-first input,
+// so the arXiv cards retained are the freshest.
+function capArxiv(cards, max) {
+  let n = 0;
+  return cards.filter(c => !isArxiv(c) || n++ < max);
+}
+
 async function loadExisting() {
   try {
     const raw = await readFile(CARDS_PATH, 'utf8');
@@ -329,12 +338,14 @@ async function main() {
     return;
   }
 
-  const merged = [...newCards, ...existing]
-    .sort((a, b) => new Date(b.published) - new Date(a.published))
-    .slice(0, MAX_CARDS);
+  const merged = capArxiv(
+    [...newCards, ...existing].sort((a, b) => new Date(b.published) - new Date(a.published)),
+    MAX_ARXIV_CARDS,
+  ).slice(0, MAX_CARDS);
 
+  const arxivKept = merged.filter(isArxiv).length;
   await writeFile(CARDS_PATH, JSON.stringify(merged, null, 2) + '\n', 'utf8');
-  log(`wrote ${merged.length} cards (${newCards.length} new, ${skipped} skipped as non-AI)`);
+  log(`wrote ${merged.length} cards (${newCards.length} new, ${skipped} skipped as non-AI, ${arxivKept} arXiv)`);
 }
 
 main().catch(err => { console.error('[refresh] fatal:', err); process.exit(1); });
