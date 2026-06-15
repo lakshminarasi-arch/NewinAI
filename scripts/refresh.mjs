@@ -25,11 +25,22 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.0-flash';
 const GROQ_MODEL = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
+// Throttle between LLM calls. Gemini's free tier is ~15 req/min, so default ~4.5s
+// keeps us safely under it. Set THROTTLE_MS=0 if you're only using Groq.
+const THROTTLE_MS = process.env.THROTTLE_MS != null
+  ? Number(process.env.THROTTLE_MS)
+  : (GEMINI_API_KEY ? 4500 : 600);
 
 const parser = new Parser({ timeout: 15000, headers: { 'User-Agent': 'NewinAI/1.0 (+github-actions)' } });
 
 const log = (...a) => console.log('[refresh]', ...a);
 const warn = (...a) => console.warn('[refresh][warn]', ...a);
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+// fetch with a hard timeout so a slow endpoint can never hang the whole run.
+function fetchT(url, opts = {}, ms = 25000) {
+  return fetch(url, { ...opts, signal: AbortSignal.timeout(ms) });
+}
 
 /* ---------- 1. fetch + normalise every feed (fail soft) ---------- */
 function stripHtml(s) {
@@ -55,7 +66,7 @@ async function fetchRss(feed) {
 // Hacker News front page via Algolia — keep only AI-ish titles.
 const AI_RE = /\b(ai|llm|gpt|genai|machine learning|ml|neural|model|openai|anthropic|deepmind|gemini|claude|llama|mistral|diffusion|transformer|agent|inference|fine-tun)/i;
 async function fetchHn(feed) {
-  const res = await fetch(feed.url, { headers: { 'User-Agent': 'NewinAI/1.0' } });
+  const res = await fetchT(feed.url, { headers: { 'User-Agent': 'NewinAI/1.0' } }, 15000);
   if (!res.ok) throw new Error(`HN HTTP ${res.status}`);
   const data = await res.json();
   return (data.hits || [])
@@ -121,10 +132,16 @@ function parseModelJson(text) {
   } catch (_) { return null; }
 }
 
-async function summariseGemini(story) {
+// pull a retry hint (seconds) out of a Gemini 429 body, if present
+function retryDelaySeconds(body) {
+  const m = /"retryDelay"\s*:\s*"(\d+)s"/.exec(body || '');
+  return m ? Number(m[1]) : null;
+}
+
+async function summariseGemini(story, { allowRetry = true } = {}) {
   if (!GEMINI_API_KEY) throw new Error('no GEMINI_API_KEY');
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
-  const res = await fetch(url, {
+  const res = await fetchT(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
@@ -133,7 +150,18 @@ async function summariseGemini(story) {
       generationConfig: { temperature: 0.3, responseMimeType: 'application/json' },
     }),
   });
-  if (res.status === 429) throw Object.assign(new Error('gemini rate limit'), { rateLimited: true });
+  if (res.status === 429) {
+    const body = (await res.text()).slice(0, 300);
+    const wait = retryDelaySeconds(body);
+    // One short retry for a transient per-minute limit; cap the wait so a
+    // genuinely-exhausted daily quota can't stall the run. Then fall through.
+    if (allowRetry && wait != null && wait <= 30) {
+      warn(`gemini 429, retrying in ${wait}s`);
+      await sleep(wait * 1000);
+      return summariseGemini(story, { allowRetry: false });
+    }
+    throw Object.assign(new Error(`gemini rate limit — ${body}`), { rateLimited: true });
+  }
   if (!res.ok) throw new Error(`gemini HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
   const data = await res.json();
   const text = data?.candidates?.[0]?.content?.parts?.map(p => p.text).join('') || '';
@@ -144,7 +172,7 @@ async function summariseGemini(story) {
 
 async function summariseGroq(story) {
   if (!GROQ_API_KEY) throw new Error('no GROQ_API_KEY');
-  const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+  const res = await fetchT('https://api.groq.com/openai/v1/chat/completions', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${GROQ_API_KEY}` },
     body: JSON.stringify({
@@ -165,12 +193,16 @@ async function summariseGroq(story) {
 }
 
 async function summarise(story) {
-  try {
-    return await summariseGemini(story);
-  } catch (err) {
-    warn(`gemini failed (${err.message}); trying groq`);
-    return await summariseGroq(story);
+  if (GEMINI_API_KEY) {
+    try {
+      return await summariseGemini(story);
+    } catch (err) {
+      if (!GROQ_API_KEY) throw err;        // no fallback configured — surface it
+      warn(`gemini failed (${err.message.slice(0, 140)}); trying groq`);
+      return await summariseGroq(story);
+    }
   }
+  return await summariseGroq(story);        // Groq-only setup
 }
 
 /* ---------- 4. merge + write ---------- */
@@ -198,9 +230,11 @@ async function main() {
   log(`fetched ${all.length} unique, ${fresh.length} new to summarise`);
 
   const newCards = [];
+  let consecutiveFails = 0;
   for (const story of fresh) {
     try {
       const { summary, category } = await summarise(story);
+      consecutiveFails = 0;
       newCards.push({
         id: story.id,
         category,
@@ -212,8 +246,16 @@ async function main() {
       });
       log(`+ [${category}] ${story.headline.slice(0, 60)}`);
     } catch (err) {
+      consecutiveFails++;
       warn(`could not summarise "${story.headline.slice(0, 50)}": ${err.message}`);
+      // No working fallback + provider keeps failing → stop early rather than
+      // burn the whole queue (and Action minutes) on calls that won't land.
+      if (!GROQ_API_KEY && consecutiveFails >= 5) {
+        warn('5 summaries failed in a row with no fallback — stopping early. Add GROQ_API_KEY or check the Gemini free-tier quota.');
+        break;
+      }
     }
+    await sleep(THROTTLE_MS);
   }
 
   if (!newCards.length) {
