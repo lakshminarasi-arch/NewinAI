@@ -100,6 +100,13 @@ async function fetchAll() {
       } else {
         log(`${feed.name}: ${items.length} items`);
       }
+      // Optional per-feed cap — keep only the newest `cap` items.
+      if (feed.cap && items.length > feed.cap) {
+        items = items
+          .sort((a, b) => new Date(b.published) - new Date(a.published))
+          .slice(0, feed.cap);
+        log(`${feed.name}: capped to newest ${items.length}`);
+      }
       out.push(...items);
     } catch (err) {
       warn(`skipping ${feed.name}: ${err.message}`); // one dead feed must not sink the run

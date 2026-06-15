@@ -3,6 +3,8 @@
 // `aiOnly` : true for feeds that are already AI-only (AI sections, AI labs, arXiv AI lists).
 //            false for broad/general feeds — those get a keyword pre-filter in the script
 //            so non-AI stories (space, cars, sport…) never reach the summariser.
+// `cap`    : optional. Keep at most this many (newest) items from the feed per run, so a
+//            high-volume source (e.g. arXiv) can't drown out the news feeds.
 // IMPORTANT: verify each URL resolves before relying on it — feeds move.
 
 export const FEEDS = [
@@ -16,8 +18,9 @@ export const FEEDS = [
   // Anthropic has no public RSS feed at a standard path (all 404 as of 2026-06).
   // Re-enable this line if/when they publish one:
   // { name: 'Anthropic',    kind: 'rss', aiOnly: true,  url: 'https://www.anthropic.com/news/rss.xml' },
-  { name: 'arXiv cs.AI',     kind: 'rss', aiOnly: true,  url: 'https://rss.arxiv.org/rss/cs.AI' },
-  { name: 'arXiv cs.LG',     kind: 'rss', aiOnly: true,  url: 'https://rss.arxiv.org/rss/cs.LG' },
+  // arXiv is high-volume and dense — cap it so research preprints don't dominate the feed.
+  { name: 'arXiv cs.AI',     kind: 'rss', aiOnly: true,  cap: 4, url: 'https://rss.arxiv.org/rss/cs.AI' },
+  { name: 'arXiv cs.LG',     kind: 'rss', aiOnly: true,  cap: 4, url: 'https://rss.arxiv.org/rss/cs.LG' },
   // Hacker News front page — Algolia API; broad, so keyword-filtered like Ars.
   { name: 'Hacker News',     kind: 'hn',  aiOnly: false, url: 'https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=40' },
 ];
