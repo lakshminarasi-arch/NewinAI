@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3133070",
+    "category": "Policy",
+    "headline": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "summary": "US government interference affects Anthropic's AI models, sparking concerns about industry regulation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "published": "2026-06-15T21:50:21.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=950264",
+    "category": "Tools",
+    "headline": "Facebook’s new AI Mode search gets its info from public posts",
+    "summary": "Facebook's new AI Mode search uses public posts to generate results, offering a different approach to traditional search",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+    "published": "2026-06-15T21:15:08.000Z"
+  },
+  {
     "id": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
     "category": "Funding",
     "headline": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
@@ -34,6 +52,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
     "published": "2026-06-15T18:10:27.000Z"
+  },
+  {
+    "id": "hn:48544823",
+    "category": "Tools",
+    "headline": "Show HN: Vet turned founder, AI lawn diagnosis",
+    "summary": "A veterinarian turned entrepreneur uses AI to diagnose lawn problems, potentially helping homeowners care for their lawns more effectively",
+    "source": "Hacker News",
+    "url": "https://grassdx.com/",
+    "published": "2026-06-15T17:56:00.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=949970",
@@ -135,6 +162,24 @@
     "published": "2026-06-15T04:55:34.000Z"
   },
   {
+    "id": "oai:arXiv.org:2606.13705v1",
+    "category": "Models",
+    "headline": "Can Editing 1 Neuron Fix Repetition Loops in LLMs?",
+    "summary": "Researchers found that editing one neuron can fix repetition loops in large language models, but it may not solve more complex issues like doom loops",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.13705",
+    "published": "2026-06-15T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.13740v1",
+    "category": "Models",
+    "headline": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
+    "summary": "Researchers explore ways to efficiently run large language models on mobile devices using neural processing units to reduce computation time",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.13740",
+    "published": "2026-06-15T04:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2606.13720v1",
     "category": "Research",
     "headline": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
@@ -162,21 +207,183 @@
     "published": "2026-06-15T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.13732v1",
-    "category": "Research",
-    "headline": "When Sample Selection Bias Precipitates Model Collapse",
-    "summary": "Researchers found that using biased data to select samples can lead to model collapse, even with data selection methods, due to erosion of distributional tails and homogenized outputs",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.13732",
-    "published": "2026-06-15T04:00:00.000Z"
+    "id": "https://www.theverge.com/?p=949644",
+    "category": "Policy",
+    "headline": "China may have accessed Mythos",
+    "summary": "US fears China may have accessed Anthropic's Mythos AI model, posing a national security risk if used for reverse engineering",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "published": "2026-06-14T18:27:55.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.13734v1",
-    "category": "Research",
-    "headline": "AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link",
-    "summary": "Researchers reexamine the link between low AI literacy and high AI usage, analyzing data on five AI tool categories to understand this relationship better",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.13734",
-    "published": "2026-06-15T04:00:00.000Z"
+    "id": "https://openai.com/index/introducing-openai-partner-network",
+    "category": "Funding",
+    "headline": "Introducing the OpenAI Partner Network",
+    "summary": "OpenAI invests $150 million in its Partner Network to speed up AI adoption in businesses worldwide",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "published": "2026-06-14T17:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132702",
+    "category": "Policy",
+    "headline": "As Anthropic suspends access to new models, India debates its AI future",
+    "summary": "India's tech leaders discuss the country's AI future after Anthropic suspends access to new models, sparking debate about its AI ambitions",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "published": "2026-06-14T03:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=949601",
+    "category": "Policy",
+    "headline": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "summary": "Amazon's security research found Anthropic's Fable 5 could provide info for cyberattacks, leading to a White House export control directive",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "published": "2026-06-13T21:39:26.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132703",
+    "category": "Models",
+    "headline": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "summary": "A report on AI usage was withdrawn due to inaccurate information generated by AI itself",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "published": "2026-06-13T20:42:31.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132688",
+    "category": "Models",
+    "headline": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "summary": "Amazon's CEO reportedly expressed security concerns about Anthropic models, leading to restricted access worldwide",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "published": "2026-06-13T19:11:41.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132685",
+    "category": "Policy",
+    "headline": "OpenAI faces investigation from state attorneys general",
+    "summary": "State attorneys general are investigating OpenAI over its ad policies and handling of health data",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "published": "2026-06-13T16:47:18.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=942119",
+    "category": "Tools",
+    "headline": "My yard is dying, so I made an app for that",
+    "summary": "A person used an AI tool to create an app in minutes, but it required manual bug fixing, showing AI's potential and limitations",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+    "published": "2026-06-13T13:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=949553",
+    "category": "Policy",
+    "headline": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+    "summary": "Anthropic blocked access to its Fable 5 and Mythos 5 models due to a government order citing national security concerns, without receiving specific details on the concerns",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+    "published": "2026-06-13T12:55:49.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=949360",
+    "category": "Tools",
+    "headline": "Apple’s new AI photo editing tools mostly work, for better and worse",
+    "summary": "Apple's new iOS update includes AI photo editing tools, allowing users to edit photos with artificial intelligence, but the features are relatively basic",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+    "published": "2026-06-13T12:00:00.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+    "category": "Policy",
+    "headline": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+    "summary": "Anthropic stops work on AI models Fable and Mythos due to US government concerns over potential security risks",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+    "published": "2026-06-13T03:00:34.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132661",
+    "category": "Policy",
+    "headline": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "summary": "Anthropic's safety warnings about a potential AI jailbreak issue led to the government stopping its most powerful AI model",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "published": "2026-06-13T02:26:30.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132623",
+    "category": "Other",
+    "headline": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "summary": "Engineers at Meta's AI unit report low morale and poor working conditions, with the unit on the verge of revolt",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "published": "2026-06-12T23:00:54.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132480",
+    "category": "Other",
+    "headline": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "summary": "A Chinese cybercrime group used AI to scam a large number of people, sending millions of fake texts, and is now being sued by Google",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "published": "2026-06-12T20:38:09.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "category": "Funding",
+    "headline": "Here's what Jeff Bezos' new startup Prometheus will do",
+    "summary": "Jeff Bezos' new startup Prometheus aims to develop physical AI, with significant funding behind it",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "published": "2026-06-12T18:45:40.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+    "category": "Models",
+    "headline": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+    "summary": "Ukraine used drones with full autonomy to attack Russian soldiers, a rare instance of AI-powered combat",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
+    "published": "2026-06-12T18:03:29.000Z"
+  },
+  {
+    "id": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "category": "Tools",
+    "headline": "New OpenAI Academy courses for the next era of work",
+    "summary": "OpenAI launches courses to teach practical AI skills for work, focusing on workflow creation and agent application",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "published": "2026-06-12T10:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/preply",
+    "category": "Tools",
+    "headline": "How Preply combines AI and human tutors to personalize learning",
+    "summary": "Preply uses AI to create personalized lesson summaries and language exercises, combining human tutors with AI feedback",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/preply",
+    "published": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "id": "hn:48489163",
+    "category": "Tools",
+    "headline": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+    "summary": "A tool uses spaced repetition to help developers retain coding skills, combating skill loss due to AI-assisted coding",
+    "source": "Hacker News",
+    "url": "https://fata.dev",
+    "published": "2026-06-11T11:57:03.000Z"
+  },
+  {
+    "id": "https://openai.com/index/bbva",
+    "category": "Funding",
+    "headline": "BBVA puts AI at the core of banking with OpenAI",
+    "summary": "BBVA is using OpenAI's technology to bring AI to its banking services, starting with 100,000 employees",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "published": "2026-06-11T00:00:00.000Z"
   }
 ]
