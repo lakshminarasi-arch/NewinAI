@@ -1,0 +1,75 @@
+[
+  {
+    "id": "sample-1",
+    "category": "Models",
+    "headline": "A faster open model lands",
+    "summary": "A new open-weight model matches last year's flagships on reasoning benchmarks while running on a single consumer GPU. The lab released the weights, the training recipe, and an unusually frank list of what it still gets wrong. Independent testers are already poking holes in the benchmark claims.",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/",
+    "published": "2026-06-15T05:30:00Z"
+  },
+  {
+    "id": "sample-2",
+    "category": "Funding",
+    "headline": "Another nine figures for an AI coding startup that hasn't shipped",
+    "summary": "A two-year-old company raised a round at a valuation that raised eyebrows across the industry, on the strength of a demo and a waitlist. No public product yet. The pitch: agents that write and merge code unsupervised — review optional, the founders say.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "published": "2026-06-15T08:30:00Z"
+  },
+  {
+    "id": "sample-3",
+    "category": "Policy",
+    "headline": "Regulators ask the question everyone's been dodging",
+    "summary": "A draft framework would require disclosure when a person is talking to an AI rather than a human. Industry response split down predictable lines: platforms warned of friction, consumer groups called it overdue. The clause everyone's fighting over is who counts when the other side is a bot.",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence",
+    "published": "2026-06-15T03:30:00Z"
+  },
+  {
+    "id": "sample-4",
+    "category": "Research",
+    "headline": "The lab teaching models to say 'I don't know'",
+    "summary": "Researchers trained a model to flag its own uncertainty instead of bluffing, cutting confident-but-wrong answers by a third. The catch: it refuses more often, and users find that annoying. Honest hesitation beats fluent nonsense, the paper argues.",
+    "source": "The Atlantic",
+    "url": "https://www.theatlantic.com/technology/",
+    "published": "2026-06-15T00:30:00Z",
+    "image": "https://picsum.photos/seed/newinai-research/900/1600"
+  },
+  {
+    "id": "sample-5",
+    "category": "Tools",
+    "headline": "A coding tool that ships its own changelog",
+    "summary": "The latest release writes its own release notes from the diff and the linked issues, then asks a human to approve the wording. Early users say it's the first changelog they actually read. It also quietly flags breaking changes the team forgot to document.",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence",
+    "published": "2026-06-14T21:00:00Z"
+  },
+  {
+    "id": "sample-6",
+    "category": "Models",
+    "headline": "Multimodal goes small enough to run on a phone",
+    "summary": "A compact model handling text, images, and audio now fits comfortably on flagship handsets, running offline. Quality dips against the big cloud versions, but for quick captioning and translation most people won't notice. Battery drain, reviewers note, is another matter entirely.",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/category/ai/",
+    "published": "2026-06-14T16:00:00Z"
+  },
+  {
+    "id": "sample-7",
+    "category": "Research",
+    "headline": "Long-context claims meet a stubborn benchmark",
+    "summary": "A new test feeds models a million tokens then asks about a single buried fact. Most score well near the edges and badly in the middle — the so-called 'lost in the middle' problem persists. Vendors who advertised huge context windows were quieter this week.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/list/cs.CL/recent",
+    "published": "2026-06-14T11:30:00Z"
+  },
+  {
+    "id": "sample-8",
+    "category": "Funding",
+    "headline": "Chip startup banks on inference, not training",
+    "summary": "While most accelerator money chases training workloads, one company raised on the bet that serving models cheaply is the bigger long-term market. Their pitch leans on power efficiency rather than peak throughput. Whether hyperscalers buy versus build remains the open question.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "published": "2026-06-13T19:45:00Z"
+  }
+]

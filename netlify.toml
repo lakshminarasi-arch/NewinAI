@@ -1,0 +1,10 @@
+# Static site — nothing to build. Netlify just serves the repo root.
+[build]
+  publish = "."
+  command = ""
+
+# cards.json is rewritten by the cron job; don't let the CDN serve a stale copy.
+[[headers]]
+  for = "/cards.json"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

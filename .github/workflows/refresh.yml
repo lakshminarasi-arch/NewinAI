@@ -1,0 +1,46 @@
+name: Refresh AI news
+
+# Every 3 hours, plus a manual trigger. Adjust the cron to taste.
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+# Allow the job to commit the updated cards.json back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: npm install --no-audit --no-fund
+
+      - name: Fetch + summarise
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: npm run refresh
+
+      - name: Commit updated cards.json
+        run: |
+          if [[ -n "$(git status --porcelain cards.json)" ]]; then
+            git config user.name  "newinai-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add cards.json
+            git commit -m "chore: refresh cards.json [skip ci]"
+            git push
+          else
+            echo "No changes to cards.json"
+          fi

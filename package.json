@@ -1,0 +1,14 @@
+{
+  "name": "newinai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An AI-news swipe app. One story, one full screen. Static frontend + a free summarisation pipeline.",
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs",
+    "serve": "npx --yes serve -l 5173 ."
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

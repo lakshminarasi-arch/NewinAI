@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+  <meta name="theme-color" content="#0A0A0C">
+  <title>NewinAI — what's new in AI</title>
+  <meta name="description" content="The latest in AI, one card at a time. Swipe up for the next story.">
+
+  <!-- Fonts: preconnect + preload so headlines don't flash a fallback -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- The feed: a single scroll-snap container. Cards are injected by app.js. -->
+  <main id="feed" class="feed" aria-label="AI news feed"></main>
+
+  <!-- ============ OVERLAYS / STATES (hidden until needed) ============ -->
+
+  <!-- First-run gesture nudge -->
+  <div id="nudge" class="overlay nudge" hidden>
+    <div class="nudge-chevrons" aria-hidden="true">
+      <span class="chev chev-1">&#8963;</span>
+      <span class="chev chev-2">&#8963;</span>
+      <span class="chev chev-3">&#8963;</span>
+    </div>
+    <div class="nudge-title">Swipe up for the<br>next story</div>
+    <div class="nudge-sub">Swipe down to go back</div>
+    <button id="nudge-got-it" class="pill-btn pill-btn--filled">Got it</button>
+  </div>
+
+  <!-- Offline / error -->
+  <div id="offline" class="overlay state state--offline" hidden>
+    <div class="state-ring state-ring--red"><span>&#9888;</span></div>
+    <h3 class="state-title">You're offline</h3>
+    <p class="state-body">We'll pull in new stories the moment you reconnect. Your place in the feed is saved.</p>
+    <div id="offline-synced" class="state-meta">LAST SYNCED JUST NOW</div>
+    <button id="offline-retry" class="pill-btn pill-btn--outline pill-btn--red">Try again &#8635;</button>
+  </div>
+
+  <!-- Share sheet -->
+  <div id="share" class="overlay share-overlay" hidden>
+    <div class="share-sheet" role="dialog" aria-label="Share this story">
+      <div class="share-grabber"></div>
+      <div class="share-heading">Share this story</div>
+      <div id="share-card" class="share-card">
+        <div class="share-card-top">
+          <span id="share-tag" class="share-tag">Models</span>
+          <span class="share-watermark">NEWINAI</span>
+        </div>
+        <div id="share-headline" class="share-headline">Headline</div>
+        <div id="share-meta" class="share-meta">Source &middot; age</div>
+      </div>
+      <div class="share-options">
+        <button class="share-opt" data-action="copy">
+          <span class="share-tile">&#128279;</span>
+          <span class="share-opt-label">Copy link</span>
+        </button>
+        <button class="share-opt" data-action="message">
+          <span class="share-tile">&#128172;</span>
+          <span class="share-opt-label">Message</span>
+        </button>
+        <button class="share-opt" data-action="image">
+          <span class="share-tile share-tile--accent">&#128444;&#65039;</span>
+          <span class="share-opt-label">Image</span>
+        </button>
+        <button class="share-opt" data-action="more">
+          <span class="share-tile">&#8230;</span>
+          <span class="share-opt-label">More</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast (copy-link confirmation etc.) -->
+  <div id="toast" class="toast" hidden></div>
+
+  <!-- Light/dark toggle -->
+  <button id="theme-toggle" class="theme-toggle" aria-label="Toggle light mode" title="Toggle theme">
+    <span class="theme-toggle-glyph">&#9728;</span>
+  </button>
+
+  <!-- ============ TEMPLATES ============ -->
+
+  <!-- A single story card -->
+  <template id="card-tpl">
+    <article class="card">
+      <div class="card-bg" aria-hidden="true"></div>
+      <div class="card-img-wrap" hidden aria-hidden="true">
+        <img class="card-img" alt="" loading="lazy">
+        <div class="card-scrim"></div>
+      </div>
+      <div class="progress" aria-hidden="true"></div>
+      <div class="card-content">
+        <div class="card-top">
+          <span class="tag"></span>
+          <span class="counter"></span>
+        </div>
+        <div class="card-spacer"></div>
+        <h1 class="headline"></h1>
+        <p class="summary"></p>
+        <div class="card-footer">
+          <div class="source"></div>
+          <div class="card-actions">
+            <a class="read-btn" target="_blank" rel="noopener noreferrer">Read the original <span class="arrow">&rarr;</span></a>
+            <button class="share-btn" aria-label="Share this story">&#8682;</button>
+          </div>
+        </div>
+        <div class="swipe-hint" hidden aria-hidden="true">
+          <span class="swipe-hint-chev">&#8963;</span>
+          <span class="swipe-hint-label">Swipe up</span>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <!-- Loading skeleton card -->
+  <template id="skeleton-tpl">
+    <article class="card card--skeleton">
+      <div class="card-bg" aria-hidden="true"></div>
+      <div class="card-content">
+        <div class="card-top">
+          <div class="sk sk-tag"></div>
+        </div>
+        <div class="card-spacer"></div>
+        <div class="sk sk-headline" style="width:90%"></div>
+        <div class="sk sk-headline" style="width:65%"></div>
+        <div class="sk-summary">
+          <div class="sk sk-line" style="width:100%"></div>
+          <div class="sk sk-line" style="width:100%"></div>
+          <div class="sk sk-line" style="width:80%"></div>
+        </div>
+        <div class="catching-up">
+          <span class="catching-up-dot"></span>
+          <span class="catching-up-label">Catching up&hellip;</span>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <!-- End-of-feed card -->
+  <template id="end-tpl">
+    <article class="card card--end">
+      <div class="state-ring state-ring--green"><span>&#10003;</span></div>
+      <h3 class="state-title">You're all<br>caught up</h3>
+      <p class="state-body"></p>
+      <div class="state-meta state-meta--green"></div>
+      <button class="pill-btn pill-btn--filled pill-btn--green back-to-top">Back to top &#8963;</button>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
