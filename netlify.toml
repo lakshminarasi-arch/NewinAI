@@ -2,6 +2,11 @@
 [build]
   publish = "."
   command = ""
+  # Skip the build when a commit only touches data files (cards.json / seen-ids.json).
+  # Those are served from GitHub at runtime (see REMOTE_CARDS in app.js), so the site
+  # never needs rebuilding for a news refresh — which keeps cron from burning deploy
+  # credits. Exit 0 = ignore/skip the build; non-zero = build (app code changed).
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)cards.json' ':(exclude)scripts/seen-ids.json'"
 
 # cards.json is rewritten by the cron job; don't let the CDN serve a stale copy.
 [[headers]]

@@ -352,7 +352,23 @@ document.getElementById('offline-retry').addEventListener('click', () => {
 window.addEventListener('online', () => { hideOffline(); load(); });
 window.addEventListener('offline', showOffline);
 
-/* ---------- load ---------- */
+/* ---------- load ----------
+   Cards are served from the GitHub-hosted copy (raw CDN), not from the Netlify
+   build, so the cron's data refreshes never trigger a (paid) Netlify deploy.
+   Falls back to the copy bundled with the site if GitHub is unreachable. */
+const REMOTE_CARDS = 'https://raw.githubusercontent.com/lakshminarasi-arch/NewinAI/main/cards.json';
+const LOCAL_CARDS = 'cards.json';
+
+async function fetchCards() {
+  for (const url of [REMOTE_CARDS, LOCAL_CARDS]) {
+    try {
+      const res = await fetch(`${url}?ts=${Date.now()}`, { cache: 'no-store' });
+      if (res.ok) return await res.json();
+    } catch (_) { /* try the next source */ }
+  }
+  throw new Error('could not load cards from GitHub or local copy');
+}
+
 async function load() {
   // preserve reading position across reloads
   const prevScroll = feed.scrollTop;
@@ -362,9 +378,7 @@ async function load() {
   if (!stories.length) showSkeletons(1);
 
   try {
-    const res = await fetch(`cards.json?ts=${Date.now()}`, { cache: 'no-store' });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
+    const data = await fetchCards();
     lastSynced = new Date().toISOString();
     renderFeed(data);
     // restore scroll position if we were already reading
