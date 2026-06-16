@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3133092",
+    "category": "Funding",
+    "headline": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+    "summary": "Respond.io, a messaging app, uses AI agents to manage customer inquiries and charges based on conversations, raising $62.5M for expansion and potential acquisitions",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "published": "2026-06-16T06:59:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.14838v1",
+    "category": "Research",
+    "headline": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+    "summary": "Researchers propose a definition for good explanations of AI outputs, considering counterfactual explanations and the user's prior beliefs",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.14838",
+    "published": "2026-06-16T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.14885v1",
+    "category": "Research",
+    "headline": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+    "summary": "Researchers introduce Dr-DCI, a method to improve direct corpus interaction by expanding workspace dynamically, allowing for more flexible search and verification across large document collections",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.14885",
+    "published": "2026-06-16T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.14801v1",
+    "category": "Research",
+    "headline": "QPILOTS: Efficient Test-Time Q-Steering for Flow Policies",
+    "summary": "Researchers propose QPILOTS, a method to improve test-time Q-steering for flow policies, making reinforcement learning more efficient and stable",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.14801",
+    "published": "2026-06-16T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.14865v1",
+    "category": "Models",
+    "headline": "GRAPE: Guided Parameter-Space Evolution for Compact Adversarial Robustness",
+    "summary": "Researchers introduce GRAPE, a new training framework that improves neural network robustness by guiding parameter space evolution for better defense against attacks",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.14865",
+    "published": "2026-06-16T04:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=950412",
+    "category": "Policy",
+    "headline": "Inside the fight over Claude Mythos 5",
+    "summary": "Anthropic's new AI models faced US export control issues, forcing the company to disable them and seek resolution in Washington",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+    "published": "2026-06-16T03:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3133070",
     "category": "Policy",
     "headline": "The US government’s Anthropic models ban was never about an AI jailbreak",
@@ -171,42 +225,6 @@
     "published": "2026-06-15T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.13740v1",
-    "category": "Models",
-    "headline": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
-    "summary": "Researchers explore ways to efficiently run large language models on mobile devices using neural processing units to reduce computation time",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.13740",
-    "published": "2026-06-15T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.13720v1",
-    "category": "Research",
-    "headline": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
-    "summary": "Researchers compare two methods for controlling chat models' refusal responses, finding mixed results in effectiveness",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.13720",
-    "published": "2026-06-15T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.13722v1",
-    "category": "Models",
-    "headline": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
-    "summary": "Researchers propose YeasierAgent, a new approach to building applications using collaborative spaces and symbiotic agents, aiming to redefine software development",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.13722",
-    "published": "2026-06-15T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.13731v1",
-    "category": "Models",
-    "headline": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
-    "summary": "Researchers introduce TwinBI, a digital twin framework that combines AI agents with business intelligence dashboards for smoother interactions",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.13731",
-    "published": "2026-06-15T04:00:00.000Z"
-  },
-  {
     "id": "https://www.theverge.com/?p=949644",
     "category": "Policy",
     "headline": "China may have accessed Mythos",
@@ -369,6 +387,15 @@
     "published": "2026-06-12T00:00:00.000Z"
   },
   {
+    "id": "hn:48490578",
+    "category": "Research",
+    "headline": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
+    "summary": "Researchers revisit Canonical Correlation Analysis, a 90-year-old statistical method, to improve JEPA models",
+    "source": "Hacker News",
+    "url": "https://shonczinner.github.io/posts/embedding-prediction/",
+    "published": "2026-06-11T14:07:39.000Z"
+  },
+  {
     "id": "hn:48489934",
     "category": "Models",
     "headline": "Cohere's First Model for Developers",
@@ -421,32 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/bbva",
     "published": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/openai-on-oracle-cloud",
-    "category": "Tools",
-    "headline": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "summary": "Oracle Cloud users can now access OpenAI models and Codex using their existing commitments, adding AI capabilities with enterprise security",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-on-oracle-cloud",
-    "published": "2026-06-10T20:00:00.000Z"
-  },
-  {
-    "id": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "category": "Models",
-    "headline": "DiffusionGemma: 4x faster text generation",
-    "summary": "Google DeepMind's DiffusionGemma speeds up text generation by four times, potentially improving language model performance",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "published": "2026-06-10T16:24:11.000Z"
-  },
-  {
-    "id": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "category": "Policy",
-    "headline": "PRC-linked influence operations are targeting AI debates in the US",
-    "summary": "China-linked groups are using AI to spread false info and sway US tech policy debates, including those about AI itself",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "published": "2026-06-10T12:00:00.000Z"
   }
 ]
