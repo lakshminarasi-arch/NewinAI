@@ -125,12 +125,39 @@ function dedupe(items) {
   return [...seen.values()].sort((a, b) => new Date(b.published) - new Date(a.published));
 }
 
+// Title-level near-duplicate detection — catches the SAME story reworded by a
+// different source (different URL/id), which the URL dedupe above can't.
+// "ai" etc. are length<=2 so they drop out — good, they're too common to be useful.
+const STOPWORDS = new Set(('the a an and or of to in on at for from with as by that this it its their our your his her ' +
+  'is are was were be been being has have had will would can could may new now just about into over up down out off ' +
+  'gets get give gives makes make said says how why what when who amid across most more less than then how').split(' '));
+
+function titleTokens(s) {
+  return new Set(
+    String(s || '').toLowerCase()
+      .replace(/[^a-z0-9 ]+/g, ' ')
+      .split(/\s+/)
+      .filter(w => w.length > 2 && !STOPWORDS.has(w))
+  );
+}
+
+// Two titles are near-duplicates if they share >=4 significant words AND most of the
+// shorter title's words appear in the longer one. Tuned to collapse same-story rewrites
+// (and heavy same-topic repetition) without merging genuinely distinct stories.
+function nearDuplicate(a, b) {
+  let inter = 0;
+  for (const t of a) if (b.has(t)) inter++;
+  const smaller = Math.min(a.size, b.size) || 1;
+  return inter >= 4 && inter / smaller >= 0.6;
+}
+
 /* ---------- 3. summarise (Gemini, Groq fallback) ---------- */
 const SYSTEM = `You summarise AI news for a swipe-card app. For the given story, return JSON ONLY (no markdown, no prose) in exactly this shape:
 {"relevant": boolean, "summary": string, "category": "Models"|"Research"|"Funding"|"Tools"|"Policy"|"Other"}
 Rules:
-- relevant: true only if the story is genuinely about artificial intelligence, machine learning, or the AI industry (labs, models, AI funding, AI policy, AI tooling/research). Set false for general tech, space, cars, gadgets, science, sports, or business news that merely mentions a tech company. When false, summary and category can be empty strings.
-- summary: about 50 words, reworded ENTIRELY in plain English. Never paste the article's own sentences.
+- Base everything STRICTLY on the provided headline and snippet. Do NOT use outside knowledge and NEVER invent companies, products, people, numbers, funding amounts, or events that are not in the input. Accuracy matters more than completeness.
+- relevant: true only if the story is genuinely about artificial intelligence, machine learning, or the AI industry (labs, models, AI funding, AI policy, AI tooling/research). Set false for general tech, space, cars, gadgets, science, sports, or business news that merely mentions a tech company. ALSO set false when the snippet is empty and the headline alone is too vague to summarise factually (e.g. a bare company/product/project name with no context) — do not guess what it is. When false, summary and category can be empty strings.
+- summary: about 50 words, reworded ENTIRELY in plain English from the input only. Never paste the article's own sentences.
 - Neutral tone, quietly skeptical of hype.
 - category: choose exactly one from the list that best fits.`;
 
@@ -288,10 +315,21 @@ async function main() {
   existing.forEach(c => seen.add(c.id));   // current cards count as already-processed
 
   const all = dedupe(await fetchAll());
-  const fresh = all
-    .filter(s => !existingIds.has(s.id) && !seen.has(s.id))
-    .slice(0, MAX_NEW_PER_RUN);
-  log(`fetched ${all.length} unique, ${fresh.length} new to summarise`);
+  // Title-level dedup: drop any new story whose headline closely matches one already
+  // in the feed (or one accepted earlier this run) — catches the same story carried by
+  // a different source. Seed with the existing cards' titles.
+  const keptTitles = existing.map(c => titleTokens(c.headline));
+  const fresh = [];
+  let dupes = 0;
+  for (const s of all) {
+    if (existingIds.has(s.id) || seen.has(s.id)) continue;
+    const t = titleTokens(s.headline);
+    if (keptTitles.some(k => nearDuplicate(t, k))) { seen.add(s.id); dupes++; continue; }
+    keptTitles.push(t);
+    fresh.push(s);
+    if (fresh.length >= MAX_NEW_PER_RUN) break;
+  }
+  log(`fetched ${all.length} unique, ${fresh.length} new to summarise (${dupes} cross-source dupes dropped)`);
 
   const newCards = [];
   let skipped = 0;
