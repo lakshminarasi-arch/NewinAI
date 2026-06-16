@@ -39,7 +39,10 @@ jobs:
             git config user.name  "newinai-bot"
             git config user.email "actions@users.noreply.github.com"
             git add cards.json scripts/seen-ids.json
-            git commit -m "chore: refresh cards.json [skip ci]"
+            # NOTE: no "[skip ci]" here — Netlify treats that as "skip the build",
+            # which would stop the live site from ever updating. This workflow is
+            # schedule/dispatch-only, so the commit can't retrigger it anyway.
+            git commit -m "chore: refresh cards.json"
             git push
           else
             echo "No changes to commit"
