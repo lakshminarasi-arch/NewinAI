@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "category": "Tools",
+    "headline": "Unlocking UK house-building with AI-accelerated planning",
+    "summary": "The UK government and Google DeepMind are working together on an AI system to speed up housing planning decisions",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "published": "2026-06-16T21:29:50.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "category": "Tools",
+    "headline": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+    "summary": "Anthropic delays a change to its Claude Agent SDK billing that would have increased costs for heavy users",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "published": "2026-06-16T21:00:35.000Z"
+  },
+  {
     "id": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
     "category": "Tools",
     "headline": "Pentagon boasts of using AI to write reports mandated by Congress",
@@ -16,6 +34,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
     "published": "2026-06-16T18:00:00.000Z"
+  },
+  {
+    "id": "hn:48559188",
+    "category": "Models",
+    "headline": "GPT‑NL: a sovereign language model for the Netherlands",
+    "summary": "A new language model called GPT-NL is being developed for the Netherlands",
+    "source": "Hacker News",
+    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "published": "2026-06-16T17:54:02.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=950826",
@@ -169,6 +196,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
     "published": "2026-06-16T03:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/deployment-simulation",
+    "category": "Models",
+    "headline": "Predicting model behavior before release by simulating deployment",
+    "summary": "OpenAI's Deployment Simulation predicts AI model behavior before release by using real conversation data to improve safety and accuracy",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/deployment-simulation",
+    "published": "2026-06-16T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3133070",
@@ -412,41 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
     "published": "2026-06-13T03:00:34.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132661",
-    "category": "Policy",
-    "headline": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "summary": "Anthropic's safety warnings about a potential AI jailbreak issue led to the government stopping its most powerful AI model",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "published": "2026-06-13T02:26:30.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132623",
-    "category": "Other",
-    "headline": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "summary": "Engineers at Meta's AI unit report low morale and poor working conditions, with the unit on the verge of revolt",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-    "published": "2026-06-12T23:00:54.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132480",
-    "category": "Other",
-    "headline": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-    "summary": "A Chinese cybercrime group used AI to scam a large number of people, sending millions of fake texts, and is now being sued by Google",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-    "published": "2026-06-12T20:38:09.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-    "category": "Funding",
-    "headline": "Here's what Jeff Bezos' new startup Prometheus will do",
-    "summary": "Jeff Bezos' new startup Prometheus aims to develop physical AI, with significant funding behind it",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-    "published": "2026-06-12T18:45:40.000Z"
   }
 ]
