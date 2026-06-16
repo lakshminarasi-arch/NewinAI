@@ -1,9 +1,12 @@
 name: Refresh AI news
 
-# Every 3 hours, plus a manual trigger. Adjust the cron to taste.
+# Every 2 hours at :37, plus a manual trigger. Adjust the cron to taste.
+# NOTE: avoid minute 0 — GitHub's scheduler is heaviest on the hour and routinely
+# delays or drops top-of-hour runs. An off-peak minute (and a 2h cadence to absorb
+# the occasional dropped slot) gives far more reliable real-world updates.
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '37 */2 * * *'
   workflow_dispatch:
 
 # Allow the job to commit the updated cards.json back to the repo.
