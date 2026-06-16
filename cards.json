@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3133217",
+    "category": "Funding",
+    "headline": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "summary": "SpaceX is buying Cursor to boost its AI division, citing a large potential market",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "published": "2026-06-16T11:21:41.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "category": "Models",
+    "headline": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+    "summary": "A vulnerability in Copilot allowed hackers to bypass two-factor authentication, highlighting security issues with large language models",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "published": "2026-06-16T11:15:46.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3133092",
     "category": "Funding",
     "headline": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
@@ -421,5 +439,14 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/bbva",
     "published": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/introducing-openai-for-singapore",
+    "category": "Funding",
+    "headline": "Introducing OpenAI for Singapore",
+    "summary": "OpenAI partners with Singapore for a multi-year collaboration to deploy AI, develop local talent and support businesses and public services",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "published": "2026-05-19T20:30:00.000Z"
   }
 ]
