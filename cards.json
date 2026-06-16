@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.theverge.com/?p=950826",
+    "category": "Tools",
+    "headline": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+    "summary": "Apple may release AirPods with cameras in 2027 to support AI features like live translation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+    "published": "2026-06-16T17:04:05.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133302",
+    "category": "Other",
+    "headline": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+    "summary": "US consumers are put off by brands using the term AI in their messaging, a survey reveals, despite companies seeing AI as a key search channel",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "published": "2026-06-16T16:49:44.000Z"
+  },
+  {
+    "id": "hn:48557535",
+    "category": "Models",
+    "headline": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+    "summary": "A transformer model called GateGPT runs on an FPGA at 80 MHz, processing 56k tokens per second",
+    "source": "Hacker News",
+    "url": "https://twitter.com/fguzmanai/status/2065832668172845209",
+    "published": "2026-06-16T16:12:26.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133218",
+    "category": "Models",
+    "headline": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+    "summary": "Plaud's AI notetaker software has reached over $100M in annual revenue after shipping 2M units, entering a competitive market",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+    "published": "2026-06-16T15:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133252",
+    "category": "Other",
+    "headline": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+    "summary": "Robinhood's CEO didn't blame AI for layoffs, unlike other tech companies",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+    "published": "2026-06-16T14:50:09.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133240",
+    "category": "Funding",
+    "headline": "Probably raises $9M to build a more reliable kind of AI",
+    "summary": "Probably aims to create more reliable AI by reducing errors and hallucinations to achieve accuracy similar to deterministic systems",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "published": "2026-06-16T13:15:09.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3133217",
     "category": "Funding",
     "headline": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
@@ -16,6 +70,15 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
     "published": "2026-06-16T11:15:46.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132789",
+    "category": "Models",
+    "headline": "ChatGPT’s market share slips below 50% for first time",
+    "summary": "ChatGPT's market share has dropped below 50 percent, but it still leads with over 1.1 billion monthly users",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+    "published": "2026-06-16T10:30:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3133092",
@@ -385,68 +448,5 @@
     "source": "Hacker News",
     "url": "https://shonczinner.github.io/posts/embedding-prediction/",
     "published": "2026-06-11T14:07:39.000Z"
-  },
-  {
-    "id": "hn:48489934",
-    "category": "Models",
-    "headline": "Cohere's First Model for Developers",
-    "summary": "Cohere releases its first AI model for developers to use in their projects",
-    "source": "Hacker News",
-    "url": "https://cohere.com/blog/north-mini-code",
-    "published": "2026-06-11T13:15:45.000Z"
-  },
-  {
-    "id": "hn:48489163",
-    "category": "Tools",
-    "headline": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
-    "summary": "A tool uses spaced repetition to help developers retain coding skills, combating skill loss due to AI-assisted coding",
-    "source": "Hacker News",
-    "url": "https://fata.dev",
-    "published": "2026-06-11T11:57:03.000Z"
-  },
-  {
-    "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "category": "Tools",
-    "headline": "How an astrophysicist uses Codex to help simulate black holes",
-    "summary": "An astrophysicist uses Codex to simulate black holes, aiding research on extreme physics and Einstein's theory",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "published": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/openai-to-acquire-ona",
-    "category": "Funding",
-    "headline": "OpenAI to acquire Ona",
-    "summary": "OpenAI is buying Ona to improve Codex with secure cloud environments for long-running AI tasks in businesses",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "published": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "category": "Policy",
-    "headline": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "summary": "OpenAI backs EU efforts to make AI content more transparent, helping users understand what's been generated by AI",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "published": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/bbva",
-    "category": "Funding",
-    "headline": "BBVA puts AI at the core of banking with OpenAI",
-    "summary": "BBVA is using OpenAI's technology to bring AI to its banking services, starting with 100,000 employees",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "published": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/introducing-openai-for-singapore",
-    "category": "Funding",
-    "headline": "Introducing OpenAI for Singapore",
-    "summary": "OpenAI partners with Singapore for a multi-year collaboration to deploy AI, develop local talent and support businesses and public services",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-openai-for-singapore",
-    "published": "2026-05-19T20:30:00.000Z"
   }
 ]
