@@ -2,11 +2,11 @@
 [build]
   publish = "."
   command = ""
-  # Skip the build when a commit only touches data files (cards.json / seen-ids.json).
-  # Those are served from GitHub at runtime (see REMOTE_CARDS in app.js), so the site
-  # never needs rebuilding for a news refresh — which keeps cron from burning deploy
-  # credits. Exit 0 = ignore/skip the build; non-zero = build (app code changed).
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)cards.json' ':(exclude)scripts/seen-ids.json'"
+  # Build ONLY when the deployed site assets change. The live site is exactly
+  # index.html + styles.css + app.js (cards.json is fetched from GitHub at runtime),
+  # so commits to the pipeline, scripts, data, or docs never need a rebuild.
+  # Exit 0 = skip the build; non-zero = build. This keeps cron + pipeline edits free.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- index.html styles.css app.js"
 
 # cards.json is rewritten by the cron job; don't let the CDN serve a stale copy.
 [[headers]]

@@ -174,9 +174,11 @@ async function summariseGemini(story, { allowRetry = true } = {}) {
   if (res.status === 429) {
     const body = (await res.text()).slice(0, 300);
     const wait = retryDelaySeconds(body);
-    // A genuine quota/billing exhaustion ("check your plan and billing") won't
-    // recover this run — flag it so the caller can stop calling Gemini entirely.
-    const exhausted = /quota|billing|plan/i.test(body) && wait == null;
+    // A quota/billing exhaustion ("exceeded your current quota, check your plan and
+    // billing") won't recover this run — even though Gemini still sends a retryDelay.
+    // Treat it as exhausted regardless, so the caller trips the breaker instead of
+    // sleeping-and-retrying on every single story (the cause of ~9-minute runs).
+    const exhausted = /quota|billing/i.test(body);
     // One short retry only for a transient per-minute limit that names a delay.
     if (allowRetry && !exhausted && wait != null && wait <= 30) {
       warn(`gemini 429, retrying in ${wait}s`);
