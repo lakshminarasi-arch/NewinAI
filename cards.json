@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3133474",
+    "category": "Other",
+    "headline": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+    "summary": "Anthropic's dispute with the government may increase its popularity among business users, according to sales data",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "published": "2026-06-16T22:34:17.000Z"
+  },
+  {
     "id": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
     "category": "Tools",
     "headline": "Unlocking UK house-building with AI-accelerated planning",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
     "published": "2026-06-13T12:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
-    "category": "Policy",
-    "headline": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-    "summary": "Anthropic stops work on AI models Fable and Mythos due to US government concerns over potential security risks",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
-    "published": "2026-06-13T03:00:34.000Z"
   }
 ]
