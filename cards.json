@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=951283",
+    "category": "Research",
+    "headline": "The next humanoid robot might not look human at all",
+    "summary": "A new robot called Eno is designed for general-purpose use, focusing on human capabilities rather than appearance, with adaptable features like hands",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+    "published": "2026-06-17T09:46:56.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2606.17209v1",
     "category": "Research",
     "headline": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
     "published": "2026-06-13T12:55:49.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=949360",
-    "category": "Tools",
-    "headline": "Apple’s new AI photo editing tools mostly work, for better and worse",
-    "summary": "Apple's new iOS update includes AI photo editing tools, allowing users to edit photos with artificial intelligence, but the features are relatively basic",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-    "published": "2026-06-13T12:00:00.000Z"
   }
 ]
