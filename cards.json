@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3133988",
+    "category": "Research",
+    "headline": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "summary": "Companies are struggling to measure the return on investment of their AI usage, leading to budget issues and reassessments",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "published": "2026-06-17T20:17:38.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "category": "Models",
+    "headline": "AI coding agents taught robots how to install GPUs and cut zip ties",
+    "summary": "Nvidia's program uses AI coding agents to teach robots tasks like installing GPUs and cutting zip ties",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "published": "2026-06-17T19:25:19.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3133924",
     "category": "Policy",
     "headline": "World leaders want American AI. They just don’t want America to be able to turn it off.",
@@ -9,6 +27,15 @@
     "published": "2026-06-17T19:01:19.000Z"
   },
   {
+    "id": "https://www.theverge.com/?p=951703",
+    "category": "Policy",
+    "headline": "Anthropic got hit by export rules nobody understands",
+    "summary": "Anthropic's AI models were taken offline due to unclear US export rules affecting access for foreign nationals and US-based employees",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+    "published": "2026-06-17T18:28:50.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3133770",
     "category": "Tools",
     "headline": "Social media’s next evolution: User-controlled algorithms",
@@ -16,6 +43,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
     "published": "2026-06-17T18:19:48.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3133981",
+    "category": "Funding",
+    "headline": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+    "summary": "Companies face financial reckoning after aggressively adopting AI, with some exceeding budgets and cutting back on AI usage",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+    "published": "2026-06-17T18:00:00.000Z"
   },
   {
     "id": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
@@ -43,6 +79,15 @@
     "source": "Hacker News",
     "url": "https://openai.com/index/ai-chemist-improves-reaction/",
     "published": "2026-06-17T17:34:20.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=951653",
+    "category": "Research",
+    "headline": "Two-thirds of Americans think AI is advancing too quickly",
+    "summary": "Most Americans think AI is progressing too fast, despite increased use of chatbots like ChatGPT, and have negative views on its societal impact",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+    "published": "2026-06-17T17:20:24.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3133545",
@@ -160,6 +205,15 @@
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2606.17093",
     "published": "2026-06-17T04:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/introducing-life-sci-bench",
+    "category": "Models",
+    "headline": "Introducing LifeSciBench",
+    "summary": "LifeSciBench is a benchmark to test AI systems on real-world life science research tasks",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "published": "2026-06-17T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3133474",
@@ -394,59 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
     "published": "2026-06-15T18:10:27.000Z"
-  },
-  {
-    "id": "hn:48544823",
-    "category": "Tools",
-    "headline": "Show HN: Vet turned founder, AI lawn diagnosis",
-    "summary": "A veterinarian turned entrepreneur uses AI to diagnose lawn problems, potentially helping homeowners care for their lawns more effectively",
-    "source": "Hacker News",
-    "url": "https://grassdx.com/",
-    "published": "2026-06-15T17:56:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=949970",
-    "category": "Policy",
-    "headline": "Big Tech’s desperate last push at AI regulation",
-    "summary": "Big Tech companies are pushing for a single federal law to regulate AI, hoping to avoid a patchwork of different state laws and rules",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-    "published": "2026-06-15T17:44:10.000Z"
-  },
-  {
-    "id": "hn:48542433",
-    "category": "Tools",
-    "headline": "My Homelab AI Dev Platform",
-    "summary": "A developer created a home lab for testing AI projects, sharing the setup and tools used for experimentation",
-    "source": "Hacker News",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "published": "2026-06-15T15:09:40.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132810",
-    "category": "Funding",
-    "headline": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-    "summary": "Salesforce buys Fin, an AI customer service platform, to boost its Agentforce tool, aiming to improve automated tasks for businesses",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-    "published": "2026-06-15T14:34:45.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132797",
-    "category": "Funding",
-    "headline": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-    "summary": "Indian startup Sarvam gets big investment from HCLTech, becoming a highly valued company in the AI sector",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-    "published": "2026-06-15T13:46:08.000Z"
-  },
-  {
-    "id": "hn:48541014",
-    "category": "Models",
-    "headline": "Can Europe train a frontier AI model on the compute it owns?",
-    "summary": "Europe considers training advanced AI using its own computing resources, aiming for independence from other regions",
-    "source": "Hacker News",
-    "url": "https://github.com/sammysltd/euromesh",
-    "published": "2026-06-15T13:31:09.000Z"
   }
 ]
