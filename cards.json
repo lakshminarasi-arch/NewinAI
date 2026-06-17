@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2606.17209v1",
+    "category": "Research",
+    "headline": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+    "summary": "Researchers propose DivInit to improve agentic search by reducing query redundancy in parallel sampling, increasing efficiency",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.17209",
+    "published": "2026-06-17T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.17220v1",
+    "category": "Models",
+    "headline": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+    "summary": "Researchers propose a self-evolving agent for legal case retrieval, using a rule-driven query rewriting framework to improve search results without requiring model training",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.17220",
+    "published": "2026-06-17T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.17057v1",
+    "category": "Research",
+    "headline": "Correct When Paired, Wrong When Split: Decoupling and Editing Modality-Specific Neurons in MLLMs",
+    "summary": "Researchers found that multimodal large language models can update knowledge when given paired inputs, but may revert to old facts when inputs are split",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.17057",
+    "published": "2026-06-17T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.17093v1",
+    "category": "Research",
+    "headline": "Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry",
+    "summary": "Researchers study long-range single-shot fringe projection profilometry to improve shape diagnosis and repair using learning-based methods",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.17093",
+    "published": "2026-06-17T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3133474",
     "category": "Other",
     "headline": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
@@ -171,33 +207,6 @@
     "published": "2026-06-16T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.14885v1",
-    "category": "Research",
-    "headline": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
-    "summary": "Researchers introduce Dr-DCI, a method to improve direct corpus interaction by expanding workspace dynamically, allowing for more flexible search and verification across large document collections",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.14885",
-    "published": "2026-06-16T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.14801v1",
-    "category": "Research",
-    "headline": "QPILOTS: Efficient Test-Time Q-Steering for Flow Policies",
-    "summary": "Researchers propose QPILOTS, a method to improve test-time Q-steering for flow policies, making reinforcement learning more efficient and stable",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.14801",
-    "published": "2026-06-16T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.14865v1",
-    "category": "Models",
-    "headline": "GRAPE: Guided Parameter-Space Evolution for Compact Adversarial Robustness",
-    "summary": "Researchers introduce GRAPE, a new training framework that improves neural network robustness by guiding parameter space evolution for better defense against attacks",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.14865",
-    "published": "2026-06-16T04:00:00.000Z"
-  },
-  {
     "id": "https://www.theverge.com/?p=950412",
     "category": "Policy",
     "headline": "Inside the fight over Claude Mythos 5",
@@ -349,15 +358,6 @@
     "source": "Hacker News",
     "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
     "published": "2026-06-15T04:55:34.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.13705v1",
-    "category": "Models",
-    "headline": "Can Editing 1 Neuron Fix Repetition Loops in LLMs?",
-    "summary": "Researchers found that editing one neuron can fix repetition loops in large language models, but it may not solve more complex issues like doom loops",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.13705",
-    "published": "2026-06-15T04:00:00.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=949644",
