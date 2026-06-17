@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3133924",
+    "category": "Policy",
+    "headline": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "summary": "World leaders fear the US could control and cut off access to American AI, a concern heightened by the Anthropic blackout",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "published": "2026-06-17T19:01:19.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133770",
+    "category": "Tools",
+    "headline": "Social media’s next evolution: User-controlled algorithms",
+    "summary": "Social media platforms are introducing tools to let users customize their feeds by directly influencing the algorithms that power recommendations",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+    "published": "2026-06-17T18:19:48.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+    "category": "Models",
+    "headline": "\"Dangerous\" AI models are coming no matter what",
+    "summary": "Advanced AI models with strong hacking abilities are expected to become common",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+    "published": "2026-06-17T17:50:46.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133823",
+    "category": "Funding",
+    "headline": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+    "summary": "Odyssey, a world model maker, has received a high valuation with backing from major companies including Amazon, positioning itself as a notable AI startup",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "published": "2026-06-17T17:43:07.000Z"
+  },
+  {
+    "id": "hn:48573757",
+    "category": "Research",
+    "headline": "AI chemist improves a challenging reaction in medicinal chemistry",
+    "summary": "An artificial intelligence chemist has enhanced a difficult chemical reaction used in medicinal chemistry",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+    "published": "2026-06-17T17:34:20.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133545",
+    "category": "Other",
+    "headline": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+    "summary": "Most Americans are skeptical about AI's impact on society, with only a small percentage expecting positive effects",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "published": "2026-06-17T17:00:01.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133765",
+    "category": "Models",
+    "headline": "Google bets on Gemini to reinvent the smart home speaker",
+    "summary": "Google uses generative AI to improve smart speaker interactions with more conversational commands",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+    "published": "2026-06-17T16:30:09.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3132735",
     "category": "Research",
     "headline": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
@@ -385,68 +448,5 @@
     "source": "Hacker News",
     "url": "https://github.com/sammysltd/euromesh",
     "published": "2026-06-15T13:31:09.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132746",
-    "category": "Funding",
-    "headline": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-    "summary": "A company called NewCore has raised money to help give identities to AI agents, which are becoming more common in workplaces, to manage their security",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-    "published": "2026-06-15T13:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132502",
-    "category": "Models",
-    "headline": "A satellite just learned to find things on its own — here’s what that means",
-    "summary": "A satellite used AI to independently locate a target, a first for Earth observation satellites, potentially improving their efficiency",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-    "published": "2026-06-15T12:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132765",
-    "category": "Other",
-    "headline": "The AI layoff wave is becoming a powder keg",
-    "summary": "Mass AI layoffs contrast with huge wealth gains for a small group of industry insiders, sparking concerns about inequality",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-    "published": "2026-06-15T07:25:41.000Z"
-  },
-  {
-    "id": "hn:48536776",
-    "category": "Models",
-    "headline": "Apple Foundation Models",
-    "summary": "Apple is working on its own foundation models, a type of artificial intelligence that can be fine-tuned for various tasks, potentially rivaling existing models",
-    "source": "Hacker News",
-    "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-    "published": "2026-06-15T04:55:34.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=949644",
-    "category": "Policy",
-    "headline": "China may have accessed Mythos",
-    "summary": "US fears China may have accessed Anthropic's Mythos AI model, posing a national security risk if used for reverse engineering",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-    "published": "2026-06-14T18:27:55.000Z"
-  },
-  {
-    "id": "https://openai.com/index/introducing-openai-partner-network",
-    "category": "Funding",
-    "headline": "Introducing the OpenAI Partner Network",
-    "summary": "OpenAI invests $150 million in its Partner Network to speed up AI adoption in businesses worldwide",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "published": "2026-06-14T17:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132702",
-    "category": "Policy",
-    "headline": "As Anthropic suspends access to new models, India debates its AI future",
-    "summary": "India's tech leaders discuss the country's AI future after Anthropic suspends access to new models, sparking debate about its AI ambitions",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "published": "2026-06-14T03:00:00.000Z"
   }
 ]
