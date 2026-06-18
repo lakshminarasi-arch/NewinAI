@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2606.18283v1",
+    "category": "Research",
+    "headline": "Gaussian Mixture Attention: Linear-Time Sequence Mixing via Probabilistic Latent Routing",
+    "summary": "Researchers propose Gaussian Mixture Attention, a new method to improve sequence mixing in Transformer architectures by using probabilistic latent routing",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.18283",
+    "published": "2026-06-18T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.18284v1",
+    "category": "Research",
+    "headline": "Breaking the Solver Bottleneck: Training Task Generators at the Learnable Frontier",
+    "summary": "Researchers propose training task generators to create valid and solvable tasks for reinforcement learning, addressing the bottleneck of limited task supply",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.18284",
+    "published": "2026-06-18T04:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=952011",
+    "category": "Tools",
+    "headline": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+    "summary": "Midjourney Medical's new scanner uses ultrasound and AI to capture full-body images, analyzing muscle, fat, bone, and organs",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+    "published": "2026-06-18T03:12:31.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134048",
+    "category": "Tools",
+    "headline": "How to turn off AI in your Google Docs",
+    "summary": "Users can disable AI features in Google Docs to stop pop-ups",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "published": "2026-06-18T01:23:51.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_video&p=3133988",
     "category": "Research",
     "headline": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
@@ -198,15 +234,6 @@
     "published": "2026-06-17T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.17093v1",
-    "category": "Research",
-    "headline": "Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry",
-    "summary": "Researchers study long-range single-shot fringe projection profilometry to improve shape diagnosis and repair using learning-based methods",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.17093",
-    "published": "2026-06-17T04:00:00.000Z"
-  },
-  {
     "id": "https://openai.com/index/introducing-life-sci-bench",
     "category": "Models",
     "headline": "Introducing LifeSciBench",
@@ -378,15 +405,6 @@
     "published": "2026-06-16T06:59:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.14838v1",
-    "category": "Research",
-    "headline": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
-    "summary": "Researchers propose a definition for good explanations of AI outputs, considering counterfactual explanations and the user's prior beliefs",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.14838",
-    "published": "2026-06-16T04:00:00.000Z"
-  },
-  {
     "id": "https://www.theverge.com/?p=950412",
     "category": "Policy",
     "headline": "Inside the fight over Claude Mythos 5",
@@ -430,23 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
     "published": "2026-06-15T19:07:02.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?post_type=vm_stream&p=950026",
-    "category": "Policy",
-    "headline": "All the news about Anthropic s new AI fight with the White House",
-    "summary": "The US government has ordered Anthropic to limit foreign access to its latest AI models, citing concerns over their capabilities and potential misuse, amid ongoing disputes with the company",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-    "published": "2026-06-15T19:04:53.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=949986",
-    "category": "Policy",
-    "headline": "Trump’s Anthropic shutdown just made the case for non-American AI",
-    "summary": "The US government ordered Anthropic to shut down its newest AI models, citing access restrictions for foreign nationals, sparking concerns about American control over AI technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-    "published": "2026-06-15T18:10:27.000Z"
   }
 ]
