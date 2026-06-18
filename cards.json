@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3134299",
+    "category": "Funding",
+    "headline": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "summary": "Baseten, an AI inference startup, is reportedly raising a large amount of money just months after its last funding round",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "published": "2026-06-18T21:20:13.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134342",
+    "category": "Funding",
+    "headline": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "summary": "Snap is spinning off its AI video team into a new company called Dotmo due to high costs, with current staff leaving to focus on AI video development",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "published": "2026-06-18T20:30:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134350",
+    "category": "Funding",
+    "headline": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "summary": "OpenAI hires key talent ahead of its IPO, including a Transformer co-inventor and a former AI policy official",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "published": "2026-06-18T19:59:22.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134243",
+    "category": "Other",
+    "headline": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+    "summary": "Many US singles have negative views on AI in dating, but some see potential benefits in AI-assisted profile and conversation tools",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "published": "2026-06-18T18:51:46.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134182",
+    "category": "Funding",
+    "headline": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "summary": "Amazon plans to sell its AI chips to other data centers, potentially competing with Nvidia",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "published": "2026-06-18T18:22:13.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134218",
+    "category": "Policy",
+    "headline": "AI data centers just got a government-mandated fast lane to the grid",
+    "summary": "Government orders grid operators to prioritize data center connections, but doesn't address electricity supply issues",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "published": "2026-06-18T17:49:23.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+    "category": "Policy",
+    "headline": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+    "summary": "Bernie Sanders proposes a plan to give Americans control over the AI industry through a large fund",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+    "published": "2026-06-18T17:02:49.000Z"
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "category": "Tools",
+    "headline": "New usage analytics and updated spend controls for enterprises",
+    "summary": "OpenAI adds new spend controls and usage analytics to help enterprises manage costs and scale AI",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "published": "2026-06-18T17:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134184",
+    "category": "Tools",
+    "headline": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+    "summary": "Karamo Brown launches a wellness app featuring his AI digital clone to help users with personal growth and wellness",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "published": "2026-06-18T16:55:04.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134001",
+    "category": "Funding",
+    "headline": "General Intuition in talks to raise $300M at around $2B valuation",
+    "summary": "General Intuition is in discussions to raise funding, training AI models using a large video dataset",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "published": "2026-06-18T15:20:37.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134145",
+    "category": "Policy",
+    "headline": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+    "summary": "A PAC called Guardrails, backed by tech workers, aims to influence policy with small donations from AI industry workers",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+    "published": "2026-06-18T15:13:21.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=951542",
+    "category": "Policy",
+    "headline": "Who decides when AI is too dangerous?",
+    "summary": "The US government imposed export controls on Anthropic's new AI model Fable 5 and its underlying Mythos model due to potential dangers",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+    "published": "2026-06-18T14:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=952099",
+    "category": "Tools",
+    "headline": "Photoshop and Premiere now have AI assistants",
+    "summary": "Adobe adds AI assistants to several Creative Cloud apps, including Photoshop and Premiere, to help with editing tasks and organization",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+    "published": "2026-06-18T13:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=952104",
+    "category": "Tools",
+    "headline": "Adobe’s redesigned AI studio remembers what your creations look like",
+    "summary": "Adobe's updated AI studio allows users to easily replicate and edit designs by naming characters, objects, and backgrounds, streamlining the design process",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+    "published": "2026-06-18T13:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "category": "Models",
+    "headline": "Improving health intelligence in ChatGPT",
+    "summary": "ChatGPT's health and wellness responses are improved with better reasoning and clearer communication",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "published": "2026-06-18T11:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "category": "Research",
+    "headline": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "summary": "Researchers used an AI reasoning model to help doctors diagnose rare genetic diseases in children, finding new diagnoses in unsolved cases",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "published": "2026-06-18T08:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2606.18283v1",
     "category": "Research",
     "headline": "Gaussian Mixture Attention: Linear-Time Sequence Mixing via Probabilistic Latent Routing",
@@ -304,149 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
     "published": "2026-06-16T17:04:05.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133302",
-    "category": "Other",
-    "headline": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-    "summary": "US consumers are put off by brands using the term AI in their messaging, a survey reveals, despite companies seeing AI as a key search channel",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "published": "2026-06-16T16:49:44.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-    "category": "Funding",
-    "headline": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-    "summary": "SpaceX is buying an AI coding platform to enhance its capabilities",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-    "published": "2026-06-16T16:37:45.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-    "category": "Funding",
-    "headline": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-    "summary": "OpenAI is losing billions annually due to high research and development costs",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-    "published": "2026-06-16T16:18:07.000Z"
-  },
-  {
-    "id": "hn:48557535",
-    "category": "Models",
-    "headline": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
-    "summary": "A transformer model called GateGPT runs on an FPGA at 80 MHz, processing 56k tokens per second",
-    "source": "Hacker News",
-    "url": "https://twitter.com/fguzmanai/status/2065832668172845209",
-    "published": "2026-06-16T16:12:26.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133218",
-    "category": "Models",
-    "headline": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-    "summary": "Plaud's AI notetaker software has reached over $100M in annual revenue after shipping 2M units, entering a competitive market",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-    "published": "2026-06-16T15:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133252",
-    "category": "Other",
-    "headline": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-    "summary": "Robinhood's CEO didn't blame AI for layoffs, unlike other tech companies",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-    "published": "2026-06-16T14:50:09.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133240",
-    "category": "Funding",
-    "headline": "Probably raises $9M to build a more reliable kind of AI",
-    "summary": "Probably aims to create more reliable AI by reducing errors and hallucinations to achieve accuracy similar to deterministic systems",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "published": "2026-06-16T13:15:09.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133217",
-    "category": "Funding",
-    "headline": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-    "summary": "SpaceX is buying Cursor to boost its AI division, citing a large potential market",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "published": "2026-06-16T11:21:41.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-    "category": "Models",
-    "headline": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
-    "summary": "A vulnerability in Copilot allowed hackers to bypass two-factor authentication, highlighting security issues with large language models",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-    "published": "2026-06-16T11:15:46.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132789",
-    "category": "Models",
-    "headline": "ChatGPT’s market share slips below 50% for first time",
-    "summary": "ChatGPT's market share has dropped below 50 percent, but it still leads with over 1.1 billion monthly users",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-    "published": "2026-06-16T10:30:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133092",
-    "category": "Funding",
-    "headline": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-    "summary": "Respond.io, a messaging app, uses AI agents to manage customer inquiries and charges based on conversations, raising $62.5M for expansion and potential acquisitions",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-    "published": "2026-06-16T06:59:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=950412",
-    "category": "Policy",
-    "headline": "Inside the fight over Claude Mythos 5",
-    "summary": "Anthropic's new AI models faced US export control issues, forcing the company to disable them and seek resolution in Washington",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
-    "published": "2026-06-16T03:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/deployment-simulation",
-    "category": "Models",
-    "headline": "Predicting model behavior before release by simulating deployment",
-    "summary": "OpenAI's Deployment Simulation predicts AI model behavior before release by using real conversation data to improve safety and accuracy",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/deployment-simulation",
-    "published": "2026-06-16T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133070",
-    "category": "Policy",
-    "headline": "The US government’s Anthropic models ban was never about an AI jailbreak",
-    "summary": "US government interference affects Anthropic's AI models, sparking concerns about industry regulation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-    "published": "2026-06-15T21:50:21.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=950264",
-    "category": "Tools",
-    "headline": "Facebook’s new AI Mode search gets its info from public posts",
-    "summary": "Facebook's new AI Mode search uses public posts to generate results, offering a different approach to traditional search",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-    "published": "2026-06-15T21:15:08.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-    "category": "Funding",
-    "headline": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-    "summary": "Nvidia is trying to borrow over $25 billion in a bond sale, which will show how much investors are willing to lend to AI-related companies",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-    "published": "2026-06-15T19:07:02.000Z"
   }
 ]
