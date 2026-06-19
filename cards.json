@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.theverge.com/?p=952837",
+    "category": "Other",
+    "headline": "Barret Zoph is out at OpenAI again after just five months",
+    "summary": "Barret Zoph, head of enterprise AI sales, has left OpenAI after five months, following his return from a competing AI company",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+    "published": "2026-06-19T04:49:33.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.19464v1",
+    "category": "Research",
+    "headline": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+    "summary": "Researchers propose deontic policies to govern autonomous AI systems, addressing security and compliance challenges",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.19464",
+    "published": "2026-06-19T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.19469v1",
+    "category": "Research",
+    "headline": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+    "summary": "Researchers developed a framework to measure how well computer science programs cover curriculum guidelines, applying it to compare coverage of 2013 and 2023 guidelines",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.19469",
+    "published": "2026-06-19T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.19361v1",
+    "category": "Research",
+    "headline": "Computational Identifiability",
+    "summary": "Researchers discuss computational identifiability, focusing on how to derive algorithms to identify causal effects from available data and information",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.19361",
+    "published": "2026-06-19T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.19363v1",
+    "category": "Research",
+    "headline": "When to Trust, How to Distill: Multi-Foundation Model Guidance for Lightweight, Robust Scientific Time Series Forecasting",
+    "summary": "Researchers propose a method to extract knowledge from large time series models to create smaller, more accurate forecasters for specific scientific domains",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.19363",
+    "published": "2026-06-19T04:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134483",
+    "category": "Funding",
+    "headline": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "summary": "Elastic is buying DeductiveAI, a startup using AI to find and fix software bugs, in a deal worth up to $85 million",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "published": "2026-06-19T00:51:11.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3134299",
     "category": "Funding",
     "headline": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
@@ -150,15 +204,6 @@
     "summary": "Researchers propose Gaussian Mixture Attention, a new method to improve sequence mixing in Transformer architectures by using probabilistic latent routing",
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2606.18283",
-    "published": "2026-06-18T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.18284v1",
-    "category": "Research",
-    "headline": "Breaking the Solver Bottleneck: Training Task Generators at the Learnable Frontier",
-    "summary": "Researchers propose training task generators to create valid and solvable tasks for reinforcement learning, addressing the bottleneck of limited task supply",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.18284",
     "published": "2026-06-18T04:00:00.000Z"
   },
   {
@@ -351,33 +396,6 @@
     "published": "2026-06-17T09:46:56.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.17209v1",
-    "category": "Research",
-    "headline": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-    "summary": "Researchers propose DivInit to improve agentic search by reducing query redundancy in parallel sampling, increasing efficiency",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.17209",
-    "published": "2026-06-17T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.17220v1",
-    "category": "Models",
-    "headline": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-    "summary": "Researchers propose a self-evolving agent for legal case retrieval, using a rule-driven query rewriting framework to improve search results without requiring model training",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.17220",
-    "published": "2026-06-17T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.17057v1",
-    "category": "Research",
-    "headline": "Correct When Paired, Wrong When Split: Decoupling and Editing Modality-Specific Neurons in MLLMs",
-    "summary": "Researchers found that multimodal large language models can update knowledge when given paired inputs, but may revert to old facts when inputs are split",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.17057",
-    "published": "2026-06-17T04:00:00.000Z"
-  },
-  {
     "id": "https://openai.com/index/introducing-life-sci-bench",
     "category": "Models",
     "headline": "Introducing LifeSciBench",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
     "published": "2026-06-16T18:00:00.000Z"
-  },
-  {
-    "id": "hn:48559188",
-    "category": "Models",
-    "headline": "GPT‑NL: a sovereign language model for the Netherlands",
-    "summary": "A new language model called GPT-NL is being developed for the Netherlands",
-    "source": "Hacker News",
-    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-    "published": "2026-06-16T17:54:02.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=950826",
-    "category": "Tools",
-    "headline": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-    "summary": "Apple may release AirPods with cameras in 2027 to support AI features like live translation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-    "published": "2026-06-16T17:04:05.000Z"
   }
 ]
