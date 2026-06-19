@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3134219",
+    "category": "Policy",
+    "headline": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+    "summary": "Controlling cyber exports has failed in the past and may not work now with Anthropic's Mythos model",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "published": "2026-06-19T22:40:14.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_video&p=3134608",
     "category": "Policy",
     "headline": "Is the US government’s Anthropic ban accidentally helping the brand?",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
     "published": "2026-06-17T09:46:56.000Z"
-  },
-  {
-    "id": "https://openai.com/index/introducing-life-sci-bench",
-    "category": "Models",
-    "headline": "Introducing LifeSciBench",
-    "summary": "LifeSciBench is a benchmark to test AI systems on real-world life science research tasks",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "published": "2026-06-17T00:00:00.000Z"
   }
 ]
