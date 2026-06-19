@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3134608",
+    "category": "Policy",
+    "headline": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "summary": "The US government banned Anthropic's new models due to national security concerns, but experts argue this move may not be effective",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "published": "2026-06-19T16:08:17.000Z"
+  },
+  {
+    "id": "hn:48600093",
+    "category": "Policy",
+    "headline": "Norway imposes near ban on AI in elementary school",
+    "summary": "Norway has put in place a near ban on using artificial intelligence in elementary schools",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "published": "2026-06-19T16:03:15.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3134607",
+    "category": "Policy",
+    "headline": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "summary": "The US government banned Anthropic's Fable 5 model due to national security concerns, despite similar issues existing in other models",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "published": "2026-06-19T16:01:03.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134600",
+    "category": "Other",
+    "headline": "Billionaire Ambani wants AI in every call, app, and home",
+    "summary": "Reliance aims to integrate AI into various services, including telecom, used by a large number of people",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "published": "2026-06-19T15:23:28.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134214",
+    "category": "Funding",
+    "headline": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+    "summary": "A new AI business from Allbirds' CEO has a large seed round but currently no employees",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "published": "2026-06-19T13:00:00.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=952837",
     "category": "Other",
     "headline": "Barret Zoph is out at OpenAI again after just five months",
@@ -403,50 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/introducing-life-sci-bench",
     "published": "2026-06-17T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133474",
-    "category": "Other",
-    "headline": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "summary": "Anthropic's dispute with the government may increase its popularity among business users, according to sales data",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "published": "2026-06-16T22:34:17.000Z"
-  },
-  {
-    "id": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "category": "Tools",
-    "headline": "Unlocking UK house-building with AI-accelerated planning",
-    "summary": "The UK government and Google DeepMind are working together on an AI system to speed up housing planning decisions",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "published": "2026-06-16T21:29:50.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-    "category": "Tools",
-    "headline": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-    "summary": "Anthropic delays a change to its Claude Agent SDK billing that would have increased costs for heavy users",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-    "published": "2026-06-16T21:00:35.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-    "category": "Tools",
-    "headline": "Pentagon boasts of using AI to write reports mandated by Congress",
-    "summary": "The Pentagon uses AI to generate reports required by Congress and has 1.5 million personnel using AI tools",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-    "published": "2026-06-16T18:11:05.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133365",
-    "category": "Tools",
-    "headline": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-    "summary": "Google releases Android 17 with new multitasking features and security tools, also updating Pixel devices with its latest AI models",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-    "published": "2026-06-16T18:00:00.000Z"
   }
 ]
