@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3134737",
+    "category": "Policy",
+    "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "summary": "The Trump administration's actions against Anthropic may impact the AI ecosystem, with potential benefits for other companies",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "published": "2026-06-21T15:28:17.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134254",
+    "category": "Tools",
+    "headline": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "summary": "Apple's iOS 27 update includes various practical AI features beyond Siri's overhaul",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "published": "2026-06-21T14:40:28.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3134719",
     "category": "Models",
     "headline": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
     "published": "2026-06-17T15:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133745",
-    "category": "Funding",
-    "headline": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-    "summary": "Pramaana Labs gets funding to apply formal verification to AI for high-stakes fields like law and medicine",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-    "published": "2026-06-17T14:15:22.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=951099",
-    "category": "Tools",
-    "headline": "AI search grounded in Facebook posts? What could go wrong?",
-    "summary": "Meta's new AI search feature uses public Facebook and Instagram posts to answer complex queries, but its reliability is uncertain",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
-    "published": "2026-06-17T13:30:00.000Z"
   }
 ]
