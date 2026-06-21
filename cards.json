@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3134719",
+    "category": "Models",
+    "headline": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "summary": "Meredith Whittaker warns that AI chatbots are not conscious or sentient beings and should not be considered friends",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "published": "2026-06-20T20:32:29.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134695",
+    "category": "Tools",
+    "headline": "In the Weights is your new AI-centric vanity search",
+    "summary": "In the Weights is a new AI tool that provides a score based on online presence",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "published": "2026-06-20T19:41:11.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=953183",
+    "category": "Research",
+    "headline": "The Atlantic created a searchable database of the music used to train AI",
+    "summary": "The Atlantic made a database of music used to train AI models, with two large datasets and two smaller ones, used by researchers including Google and Stability",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "published": "2026-06-20T18:46:48.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134677",
+    "category": "Other",
+    "headline": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "summary": "A Nobel laureate is leaving DeepMind to join Anthropic, not the only high-profile departure from Google DeepMind",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "published": "2026-06-20T16:39:57.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3134219",
     "category": "Policy",
     "headline": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
@@ -412,41 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
     "published": "2026-06-17T13:30:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133722",
-    "category": "Funding",
-    "headline": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-    "summary": "A Canadian pension fund is investing in an Indian tech company that operates data centers, supporting the growth of AI in the region",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "published": "2026-06-17T12:38:09.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133711",
-    "category": "Tools",
-    "headline": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-    "summary": "DeepL buys Mixhalo to improve live event audio streaming and translation services",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-    "published": "2026-06-17T12:14:44.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133612",
-    "category": "Tools",
-    "headline": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-    "summary": "Pinterest introduces an experimental shopping app using AI for personalized recommendations through conversations",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-    "published": "2026-06-17T11:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=951283",
-    "category": "Research",
-    "headline": "The next humanoid robot might not look human at all",
-    "summary": "A new robot called Eno is designed for general-purpose use, focusing on human capabilities rather than appearance, with adaptable features like hands",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-    "published": "2026-06-17T09:46:56.000Z"
   }
 ]
