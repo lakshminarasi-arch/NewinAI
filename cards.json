@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "category": "Tools",
+    "headline": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "summary": "Samsung Electronics gives its employees access to ChatGPT and Codex AI tools worldwide",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "published": "2026-06-21T23:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3134737",
     "category": "Policy",
     "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
     "published": "2026-06-17T16:30:09.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132735",
-    "category": "Research",
-    "headline": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-    "summary": "AI labs are outsourcing data collection for physical AI training due to the time-consuming and laborious process",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-    "published": "2026-06-17T15:00:00.000Z"
   }
 ]
