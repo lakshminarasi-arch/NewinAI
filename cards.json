@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3133990",
+    "category": "Funding",
+    "headline": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+    "summary": "Reflection AI pays to use Nvidia AI chips in SpaceX's data center for computing power",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "published": "2026-06-22T16:51:29.000Z"
+  },
+  {
+    "id": "hn:48630171",
+    "category": "Models",
+    "headline": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "summary": "Moebius is a model that can fill in missing parts of images, performing like larger models",
+    "source": "Hacker News",
+    "url": "https://hustvl.github.io/Moebius/",
+    "published": "2026-06-22T13:53:02.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+    "category": "Policy",
+    "headline": "How Anthropic may have talked itself into an AI export ban",
+    "summary": "Anthropic's warnings about advanced AI dangers may lead to an export ban, surpassing rival OpenAI's concerns",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+    "published": "2026-06-22T13:45:24.000Z"
+  },
+  {
+    "id": "https://openai.com/index/patch-the-planet",
+    "category": "Tools",
+    "headline": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "summary": "OpenAI's Daybreak initiative helps open source maintainers find and fix vulnerabilities using AI and expert review",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/patch-the-planet",
+    "published": "2026-06-22T10:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/daybreak-securing-the-world",
+    "category": "Tools",
+    "headline": "Daybreak: Tools for securing every organization in the world",
+    "summary": "OpenAI launches Daybreak tools to help organizations secure themselves by finding and fixing vulnerabilities",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "published": "2026-06-22T10:00:00.000Z"
+  },
+  {
     "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
     "category": "Tools",
     "headline": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -403,50 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
     "published": "2026-06-17T18:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-    "category": "Models",
-    "headline": "\"Dangerous\" AI models are coming no matter what",
-    "summary": "Advanced AI models with strong hacking abilities are expected to become common",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-    "published": "2026-06-17T17:50:46.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133823",
-    "category": "Funding",
-    "headline": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-    "summary": "Odyssey, a world model maker, has received a high valuation with backing from major companies including Amazon, positioning itself as a notable AI startup",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-    "published": "2026-06-17T17:43:07.000Z"
-  },
-  {
-    "id": "hn:48573757",
-    "category": "Research",
-    "headline": "AI chemist improves a challenging reaction in medicinal chemistry",
-    "summary": "An artificial intelligence chemist has enhanced a difficult chemical reaction used in medicinal chemistry",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction/",
-    "published": "2026-06-17T17:34:20.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=951653",
-    "category": "Research",
-    "headline": "Two-thirds of Americans think AI is advancing too quickly",
-    "summary": "Most Americans think AI is progressing too fast, despite increased use of chatbots like ChatGPT, and have negative views on its societal impact",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-    "published": "2026-06-17T17:20:24.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133545",
-    "category": "Other",
-    "headline": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-    "summary": "Most Americans are skeptical about AI's impact on society, with only a small percentage expecting positive effects",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "published": "2026-06-17T17:00:01.000Z"
   }
 ]
