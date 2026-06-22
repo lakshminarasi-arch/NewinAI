@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3135102",
+    "category": "Models",
+    "headline": "The AI world is getting ‘loopy’",
+    "summary": "Agentic AI is advancing with a loop that allows a group of agents to continuously work together in the background",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "published": "2026-06-22T20:53:11.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134907",
+    "category": "Funding",
+    "headline": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "summary": "AI chipmaker Groq raises funds and hires new executives after a major deal with Nvidia",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "published": "2026-06-22T20:13:58.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135044",
+    "category": "Other",
+    "headline": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+    "summary": "Nvidia's new cooling system reduces data center water use, but doesn't address the larger water usage issue of fossil fuel power plants that power AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "published": "2026-06-22T20:08:15.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=953888",
+    "category": "Other",
+    "headline": "AI is cursing renters with the promise of impossible homes",
+    "summary": "Renters are having a hard time finding apartments due to high prices and poor conditions, with some finding their ideal homes but facing competition from others",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "published": "2026-06-22T20:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135026",
+    "category": "Tools",
+    "headline": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+    "summary": "Google DeepMind partners with A24 to develop artificial intelligence tools for filmmaking",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "published": "2026-06-22T18:49:44.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134778",
+    "category": "Tools",
+    "headline": "Amazon is testing Alexa+ in India with Hindi support",
+    "summary": "Amazon is testing its Alexa+ assistant in India with support for the Hindi language",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+    "published": "2026-06-22T17:31:29.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3133990",
     "category": "Funding",
     "headline": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
@@ -43,6 +97,15 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/daybreak-securing-the-world",
     "published": "2026-06-22T10:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/codex-maxxing-long-running-work",
+    "category": "Tools",
+    "headline": "Codex-maxxing for long-running work",
+    "summary": "Jason Liu uses Codex to handle complex projects and maintain context over multiple prompts",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "published": "2026-06-22T00:00:00.000Z"
   },
   {
     "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
@@ -385,68 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
     "published": "2026-06-18T03:12:31.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134048",
-    "category": "Tools",
-    "headline": "How to turn off AI in your Google Docs",
-    "summary": "Users can disable AI features in Google Docs to stop pop-ups",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-    "published": "2026-06-18T01:23:51.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3133988",
-    "category": "Research",
-    "headline": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-    "summary": "Companies are struggling to measure the return on investment of their AI usage, leading to budget issues and reassessments",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-    "published": "2026-06-17T20:17:38.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-    "category": "Models",
-    "headline": "AI coding agents taught robots how to install GPUs and cut zip ties",
-    "summary": "Nvidia's program uses AI coding agents to teach robots tasks like installing GPUs and cutting zip ties",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-    "published": "2026-06-17T19:25:19.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133924",
-    "category": "Policy",
-    "headline": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-    "summary": "World leaders fear the US could control and cut off access to American AI, a concern heightened by the Anthropic blackout",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-    "published": "2026-06-17T19:01:19.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=951703",
-    "category": "Policy",
-    "headline": "Anthropic got hit by export rules nobody understands",
-    "summary": "Anthropic's AI models were taken offline due to unclear US export rules affecting access for foreign nationals and US-based employees",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-    "published": "2026-06-17T18:28:50.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133770",
-    "category": "Tools",
-    "headline": "Social media’s next evolution: User-controlled algorithms",
-    "summary": "Social media platforms are introducing tools to let users customize their feeds by directly influencing the algorithms that power recommendations",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
-    "published": "2026-06-17T18:19:48.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3133981",
-    "category": "Funding",
-    "headline": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-    "summary": "Companies face financial reckoning after aggressively adopting AI, with some exceeding budgets and cutting back on AI usage",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-    "published": "2026-06-17T18:00:00.000Z"
   }
 ]
