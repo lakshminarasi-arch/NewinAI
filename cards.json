@@ -9,6 +9,15 @@
     "published": "2026-06-21T23:00:00.000Z"
   },
   {
+    "id": "hn:48623434",
+    "category": "Models",
+    "headline": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "summary": "Fine tuning a local large language model achieves good results for categorizing questions",
+    "source": "Hacker News",
+    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "published": "2026-06-21T22:55:23.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3134737",
     "category": "Policy",
     "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
     "published": "2026-06-17T17:00:01.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133765",
-    "category": "Models",
-    "headline": "Google bets on Gemini to reinvent the smart home speaker",
-    "summary": "Google uses generative AI to improve smart speaker interactions with more conversational commands",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-    "published": "2026-06-17T16:30:09.000Z"
   }
 ]
