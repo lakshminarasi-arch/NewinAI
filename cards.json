@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=954139",
+    "category": "Models",
+    "headline": "Nvidia says its AI data center design runs hotter to use a lot less water",
+    "summary": "Nvidia's new data center design uses less water and energy, but still has concerns over construction and power generation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "published": "2026-06-22T23:24:32.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3135102",
     "category": "Models",
     "headline": "The AI world is getting ‘loopy’",
@@ -439,14 +448,5 @@
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2606.18283",
     "published": "2026-06-18T04:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=952011",
-    "category": "Tools",
-    "headline": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
-    "summary": "Midjourney Medical's new scanner uses ultrasound and AI to capture full-body images, analyzing muscle, fat, bone, and organs",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-    "published": "2026-06-18T03:12:31.000Z"
   }
 ]
