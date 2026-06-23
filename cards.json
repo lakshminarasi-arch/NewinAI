@@ -36,6 +36,15 @@
     "published": "2026-06-23T04:00:00.000Z"
   },
   {
+    "id": "hn:48639434",
+    "category": "Models",
+    "headline": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+    "summary": "Ultralytics releases YOLO26, a real time end to end vision model for unified tasks",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2606.03748",
+    "published": "2026-06-23T02:28:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3132769",
     "category": "Other",
     "headline": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -52,6 +61,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
     "published": "2026-06-23T00:11:31.000Z"
+  },
+  {
+    "id": "https://openai.com/index/omio",
+    "category": "Tools",
+    "headline": "How Omio is building the future of conversational travel",
+    "summary": "Omio uses OpenAI for conversational travel experiences and to speed up product development",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/omio",
+    "published": "2026-06-23T00:00:00.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=954139",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
     "published": "2026-06-18T14:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=952099",
-    "category": "Tools",
-    "headline": "Photoshop and Premiere now have AI assistants",
-    "summary": "Adobe adds AI assistants to several Creative Cloud apps, including Photoshop and Premiere, to help with editing tasks and organization",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-    "published": "2026-06-18T13:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=952104",
-    "category": "Tools",
-    "headline": "Adobe’s redesigned AI studio remembers what your creations look like",
-    "summary": "Adobe's updated AI studio allows users to easily replicate and edit designs by naming characters, objects, and backgrounds, streamlining the design process",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-    "published": "2026-06-18T13:00:00.000Z"
   }
 ]
