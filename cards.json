@@ -1,5 +1,23 @@
 [
   {
+    "id": "hn:48649673",
+    "category": "Policy",
+    "headline": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+    "summary": "AI hiring tools show racial bias, leading to higher rejection rates for Black and Asian applicants",
+    "source": "Hacker News",
+    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "published": "2026-06-23T18:56:19.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135349",
+    "category": "Tools",
+    "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "summary": "Anthropic's Claude Tag is an AI tool that learns about companies through Slack messages to capture context and workflows",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "published": "2026-06-23T17:00:00.000Z"
+  },
+  {
     "id": "https://openai.com/index/gpt-5-immunology-mystery",
     "category": "Models",
     "headline": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
@@ -7,6 +25,42 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/gpt-5-immunology-mystery",
     "published": "2026-06-23T17:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=954826",
+    "category": "Research",
+    "headline": "Something s off with Midjourney’s pivot to body scanners",
+    "summary": "Midjourney, an AI image generator startup, has unexpectedly shifted focus to medical imaging with a futuristic ultrasound scanner",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+    "published": "2026-06-23T15:56:35.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=954768",
+    "category": "Tools",
+    "headline": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+    "summary": "The Fitbit Air uses AI to track health and provide personalized advice, including warnings about sleep, heart rate, and environmental factors",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+    "published": "2026-06-23T15:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=954676",
+    "category": "Tools",
+    "headline": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+    "summary": "Sony's AI Camera Assistant on the Xperia 1 VIII phone is underwhelming, producing poor photos",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+    "published": "2026-06-23T13:25:42.000Z"
+  },
+  {
+    "id": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "category": "Policy",
+    "headline": "Helping build shared standards for advanced AI",
+    "summary": "OpenAI is working with the Appia Foundation to create shared standards for advanced AI, focusing on evaluation, safety and global cooperation",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "published": "2026-06-23T13:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3135158",
@@ -394,59 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
     "published": "2026-06-18T19:59:22.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134243",
-    "category": "Other",
-    "headline": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
-    "summary": "Many US singles have negative views on AI in dating, but some see potential benefits in AI-assisted profile and conversation tools",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-    "published": "2026-06-18T18:51:46.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134182",
-    "category": "Funding",
-    "headline": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-    "summary": "Amazon plans to sell its AI chips to other data centers, potentially competing with Nvidia",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-    "published": "2026-06-18T18:22:13.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134218",
-    "category": "Policy",
-    "headline": "AI data centers just got a government-mandated fast lane to the grid",
-    "summary": "Government orders grid operators to prioritize data center connections, but doesn't address electricity supply issues",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-    "published": "2026-06-18T17:49:23.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-    "category": "Policy",
-    "headline": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-    "summary": "Bernie Sanders proposes a plan to give Americans control over the AI industry through a large fund",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-    "published": "2026-06-18T17:02:49.000Z"
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "category": "Tools",
-    "headline": "New usage analytics and updated spend controls for enterprises",
-    "summary": "OpenAI adds new spend controls and usage analytics to help enterprises manage costs and scale AI",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "published": "2026-06-18T17:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134184",
-    "category": "Tools",
-    "headline": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-    "summary": "Karamo Brown launches a wellness app featuring his AI digital clone to help users with personal growth and wellness",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-    "published": "2026-06-18T16:55:04.000Z"
   }
 ]
