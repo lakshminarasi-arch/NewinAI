@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+    "category": "Other",
+    "headline": "How to burst the AI bubble: Strike at its roots",
+    "summary": "Author Cory Doctorow discusses his book on life after AI, exploring the concept of an AI bubble",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+    "published": "2026-06-23T12:00:34.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2606.20569v1",
     "category": "Research",
     "headline": "On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
     "published": "2026-06-18T15:13:21.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=951542",
-    "category": "Policy",
-    "headline": "Who decides when AI is too dangerous?",
-    "summary": "The US government imposed export controls on Anthropic's new AI model Fable 5 and its underlying Mythos model due to potential dangers",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-    "published": "2026-06-18T14:00:00.000Z"
   }
 ]
