@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/gpt-5-immunology-mystery",
+    "category": "Models",
+    "headline": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "summary": "GPT-5 Pro assisted an immunologist in solving a three-year-old mystery related to T cell behavior, potentially aiding cancer and autoimmune research",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "published": "2026-06-23T17:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135158",
+    "category": "Funding",
+    "headline": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "summary": "Fika Jobs is creating a hiring platform using AI agents for video interviews and short video profiles",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "published": "2026-06-23T13:00:00.000Z"
+  },
+  {
     "id": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
     "category": "Other",
     "headline": "How to burst the AI bubble: Strike at its roots",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
     "published": "2026-06-18T16:55:04.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134001",
-    "category": "Funding",
-    "headline": "General Intuition in talks to raise $300M at around $2B valuation",
-    "summary": "General Intuition is in discussions to raise funding, training AI models using a large video dataset",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-    "published": "2026-06-18T15:20:37.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134145",
-    "category": "Policy",
-    "headline": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-    "summary": "A PAC called Guardrails, backed by tech workers, aims to influence policy with small donations from AI industry workers",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-    "published": "2026-06-18T15:13:21.000Z"
   }
 ]
