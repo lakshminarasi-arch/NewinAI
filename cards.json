@@ -1,5 +1,59 @@
 [
   {
+    "id": "oai:arXiv.org:2606.20569v1",
+    "category": "Research",
+    "headline": "On the Identifiability of User Adaptation in Co-Adaptive Neural Interfaces",
+    "summary": "Researchers examine how to identify user adaptation in co-adaptive neural interfaces, finding that current methods don't uniquely identify adaptation",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.20569",
+    "published": "2026-06-23T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.20599v1",
+    "category": "Research",
+    "headline": "Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies",
+    "summary": "Researchers examine how Tree of Thought search strategies perform with varying budgets and model sizes, evaluating two methods across mathematical reasoning benchmarks",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.20599",
+    "published": "2026-06-23T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.20670v1",
+    "category": "Research",
+    "headline": "Towards CSI-Native Foundation Models: A Channel-Adaptive Roadmap for 6G",
+    "summary": "Researchers propose a roadmap for creating foundation models that can capture wireless channel information for 6G systems, improving upon existing methods",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.20670",
+    "published": "2026-06-23T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.20673v1",
+    "category": "Models",
+    "headline": "NeuroShield: A Device-Agnostic Foundation Model for EEG Authentication",
+    "summary": "NeuroShield is a foundation model for EEG authentication that can work with different devices and settings, aiming to solve the issue of models being tied to specific acquisition settings",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.20673",
+    "published": "2026-06-23T04:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132769",
+    "category": "Other",
+    "headline": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "summary": "Several big tech companies have laid off employees in 2026, citing AI as a reason",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "published": "2026-06-23T01:27:55.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135162",
+    "category": "Tools",
+    "headline": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "summary": "OpenAI is working to identify and fix security issues in open-source software",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "published": "2026-06-23T00:11:31.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=954139",
     "category": "Models",
     "headline": "Nvidia says its AI data center design runs hotter to use a lot less water",
@@ -261,33 +315,6 @@
     "published": "2026-06-19T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.19469v1",
-    "category": "Research",
-    "headline": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-    "summary": "Researchers developed a framework to measure how well computer science programs cover curriculum guidelines, applying it to compare coverage of 2013 and 2023 guidelines",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.19469",
-    "published": "2026-06-19T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.19361v1",
-    "category": "Research",
-    "headline": "Computational Identifiability",
-    "summary": "Researchers discuss computational identifiability, focusing on how to derive algorithms to identify causal effects from available data and information",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.19361",
-    "published": "2026-06-19T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.19363v1",
-    "category": "Research",
-    "headline": "When to Trust, How to Distill: Multi-Foundation Model Guidance for Lightweight, Robust Scientific Time Series Forecasting",
-    "summary": "Researchers propose a method to extract knowledge from large time series models to create smaller, more accurate forecasters for specific scientific domains",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.19363",
-    "published": "2026-06-19T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3134483",
     "category": "Funding",
     "headline": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
@@ -421,32 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
     "published": "2026-06-18T13:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "category": "Models",
-    "headline": "Improving health intelligence in ChatGPT",
-    "summary": "ChatGPT's health and wellness responses are improved with better reasoning and clearer communication",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "published": "2026-06-18T11:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "category": "Research",
-    "headline": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "summary": "Researchers used an AI reasoning model to help doctors diagnose rare genetic diseases in children, finding new diagnoses in unsolved cases",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "published": "2026-06-18T08:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.18283v1",
-    "category": "Research",
-    "headline": "Gaussian Mixture Attention: Linear-Time Sequence Mixing via Probabilistic Latent Routing",
-    "summary": "Researchers propose Gaussian Mixture Attention, a new method to improve sequence mixing in Transformer architectures by using probabilistic latent routing",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.18283",
-    "published": "2026-06-18T04:00:00.000Z"
   }
 ]
