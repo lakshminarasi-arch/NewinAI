@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3135849",
+    "category": "Other",
+    "headline": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+    "summary": "Companies are trying to limit employee use of AI for small tasks to avoid overspending on AI budgets",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "published": "2026-06-24T20:09:45.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=956394",
+    "category": "Policy",
+    "headline": "Congresswoman denies staff used AI to write defense funding amendment",
+    "summary": "A congresswoman denies using AI to write a defense funding amendment, claiming it was only used for spellcheck in a summary",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+    "published": "2026-06-24T19:36:46.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=956263",
     "category": "Funding",
     "headline": "The $27 million Al proxy war over Alex Bores ends in a draw",
@@ -430,23 +448,5 @@
     "source": "Hacker News",
     "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
     "published": "2026-06-21T22:55:23.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134737",
-    "category": "Policy",
-    "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
-    "summary": "The Trump administration's actions against Anthropic may impact the AI ecosystem, with potential benefits for other companies",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-    "published": "2026-06-21T15:28:17.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134254",
-    "category": "Tools",
-    "headline": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-    "summary": "Apple's iOS 27 update includes various practical AI features beyond Siri's overhaul",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-    "published": "2026-06-21T14:40:28.000Z"
   }
 ]
