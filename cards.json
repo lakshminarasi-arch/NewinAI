@@ -1,5 +1,77 @@
 [
   {
+    "id": "oai:arXiv.org:2606.23927v1",
+    "category": "Research",
+    "headline": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+    "summary": "Researchers introduce RIFT-Bench, a method to test AI systems' security by simulating attacks, helping to identify vulnerabilities in autonomous decision-making systems",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.23927",
+    "published": "2026-06-24T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.23938v1",
+    "category": "Models",
+    "headline": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+    "summary": "Researchers introduce Neuro-Symbolic Drive, a framework that combines neural and symbolic methods for driving models, aiming to improve decision-making and transparency",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.23938",
+    "published": "2026-06-24T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.23739v1",
+    "category": "Research",
+    "headline": "Systematic Exploration of 4-Expert Heterogeneous Mixture-of-Experts via Automated Pipeline Search",
+    "summary": "Researchers created an automated pipeline to search for optimal heterogeneous mixture-of-experts architectures, replacing manual design with a code-assembly generator",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.23739",
+    "published": "2026-06-24T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.23740v1",
+    "category": "Research",
+    "headline": "Weight-Space Geometry of Offline Reasoning Training",
+    "summary": "Researchers analyze offline reinforcement learning methods to see if they work differently or update weights similarly, using math rollouts from a base model",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.23740",
+    "published": "2026-06-24T04:00:00.000Z"
+  },
+  {
+    "id": "hn:48654274",
+    "category": "Research",
+    "headline": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+    "summary": "A new benchmark evaluates generative diffusion transformers for better understanding",
+    "source": "Hacker News",
+    "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+    "published": "2026-06-24T02:12:31.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135480",
+    "category": "Tools",
+    "headline": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "summary": "MoEngage acquired technology to assign AI agents to individual customers for personalized marketing",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "published": "2026-06-23T23:30:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=955385",
+    "category": "Tools",
+    "headline": "Google Home will soon get better at recognizing you",
+    "summary": "Google Home update improves recognition using body size and clothing color when faces are not visible",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+    "published": "2026-06-23T22:28:19.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "category": "Funding",
+    "headline": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+    "summary": "Oracle is using layoffs to fund its large investments in AI data center infrastructure",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "published": "2026-06-23T20:17:38.000Z"
+  },
+  {
     "id": "hn:48649673",
     "category": "Policy",
     "headline": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
@@ -7,6 +79,15 @@
     "source": "Hacker News",
     "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
     "published": "2026-06-23T18:56:19.000Z"
+  },
+  {
+    "id": "hn:48649137",
+    "category": "Tools",
+    "headline": "Show HN: RLM-based local debugger for AI agent traces",
+    "summary": "A local debugger for AI agent traces is developed based on RLM",
+    "source": "Hacker News",
+    "url": "https://github.com/context-labs/halo",
+    "published": "2026-06-23T18:21:52.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3135349",
@@ -87,33 +168,6 @@
     "summary": "Researchers examine how to identify user adaptation in co-adaptive neural interfaces, finding that current methods don't uniquely identify adaptation",
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2606.20569",
-    "published": "2026-06-23T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.20599v1",
-    "category": "Research",
-    "headline": "Beyond Fixed Budgets: Characterizing the Inelasticity and Limitations of Tree-of-Thought Reasoning Strategies",
-    "summary": "Researchers examine how Tree of Thought search strategies perform with varying budgets and model sizes, evaluating two methods across mathematical reasoning benchmarks",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.20599",
-    "published": "2026-06-23T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.20670v1",
-    "category": "Research",
-    "headline": "Towards CSI-Native Foundation Models: A Channel-Adaptive Roadmap for 6G",
-    "summary": "Researchers propose a roadmap for creating foundation models that can capture wireless channel information for 6G systems, improving upon existing methods",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.20670",
-    "published": "2026-06-23T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.20673v1",
-    "category": "Models",
-    "headline": "NeuroShield: A Device-Agnostic Foundation Model for EEG Authentication",
-    "summary": "NeuroShield is a foundation model for EEG authentication that can work with different devices and settings, aiming to solve the issue of models being tied to specific acquisition settings",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.20673",
     "published": "2026-06-23T04:00:00.000Z"
   },
   {
@@ -394,59 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
     "published": "2026-06-19T13:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=952837",
-    "category": "Other",
-    "headline": "Barret Zoph is out at OpenAI again after just five months",
-    "summary": "Barret Zoph, head of enterprise AI sales, has left OpenAI after five months, following his return from a competing AI company",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-    "published": "2026-06-19T04:49:33.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.19464v1",
-    "category": "Research",
-    "headline": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-    "summary": "Researchers propose deontic policies to govern autonomous AI systems, addressing security and compliance challenges",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.19464",
-    "published": "2026-06-19T04:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134483",
-    "category": "Funding",
-    "headline": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-    "summary": "Elastic is buying DeductiveAI, a startup using AI to find and fix software bugs, in a deal worth up to $85 million",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-    "published": "2026-06-19T00:51:11.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134299",
-    "category": "Funding",
-    "headline": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-    "summary": "Baseten, an AI inference startup, is reportedly raising a large amount of money just months after its last funding round",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-    "published": "2026-06-18T21:20:13.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134342",
-    "category": "Funding",
-    "headline": "Snap spins off AI video team into new company, Dotmo, due to costs",
-    "summary": "Snap is spinning off its AI video team into a new company called Dotmo due to high costs, with current staff leaving to focus on AI video development",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-    "published": "2026-06-18T20:30:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134350",
-    "category": "Funding",
-    "headline": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-    "summary": "OpenAI hires key talent ahead of its IPO, including a Transformer co-inventor and a former AI policy official",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-    "published": "2026-06-18T19:59:22.000Z"
   }
 ]
