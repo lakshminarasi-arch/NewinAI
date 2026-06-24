@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3135687",
+    "category": "Tools",
+    "headline": "OpenAI unveils its first custom chip, built by Broadcom",
+    "summary": "OpenAI introduces a custom chip called Jalapeño, designed for its inference systems and built by Broadcom",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "published": "2026-06-24T14:54:46.000Z"
+  },
+  {
+    "id": "hn:48660711",
+    "category": "Tools",
+    "headline": "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
+    "summary": "A Ruby framework unifies access to multiple major AI providers",
+    "source": "Hacker News",
+    "url": "https://rubyllm.com/",
+    "published": "2026-06-24T14:41:41.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=955939",
+    "category": "Models",
+    "headline": "OpenAI reveals its first AI processor: Jalapeño",
+    "summary": "OpenAI and Broadcom have created a custom chip called Jalapeño for AI servers to improve large language model performance",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+    "published": "2026-06-24T14:36:47.000Z"
+  },
+  {
+    "id": "hn:48659257",
+    "category": "Tools",
+    "headline": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "summary": "OpenAI and Broadcom collaborate on a chip optimized for large language model inference",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+    "published": "2026-06-24T13:14:39.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2606.23927v1",
     "category": "Research",
     "headline": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
@@ -412,41 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
     "published": "2026-06-19T16:08:17.000Z"
-  },
-  {
-    "id": "hn:48600093",
-    "category": "Policy",
-    "headline": "Norway imposes near ban on AI in elementary school",
-    "summary": "Norway has put in place a near ban on using artificial intelligence in elementary schools",
-    "source": "Hacker News",
-    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-    "published": "2026-06-19T16:03:15.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3134607",
-    "category": "Policy",
-    "headline": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-    "summary": "The US government banned Anthropic's Fable 5 model due to national security concerns, despite similar issues existing in other models",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-    "published": "2026-06-19T16:01:03.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134600",
-    "category": "Other",
-    "headline": "Billionaire Ambani wants AI in every call, app, and home",
-    "summary": "Reliance aims to integrate AI into various services, including telecom, used by a large number of people",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "published": "2026-06-19T15:23:28.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134214",
-    "category": "Funding",
-    "headline": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
-    "summary": "A new AI business from Allbirds' CEO has a large seed round but currently no employees",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "published": "2026-06-19T13:00:00.000Z"
   }
 ]
