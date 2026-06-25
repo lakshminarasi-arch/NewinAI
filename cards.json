@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3136083",
+    "category": "Funding",
+    "headline": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "summary": "Amazon invests in AI infrastructure in India, joining other tech companies expanding in the country",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "published": "2026-06-25T12:00:38.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=956316",
+    "category": "Other",
+    "headline": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "summary": "Ford's automated systems made mistakes, so the company hired back former engineers to fix errors, highlighting the limitations of AI in production and design",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+    "published": "2026-06-25T12:00:00.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=956668",
     "category": "Tools",
     "headline": "Facebook’s Creator Studio has been revived as an AI companion app",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
     "published": "2026-06-22T16:51:29.000Z"
-  },
-  {
-    "id": "hn:48630171",
-    "category": "Models",
-    "headline": "Moebius: 0.2B image inpainting model with 10B-level performance",
-    "summary": "Moebius is a model that can fill in missing parts of images, performing like larger models",
-    "source": "Hacker News",
-    "url": "https://hustvl.github.io/Moebius/",
-    "published": "2026-06-22T13:53:02.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-    "category": "Policy",
-    "headline": "How Anthropic may have talked itself into an AI export ban",
-    "summary": "Anthropic's warnings about advanced AI dangers may lead to an export ban, surpassing rival OpenAI's concerns",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-    "published": "2026-06-22T13:45:24.000Z"
   }
 ]
