@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3136038",
+    "category": "Funding",
+    "headline": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+    "summary": "General Intuition gets funding to use video game data for training AI, aiming to create more human-like intuition in agents",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "published": "2026-06-25T16:00:00.000Z"
+  },
+  {
+    "id": "hn:48674446",
+    "category": "Models",
+    "headline": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+    "summary": "Ford rehired engineers due to AI's inability to retain expertise and train new staff",
+    "source": "Hacker News",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+    "published": "2026-06-25T14:58:50.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136123",
+    "category": "Funding",
+    "headline": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "summary": "Netris gets funding to speed up neocloud launches with its network switch software",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "published": "2026-06-25T14:55:38.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136081",
+    "category": "Tools",
+    "headline": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+    "summary": "Adobe buys Topaz Labs to improve image and video editing in its apps",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+    "published": "2026-06-25T13:30:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3136083",
     "category": "Funding",
     "headline": "Amazon ups India bet with fresh $13B AI infrastructure investment",
@@ -412,41 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
     "published": "2026-06-22T20:08:15.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=953888",
-    "category": "Other",
-    "headline": "AI is cursing renters with the promise of impossible homes",
-    "summary": "Renters are having a hard time finding apartments due to high prices and poor conditions, with some finding their ideal homes but facing competition from others",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-    "published": "2026-06-22T20:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135026",
-    "category": "Tools",
-    "headline": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-    "summary": "Google DeepMind partners with A24 to develop artificial intelligence tools for filmmaking",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-    "published": "2026-06-22T18:49:44.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134778",
-    "category": "Tools",
-    "headline": "Amazon is testing Alexa+ in India with Hindi support",
-    "summary": "Amazon is testing its Alexa+ assistant in India with support for the Hindi language",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-    "published": "2026-06-22T17:31:29.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133990",
-    "category": "Funding",
-    "headline": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
-    "summary": "Reflection AI pays to use Nvidia AI chips in SpaceX's data center for computing power",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-    "published": "2026-06-22T16:51:29.000Z"
   }
 ]
