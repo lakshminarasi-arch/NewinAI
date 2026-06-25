@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=957372",
+    "category": "Policy",
+    "headline": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "summary": "OpenAI delays GPT-5.6 release due to Trump administration security concerns, offering limited preview to select customers",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "published": "2026-06-25T21:57:06.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3136499",
     "category": "Funding",
     "headline": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
@@ -439,14 +448,5 @@
     "source": "Hacker News",
     "url": "https://arxiv.org/abs/2606.03748",
     "published": "2026-06-23T02:28:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132769",
-    "category": "Other",
-    "headline": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "summary": "Several big tech companies have laid off employees in 2026, citing AI as a reason",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "published": "2026-06-23T01:27:55.000Z"
   }
 ]
