@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3135956",
+    "category": "Funding",
+    "headline": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+    "summary": "AI chipmaker Cerebras forecasts lower gross margin, causing stock prices to drop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "published": "2026-06-24T22:41:41.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135912",
+    "category": "Research",
+    "headline": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "summary": "Engineers are making up a larger share of new hires despite AI advancements",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "published": "2026-06-24T21:56:41.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135911",
+    "category": "Research",
+    "headline": "AI researchers continue to leave Google for its rivals",
+    "summary": "Top researchers are leaving Google to join rival companies, with Jonas Adler and Alexander Pritzel moving to Anthropic",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "published": "2026-06-24T21:42:07.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3135849",
     "category": "Other",
     "headline": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
@@ -421,32 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/daybreak-securing-the-world",
     "published": "2026-06-22T10:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/codex-maxxing-long-running-work",
-    "category": "Tools",
-    "headline": "Codex-maxxing for long-running work",
-    "summary": "Jason Liu uses Codex to handle complex projects and maintain context over multiple prompts",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/codex-maxxing-long-running-work",
-    "published": "2026-06-22T00:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "category": "Tools",
-    "headline": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "summary": "Samsung Electronics gives its employees access to ChatGPT and Codex AI tools worldwide",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "published": "2026-06-21T23:00:00.000Z"
-  },
-  {
-    "id": "hn:48623434",
-    "category": "Models",
-    "headline": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "summary": "Fine tuning a local large language model achieves good results for categorizing questions",
-    "source": "Hacker News",
-    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "published": "2026-06-21T22:55:23.000Z"
   }
 ]
