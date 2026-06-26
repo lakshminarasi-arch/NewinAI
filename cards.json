@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3136708",
+    "category": "Tools",
+    "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "summary": "Companies like OpenAI and SpaceX are creating custom AI chips to reduce dependence on a single supplier, Nvidia, which has dominated the market",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "published": "2026-06-26T17:43:22.000Z"
+  },
+  {
+    "id": "hn:48689028",
+    "category": "Models",
+    "headline": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "summary": "A next generation model called GPT-5.6 Sol is being previewed",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "published": "2026-06-26T17:06:55.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=957845",
+    "category": "Models",
+    "headline": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "summary": "OpenAI releases GPT-5.6 model suite with three tiers, skilled in coding and biology, after US regulatory request",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "published": "2026-06-26T17:00:00.000Z"
+  },
+  {
+    "id": "hn:48688700",
+    "category": "Models",
+    "headline": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "summary": "A feature allows smart model routing directly in certain AI models",
+    "source": "Hacker News",
+    "url": "https://github.com/workweave/router",
+    "published": "2026-06-26T16:40:11.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136684",
+    "category": "Policy",
+    "headline": "It’s not about Anthropic vs. OpenAI anymore",
+    "summary": "AI models now have significant political implications, requiring a unified response to address the consequences",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "published": "2026-06-26T16:24:47.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=957327",
     "category": "Policy",
     "headline": "Anthropic s Mythos mess is only getting worse",
@@ -7,6 +52,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
     "published": "2026-06-26T14:07:03.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3136707",
+    "category": "Models",
+    "headline": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "summary": "OpenAI is developing a custom chip called Jalapeño with Broadcom to reduce dependence on Nvidia for AI processing",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "published": "2026-06-26T14:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2606.26155v1",
@@ -394,59 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
     "published": "2026-06-23T15:56:35.000Z"
-  },
-  {
-    "id": "hn:48646659",
-    "category": "Models",
-    "headline": "Krea 2: SOTA open-weights 12B image model",
-    "summary": "Krea 2 is a state of the art image model with 12 billion parameters and open weights",
-    "source": "Hacker News",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "published": "2026-06-23T15:31:21.000Z"
-  },
-  {
-    "id": "hn:48646165",
-    "category": "Tools",
-    "headline": "Show HN: peerd – AI agent harness that runs entirely in your browser",
-    "summary": "A browser based AI agent harness is introduced",
-    "source": "Hacker News",
-    "url": "https://github.com/NotASithLord/peerd",
-    "published": "2026-06-23T15:05:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=954768",
-    "category": "Tools",
-    "headline": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
-    "summary": "The Fitbit Air uses AI to track health and provide personalized advice, including warnings about sleep, heart rate, and environmental factors",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-    "published": "2026-06-23T15:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=954676",
-    "category": "Tools",
-    "headline": "Sony’s AI Camera Assistant is exactly as bad as it looks",
-    "summary": "Sony's AI Camera Assistant on the Xperia 1 VIII phone is underwhelming, producing poor photos",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-    "published": "2026-06-23T13:25:42.000Z"
-  },
-  {
-    "id": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "category": "Policy",
-    "headline": "Helping build shared standards for advanced AI",
-    "summary": "OpenAI is working with the Appia Foundation to create shared standards for advanced AI, focusing on evaluation, safety and global cooperation",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "published": "2026-06-23T13:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135158",
-    "category": "Funding",
-    "headline": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-    "summary": "Fika Jobs is creating a hiring platform using AI agents for video interviews and short video profiles",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-    "published": "2026-06-23T13:00:00.000Z"
   }
 ]
