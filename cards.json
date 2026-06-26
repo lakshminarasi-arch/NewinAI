@@ -1,5 +1,50 @@
 [
   {
+    "id": "oai:arXiv.org:2606.26155v1",
+    "category": "Research",
+    "headline": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+    "summary": "Researchers propose a method to detect and control unwanted behaviors in AI models by identifying key features using an iterative data generation pipeline",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.26155",
+    "published": "2026-06-26T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.26158v1",
+    "category": "Research",
+    "headline": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+    "summary": "Researchers study what happens when AI benchmarks reach maximum accuracy, focusing on other performance aspects like reliability and human collaboration",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.26158",
+    "published": "2026-06-26T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.26128v1",
+    "category": "Research",
+    "headline": "Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics",
+    "summary": "Researchers propose a physics-guided neural network to predict domain growth in systems with conserved kinetics, offering an efficient alternative to traditional numerical solvers",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.26128",
+    "published": "2026-06-26T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.26164v1",
+    "category": "Models",
+    "headline": "\\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation",
+    "summary": "Researchers introduce Chisao, a parallel optimizer for multimodal black-box functions, designed to utilize GPU hardware for faster optimization",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.26164",
+    "published": "2026-06-26T04:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136540",
+    "category": "Policy",
+    "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "summary": "The White House has asked OpenAI to delay releasing its new GPT 5.6 model due to safety concerns, and it will be shared with select partners instead",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "published": "2026-06-25T23:34:39.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=957372",
     "category": "Policy",
     "headline": "OpenAI will delay GPT-5.6 after Trump administration request",
@@ -135,33 +180,6 @@
     "published": "2026-06-25T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.24965v1",
-    "category": "Research",
-    "headline": "Project Auto-World: Towards Automated Benchmarking of Neural Relational Reasoners",
-    "summary": "Researchers propose using large language models to automate generating challenging test cases for neural models that reason about relational structures",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.24965",
-    "published": "2026-06-25T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.24898v1",
-    "category": "Research",
-    "headline": "Dense Supervision Is Not Enough: The Readout Blind Spot in Looped Language Models",
-    "summary": "Research finds that dense supervision in looped language models has limitations, particularly with controlling state variables and handling scale-invariant readouts",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.24898",
-    "published": "2026-06-25T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.24899v1",
-    "category": "Research",
-    "headline": "From Meta Idea to Advanced Mathematical Discovery -- Human-AI Co-Discovery of Sign-Embedding Quantum Algorithms",
-    "summary": "Researchers used AI to help turn a vague math idea into a concrete problem and theorem, leading to a discovery in quantum algorithms for matrix equations",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.24899",
-    "published": "2026-06-25T04:00:00.000Z"
-  },
-  {
     "id": "https://openai.com/index/how-agents-are-transforming-work",
     "category": "Research",
     "headline": "How agents are transforming work",
@@ -286,15 +304,6 @@
     "source": "Hacker News",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
     "published": "2026-06-24T13:14:39.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.23927v1",
-    "category": "Research",
-    "headline": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-    "summary": "Researchers introduce RIFT-Bench, a method to test AI systems' security by simulating attacks, helping to identify vulnerabilities in autonomous decision-making systems",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.23927",
-    "published": "2026-06-24T04:00:00.000Z"
   },
   {
     "id": "hn:48654274",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
     "published": "2026-06-23T12:00:34.000Z"
-  },
-  {
-    "id": "hn:48639434",
-    "category": "Models",
-    "headline": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-    "summary": "Ultralytics releases YOLO26, a real time end to end vision model for unified tasks",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2606.03748",
-    "published": "2026-06-23T02:28:00.000Z"
   }
 ]
