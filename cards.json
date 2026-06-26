@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=957327",
+    "category": "Policy",
+    "headline": "Anthropic s Mythos mess is only getting worse",
+    "summary": "Anthropic's Mythos AI models remain offline after two weeks of negotiations with the Trump administration, with no resolution or updates on their return",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+    "published": "2026-06-26T14:07:03.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2606.26155v1",
     "category": "Research",
     "headline": "Detecting and Controlling Sycophancy with Cascading Linear Features",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
     "published": "2026-06-23T13:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-    "category": "Other",
-    "headline": "How to burst the AI bubble: Strike at its roots",
-    "summary": "Author Cory Doctorow discusses his book on life after AI, exploring the concept of an AI bubble",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-    "published": "2026-06-23T12:00:34.000Z"
   }
 ]
