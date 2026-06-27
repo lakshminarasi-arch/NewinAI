@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3136944",
+    "category": "Models",
+    "headline": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+    "summary": "The Trump administration has made Anthropic's Mythos model available to over 100 US companies and agencies for use, including by their international staff",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "published": "2026-06-27T01:01:37.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=958458",
+    "category": "Models",
+    "headline": "Anthropic s Mythos 5 is back",
+    "summary": "Anthropic's Mythos 5 model is partially back online for select groups after negotiations with the government",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+    "published": "2026-06-27T00:33:44.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "category": "Models",
+    "headline": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "summary": "Microsoft faces criticism for building a supercomputer for OpenAI that allegedly infringes copyrights",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "published": "2026-06-26T20:04:55.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136773",
+    "category": "Policy",
+    "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "summary": "OpenAI restricted GPT-5.6 rollout due to a government request, but believes such restrictions shouldn't be standard practice",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "published": "2026-06-26T18:32:14.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136733",
+    "category": "Funding",
+    "headline": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "summary": "OpenAI hires Uber India's chief to lead its expansion in India, its largest market outside the US",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "published": "2026-06-26T18:19:36.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_video&p=3136708",
     "category": "Tools",
     "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
@@ -403,50 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
     "published": "2026-06-23T20:17:38.000Z"
-  },
-  {
-    "id": "hn:48649673",
-    "category": "Policy",
-    "headline": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
-    "summary": "AI hiring tools show racial bias, leading to higher rejection rates for Black and Asian applicants",
-    "source": "Hacker News",
-    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-    "published": "2026-06-23T18:56:19.000Z"
-  },
-  {
-    "id": "hn:48649137",
-    "category": "Tools",
-    "headline": "Show HN: RLM-based local debugger for AI agent traces",
-    "summary": "A local debugger for AI agent traces is developed based on RLM",
-    "source": "Hacker News",
-    "url": "https://github.com/context-labs/halo",
-    "published": "2026-06-23T18:21:52.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135349",
-    "category": "Tools",
-    "headline": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-    "summary": "Anthropic's Claude Tag is an AI tool that learns about companies through Slack messages to capture context and workflows",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-    "published": "2026-06-23T17:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-immunology-mystery",
-    "category": "Models",
-    "headline": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "summary": "GPT-5 Pro assisted an immunologist in solving a three-year-old mystery related to T cell behavior, potentially aiding cancer and autoimmune research",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "published": "2026-06-23T17:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=954826",
-    "category": "Research",
-    "headline": "Something s off with Midjourney’s pivot to body scanners",
-    "summary": "Midjourney, an AI image generator startup, has unexpectedly shifted focus to medical imaging with a futuristic ultrasound scanner",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-    "published": "2026-06-23T15:56:35.000Z"
   }
 ]
