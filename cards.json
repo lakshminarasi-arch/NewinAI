@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3136695",
+    "category": "Other",
+    "headline": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "summary": "A founder used AI to analyze his health data, including blood results and wearable output, to fight cancer",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "published": "2026-06-27T14:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=958678",
+    "category": "Other",
+    "headline": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+    "summary": "Apple increased prices for some products, citing the high costs of the AI industry as a reason, following similar moves by other tech companies",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+    "published": "2026-06-27T13:30:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136677",
+    "category": "Models",
+    "headline": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+    "summary": "Asian AI startups are releasing models similar to Mythos, avoiding US export bans and potentially dominating the market",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "published": "2026-06-27T12:00:00.000Z"
+  },
+  {
+    "id": "hn:48696585",
+    "category": "Research",
+    "headline": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "summary": "Researchers explore accelerating large language model inference with speculative decoding",
+    "source": "Hacker News",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "published": "2026-06-27T09:18:52.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3136944",
     "category": "Models",
     "headline": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
@@ -412,41 +448,5 @@
     "source": "Hacker News",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
     "published": "2026-06-24T13:14:39.000Z"
-  },
-  {
-    "id": "hn:48654274",
-    "category": "Research",
-    "headline": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-    "summary": "A new benchmark evaluates generative diffusion transformers for better understanding",
-    "source": "Hacker News",
-    "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-    "published": "2026-06-24T02:12:31.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135480",
-    "category": "Tools",
-    "headline": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-    "summary": "MoEngage acquired technology to assign AI agents to individual customers for personalized marketing",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-    "published": "2026-06-23T23:30:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=955385",
-    "category": "Tools",
-    "headline": "Google Home will soon get better at recognizing you",
-    "summary": "Google Home update improves recognition using body size and clothing color when faces are not visible",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-    "published": "2026-06-23T22:28:19.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-    "category": "Funding",
-    "headline": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-    "summary": "Oracle is using layoffs to fund its large investments in AI data center infrastructure",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-    "published": "2026-06-23T20:17:38.000Z"
   }
 ]
