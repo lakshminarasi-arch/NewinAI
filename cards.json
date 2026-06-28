@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48704373",
+    "category": "Models",
+    "headline": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "summary": "Wayfinder Router helps manage query routing between local and hosted large language models",
+    "source": "Hacker News",
+    "url": "https://github.com/itsthelore/wayfinder-router",
+    "published": "2026-06-28T04:31:18.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=958715",
     "category": "Other",
     "headline": "Margaret Atwood says the problem with AI is garbage in, garbage out",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
     "published": "2026-06-24T14:54:46.000Z"
-  },
-  {
-    "id": "hn:48660711",
-    "category": "Tools",
-    "headline": "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
-    "summary": "A Ruby framework unifies access to multiple major AI providers",
-    "source": "Hacker News",
-    "url": "https://rubyllm.com/",
-    "published": "2026-06-24T14:41:41.000Z"
   }
 ]
