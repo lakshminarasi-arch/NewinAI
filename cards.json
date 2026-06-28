@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.theverge.com/?p=958804",
+    "category": "Models",
+    "headline": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "summary": "China's Z.ai claims its GLM-5.2 model can match Mythos in certain cybersecurity tasks, closing the gap with US models",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "published": "2026-06-28T21:42:51.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=958801",
+    "category": "Other",
+    "headline": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "summary": "Suno's Spark program supports independent artists with grants and mentorship, aiming to break new artists and provide content for its AI machine",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+    "published": "2026-06-28T20:27:36.000Z"
+  },
+  {
+    "id": "hn:48710827",
+    "category": "Tools",
+    "headline": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "summary": "A Bash wrapper for large language model APIs is introduced, offering a lightweight and dependency-free solution",
+    "source": "Hacker News",
+    "url": "https://github.com/kamaludu/bash4llm/",
+    "published": "2026-06-28T19:43:10.000Z"
+  },
+  {
+    "id": "hn:48710778",
+    "category": "Models",
+    "headline": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+    "summary": "A developer created NanoEuler, a GPT-2 scale model built from scratch in C and CUDA",
+    "source": "Hacker News",
+    "url": "https://github.com/JustVugg/nanoeuler",
+    "published": "2026-06-28T19:38:14.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137021",
+    "category": "Models",
+    "headline": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "summary": "Ford is rehiring experienced engineers after finding AI alone did not produce high-quality results",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "published": "2026-06-28T19:05:39.000Z"
+  },
+  {
+    "id": "hn:48709670",
+    "category": "Models",
+    "headline": "GLM 5.2 beats Claude in our benchmarks",
+    "summary": "GLM 5.2 outperformed Claude in benchmark tests",
+    "source": "Hacker News",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "published": "2026-06-28T17:50:47.000Z"
+  },
+  {
+    "id": "hn:48708991",
+    "category": "Other",
+    "headline": "Professor denounces mass AI fraud on an exam at Brown",
+    "summary": "A professor reports widespread cheating using AI on an exam at Brown University",
+    "source": "Hacker News",
+    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "published": "2026-06-28T16:41:12.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136862",
+    "category": "Funding",
+    "headline": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "summary": "Wall Street investors think Micron could perform like Nvidia due to its potential in AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "published": "2026-06-28T15:00:00.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=958751",
     "category": "Other",
     "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
@@ -376,77 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/how-agents-are-transforming-work",
     "published": "2026-06-25T02:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135956",
-    "category": "Funding",
-    "headline": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-    "summary": "AI chipmaker Cerebras forecasts lower gross margin, causing stock prices to drop",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-    "published": "2026-06-24T22:41:41.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135912",
-    "category": "Research",
-    "headline": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-    "summary": "Engineers are making up a larger share of new hires despite AI advancements",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-    "published": "2026-06-24T21:56:41.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135911",
-    "category": "Research",
-    "headline": "AI researchers continue to leave Google for its rivals",
-    "summary": "Top researchers are leaving Google to join rival companies, with Jonas Adler and Alexander Pritzel moving to Anthropic",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-    "published": "2026-06-24T21:42:07.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135849",
-    "category": "Other",
-    "headline": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-    "summary": "Companies are trying to limit employee use of AI for small tasks to avoid overspending on AI budgets",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-    "published": "2026-06-24T20:09:45.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=956394",
-    "category": "Policy",
-    "headline": "Congresswoman denies staff used AI to write defense funding amendment",
-    "summary": "A congresswoman denies using AI to write a defense funding amendment, claiming it was only used for spellcheck in a summary",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-    "published": "2026-06-24T19:36:46.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=956263",
-    "category": "Funding",
-    "headline": "The $27 million Al proxy war over Alex Bores ends in a draw",
-    "summary": "A $27 million proxy war between Anthropic and OpenAI ended in a draw as Alex Bores lost the Democratic primary for New York's 12th Congressional district",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-    "published": "2026-06-24T17:25:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135724",
-    "category": "Tools",
-    "headline": "Facebook rolls out an AI companion app for creators",
-    "summary": "Facebook is testing an app with built-in AI assistant for creators, aiming to support their work",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-    "published": "2026-06-24T17:16:24.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135624",
-    "category": "Tools",
-    "headline": "Figma adds code layers, support for animations, more AI features in new update",
-    "summary": "Figma's update includes code layers, animation support, and custom AI plug-ins for various tasks",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-    "published": "2026-06-24T16:15:00.000Z"
   }
 ]
