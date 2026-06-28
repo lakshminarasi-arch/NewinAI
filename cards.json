@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48712420",
+    "category": "Models",
+    "headline": "Knowledge Distillation of Black-Box Large Language Models",
+    "summary": "Technique to transfer knowledge from complex language models to simpler ones",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2401.07013",
+    "published": "2026-06-28T22:32:04.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=958804",
     "category": "Models",
     "headline": "China’s Z.ai claims it can match Mythos on cybersecurity",
@@ -439,14 +448,5 @@
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2606.24937",
     "published": "2026-06-25T04:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/how-agents-are-transforming-work",
-    "category": "Research",
-    "headline": "How agents are transforming work",
-    "summary": "OpenAI research finds AI agents are changing work by handling longer tasks and increasing productivity",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-agents-are-transforming-work",
-    "published": "2026-06-25T02:00:00.000Z"
   }
 ]
