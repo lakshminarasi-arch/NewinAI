@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "category": "Research",
+    "headline": "Mapping Europe’s AI Workforce Opportunity",
+    "summary": "OpenAI report explores how AI may change jobs in the EU, predicting automation and growth in certain occupations",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "published": "2026-06-29T07:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2606.27382v1",
     "category": "Models",
     "headline": "AI-Model Network: Concept, Current State and Future",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
     "published": "2026-06-25T12:00:38.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=956316",
-    "category": "Other",
-    "headline": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-    "summary": "Ford's automated systems made mistakes, so the company hired back former engineers to fix errors, highlighting the limitations of AI in production and design",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-    "published": "2026-06-25T12:00:00.000Z"
   }
 ]
