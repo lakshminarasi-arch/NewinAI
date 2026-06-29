@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2606.27382v1",
+    "category": "Models",
+    "headline": "AI-Model Network: Concept, Current State and Future",
+    "summary": "Artificial intelligence is moving towards large models due to internet and cloud computing advancements, but high costs and complexities are driving a shift to lighter models",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.27382",
+    "published": "2026-06-29T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.27443v1",
+    "category": "Research",
+    "headline": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+    "summary": "Researchers examine how personality affects communication and task performance in multi-agent large language model teams",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.27443",
+    "published": "2026-06-29T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.27381v1",
+    "category": "Research",
+    "headline": "OverFlowLight: Real-Time Gridlock Prevention and Traffic Signal Optimization for Urban Intersections",
+    "summary": "OverFlowLight is a real-time framework to prevent gridlock and optimize traffic signals at urban intersections by addressing queue overflow issues",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.27381",
+    "published": "2026-06-29T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.27385v1",
+    "category": "Research",
+    "headline": "RANSAC Scoring Done Right",
+    "summary": "Researchers propose a new method for RANSAC scoring that eliminates the need for user-supplied parameters by analytically marginalizing the inlier scale",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.27385",
+    "published": "2026-06-29T04:00:00.000Z"
+  },
+  {
     "id": "hn:48712420",
     "category": "Models",
     "headline": "Knowledge Distillation of Black-Box Large Language Models",
@@ -61,6 +97,15 @@
     "source": "Hacker News",
     "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
     "published": "2026-06-28T17:50:47.000Z"
+  },
+  {
+    "id": "https://openai.com/index/hp-frontier-partnership",
+    "category": "Funding",
+    "headline": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "summary": "HP Inc. partners with OpenAI to use AI in customer experiences, software, and operations",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "published": "2026-06-28T17:00:00.000Z"
   },
   {
     "id": "hn:48708991",
@@ -279,33 +324,6 @@
     "published": "2026-06-26T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.26158v1",
-    "category": "Research",
-    "headline": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-    "summary": "Researchers study what happens when AI benchmarks reach maximum accuracy, focusing on other performance aspects like reliability and human collaboration",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.26158",
-    "published": "2026-06-26T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.26128v1",
-    "category": "Research",
-    "headline": "Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics",
-    "summary": "Researchers propose a physics-guided neural network to predict domain growth in systems with conserved kinetics, offering an efficient alternative to traditional numerical solvers",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.26128",
-    "published": "2026-06-26T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.26164v1",
-    "category": "Models",
-    "headline": "\\chisao{}: A GPU-Native Parallel Optimizer for Multimodal Black-Box Functions via Convergence-Anticonvergence Oscillation",
-    "summary": "Researchers introduce Chisao, a parallel optimizer for multimodal black-box functions, designed to utilize GPU hardware for faster optimization",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.26164",
-    "published": "2026-06-26T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3136540",
     "category": "Policy",
     "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
     "published": "2026-06-25T12:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=956668",
-    "category": "Tools",
-    "headline": "Facebook’s Creator Studio has been revived as an AI companion app",
-    "summary": "Meta revives Facebook Creator Studio as an AI companion app to help creators grow their audience and improve engagement with AI-driven insights and recommendations",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-    "published": "2026-06-25T09:06:19.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.24937v1",
-    "category": "Models",
-    "headline": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
-    "summary": "A comprehensive guide for building autonomous AI systems covers foundations to production deployment, focusing on understanding all layers of the pipeline",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.24937",
-    "published": "2026-06-25T04:00:00.000Z"
   }
 ]
