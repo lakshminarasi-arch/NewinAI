@@ -1,5 +1,167 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3137448",
+    "category": "Research",
+    "headline": "The AI jobs debate just got messier",
+    "summary": "Companies using AI heavily saw a rise in overall and entry-level jobs, contradicting the idea that AI replaces junior positions",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "published": "2026-06-30T04:01:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.28406v1",
+    "category": "Research",
+    "headline": "Can AI Draw Science? A Benchmark for Evaluating Scientific Figure Generation by Text-to-Image and Multimodal Models",
+    "summary": "Researchers propose a benchmark to evaluate the ability of text-to-image and multimodal models to generate scientific figures, focusing on usability and accuracy",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.28406",
+    "published": "2026-06-30T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.28413v1",
+    "category": "Research",
+    "headline": "On the Necessity of a Liquid Substrate for Mesh Intelligence",
+    "summary": "Researchers explore the requirements for a mesh intelligence system with sovereign agents, finding that a liquid substrate is necessary for optimal performance",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.28413",
+    "published": "2026-06-30T04:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137107",
+    "category": "Models",
+    "headline": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "summary": "Base44 launches its own AI model to improve performance and seek defensibility in the market",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "published": "2026-06-30T02:28:41.000Z"
+  },
+  {
+    "id": "hn:48727116",
+    "category": "Models",
+    "headline": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+    "summary": "A large scale model called LongCat-2.0 has been introduced with significant parameters",
+    "source": "Hacker News",
+    "url": "https://longcat.chat/blog/longcat-2.0/",
+    "published": "2026-06-30T00:30:11.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "category": "Funding",
+    "headline": "South Korea to spend $1T on more memory chip production and humanoid robots",
+    "summary": "South Korea plans to invest in memory chip production and develop humanoid robots with AI capabilities by 2028",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "published": "2026-06-29T21:09:43.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137386",
+    "category": "Models",
+    "headline": "Gemini’s personalized AI image generation is now free for US users",
+    "summary": "Gemini's AI image generation creates images based on user interests and data from connected Google apps, now free for US users",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "published": "2026-06-29T20:12:59.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=959211",
+    "category": "Policy",
+    "headline": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+    "summary": "Tidal won't pay royalties for music made entirely by AI, but will label such tracks instead of banning them, to protect human artists and inform listeners",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+    "published": "2026-06-29T19:47:35.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=959174",
+    "category": "Tools",
+    "headline": "OpenAI is teasing new hardware… for Codex",
+    "summary": "OpenAI is releasing a device for its Codex coding tool with customizable buttons and keys, launching on July 15th in partnership with Work Louder",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+    "published": "2026-06-29T18:52:03.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+    "category": "Policy",
+    "headline": "Google warns EU's plans to weaken its monopoly could expose user data",
+    "summary": "Google claims EU plans to share search data and open AI on Android pose significant user privacy risks",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+    "published": "2026-06-29T18:21:31.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137238",
+    "category": "Funding",
+    "headline": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "summary": "Anthropic partners with California to offer its AI model Claude at a discounted rate to the state government",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "published": "2026-06-29T18:10:26.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137204",
+    "category": "Funding",
+    "headline": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+    "summary": "South Korean tech companies plan to invest in memory lab fabs to support AI development",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "published": "2026-06-29T18:07:48.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137220",
+    "category": "Funding",
+    "headline": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "summary": "Arena's AI leaderboard has become a $100M business after launching commercial services",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "published": "2026-06-29T17:39:17.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137155",
+    "category": "Tools",
+    "headline": "Cursor now has a mobile app for guiding your coding agent on the go",
+    "summary": "Cursor's new mobile app lets users control coding agents remotely from their devices",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "published": "2026-06-29T17:03:50.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137152",
+    "category": "Policy",
+    "headline": "TIDAL cracks down on AI music by cutting off monetization",
+    "summary": "TIDAL stops paying for music made by artificial intelligence and will remove fake songs that mimic real artists",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "published": "2026-06-29T16:29:04.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=959033",
+    "category": "Policy",
+    "headline": "Lawmakers want to ban AI companies from selling your health data",
+    "summary": "US lawmakers plan to introduce a bill to stop AI companies from selling people's health and location data to brokers",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+    "published": "2026-06-29T16:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136644",
+    "category": "Funding",
+    "headline": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "summary": "Proception, a robotics startup, is working on a robot hand and has a unique approach to collecting training data",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "published": "2026-06-29T14:00:08.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137020",
+    "category": "Funding",
+    "headline": "Omen AI’s plan to optimize data centers is all wet",
+    "summary": "Omen AI uses monitoring to prevent bacterial outbreaks in data center cooling systems",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "published": "2026-06-29T13:00:00.000Z"
+  },
+  {
     "id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "category": "Research",
     "headline": "Mapping Europe’s AI Workforce Opportunity",
@@ -33,15 +195,6 @@
     "summary": "OverFlowLight is a real-time framework to prevent gridlock and optimize traffic signals at urban intersections by addressing queue overflow issues",
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2606.27381",
-    "published": "2026-06-29T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.27385v1",
-    "category": "Research",
-    "headline": "RANSAC Scoring Done Right",
-    "summary": "Researchers propose a new method for RANSAC scoring that eliminates the need for user-supplied parameters by analytically marginalizing the inlier scale",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.27385",
     "published": "2026-06-29T04:00:00.000Z"
   },
   {
@@ -160,6 +313,15 @@
     "source": "Hacker News",
     "url": "https://github.com/itsthelore/wayfinder-router",
     "published": "2026-06-28T04:31:18.000Z"
+  },
+  {
+    "id": "hn:48702825",
+    "category": "Models",
+    "headline": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "summary": "Apple's Neural Engine is discussed in terms of its architecture, programming and performance capabilities",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2606.22283",
+    "published": "2026-06-27T23:30:14.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=958715",
@@ -286,167 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
     "published": "2026-06-26T17:00:00.000Z"
-  },
-  {
-    "id": "hn:48688700",
-    "category": "Models",
-    "headline": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-    "summary": "A feature allows smart model routing directly in certain AI models",
-    "source": "Hacker News",
-    "url": "https://github.com/workweave/router",
-    "published": "2026-06-26T16:40:11.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136684",
-    "category": "Policy",
-    "headline": "It’s not about Anthropic vs. OpenAI anymore",
-    "summary": "AI models now have significant political implications, requiring a unified response to address the consequences",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "published": "2026-06-26T16:24:47.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=957327",
-    "category": "Policy",
-    "headline": "Anthropic s Mythos mess is only getting worse",
-    "summary": "Anthropic's Mythos AI models remain offline after two weeks of negotiations with the Trump administration, with no resolution or updates on their return",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-    "published": "2026-06-26T14:07:03.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3136707",
-    "category": "Models",
-    "headline": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-    "summary": "OpenAI is developing a custom chip called Jalapeño with Broadcom to reduce dependence on Nvidia for AI processing",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-    "published": "2026-06-26T14:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.26155v1",
-    "category": "Research",
-    "headline": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-    "summary": "Researchers propose a method to detect and control unwanted behaviors in AI models by identifying key features using an iterative data generation pipeline",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.26155",
-    "published": "2026-06-26T04:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136540",
-    "category": "Policy",
-    "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "summary": "The White House has asked OpenAI to delay releasing its new GPT 5.6 model due to safety concerns, and it will be shared with select partners instead",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "published": "2026-06-25T23:34:39.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=957372",
-    "category": "Policy",
-    "headline": "OpenAI will delay GPT-5.6 after Trump administration request",
-    "summary": "OpenAI delays GPT-5.6 release due to Trump administration security concerns, offering limited preview to select customers",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-    "published": "2026-06-25T21:57:06.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136499",
-    "category": "Funding",
-    "headline": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-    "summary": "Patronus AI, founded by former Meta AI researchers, raises funds to create digital environments for testing AI agents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "published": "2026-06-25T20:19:25.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "category": "Tools",
-    "headline": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-    "summary": "Notion stops developing its email app, focusing on AI agents to manage inboxes instead",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "published": "2026-06-25T19:04:57.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-    "category": "Models",
-    "headline": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-    "summary": "Alibaba allegedly used thousands of accounts to clone and exploit the Claude AI model through millions of exchanges",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-    "published": "2026-06-25T18:01:48.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135892",
-    "category": "Models",
-    "headline": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "summary": "Paid consumers are choosing Anthropic's Claude over ChatGPT, despite ChatGPT's market lead",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "published": "2026-06-25T17:38:27.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136344",
-    "category": "Research",
-    "headline": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-    "summary": "A former Databricks AI chief claims his new tech can greatly reduce AI power consumption, demonstrated through an image-generation system",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "published": "2026-06-25T16:48:11.000Z"
-  },
-  {
-    "id": "hn:48675435",
-    "category": "Tools",
-    "headline": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-    "summary": "OpenKnowledge is an open source alternative to note taking tools, focusing on AI capabilities",
-    "source": "Hacker News",
-    "url": "https://github.com/inkeep/open-knowledge",
-    "published": "2026-06-25T16:04:46.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136038",
-    "category": "Funding",
-    "headline": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
-    "summary": "General Intuition gets funding to use video game data for training AI, aiming to create more human-like intuition in agents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "published": "2026-06-25T16:00:00.000Z"
-  },
-  {
-    "id": "hn:48674446",
-    "category": "Models",
-    "headline": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-    "summary": "Ford rehired engineers due to AI's inability to retain expertise and train new staff",
-    "source": "Hacker News",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-    "published": "2026-06-25T14:58:50.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136123",
-    "category": "Funding",
-    "headline": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "summary": "Netris gets funding to speed up neocloud launches with its network switch software",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-    "published": "2026-06-25T14:55:38.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136081",
-    "category": "Tools",
-    "headline": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-    "summary": "Adobe buys Topaz Labs to improve image and video editing in its apps",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-    "published": "2026-06-25T13:30:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136083",
-    "category": "Funding",
-    "headline": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-    "summary": "Amazon invests in AI infrastructure in India, joining other tech companies expanding in the country",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-    "published": "2026-06-25T12:00:38.000Z"
   }
 ]
