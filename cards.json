@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3138183",
+    "category": "Policy",
+    "headline": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "summary": "Cloudflare requires AI companies to distinguish between search and AI training web crawlers by September 15 to avoid being blocked",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "published": "2026-07-01T17:48:37.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+    "category": "Models",
+    "headline": "After spooking Trump into safety testing, Anthropic AI models get global release",
+    "summary": "The US has lifted restrictions on Anthropic's advanced AI models, Fable and Mythos, allowing their global release after safety testing",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+    "published": "2026-07-01T16:44:18.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3138022",
     "category": "Funding",
     "headline": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
     "published": "2026-06-29T13:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "category": "Research",
-    "headline": "Mapping Europe’s AI Workforce Opportunity",
-    "summary": "OpenAI report explores how AI may change jobs in the EU, predicting automation and growth in certain occupations",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "published": "2026-06-29T07:00:00.000Z"
-  },
-  {
-    "id": "hn:48712420",
-    "category": "Models",
-    "headline": "Knowledge Distillation of Black-Box Large Language Models",
-    "summary": "Technique to transfer knowledge from complex language models to simpler ones",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2401.07013",
-    "published": "2026-06-28T22:32:04.000Z"
   }
 ]
