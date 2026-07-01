@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=959503",
+    "category": "Tools",
+    "headline": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "summary": "Google's new smart speaker is its first in six years and is built for Gemini, aiming to find new uses beyond basic functions",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "published": "2026-07-01T12:00:00.000Z"
+  },
+  {
     "id": "hn:48742514",
     "category": "Models",
     "headline": "Matrix Orthogonalization Improves Memory in Recurrent Models",
@@ -439,14 +448,5 @@
     "source": "Hacker News",
     "url": "https://github.com/kamaludu/bash4llm/",
     "published": "2026-06-28T19:43:10.000Z"
-  },
-  {
-    "id": "hn:48710778",
-    "category": "Models",
-    "headline": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-    "summary": "A developer created NanoEuler, a GPT-2 scale model built from scratch in C and CUDA",
-    "source": "Hacker News",
-    "url": "https://github.com/JustVugg/nanoeuler",
-    "published": "2026-06-28T19:38:14.000Z"
   }
 ]
