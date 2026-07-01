@@ -189,6 +189,15 @@
     "published": "2026-06-30T15:08:42.000Z"
   },
   {
+    "id": "https://techcrunch.com/?p=3137516",
+    "category": "Funding",
+    "headline": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "summary": "Amazon forms a new organization to deploy custom AI agents for companies, aiming for quick setup and customer independence",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "published": "2026-06-30T15:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3135237",
     "category": "Tools",
     "headline": "Podcasting platform Riverside enters the newsletter publishing game",
@@ -196,6 +205,33 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
     "published": "2026-06-30T15:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137266",
+    "category": "Tools",
+    "headline": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "summary": "Proton's Lumo chatbot gets an upgrade to version 2.0, offering users more features and capabilities",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "published": "2026-06-30T14:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137159",
+    "category": "Other",
+    "headline": "Crypto exchange OKX wants AI agents to hire and pay each other",
+    "summary": "OKX is creating a marketplace where AI agents can interact, get hired and paid, combining payments, identity and reputation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+    "published": "2026-06-30T09:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "category": "Models",
+    "headline": "How ChatGPT adoption has expanded",
+    "summary": "ChatGPT use is increasing worldwide, with users trying more features and driving growth in various regions and languages",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "published": "2026-06-30T09:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3137448",
@@ -232,6 +268,15 @@
     "source": "Hacker News",
     "url": "https://longcat.chat/blog/longcat-2.0/",
     "published": "2026-06-30T00:30:11.000Z"
+  },
+  {
+    "id": "https://openai.com/index/introducing-genebench-pro",
+    "category": "Models",
+    "headline": "Introducing GeneBench-Pro",
+    "summary": "OpenAI launches GeneBench-Pro, a benchmark to test AI performance using real-world genomics and biology datasets",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "published": "2026-06-30T00:00:00.000Z"
   },
   {
     "id": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
@@ -403,50 +448,5 @@
     "source": "Hacker News",
     "url": "https://github.com/JustVugg/nanoeuler",
     "published": "2026-06-28T19:38:14.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137021",
-    "category": "Models",
-    "headline": "Ford rehires ‘gray beard’ engineers after AI falls short",
-    "summary": "Ford is rehiring experienced engineers after finding AI alone did not produce high-quality results",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-    "published": "2026-06-28T19:05:39.000Z"
-  },
-  {
-    "id": "hn:48709670",
-    "category": "Models",
-    "headline": "GLM 5.2 beats Claude in our benchmarks",
-    "summary": "GLM 5.2 outperformed Claude in benchmark tests",
-    "source": "Hacker News",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "published": "2026-06-28T17:50:47.000Z"
-  },
-  {
-    "id": "https://openai.com/index/hp-frontier-partnership",
-    "category": "Funding",
-    "headline": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "summary": "HP Inc. partners with OpenAI to use AI in customer experiences, software, and operations",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/hp-frontier-partnership",
-    "published": "2026-06-28T17:00:00.000Z"
-  },
-  {
-    "id": "hn:48708991",
-    "category": "Other",
-    "headline": "Professor denounces mass AI fraud on an exam at Brown",
-    "summary": "A professor reports widespread cheating using AI on an exam at Brown University",
-    "source": "Hacker News",
-    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "published": "2026-06-28T16:41:12.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136862",
-    "category": "Funding",
-    "headline": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-    "summary": "Wall Street investors think Micron could perform like Nvidia due to its potential in AI",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-    "published": "2026-06-28T15:00:00.000Z"
   }
 ]
