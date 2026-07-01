@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3138022",
+    "category": "Funding",
+    "headline": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "summary": "Venice AI reaches unicorn status with a $65M Series A funding, its AI platform is growing with over $70 million in annual revenues",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "published": "2026-07-01T14:25:23.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3138055",
+    "category": "Tools",
+    "headline": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "summary": "Google's assistant Gemini Spark is now available on Mac with features like real-time tracking and support for more apps",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "published": "2026-07-01T14:20:19.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3138038",
+    "category": "Funding",
+    "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "summary": "Meta plans to sell access to its AI computing power and models as a cloud service, competing with major providers",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "published": "2026-07-01T13:43:07.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=959503",
     "category": "Tools",
     "headline": "Google built a great smart speaker, but Gemini isn’t ready for it",
@@ -421,32 +448,5 @@
     "source": "Hacker News",
     "url": "https://arxiv.org/abs/2401.07013",
     "published": "2026-06-28T22:32:04.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=958804",
-    "category": "Models",
-    "headline": "China’s Z.ai claims it can match Mythos on cybersecurity",
-    "summary": "China's Z.ai claims its GLM-5.2 model can match Mythos in certain cybersecurity tasks, closing the gap with US models",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-    "published": "2026-06-28T21:42:51.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=958801",
-    "category": "Other",
-    "headline": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-    "summary": "Suno's Spark program supports independent artists with grants and mentorship, aiming to break new artists and provide content for its AI machine",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-    "published": "2026-06-28T20:27:36.000Z"
-  },
-  {
-    "id": "hn:48710827",
-    "category": "Tools",
-    "headline": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-    "summary": "A Bash wrapper for large language model APIs is introduced, offering a lightweight and dependency-free solution",
-    "source": "Hacker News",
-    "url": "https://github.com/kamaludu/bash4llm/",
-    "published": "2026-06-28T19:43:10.000Z"
   }
 ]
