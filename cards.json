@@ -1,5 +1,203 @@
 [
   {
+    "id": "hn:48742514",
+    "category": "Models",
+    "headline": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "summary": "Improving memory in recurrent models is achieved through matrix orthogonalization",
+    "source": "Hacker News",
+    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "published": "2026-07-01T05:13:22.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.30774v1",
+    "category": "Research",
+    "headline": "What Drives Interactive Improvement from Feedback?",
+    "summary": "Researchers investigate how feedback improves interactive performance, separating its effects from other factors like repeated attempts and test-time computation",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.30774",
+    "published": "2026-07-01T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.30840v1",
+    "category": "Research",
+    "headline": "Contrastive Reflection for Iterative Prompt Optimization",
+    "summary": "Researchers propose a method to improve prompts for large language models by analyzing what works and what doesn't, to optimize their performance in information retrieval tasks",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2606.30840",
+    "published": "2026-07-01T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.30699v1",
+    "category": "Research",
+    "headline": "Joint discovery of governing partial differential equations from multi-source datasets by competitive optimization",
+    "summary": "Scientists developed a method to find governing equations from multiple datasets using competitive optimization, improving scientific machine learning",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.30699",
+    "published": "2026-07-01T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2606.30702v1",
+    "category": "Research",
+    "headline": "Accelerometry-Derived Digital Biomarkers for Cardiometabolic Risk: A Population-Representative Tabular Benchmark with Uncertainty Quantification",
+    "summary": "Researchers create a benchmark for predicting cardiometabolic risk using digital biomarkers from accelerometry data, evaluating three machine learning methods",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2606.30702",
+    "published": "2026-07-01T04:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137898",
+    "category": "Policy",
+    "headline": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "summary": "Trump administration lifts restrictions on Anthropic's AI models Mythos and Fable, amid unclear AI policymaking",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "published": "2026-07-01T02:16:06.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137957",
+    "category": "Funding",
+    "headline": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "summary": "Wayve offers employees a chance to sell shares at a high valuation to keep them at the AI startup",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "published": "2026-07-01T02:04:40.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=958964",
+    "category": "Tools",
+    "headline": "Anthropic s long-sidelined Fable 5 is greenlit to return",
+    "summary": "Anthropic's Fable 5 is being restored after export controls were lifted, allowing global access on various platforms",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+    "published": "2026-07-01T00:03:55.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137864",
+    "category": "Tools",
+    "headline": "OpenClaw is finally available on Android and iOS",
+    "summary": "OpenClaw, a free open source program, is now available for download on Android and iOS devices",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "published": "2026-06-30T21:53:28.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137627",
+    "category": "Research",
+    "headline": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "summary": "Ex-DeepMind researchers founded EquiLibre Technologies, an AI lab now valued over $500 million, helping quant hedge funds make money",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "published": "2026-06-30T20:33:48.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "category": "Models",
+    "headline": "New attack provides one more reason why AI browsers are a bad idea",
+    "summary": "A new attack shows that telling a large language model incorrect information can make it follow forbidden instructions, raising concerns about AI browsers",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "published": "2026-06-30T20:03:14.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=959778",
+    "category": "Tools",
+    "headline": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+    "summary": "Google's NotebookLM generates short AI videos summarizing research notes, similar to TikTok clips, for subscribers",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "published": "2026-06-30T19:24:51.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137719",
+    "category": "Models",
+    "headline": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "summary": "Google updates its image generator to be faster and more affordable for creators making AI content",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "published": "2026-06-30T19:02:38.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "category": "Models",
+    "headline": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+    "summary": "Google's Nano Banana 2 Lite model generates images quickly and at a lower cost, though quality may be compromised",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "published": "2026-06-30T18:36:10.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137668",
+    "category": "Models",
+    "headline": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "summary": "Etched, a competitor to Nvidia, has reached a $5 billion valuation and secured $1 billion in sales for its AI chip used in inference systems",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "published": "2026-06-30T18:13:02.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137723",
+    "category": "Models",
+    "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "summary": "Anthropic's Claude Sonnet 5 offers improved capabilities and safety at a lower cost, competing with other models like Opus and GPT-5.5",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "published": "2026-06-30T18:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137678",
+    "category": "Tools",
+    "headline": "Acti puts AI agents directly into your smartphone keyboard",
+    "summary": "Acti's new keyboard app for iOS and Android integrates AI agents, allowing users to create custom shortcuts with natural language",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "published": "2026-06-30T17:52:46.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=959684",
+    "category": "Tools",
+    "headline": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+    "summary": "Netflix uses an AI-generated voice of Gene Wilder in its Willy Wonka reality show with permission from his family",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+    "published": "2026-06-30T17:19:15.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137674",
+    "category": "Tools",
+    "headline": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+    "summary": "Anthropic's Claude Science offers a unified workbench for scientists to conduct computational research, streamlining their workflow",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "published": "2026-06-30T17:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=959433",
+    "category": "Tools",
+    "headline": "Libby will filter out AI content, kind of",
+    "summary": "Libby ebook lending app will introduce filters for AI-generated content to address disruption in digital publishing",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+    "published": "2026-06-30T15:30:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137526",
+    "category": "Tools",
+    "headline": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "summary": "X simplifies AI tool integration with its platform by introducing a hosted MCP server for easier API connections",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "published": "2026-06-30T15:08:42.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135237",
+    "category": "Tools",
+    "headline": "Podcasting platform Riverside enters the newsletter publishing game",
+    "summary": "Riverside uses AI to help users create newsletters from their podcast recordings",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "published": "2026-06-30T15:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3137448",
     "category": "Research",
     "headline": "The AI jobs debate just got messier",
@@ -15,15 +213,6 @@
     "summary": "Researchers propose a benchmark to evaluate the ability of text-to-image and multimodal models to generate scientific figures, focusing on usability and accuracy",
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2606.28406",
-    "published": "2026-06-30T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.28413v1",
-    "category": "Research",
-    "headline": "On the Necessity of a Liquid Substrate for Mesh Intelligence",
-    "summary": "Researchers explore the requirements for a mesh intelligence system with sovereign agents, finding that a liquid substrate is necessary for optimal performance",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.28413",
     "published": "2026-06-30T04:00:00.000Z"
   },
   {
@@ -171,33 +360,6 @@
     "published": "2026-06-29T07:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.27382v1",
-    "category": "Models",
-    "headline": "AI-Model Network: Concept, Current State and Future",
-    "summary": "Artificial intelligence is moving towards large models due to internet and cloud computing advancements, but high costs and complexities are driving a shift to lighter models",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.27382",
-    "published": "2026-06-29T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.27443v1",
-    "category": "Research",
-    "headline": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-    "summary": "Researchers examine how personality affects communication and task performance in multi-agent large language model teams",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.27443",
-    "published": "2026-06-29T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.27381v1",
-    "category": "Research",
-    "headline": "OverFlowLight: Real-Time Gridlock Prevention and Traffic Signal Optimization for Urban Intersections",
-    "summary": "OverFlowLight is a real-time framework to prevent gridlock and optimize traffic signals at urban intersections by addressing queue overflow issues",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.27381",
-    "published": "2026-06-29T04:00:00.000Z"
-  },
-  {
     "id": "hn:48712420",
     "category": "Models",
     "headline": "Knowledge Distillation of Black-Box Large Language Models",
@@ -286,167 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
     "published": "2026-06-28T15:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=958751",
-    "category": "Other",
-    "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-    "summary": "Prosecutors used a defendant's ChatGPT logs as evidence in an arson trial, including generated images and conversations about anger and wealth",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-    "published": "2026-06-28T14:12:06.000Z"
-  },
-  {
-    "id": "hn:48707103",
-    "category": "Models",
-    "headline": "Google limits Meta's use of its Gemini AI models",
-    "summary": "Google restricts Meta's access to its Gemini AI models",
-    "source": "Hacker News",
-    "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-    "published": "2026-06-28T13:30:06.000Z"
-  },
-  {
-    "id": "hn:48704373",
-    "category": "Models",
-    "headline": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-    "summary": "Wayfinder Router helps manage query routing between local and hosted large language models",
-    "source": "Hacker News",
-    "url": "https://github.com/itsthelore/wayfinder-router",
-    "published": "2026-06-28T04:31:18.000Z"
-  },
-  {
-    "id": "hn:48702825",
-    "category": "Models",
-    "headline": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "summary": "Apple's Neural Engine is discussed in terms of its architecture, programming and performance capabilities",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2606.22283",
-    "published": "2026-06-27T23:30:14.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=958715",
-    "category": "Other",
-    "headline": "Margaret Atwood says the problem with AI is garbage in, garbage out",
-    "summary": "Author Margaret Atwood expresses skepticism about AI, citing poor results from a chatbot, saying it provided unhelpful information",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-    "published": "2026-06-27T18:39:32.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136981",
-    "category": "Funding",
-    "headline": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "summary": "An Apple executive in charge of the Vision Pro headset is leaving to join OpenAI's hardware team",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "published": "2026-06-27T16:45:09.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136695",
-    "category": "Other",
-    "headline": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "summary": "A founder used AI to analyze his health data, including blood results and wearable output, to fight cancer",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-    "published": "2026-06-27T14:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=958678",
-    "category": "Other",
-    "headline": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-    "summary": "Apple increased prices for some products, citing the high costs of the AI industry as a reason, following similar moves by other tech companies",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-    "published": "2026-06-27T13:30:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136677",
-    "category": "Models",
-    "headline": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-    "summary": "Asian AI startups are releasing models similar to Mythos, avoiding US export bans and potentially dominating the market",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "published": "2026-06-27T12:00:00.000Z"
-  },
-  {
-    "id": "hn:48696585",
-    "category": "Research",
-    "headline": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-    "summary": "Researchers explore accelerating large language model inference with speculative decoding",
-    "source": "Hacker News",
-    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-    "published": "2026-06-27T09:18:52.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136944",
-    "category": "Models",
-    "headline": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-    "summary": "The Trump administration has made Anthropic's Mythos model available to over 100 US companies and agencies for use, including by their international staff",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-    "published": "2026-06-27T01:01:37.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=958458",
-    "category": "Models",
-    "headline": "Anthropic s Mythos 5 is back",
-    "summary": "Anthropic's Mythos 5 model is partially back online for select groups after negotiations with the government",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-    "published": "2026-06-27T00:33:44.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-    "category": "Models",
-    "headline": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-    "summary": "Microsoft faces criticism for building a supercomputer for OpenAI that allegedly infringes copyrights",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-    "published": "2026-06-26T20:04:55.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136773",
-    "category": "Policy",
-    "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "summary": "OpenAI restricted GPT-5.6 rollout due to a government request, but believes such restrictions shouldn't be standard practice",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-    "published": "2026-06-26T18:32:14.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136733",
-    "category": "Funding",
-    "headline": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "summary": "OpenAI hires Uber India's chief to lead its expansion in India, its largest market outside the US",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-    "published": "2026-06-26T18:19:36.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3136708",
-    "category": "Tools",
-    "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-    "summary": "Companies like OpenAI and SpaceX are creating custom AI chips to reduce dependence on a single supplier, Nvidia, which has dominated the market",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-    "published": "2026-06-26T17:43:22.000Z"
-  },
-  {
-    "id": "hn:48689028",
-    "category": "Models",
-    "headline": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "summary": "A next generation model called GPT-5.6 Sol is being previewed",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "published": "2026-06-26T17:06:55.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=957845",
-    "category": "Models",
-    "headline": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-    "summary": "OpenAI releases GPT-5.6 model suite with three tiers, skilled in coding and biology, after US regulatory request",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-    "published": "2026-06-26T17:00:00.000Z"
   }
 ]
