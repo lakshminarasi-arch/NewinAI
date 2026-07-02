@@ -1,5 +1,50 @@
 [
   {
+    "id": "oai:arXiv.org:2607.00001v1",
+    "category": "Research",
+    "headline": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+    "summary": "Researchers propose Constructive Alignment, a new approach to AI alignment that considers human preferences as dynamic and shaped by interaction with AI systems",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.00001",
+    "published": "2026-07-02T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.00002v1",
+    "category": "Research",
+    "headline": "Bounded Morality: Defining the Space of Moral Computation",
+    "summary": "Researchers propose Bounded Morality, a framework to analyze computational demands of moral problems faced by finite agents, extending bounded rationality concept",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.00002",
+    "published": "2026-07-02T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.00089v1",
+    "category": "Research",
+    "headline": "Representation as a Bottleneck for Mechanistic Interpretability: The Manifestation Unit Protocol",
+    "summary": "Researchers examine the representation layer as a bottleneck for mechanistic interpretability in neural networks, aiming to make component-level analyses more reusable and actionable",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.00089",
+    "published": "2026-07-02T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.00095v1",
+    "category": "Research",
+    "headline": "SNAP-FM: Sparse Nonlinear Accelerated Projection for Physics-Constrained Generative Modeling",
+    "summary": "Researchers propose SNAP-FM, a method to improve physics-constrained generative modeling by efficiently enforcing constraints during inference",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.00095",
+    "published": "2026-07-02T04:00:00.000Z"
+  },
+  {
+    "id": "hn:48755928",
+    "category": "Models",
+    "headline": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+    "summary": "A new open-source benchmark evaluates AI agents as senior software engineers",
+    "source": "Hacker News",
+    "url": "https://senior-swe-bench.snorkel.ai/",
+    "published": "2026-07-02T02:55:16.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3138183",
     "category": "Policy",
     "headline": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
@@ -69,33 +114,6 @@
     "summary": "Researchers investigate how feedback improves interactive performance, separating its effects from other factors like repeated attempts and test-time computation",
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2606.30774",
-    "published": "2026-07-01T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.30840v1",
-    "category": "Research",
-    "headline": "Contrastive Reflection for Iterative Prompt Optimization",
-    "summary": "Researchers propose a method to improve prompts for large language models by analyzing what works and what doesn't, to optimize their performance in information retrieval tasks",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2606.30840",
-    "published": "2026-07-01T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.30699v1",
-    "category": "Research",
-    "headline": "Joint discovery of governing partial differential equations from multi-source datasets by competitive optimization",
-    "summary": "Scientists developed a method to find governing equations from multiple datasets using competitive optimization, improving scientific machine learning",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.30699",
-    "published": "2026-07-01T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2606.30702v1",
-    "category": "Research",
-    "headline": "Accelerometry-Derived Digital Biomarkers for Cardiometabolic Risk: A Population-Representative Tabular Benchmark with Uncertainty Quantification",
-    "summary": "Researchers create a benchmark for predicting cardiometabolic risk using digital biomarkers from accelerometry data, evaluating three machine learning methods",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.30702",
     "published": "2026-07-01T04:00:00.000Z"
   },
   {
@@ -297,15 +315,6 @@
     "published": "2026-06-30T04:01:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2606.28406v1",
-    "category": "Research",
-    "headline": "Can AI Draw Science? A Benchmark for Evaluating Scientific Figure Generation by Text-to-Image and Multimodal Models",
-    "summary": "Researchers propose a benchmark to evaluate the ability of text-to-image and multimodal models to generate scientific figures, focusing on usability and accuracy",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2606.28406",
-    "published": "2026-06-30T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3137107",
     "category": "Models",
     "headline": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
     "published": "2026-06-29T14:00:08.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137020",
-    "category": "Funding",
-    "headline": "Omen AI’s plan to optimize data centers is all wet",
-    "summary": "Omen AI uses monitoring to prevent bacterial outbreaks in data center cooling systems",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-    "published": "2026-06-29T13:00:00.000Z"
   }
 ]
