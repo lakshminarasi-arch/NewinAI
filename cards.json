@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3138583",
+    "category": "Funding",
+    "headline": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "summary": "OpenAI's CEO proposes donating a portion of the company's equity to a US fund, potentially sharing AI profits with the public",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "published": "2026-07-02T15:20:51.000Z"
+  },
+  {
+    "id": "hn:48762038",
+    "category": "Tools",
+    "headline": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+    "summary": "A command line tool uses embedding models to find similar code",
+    "source": "Hacker News",
+    "url": "https://github.com/rafal-qa/slopo",
+    "published": "2026-07-02T14:19:24.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3138546",
+    "category": "Funding",
+    "headline": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "summary": "Microsoft creates an AI deployment company, joining others in the field with a significant investment",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "published": "2026-07-02T13:53:00.000Z"
+  },
+  {
+    "id": "hn:48761536",
+    "category": "Policy",
+    "headline": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+    "summary": "Japan's top court decides AI systems cannot be named as inventors on patent applications",
+    "source": "Hacker News",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+    "published": "2026-07-02T13:43:41.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137764",
+    "category": "Tools",
+    "headline": "Yep, we’re using OpenClaw to date now",
+    "summary": "A person used OpenClaw and Claude code to automate interactions on Instagram, potentially for dating",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+    "published": "2026-07-02T12:00:00.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+    "category": "Models",
+    "headline": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+    "summary": "Google's AI expansion caused a significant rise in electricity use, prompting efforts to balance emissions with clean energy",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+    "published": "2026-07-02T11:15:49.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=960588",
+    "category": "Policy",
+    "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "summary": "OpenAI considers giving the US government a 5 percent stake to ease tensions and share AI benefits with the public",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "published": "2026-07-02T10:23:27.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3138430",
+    "category": "Funding",
+    "headline": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "summary": "Indian tech entrepreneur invests $30M in Neo, an AI-based alternative to Microsoft Office and Google Apps",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "published": "2026-07-02T05:30:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.00001v1",
     "category": "Research",
     "headline": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
@@ -376,77 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
     "published": "2026-06-29T18:52:03.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-    "category": "Policy",
-    "headline": "Google warns EU's plans to weaken its monopoly could expose user data",
-    "summary": "Google claims EU plans to share search data and open AI on Android pose significant user privacy risks",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
-    "published": "2026-06-29T18:21:31.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137238",
-    "category": "Funding",
-    "headline": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-    "summary": "Anthropic partners with California to offer its AI model Claude at a discounted rate to the state government",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-    "published": "2026-06-29T18:10:26.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137204",
-    "category": "Funding",
-    "headline": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-    "summary": "South Korean tech companies plan to invest in memory lab fabs to support AI development",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-    "published": "2026-06-29T18:07:48.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137220",
-    "category": "Funding",
-    "headline": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-    "summary": "Arena's AI leaderboard has become a $100M business after launching commercial services",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-    "published": "2026-06-29T17:39:17.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137155",
-    "category": "Tools",
-    "headline": "Cursor now has a mobile app for guiding your coding agent on the go",
-    "summary": "Cursor's new mobile app lets users control coding agents remotely from their devices",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-    "published": "2026-06-29T17:03:50.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137152",
-    "category": "Policy",
-    "headline": "TIDAL cracks down on AI music by cutting off monetization",
-    "summary": "TIDAL stops paying for music made by artificial intelligence and will remove fake songs that mimic real artists",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-    "published": "2026-06-29T16:29:04.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=959033",
-    "category": "Policy",
-    "headline": "Lawmakers want to ban AI companies from selling your health data",
-    "summary": "US lawmakers plan to introduce a bill to stop AI companies from selling people's health and location data to brokers",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-    "published": "2026-06-29T16:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136644",
-    "category": "Funding",
-    "headline": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-    "summary": "Proception, a robotics startup, is working on a robot hand and has a unique approach to collecting training data",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-    "published": "2026-06-29T14:00:08.000Z"
   }
 ]
