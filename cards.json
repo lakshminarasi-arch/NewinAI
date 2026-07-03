@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.theverge.com/?p=961311",
+    "category": "Tools",
+    "headline": "Anthropic wants to develop its own drugs",
+    "summary": "Anthropic launches Claude Science, an AI tool for scientists to accelerate discovery and healthcare development",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "published": "2026-07-03T13:56:52.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=961265",
+    "category": "Other",
+    "headline": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+    "summary": "Midjourney's medical scanner uses AI for cheap and detailed imaging, but lacks proof of its effectiveness",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+    "published": "2026-07-03T11:49:10.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.01306v1",
     "category": "Models",
     "headline": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
@@ -430,23 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "published": "2026-06-30T09:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137448",
-    "category": "Research",
-    "headline": "The AI jobs debate just got messier",
-    "summary": "Companies using AI heavily saw a rise in overall and entry-level jobs, contradicting the idea that AI replaces junior positions",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-    "published": "2026-06-30T04:01:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137107",
-    "category": "Models",
-    "headline": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-    "summary": "Base44 launches its own AI model to improve performance and seek defensibility in the market",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-    "published": "2026-06-30T02:28:41.000Z"
   }
 ]
