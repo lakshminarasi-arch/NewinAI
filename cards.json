@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48776464",
+    "category": "Models",
+    "headline": "60% Fable cost cut by converting code to images and having the model OCR it",
+    "summary": "A model uses OCR to process code converted into images, reducing Fable costs by 60 percent",
+    "source": "Hacker News",
+    "url": "https://github.com/teamchong/pxpipe",
+    "published": "2026-07-03T15:50:49.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=961311",
     "category": "Tools",
     "headline": "Anthropic wants to develop its own drugs",
@@ -438,15 +447,6 @@
     "summary": "OKX is creating a marketplace where AI agents can interact, get hired and paid, combining payments, identity and reputation",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-    "published": "2026-06-30T09:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "category": "Models",
-    "headline": "How ChatGPT adoption has expanded",
-    "summary": "ChatGPT use is increasing worldwide, with users trying more features and driving growth in various regions and languages",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "published": "2026-06-30T09:00:00.000Z"
   }
 ]
