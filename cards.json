@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3138982",
+    "category": "Other",
+    "headline": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "summary": "A Google commercial explores what the Declaration of Independence would look like if written with AI assistance",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "published": "2026-07-04T20:55:25.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3138980",
     "category": "Policy",
     "headline": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
     "published": "2026-06-30T17:19:15.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137674",
-    "category": "Tools",
-    "headline": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-    "summary": "Anthropic's Claude Science offers a unified workbench for scientists to conduct computational research, streamlining their workflow",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-    "published": "2026-06-30T17:00:00.000Z"
   }
 ]
