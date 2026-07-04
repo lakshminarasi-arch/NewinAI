@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3138980",
+    "category": "Policy",
+    "headline": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "summary": "Midjourney is in a legal dispute with Hollywood studios and wants them to disclose their own AI usage",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "published": "2026-07-04T18:00:05.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3138976",
     "category": "Tools",
     "headline": "Alibaba reportedly bans employees from using Claude Code",
@@ -243,6 +252,15 @@
     "published": "2026-07-02T02:55:16.000Z"
   },
   {
+    "id": "hn:48753160",
+    "category": "Research",
+    "headline": "Neural Render Proxies for Interactive and Differentiable Lighting",
+    "summary": "Researchers explore neural render proxies for interactive lighting",
+    "source": "Hacker News",
+    "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+    "published": "2026-07-01T21:10:16.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3138183",
     "category": "Policy",
     "headline": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
     "published": "2026-06-30T17:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=959433",
-    "category": "Tools",
-    "headline": "Libby will filter out AI content, kind of",
-    "summary": "Libby ebook lending app will introduce filters for AI-generated content to address disruption in digital publishing",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-    "published": "2026-06-30T15:30:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137526",
-    "category": "Tools",
-    "headline": "X now offers an MCP server to make its platform easier for AI tools to use",
-    "summary": "X simplifies AI tool integration with its platform by introducing a hosted MCP server for easier API connections",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-    "published": "2026-06-30T15:08:42.000Z"
   }
 ]
