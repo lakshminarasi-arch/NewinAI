@@ -1,7 +1,7 @@
 /* ============================================================
-   NewinAI — app.js
+   NewinAI — app.js  (build: feedback-v1)
    Renders cards.json into a scroll-snap feed, drives progress,
-   first-run hint, share, theme, and online/offline states.
+   first-run hint, share, theme, feedback, and online/offline states.
    No framework. No build step.
    ============================================================ */
 

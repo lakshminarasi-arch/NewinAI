@@ -2,11 +2,13 @@
 [build]
   publish = "."
   command = ""
-  # Build ONLY when the deployed site assets change. The live site is exactly
-  # index.html + styles.css + app.js (cards.json is fetched from GitHub at runtime),
-  # so commits to the pipeline, scripts, data, or docs never need a rebuild.
-  # Exit 0 = skip the build; non-zero = build. This keeps cron + pipeline edits free.
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- index.html styles.css app.js"
+  # Build ONLY when the deployed site assets change (index.html / styles.css / app.js);
+  # cards.json is fetched from GitHub at runtime, so cron + pipeline commits never need
+  # a rebuild. Compare against the PARENT commit (not $CACHED_COMMIT_REF) — the parent
+  # is reliably present in Netlify's shallow clone, and if git errors this exits non-zero
+  # (= build), failing safe. Exit 0 = skip. Caveat: if a data commit lands on top of an
+  # asset commit before Netlify builds, push an empty asset touch to force the deploy.
+  ignore = "git diff --quiet HEAD~1 HEAD -- index.html styles.css app.js"
 
 # cards.json is rewritten by the cron job; don't let the CDN serve a stale copy.
 [[headers]]
