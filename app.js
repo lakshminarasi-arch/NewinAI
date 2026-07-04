@@ -171,6 +171,9 @@ function buildCard(story, index, total) {
   // share
   node.querySelector('.share-btn').addEventListener('click', () => openShare(story));
 
+  // relevance feedback
+  wireFeedback(node, story);
+
   // progress segments
   const prog = node.querySelector('.progress');
   for (let i = 1; i <= total; i++) {
@@ -349,8 +352,80 @@ document.getElementById('offline-retry').addEventListener('click', () => {
   hideOffline();
   load();
 });
-window.addEventListener('online', () => { hideOffline(); load(); });
+window.addEventListener('online', () => { hideOffline(); flushOutbox(); load(); });
 window.addEventListener('offline', showOffline);
+
+/* ---------- reader relevance feedback ----------
+   Votes are remembered per story on the device and sent best-effort to a Google
+   Sheet (Apps Script Web App). Set FEEDBACK_ENDPOINT to the deployed /exec URL to
+   turn collection on; until then the buttons work UI-only (local memory). */
+const FEEDBACK_ENDPOINT = 'https://script.google.com/macros/s/AKfycby3SvEH-Bc4T7qWUdEUpMOCbmbRWp-hfgw186Lx1Y4TSO0jyr8zCfMCpxjxNbn9VLPKKw/exec';
+
+function clientId() {
+  try {
+    let id = localStorage.getItem('newinai.cid');
+    if (!id) { id = 'c-' + Math.random().toString(36).slice(2, 10) + Date.now().toString(36); localStorage.setItem('newinai.cid', id); }
+    return id;
+  } catch (_) { return 'c-anon'; }
+}
+function getVote(id) { try { return localStorage.getItem('newinai.vote.' + id) || ''; } catch (_) { return ''; } }
+function setVote(id, v) { try { localStorage.setItem('newinai.vote.' + id, v); } catch (_) {} }
+
+function loadOutbox() { try { return JSON.parse(localStorage.getItem('newinai.outbox') || '[]'); } catch (_) { return []; } }
+function saveOutbox(q) { try { localStorage.setItem('newinai.outbox', JSON.stringify(q.slice(-200))); } catch (_) {} }
+
+// queue a vote and try to deliver
+function sendVote(payload) {
+  if (!FEEDBACK_ENDPOINT) return;      // collection off until the endpoint is set
+  const q = loadOutbox(); q.push(payload); saveOutbox(q);
+  flushOutbox();
+}
+let flushing = false;
+async function flushOutbox() {
+  if (flushing || !FEEDBACK_ENDPOINT || !navigator.onLine) return;
+  flushing = true;
+  const pending = loadOutbox();
+  const kept = [];
+  for (const item of pending) {
+    try {
+      // text/plain avoids a CORS preflight; no-cors makes it fire-and-forget.
+      await fetch(FEEDBACK_ENDPOINT, {
+        method: 'POST', mode: 'no-cors', keepalive: true,
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        body: JSON.stringify(item),
+      });
+    } catch (_) {
+      kept.push(item);                 // network failure → retry on next load/online
+    }
+  }
+  saveOutbox(kept);
+  flushing = false;
+}
+
+// wire the two buttons on a card
+function wireFeedback(node, story) {
+  const fb = node.querySelector('.feedback');
+  if (!fb) return;
+  const btns = fb.querySelectorAll('.fb-btn');
+  const label = fb.querySelector('.feedback-label');
+  const reflect = (vote) => {
+    btns.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.vote === vote)));
+    label.textContent = vote ? 'Thanks — noted' : 'Was this relevant?';
+  };
+  reflect(getVote(story.id));
+  btns.forEach(btn => btn.addEventListener('click', () => {
+    const vote = btn.dataset.vote;
+    if (getVote(story.id) === vote) return;   // no change
+    setVote(story.id, vote);
+    reflect(vote);
+    sendVote({
+      id: story.id, vote,
+      category: story.category, source: story.source,
+      headline: (story.headline || '').slice(0, 200),
+      clientId: clientId(), ts: new Date().toISOString(),
+    });
+  }));
+}
 
 /* ---------- load ----------
    Cards are served from the GitHub-hosted copy (raw CDN), not from the Netlify
@@ -395,5 +470,6 @@ async function load() {
   let saved = 'dark';
   try { saved = localStorage.getItem('newinai.theme') || 'dark'; } catch (_) {}
   document.documentElement.setAttribute('data-theme', saved);
+  flushOutbox();   // deliver any votes queued while offline last time
   load();
 })();

@@ -202,6 +202,49 @@ html, body {
   display: flex; align-items: center; justify-content: center;
 }
 
+/* ---------- relevance feedback (quiet, under the CTA) ---------- */
+.feedback { display: flex; flex-direction: column; gap: 8px; margin-top: 2px; }
+.feedback-label {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: 10.5px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  opacity: .85;
+}
+.feedback-btns { display: flex; gap: 10px; }
+.fb-btn {
+  font-family: var(--font-mono);
+  font-weight: 600;
+  font-size: 11.5px;
+  letter-spacing: .6px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  background: transparent;
+  border: 1px solid var(--hairline);
+  border-radius: 999px;
+  padding: 10px 16px;
+  min-height: 40px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: background .15s, color .15s, border-color .15s;
+}
+.fb-btn:hover { border-color: var(--text-muted); }
+.fb-btn::before { content: ''; }
+.fb-btn[data-vote="relevant"][aria-pressed="true"] {
+  color: #08080A; background: var(--green); border-color: var(--green);
+}
+.fb-btn[data-vote="relevant"][aria-pressed="true"]::before { content: '\2713\00a0'; }   /* ✓ */
+.fb-btn[data-vote="not_relevant"][aria-pressed="true"] {
+  color: #08080A; background: var(--red); border-color: var(--red);
+}
+.fb-btn[data-vote="not_relevant"][aria-pressed="true"]::before { content: '\00d7\00a0'; } /* × */
+/* image cards: keep the chips readable over the scrim */
+.card--has-image .fb-btn { border-color: rgba(255,255,255,.22); }
+
 /* ---------- progress segments (§7) ---------- */
 .progress {
   position: absolute;
