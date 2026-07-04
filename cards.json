@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=960854",
+    "category": "Other",
+    "headline": "The fanfiction community is at war with AI — and itself",
+    "summary": "Fanfiction communities are trying to identify and exclude writers using generative AI tools, but their detection methods are uncertain",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+    "published": "2026-07-04T12:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=2973217",
     "category": "Other",
     "headline": "The only AI glossary you’ll need this year",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
     "published": "2026-06-30T15:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137266",
-    "category": "Tools",
-    "headline": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-    "summary": "Proton's Lumo chatbot gets an upgrade to version 2.0, offering users more features and capabilities",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-    "published": "2026-06-30T14:00:00.000Z"
   }
 ]
