@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=961505",
+    "category": "Other",
+    "headline": "Some of the nation’s rich are letting AI teach their kids",
+    "summary": "Wealthy Americans are using AI to teach their kids, despite general distrust of AI, with companies offering expensive AI-powered education",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "published": "2026-07-05T22:30:54.000Z"
+  },
+  {
     "id": "hn:48796817",
     "category": "Models",
     "headline": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
     "published": "2026-06-30T19:24:51.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137719",
-    "category": "Models",
-    "headline": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-    "summary": "Google updates its image generator to be faster and more affordable for creators making AI content",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-    "published": "2026-06-30T19:02:38.000Z"
   }
 ]
