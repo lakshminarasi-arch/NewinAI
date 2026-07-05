@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48796817",
+    "category": "Models",
+    "headline": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "summary": "An AI tutoring system showed a significant effect size in a Dartmouth course, suggesting potential for AI in education",
+    "source": "Hacker News",
+    "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "published": "2026-07-05T18:47:43.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3139008",
     "category": "Tools",
     "headline": "Amazon will stop accepting new customers for Mechanical Turk",
@@ -7,6 +16,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
     "published": "2026-07-05T17:43:36.000Z"
+  },
+  {
+    "id": "hn:48795830",
+    "category": "Models",
+    "headline": "A sociotechnical threat model for AI-driven smart home devices",
+    "summary": "Researchers consider threats to smart home devices that use artificial intelligence",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2602.09239",
+    "published": "2026-07-05T17:05:57.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=961468",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
     "published": "2026-06-30T19:02:38.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-    "category": "Models",
-    "headline": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-    "summary": "Google's Nano Banana 2 Lite model generates images quickly and at a lower cost, though quality may be compromised",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-    "published": "2026-06-30T18:36:10.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137668",
-    "category": "Models",
-    "headline": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-    "summary": "Etched, a competitor to Nvidia, has reached a $5 billion valuation and secured $1 billion in sales for its AI chip used in inference systems",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-    "published": "2026-06-30T18:13:02.000Z"
   }
 ]
