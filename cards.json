@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3139008",
+    "category": "Tools",
+    "headline": "Amazon will stop accepting new customers for Mechanical Turk",
+    "summary": "Amazon's Mechanical Turk service is ending new customer signups, possibly signaling its end",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "published": "2026-07-05T17:43:36.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=961468",
+    "category": "Other",
+    "headline": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "summary": "A Google commercial envisions the founding fathers using Google Workspace and AI to draft the Declaration of Independence",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "published": "2026-07-05T14:23:11.000Z"
+  },
+  {
     "id": "hn:48789986",
     "category": "Models",
     "headline": "Mapping with In-Memory Layers to Reduce LLM Overload",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
     "published": "2026-06-30T18:13:02.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137723",
-    "category": "Models",
-    "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "summary": "Anthropic's Claude Sonnet 5 offers improved capabilities and safety at a lower cost, competing with other models like Opus and GPT-5.5",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "published": "2026-06-30T18:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137678",
-    "category": "Tools",
-    "headline": "Acti puts AI agents directly into your smartphone keyboard",
-    "summary": "Acti's new keyboard app for iOS and Android integrates AI agents, allowing users to create custom shortcuts with natural language",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-    "published": "2026-06-30T17:52:46.000Z"
   }
 ]
