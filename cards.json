@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48789986",
+    "category": "Models",
+    "headline": "Mapping with In-Memory Layers to Reduce LLM Overload",
+    "summary": "Technique uses in-memory layers to reduce large language model overload",
+    "source": "Hacker News",
+    "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+    "published": "2026-07-04T23:25:53.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3138982",
     "category": "Other",
     "headline": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
     "published": "2026-06-30T17:52:46.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=959684",
-    "category": "Tools",
-    "headline": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-    "summary": "Netflix uses an AI-generated voice of Gene Wilder in its Willy Wonka reality show with permission from his family",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-    "published": "2026-06-30T17:19:15.000Z"
   }
 ]
