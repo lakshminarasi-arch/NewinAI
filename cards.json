@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3139169",
+    "category": "Policy",
+    "headline": "If you use Google, you’re training its AI. Here’s how to opt out.",
+    "summary": "Google's new privacy setting allows it to use more user data to train its AI, but users can opt out",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "published": "2026-07-06T17:04:58.000Z"
+  },
+  {
+    "id": "hn:48807225",
+    "category": "Tools",
+    "headline": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "summary": "AI agents can use OfficeCLI to read and edit Microsoft Office files",
+    "source": "Hacker News",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "published": "2026-07-06T16:47:44.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+    "category": "Policy",
+    "headline": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+    "summary": "Anthropic faces criticism for tracking users despite its anti-surveillance stance, with an engineer claiming the experiment is now over",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+    "published": "2026-07-06T16:44:18.000Z"
+  },
+  {
     "id": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
     "category": "Policy",
     "headline": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
     "published": "2026-07-01T02:16:06.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137957",
-    "category": "Funding",
-    "headline": "Wayve launches $85M employee tender offer at $8.5B valuation",
-    "summary": "Wayve offers employees a chance to sell shares at a high valuation to keep them at the AI startup",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-    "published": "2026-07-01T02:04:40.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=958964",
-    "category": "Tools",
-    "headline": "Anthropic s long-sidelined Fable 5 is greenlit to return",
-    "summary": "Anthropic's Fable 5 is being restored after export controls were lifted, allowing global access on various platforms",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-    "published": "2026-07-01T00:03:55.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137864",
-    "category": "Tools",
-    "headline": "OpenClaw is finally available on Android and iOS",
-    "summary": "OpenClaw, a free open source program, is now available for download on Android and iOS devices",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-    "published": "2026-06-30T21:53:28.000Z"
   }
 ]
