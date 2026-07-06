@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48799256",
+    "category": "Policy",
+    "headline": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+    "summary": "Canada's AI strategy is being questioned over potential secret bills from Palantir",
+    "source": "Hacker News",
+    "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+    "published": "2026-07-06T00:04:48.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=961505",
     "category": "Other",
     "headline": "Some of the nation’s rich are letting AI teach their kids",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
     "published": "2026-06-30T20:03:14.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=959778",
-    "category": "Tools",
-    "headline": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-    "summary": "Google's NotebookLM generates short AI videos summarizing research notes, similar to TikTok clips, for subscribers",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-    "published": "2026-06-30T19:24:51.000Z"
   }
 ]
