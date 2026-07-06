@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+    "category": "Policy",
+    "headline": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+    "summary": "A UK regulator is concerned about an arms race to keep up with AI in financial services, seeking more powers to oversee its use",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+    "published": "2026-07-06T14:17:42.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139058",
+    "category": "Funding",
+    "headline": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+    "summary": "Station F in Paris is preparing to support new AI startups through its accelerator program",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+    "published": "2026-07-06T13:00:00.000Z"
+  },
+  {
     "id": "hn:48799256",
     "category": "Policy",
     "headline": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
     "published": "2026-06-30T21:53:28.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137627",
-    "category": "Research",
-    "headline": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "summary": "Ex-DeepMind researchers founded EquiLibre Technologies, an AI lab now valued over $500 million, helping quant hedge funds make money",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-    "published": "2026-06-30T20:33:48.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "category": "Models",
-    "headline": "New attack provides one more reason why AI browsers are a bad idea",
-    "summary": "A new attack shows that telling a large language model incorrect information can make it follow forbidden instructions, raising concerns about AI browsers",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "published": "2026-06-30T20:03:14.000Z"
   }
 ]
