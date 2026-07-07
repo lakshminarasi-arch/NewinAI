@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3139436",
+    "category": "Other",
+    "headline": "The ‘first’ AI-run ransomware attack still needed a human",
+    "summary": "A ransomware attack used an AI agent to execute the attack, but a human was still involved in choosing the target and setting up the infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "published": "2026-07-06T23:56:14.000Z"
+  },
+  {
+    "id": "hn:48811644",
+    "category": "Models",
+    "headline": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+    "summary": "A small embedding model called Ternlight can run in a web browser due to its compact size",
+    "source": "Hacker News",
+    "url": "https://ternlight-demo.vercel.app/",
+    "published": "2026-07-06T23:06:31.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139318",
+    "category": "Models",
+    "headline": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+    "summary": "Vercel CEO discusses optimizing production by separating models from agents for better price and performance",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "published": "2026-07-06T19:49:10.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139329",
+    "category": "Models",
+    "headline": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+    "summary": "Apple's latest iOS beta lets users adjust Siri's speed and tone for a more natural experience, using generative AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "published": "2026-07-06T19:01:59.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3139169",
     "category": "Policy",
     "headline": "If you use Google, you’re training its AI. Here’s how to opt out.",
@@ -25,6 +61,15 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
     "published": "2026-07-06T16:44:18.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139160",
+    "category": "Models",
+    "headline": "Reddit is using LLMs to solve a problem LLMs largely created",
+    "summary": "Reddit uses large language models to reduce spam, a problem partly caused by these models",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+    "published": "2026-07-06T15:22:08.000Z"
   },
   {
     "id": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
@@ -403,50 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
     "published": "2026-07-01T14:25:23.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138055",
-    "category": "Tools",
-    "headline": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-    "summary": "Google's assistant Gemini Spark is now available on Mac with features like real-time tracking and support for more apps",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-    "published": "2026-07-01T14:20:19.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138038",
-    "category": "Funding",
-    "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "summary": "Meta plans to sell access to its AI computing power and models as a cloud service, competing with major providers",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-    "published": "2026-07-01T13:43:07.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=959503",
-    "category": "Tools",
-    "headline": "Google built a great smart speaker, but Gemini isn’t ready for it",
-    "summary": "Google's new smart speaker is its first in six years and is built for Gemini, aiming to find new uses beyond basic functions",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-    "published": "2026-07-01T12:00:00.000Z"
-  },
-  {
-    "id": "hn:48742514",
-    "category": "Models",
-    "headline": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-    "summary": "Improving memory in recurrent models is achieved through matrix orthogonalization",
-    "source": "Hacker News",
-    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-    "published": "2026-07-01T05:13:22.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137898",
-    "category": "Policy",
-    "headline": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-    "summary": "Trump administration lifts restrictions on Anthropic's AI models Mythos and Fable, amid unclear AI policymaking",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-    "published": "2026-07-01T02:16:06.000Z"
   }
 ]
