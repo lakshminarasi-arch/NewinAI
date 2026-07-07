@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3139226",
+    "category": "Other",
+    "headline": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "summary": "Over 100 autonomous ground vehicles from Forterra are being used in Ukraine, marking the first US deployment",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "published": "2026-07-07T09:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.02542v1",
     "category": "Models",
     "headline": "iFLYTEK-Embodied-Omni Technical Report",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
     "published": "2026-07-01T16:44:18.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138022",
-    "category": "Funding",
-    "headline": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-    "summary": "Venice AI reaches unicorn status with a $65M Series A funding, its AI platform is growing with over $70 million in annual revenues",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-    "published": "2026-07-01T14:25:23.000Z"
   }
 ]
