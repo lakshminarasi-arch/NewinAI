@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.theverge.com/?p=961978",
+    "category": "Tools",
+    "headline": "Anthropic is launching Claude Cowork on mobile and web",
+    "summary": "Anthropic's Claude Cowork AI platform is now available on mobile and web, initially for Max subscribers, with a full experience still on desktop apps",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "published": "2026-07-07T17:46:59.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+    "category": "Models",
+    "headline": "Facing US export controls, China's DeepSeek plans to make its own chips",
+    "summary": "China's DeepSeek aims to create its own chips to reduce reliance on Nvidia and Huawei due to US export controls",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+    "published": "2026-07-07T16:14:53.000Z"
+  },
+  {
+    "id": "hn:48819608",
+    "category": "Research",
+    "headline": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+    "summary": "A collection of 30 essential machine learning papers is presented in a beginner-friendly format",
+    "source": "Hacker News",
+    "url": "https://30papers.com/",
+    "published": "2026-07-07T15:58:13.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3138667",
     "category": "Tools",
     "headline": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
@@ -421,32 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
     "published": "2026-07-02T10:23:27.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138430",
-    "category": "Funding",
-    "headline": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-    "summary": "Indian tech entrepreneur invests $30M in Neo, an AI-based alternative to Microsoft Office and Google Apps",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-    "published": "2026-07-02T05:30:00.000Z"
-  },
-  {
-    "id": "hn:48755928",
-    "category": "Models",
-    "headline": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-    "summary": "A new open-source benchmark evaluates AI agents as senior software engineers",
-    "source": "Hacker News",
-    "url": "https://senior-swe-bench.snorkel.ai/",
-    "published": "2026-07-02T02:55:16.000Z"
-  },
-  {
-    "id": "hn:48753160",
-    "category": "Research",
-    "headline": "Neural Render Proxies for Interactive and Differentiable Lighting",
-    "summary": "Researchers explore neural render proxies for interactive lighting",
-    "source": "Hacker News",
-    "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
-    "published": "2026-07-01T21:10:16.000Z"
   }
 ]
