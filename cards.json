@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3139798",
+    "category": "Models",
+    "headline": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "summary": "Open source AI models and frontier labs serve different phases of the AI life cycle, so their success isn't mutually exclusive",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "published": "2026-07-07T20:04:32.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139819",
+    "category": "Funding",
+    "headline": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "summary": "Microsoft reduces AI spending by using its own models more",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "published": "2026-07-07T19:58:20.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139842",
+    "category": "Tools",
+    "headline": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "summary": "Discord's AI moderation system wrongly banned users due to harmless images, a bug that was recently fixed",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "published": "2026-07-07T19:28:38.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=961978",
     "category": "Tools",
     "headline": "Anthropic is launching Claude Cowork on mobile and web",
@@ -18,6 +45,15 @@
     "published": "2026-07-07T16:14:53.000Z"
   },
   {
+    "id": "hn:48819808",
+    "category": "Tools",
+    "headline": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+    "summary": "Rowboat is an open source alternative to Claude Desktop with a local first approach",
+    "source": "Hacker News",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "published": "2026-07-07T16:10:44.000Z"
+  },
+  {
     "id": "hn:48819608",
     "category": "Research",
     "headline": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
@@ -25,6 +61,15 @@
     "source": "Hacker News",
     "url": "https://30papers.com/",
     "published": "2026-07-07T15:58:13.000Z"
+  },
+  {
+    "id": "hn:48818098",
+    "category": "Tools",
+    "headline": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+    "summary": "Halo is an open source tool for tracking AI agent activity with tamper evident evidence",
+    "source": "Hacker News",
+    "url": "https://github.com/bkuan001/halo-record",
+    "published": "2026-07-07T14:07:08.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3138667",
@@ -88,6 +133,15 @@
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2607.02623",
     "published": "2026-07-07T04:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/australian-payments-plus",
+    "category": "Tools",
+    "headline": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "summary": "Australian Payments Plus uses ChatGPT and Codex to simplify payments, saving time and improving quality while keeping human judgment involved",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "published": "2026-07-07T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3139436",
@@ -394,59 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
     "published": "2026-07-02T14:39:17.000Z"
-  },
-  {
-    "id": "hn:48762038",
-    "category": "Tools",
-    "headline": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-    "summary": "A command line tool uses embedding models to find similar code",
-    "source": "Hacker News",
-    "url": "https://github.com/rafal-qa/slopo",
-    "published": "2026-07-02T14:19:24.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138546",
-    "category": "Funding",
-    "headline": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "summary": "Microsoft creates an AI deployment company, joining others in the field with a significant investment",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-    "published": "2026-07-02T13:53:00.000Z"
-  },
-  {
-    "id": "hn:48761536",
-    "category": "Policy",
-    "headline": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-    "summary": "Japan's top court decides AI systems cannot be named as inventors on patent applications",
-    "source": "Hacker News",
-    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-    "published": "2026-07-02T13:43:41.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137764",
-    "category": "Tools",
-    "headline": "Yep, we’re using OpenClaw to date now",
-    "summary": "A person used OpenClaw and Claude code to automate interactions on Instagram, potentially for dating",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-    "published": "2026-07-02T12:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-    "category": "Models",
-    "headline": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-    "summary": "Google's AI expansion caused a significant rise in electricity use, prompting efforts to balance emissions with clean energy",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-    "published": "2026-07-02T11:15:49.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=960588",
-    "category": "Policy",
-    "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-    "summary": "OpenAI considers giving the US government a 5 percent stake to ease tensions and share AI benefits with the public",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-    "published": "2026-07-02T10:23:27.000Z"
   }
 ]
