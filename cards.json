@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2607.02542v1",
+    "category": "Models",
+    "headline": "iFLYTEK-Embodied-Omni Technical Report",
+    "summary": "Researchers introduce iFLYTEK-Embodied-Omni, a unified model that jointly handles multimodal instructions and environment understanding for embodied agents",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.02542",
+    "published": "2026-07-07T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.02672v1",
+    "category": "Research",
+    "headline": "Internal Pluralism and the Limits of Pairwise Comparisons",
+    "summary": "Research questions the effectiveness of pairwise comparisons in understanding human preferences for decision rules, citing limitations due to internal pluralism and multiple priorities",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.02672",
+    "published": "2026-07-07T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.02586v1",
+    "category": "Research",
+    "headline": "Auditing the Audit: Five Failure Modes in Benchmark-Validity Audits",
+    "summary": "Researchers identify five potential failure modes in audits that evaluate AI model validity, highlighting the need for more rigorous testing and transparency",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.02586",
+    "published": "2026-07-07T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.02623v1",
+    "category": "Research",
+    "headline": "Evaluating Time Series Foundation Models for Electricity Price Forecasting: Contamination Risk, Distributional Shifts, and Covariate Dependence",
+    "summary": "Researchers evaluate time series foundation models for forecasting electricity prices, focusing on contamination risk and distributional shifts in non-stationary settings",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.02623",
+    "published": "2026-07-07T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3139436",
     "category": "Other",
     "headline": "The ‘first’ AI-run ransomware attack still needed a human",
@@ -243,33 +279,6 @@
     "published": "2026-07-03T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.01366v1",
-    "category": "Research",
-    "headline": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-    "summary": "Researchers introduce Auto-FL-Research, a method to automatically search for the best federated learning algorithms by using agents to propose and test different approaches",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.01366",
-    "published": "2026-07-03T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.01278v1",
-    "category": "Models",
-    "headline": "Multilayer Q-Matrix-Embedded Neural Network for Cognitive Diagnosis (M-QCDNet): Structure-Aware Deep Learning Architecture for Psychometric Interpretability",
-    "summary": "Researchers propose M-QCDNet, a neural network integrating cognitive diagnostic models with deep learning for interpretable results",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.01278",
-    "published": "2026-07-03T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.01279v1",
-    "category": "Research",
-    "headline": "I\\textsuperscript{2}RiMA: Spectral Riemannian Representation with Temporal Attention for Mental Stress Detection based on EEG Signals",
-    "summary": "Researchers propose a new method to detect mental stress from EEG signals using a Riemannian manifold attention network",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.01279",
-    "published": "2026-07-03T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3138873",
     "category": "Models",
     "headline": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
@@ -394,15 +403,6 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
     "published": "2026-07-02T05:30:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.00001v1",
-    "category": "Research",
-    "headline": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
-    "summary": "Researchers propose Constructive Alignment, a new approach to AI alignment that considers human preferences as dynamic and shaped by interaction with AI systems",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.00001",
-    "published": "2026-07-02T04:00:00.000Z"
   },
   {
     "id": "hn:48755928",
