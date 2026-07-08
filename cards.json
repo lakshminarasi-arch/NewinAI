@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3139892",
+    "category": "Models",
+    "headline": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "summary": "Meta's new AI image generator Muse Image sparks user concerns over photo usage for various applications",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "published": "2026-07-07T22:18:10.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=962485",
+    "category": "Models",
+    "headline": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "summary": "Meta's new Muse Image model generates AI photos and can include other Instagram users, powered by Superintelligence Labs",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "published": "2026-07-07T20:31:58.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3139798",
     "category": "Models",
     "headline": "Why the rise of open source AI isn’t hurting Anthropic … yet",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
     "published": "2026-07-02T15:20:51.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-    "category": "Funding",
-    "headline": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-    "summary": "OpenAI may offer the US government a 5% stake, with CEO Sam Altman in talks with the Trump administration",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-    "published": "2026-07-02T15:12:25.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-    "category": "Policy",
-    "headline": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
-    "summary": "Advocates warn that Elon Musk's X poses a serious risk to Americans' privacy due to AI concerns",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
-    "published": "2026-07-02T14:39:17.000Z"
   }
 ]
