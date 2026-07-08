@@ -1,5 +1,41 @@
 [
   {
+    "id": "hn:48829242",
+    "category": "Tools",
+    "headline": "Geosql: A Claude/Codex skill for geospatial data",
+    "summary": "Geosql is a skill for Claude and Codex that handles geospatial data",
+    "source": "Hacker News",
+    "url": "https://github.com/dekart-xyz/geosql",
+    "published": "2026-07-08T08:37:26.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139750",
+    "category": "Tools",
+    "headline": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "summary": "French AI startup ZML releases a free product to improve AI performance on multiple chips, potentially reducing costs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "published": "2026-07-08T08:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139582",
+    "category": "Funding",
+    "headline": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "summary": "SambaNova, a company making AI chips, has raised a large amount of money, now valued at $11 billion",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "published": "2026-07-08T07:16:00.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "category": "Other",
+    "headline": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "summary": "Hackers can exploit popular AI tools to create large botnets, using a technique that takes advantage of language models' limitations",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "published": "2026-07-08T07:00:51.000Z"
+  },
+  {
     "id": "hn:48827858",
     "category": "Other",
     "headline": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
@@ -412,41 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
     "published": "2026-07-03T11:49:10.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138873",
-    "category": "Models",
-    "headline": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-    "summary": "Meta CEO Mark Zuckerberg expresses disappointment with the slow progress of AI development efforts",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "published": "2026-07-02T23:38:10.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138696",
-    "category": "Other",
-    "headline": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-    "summary": "Jersey Mike's IPO documents surprisingly mention AI, highlighting excessive AI hype",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-    "published": "2026-07-02T20:11:59.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138687",
-    "category": "Tools",
-    "headline": "Meta quietly launches vibe-coded gaming app Pocket",
-    "summary": "Meta launches Pocket, an AI app that generates interactive mini games from text prompts",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-    "published": "2026-07-02T18:44:02.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138664",
-    "category": "Models",
-    "headline": "Anthropic is discussing a new custom chip with Samsung",
-    "summary": "Anthropic is in talks with Samsung about creating a custom chip, following a similar announcement from OpenAI and Broadcom",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "published": "2026-07-02T18:31:09.000Z"
   }
 ]
