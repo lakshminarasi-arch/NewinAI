@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3140196",
+    "category": "Research",
+    "headline": "Why this CEO thinks video games make better training data than the internet",
+    "summary": "A CEO believes video games can provide better training data for artificial general intelligence than internet data, as games can help models understand movement and space",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+    "published": "2026-07-08T17:47:55.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140026",
+    "category": "Policy",
+    "headline": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+    "summary": "Meta adds a safeguard to prevent secret recordings on its AI glasses, but its AI strategy still collects and uses more personal data",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "published": "2026-07-08T17:11:18.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140033",
+    "category": "Models",
+    "headline": "OpenAI releases new voice models for more natural live conversations",
+    "summary": "OpenAI introduces new voice models for more natural conversations, enabling simultaneous speaking and listening for live translation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "published": "2026-07-08T17:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=962856",
+    "category": "Models",
+    "headline": "ChatGPT’s upgraded voice mode is better at shutting up",
+    "summary": "OpenAI upgrades ChatGPT's voice mode with a new model that interrupts less and waits for users to continue speaking, making conversations feel more natural",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+    "published": "2026-07-08T17:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140126",
+    "category": "Funding",
+    "headline": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+    "summary": "Prime Intellect got funding to help companies create their own AI agents without relying on external labs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+    "published": "2026-07-08T16:22:38.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139890",
+    "category": "Funding",
+    "headline": "These AI startups are growing revenue at faster and faster rates",
+    "summary": "Some AI startups are experiencing rapid revenue growth, with certain companies growing at even faster rates",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+    "published": "2026-07-08T15:41:06.000Z"
+  },
+  {
+    "id": "hn:48833183",
+    "category": "Tools",
+    "headline": "Show HN: Kastor – Terraform-style specs for AI agents",
+    "summary": "Kastor is a tool for defining AI agents using specs similar to Terraform",
+    "source": "Hacker News",
+    "url": "https://github.com/weirdGuy/kastor",
+    "published": "2026-07-08T15:25:09.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3140197",
+    "category": "Research",
+    "headline": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+    "summary": "A startup thinks gaming data can help achieve artificial general intelligence by teaching models about space and time",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+    "published": "2026-07-08T13:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/k-12-educators-practical-skills",
+    "category": "Tools",
+    "headline": "Helping K–12 educators build practical AI skills",
+    "summary": "OpenAI Academy and Walton Family Foundation are offering AI training for K-12 teachers to develop practical skills",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "published": "2026-07-08T10:00:00.000Z"
+  },
+  {
     "id": "hn:48829242",
     "category": "Tools",
     "headline": "Geosql: A Claude/Codex skill for geospatial data",
@@ -79,6 +160,15 @@
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2607.05439",
     "published": "2026-07-08T04:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-live",
+    "category": "Models",
+    "headline": "Introducing GPT-Live",
+    "summary": "OpenAI introduces GPT-Live, a new voice model for more natural human-AI conversations, used in ChatGPT Voice",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "published": "2026-07-08T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3139892",
@@ -358,95 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
     "published": "2026-07-05T14:23:11.000Z"
-  },
-  {
-    "id": "hn:48789986",
-    "category": "Models",
-    "headline": "Mapping with In-Memory Layers to Reduce LLM Overload",
-    "summary": "Technique uses in-memory layers to reduce large language model overload",
-    "source": "Hacker News",
-    "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-    "published": "2026-07-04T23:25:53.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138982",
-    "category": "Other",
-    "headline": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "summary": "A Google commercial explores what the Declaration of Independence would look like if written with AI assistance",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "published": "2026-07-04T20:55:25.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138980",
-    "category": "Policy",
-    "headline": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "summary": "Midjourney is in a legal dispute with Hollywood studios and wants them to disclose their own AI usage",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "published": "2026-07-04T18:00:05.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138976",
-    "category": "Tools",
-    "headline": "Alibaba reportedly bans employees from using Claude Code",
-    "summary": "Alibaba bans use of Claude Code, labeling it high-risk software for employees",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "published": "2026-07-04T16:32:08.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=2970347",
-    "category": "Funding",
-    "headline": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "summary": "Mistral AI is a new company that offers open source AI models and aims to make advanced AI accessible to everyone",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "published": "2026-07-04T15:51:32.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=960854",
-    "category": "Other",
-    "headline": "The fanfiction community is at war with AI — and itself",
-    "summary": "Fanfiction communities are trying to identify and exclude writers using generative AI tools, but their detection methods are uncertain",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-    "published": "2026-07-04T12:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=2973217",
-    "category": "Other",
-    "headline": "The only AI glossary you’ll need this year",
-    "summary": "A glossary helps explain key terms and phrases related to artificial intelligence",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "published": "2026-07-03T21:20:00.000Z"
-  },
-  {
-    "id": "hn:48776464",
-    "category": "Models",
-    "headline": "60% Fable cost cut by converting code to images and having the model OCR it",
-    "summary": "A model uses OCR to process code converted into images, reducing Fable costs by 60 percent",
-    "source": "Hacker News",
-    "url": "https://github.com/teamchong/pxpipe",
-    "published": "2026-07-03T15:50:49.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=961311",
-    "category": "Tools",
-    "headline": "Anthropic wants to develop its own drugs",
-    "summary": "Anthropic launches Claude Science, an AI tool for scientists to accelerate discovery and healthcare development",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-    "published": "2026-07-03T13:56:52.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=961265",
-    "category": "Other",
-    "headline": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-    "summary": "Midjourney's medical scanner uses AI for cheap and detailed imaging, but lacks proof of its effectiveness",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-    "published": "2026-07-03T11:49:10.000Z"
   }
 ]
