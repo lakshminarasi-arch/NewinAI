@@ -1,5 +1,113 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3140476",
+    "category": "Tools",
+    "headline": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "summary": "Anthropic's Claude feature has a Reflect dashboard that shows AI usage and highlights its role in daily work",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "published": "2026-07-09T14:53:09.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140464",
+    "category": "Funding",
+    "headline": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+    "summary": "Upcoming AI company IPOs may create more value than all US venture capital exits since 2000",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+    "published": "2026-07-09T14:51:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=963193",
+    "category": "Models",
+    "headline": "Meta says its new AI model is ready to compete on coding",
+    "summary": "Meta releases Muse Spark 1.1, an improved AI model for coding tasks, with enhanced bug detection and multimodal perception capabilities",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+    "published": "2026-07-09T14:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=963105",
+    "category": "Tools",
+    "headline": "Say hello to Claude Wrapped",
+    "summary": "Anthropic's Claude chatbot now offers a reflect feature, analyzing user data over time to show patterns and topics discussed",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+    "published": "2026-07-09T13:30:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=962897",
+    "category": "Tools",
+    "headline": "Character.AI wants a piece of the microdrama pie",
+    "summary": "Character.AI is expanding its platform with short-form, episodic videos made with generative AI, entering the microdrama space",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+    "published": "2026-07-09T13:11:53.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140214",
+    "category": "Funding",
+    "headline": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+    "summary": "Ollama, a tool for running AI on personal computers, gains popularity and funding, reaching nearly 9 million users",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+    "published": "2026-07-09T13:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140394",
+    "category": "Tools",
+    "headline": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+    "summary": "Character.AI produces interactive shows where users can chat and roleplay with characters, exploring different storylines",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+    "published": "2026-07-09T13:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=963052",
+    "category": "Tools",
+    "headline": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+    "summary": "FL Studio's AI chatbot Gopher now assists with tasks like laying down beats and adding effects, acting as a virtual engineer",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+    "published": "2026-07-09T13:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.06624v1",
+    "category": "Models",
+    "headline": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+    "summary": "AgentLens is a new benchmark for evaluating coding agents based on their entire interaction trajectory, not just task success",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.06624",
+    "published": "2026-07-09T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.06720v1",
+    "category": "Research",
+    "headline": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+    "summary": "Researchers analyze in-context search in large language models, studying how self-reflection improves solution attempts through iterative generation and revision",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.06720",
+    "published": "2026-07-09T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.06601v1",
+    "category": "Models",
+    "headline": "TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation",
+    "summary": "Researchers propose TriRoute, a unified approach to optimize routing for language models, combining attention, expert selection, and cache allocation for better performance",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.06601",
+    "published": "2026-07-09T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.06605v1",
+    "category": "Research",
+    "headline": "A Quiet Failure in Calibrated Virtual Screening: Marginal Conformal Prediction Under-Covers the Minority Class, and a Class-Conditional Fix Recovers It",
+    "summary": "Conformal prediction methods may not work well with imbalanced datasets, leaving minority classes under-covered, but a class-conditional fix can improve this",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.06605",
+    "published": "2026-07-09T04:00:00.000Z"
+  },
+  {
     "id": "hn:48839355",
     "category": "Models",
     "headline": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
@@ -225,33 +333,6 @@
     "published": "2026-07-08T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.05563v1",
-    "category": "Research",
-    "headline": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
-    "summary": "Researchers propose a physics-inspired method for explaining AI decisions in cyber-physical systems, focusing on causal relationships rather than correlations",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.05563",
-    "published": "2026-07-08T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.05436v1",
-    "category": "Research",
-    "headline": "Statistically Meaningful Geometry and Gauge Symmetry Breaking: A Geometric Foundation for Scientific Discovery and Intelligence Emergence",
-    "summary": "Researchers introduce Statistically Meaningful Geometry to understand if large machine learning models truly discover new patterns or just match existing ones",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.05436",
-    "published": "2026-07-08T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.05439v1",
-    "category": "Research",
-    "headline": "Design-CP: Context Parallelism for Design of Protein Nanoparticles",
-    "summary": "Design-CP introduces context parallelism for designing protein nanoparticles, helping models handle large complexes by distributing data across multiple GPUs",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.05439",
-    "published": "2026-07-08T04:00:00.000Z"
-  },
-  {
     "id": "https://openai.com/index/introducing-gpt-live",
     "category": "Models",
     "headline": "Introducing GPT-Live",
@@ -367,86 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
     "published": "2026-07-07T11:00:18.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139226",
-    "category": "Other",
-    "headline": "The first American autonomous ground vehicles are fighting in Ukraine",
-    "summary": "Over 100 autonomous ground vehicles from Forterra are being used in Ukraine, marking the first US deployment",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-    "published": "2026-07-07T09:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.02542v1",
-    "category": "Models",
-    "headline": "iFLYTEK-Embodied-Omni Technical Report",
-    "summary": "Researchers introduce iFLYTEK-Embodied-Omni, a unified model that jointly handles multimodal instructions and environment understanding for embodied agents",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.02542",
-    "published": "2026-07-07T04:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/australian-payments-plus",
-    "category": "Tools",
-    "headline": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "summary": "Australian Payments Plus uses ChatGPT and Codex to simplify payments, saving time and improving quality while keeping human judgment involved",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/australian-payments-plus",
-    "published": "2026-07-07T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139436",
-    "category": "Other",
-    "headline": "The ‘first’ AI-run ransomware attack still needed a human",
-    "summary": "A ransomware attack used an AI agent to execute the attack, but a human was still involved in choosing the target and setting up the infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-    "published": "2026-07-06T23:56:14.000Z"
-  },
-  {
-    "id": "hn:48811644",
-    "category": "Models",
-    "headline": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-    "summary": "A small embedding model called Ternlight can run in a web browser due to its compact size",
-    "source": "Hacker News",
-    "url": "https://ternlight-demo.vercel.app/",
-    "published": "2026-07-06T23:06:31.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139318",
-    "category": "Models",
-    "headline": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "summary": "Vercel CEO discusses optimizing production by separating models from agents for better price and performance",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-    "published": "2026-07-06T19:49:10.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139329",
-    "category": "Models",
-    "headline": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-    "summary": "Apple's latest iOS beta lets users adjust Siri's speed and tone for a more natural experience, using generative AI",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-    "published": "2026-07-06T19:01:59.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139169",
-    "category": "Policy",
-    "headline": "If you use Google, you’re training its AI. Here’s how to opt out.",
-    "summary": "Google's new privacy setting allows it to use more user data to train its AI, but users can opt out",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-    "published": "2026-07-06T17:04:58.000Z"
-  },
-  {
-    "id": "hn:48807225",
-    "category": "Tools",
-    "headline": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-    "summary": "AI agents can use OfficeCLI to read and edit Microsoft Office files",
-    "source": "Hacker News",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "published": "2026-07-06T16:47:44.000Z"
   }
 ]
