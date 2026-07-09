@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3140527",
+    "category": "Policy",
+    "headline": "How to stop Meta’s AI image generator from using your Instagram photos",
+    "summary": "Meta's AI image generator uses public Instagram photos by default, but users can opt out to stop their photos from being used",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+    "published": "2026-07-09T17:56:47.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140504",
+    "category": "Models",
+    "headline": "Meta’s new AI chips will begin production in September",
+    "summary": "Meta is producing new AI chips, using a modular design to adapt to changing AI needs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+    "published": "2026-07-09T17:17:37.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=963307",
+    "category": "Tools",
+    "headline": "Microsoft’s patch Tuesdays are about to get bigger",
+    "summary": "Microsoft uses AI to identify security issues earlier, leading to more fixes in Windows 11 updates",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+    "published": "2026-07-09T17:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=963464",
+    "category": "Models",
+    "headline": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+    "summary": "OpenAI releases GPT-5.6 publicly after government approval and introduces ChatGPT Work, combining ChatGPT and Codex for non-technical users",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+    "published": "2026-07-09T17:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3140476",
     "category": "Tools",
     "headline": "Anthropic’s new Claude feature is quietly selling you on AI",
@@ -70,6 +106,33 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
     "published": "2026-07-09T13:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "category": "Tools",
+    "headline": "ChatGPT is now a partner for your most ambitious work",
+    "summary": "ChatGPT can now assist with complex tasks by interacting with apps and files to help complete projects",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "published": "2026-07-09T10:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/bio-bug-bounty",
+    "category": "Models",
+    "headline": "GPT-5.5 Bio Bug Bounty",
+    "summary": "OpenAI introduces a bug bounty program for its GPT-5.5 bio model",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "published": "2026-07-09T10:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-6",
+    "category": "Models",
+    "headline": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "summary": "OpenAI introduces GPT-5.6, promising improved performance and efficiency for demanding tasks",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-5-6",
+    "published": "2026-07-09T10:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2607.06624v1",
@@ -385,68 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
     "published": "2026-07-07T19:28:38.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=961978",
-    "category": "Tools",
-    "headline": "Anthropic is launching Claude Cowork on mobile and web",
-    "summary": "Anthropic's Claude Cowork AI platform is now available on mobile and web, initially for Max subscribers, with a full experience still on desktop apps",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-    "published": "2026-07-07T17:46:59.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-    "category": "Models",
-    "headline": "Facing US export controls, China's DeepSeek plans to make its own chips",
-    "summary": "China's DeepSeek aims to create its own chips to reduce reliance on Nvidia and Huawei due to US export controls",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-    "published": "2026-07-07T16:14:53.000Z"
-  },
-  {
-    "id": "hn:48819808",
-    "category": "Tools",
-    "headline": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-    "summary": "Rowboat is an open source alternative to Claude Desktop with a local first approach",
-    "source": "Hacker News",
-    "url": "https://github.com/rowboatlabs/rowboat",
-    "published": "2026-07-07T16:10:44.000Z"
-  },
-  {
-    "id": "hn:48819608",
-    "category": "Research",
-    "headline": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-    "summary": "A collection of 30 essential machine learning papers is presented in a beginner-friendly format",
-    "source": "Hacker News",
-    "url": "https://30papers.com/",
-    "published": "2026-07-07T15:58:13.000Z"
-  },
-  {
-    "id": "hn:48818098",
-    "category": "Tools",
-    "headline": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
-    "summary": "Halo is an open source tool for tracking AI agent activity with tamper evident evidence",
-    "source": "Hacker News",
-    "url": "https://github.com/bkuan001/halo-record",
-    "published": "2026-07-07T14:07:08.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138667",
-    "category": "Tools",
-    "headline": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-    "summary": "Savi's app helps protect users from AI-powered scams, including fake kidnapper ransom demands",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "published": "2026-07-07T12:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-    "category": "Research",
-    "headline": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
-    "summary": "Experts discuss how artificial intelligence can help create autonomous robots for workplaces and homes",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-    "published": "2026-07-07T11:00:18.000Z"
   }
 ]
