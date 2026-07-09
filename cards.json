@@ -1,5 +1,59 @@
 [
   {
+    "id": "hn:48839355",
+    "category": "Models",
+    "headline": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+    "summary": "Researchers train world models on Rocket League for multiplayer interaction",
+    "source": "Hacker News",
+    "url": "https://mira-wm.com/",
+    "published": "2026-07-09T00:27:57.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "category": "Policy",
+    "headline": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+    "summary": "An Ivy League professor suspected AI cheating and switched to in-person finals, resulting in a significant drop in scores",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "published": "2026-07-08T21:42:44.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140297",
+    "category": "Models",
+    "headline": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+    "summary": "Google's system detects and debunks fake images, including one of Senator Mitch McConnell, created using AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "published": "2026-07-08T20:37:03.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140162",
+    "category": "Models",
+    "headline": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "summary": "SpaceXAI's Grok 4.5 model is released, claiming to be a cheaper and more efficient alternative to other powerful AI models",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "published": "2026-07-08T19:30:16.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140241",
+    "category": "Models",
+    "headline": "This startup thinks robotics is about to have its ChatGPT moment",
+    "summary": "General Intuition uses video game data to train foundation models for physical AI, aiming to build smarter robots with less real-world data",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "published": "2026-07-08T19:19:15.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140180",
+    "category": "Tools",
+    "headline": "Google Photos adds a new AI ‘Video Remix’ tool",
+    "summary": "Google Photos introduces a new AI tool to edit videos with effects like relighting and background changes",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "published": "2026-07-08T18:30:08.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_video&p=3140196",
     "category": "Research",
     "headline": "Why this CEO thinks video games make better training data than the internet",
@@ -7,6 +61,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
     "published": "2026-07-08T17:47:55.000Z"
+  },
+  {
+    "id": "hn:48834924",
+    "category": "Tools",
+    "headline": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "summary": "Microsoft introduces Flint, a language for visualizing AI agents",
+    "source": "Hacker News",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "published": "2026-07-08T17:46:12.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3140026",
@@ -36,6 +99,15 @@
     "published": "2026-07-08T17:00:00.000Z"
   },
   {
+    "id": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+    "category": "Models",
+    "headline": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+    "summary": "Google updates Android Bench with new large language models, though Gemini still needs improvement",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+    "published": "2026-07-08T16:39:48.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3140126",
     "category": "Funding",
     "headline": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
@@ -61,6 +133,24 @@
     "source": "Hacker News",
     "url": "https://github.com/weirdGuy/kastor",
     "published": "2026-07-08T15:25:09.000Z"
+  },
+  {
+    "id": "https://openai.com/index/government-national-security-partnerships",
+    "category": "Policy",
+    "headline": "Our approach to government and national security partnerships",
+    "summary": "OpenAI outlines its approach to partnering with governments and national security, focusing on responsible AI use and public safety",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "published": "2026-07-08T13:30:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "category": "Research",
+    "headline": "Separating signal from noise in coding evaluations",
+    "summary": "OpenAI analysis finds issues with a popular coding benchmark, questioning its reliability for evaluating AI models",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "published": "2026-07-08T13:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?post_type=tc_podcast&p=3140197",
@@ -358,95 +448,5 @@
     "source": "Hacker News",
     "url": "https://github.com/iOfficeAI/OfficeCLI",
     "published": "2026-07-06T16:47:44.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-    "category": "Policy",
-    "headline": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-    "summary": "Anthropic faces criticism for tracking users despite its anti-surveillance stance, with an engineer claiming the experiment is now over",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-    "published": "2026-07-06T16:44:18.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139160",
-    "category": "Models",
-    "headline": "Reddit is using LLMs to solve a problem LLMs largely created",
-    "summary": "Reddit uses large language models to reduce spam, a problem partly caused by these models",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-    "published": "2026-07-06T15:22:08.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-    "category": "Policy",
-    "headline": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-    "summary": "A UK regulator is concerned about an arms race to keep up with AI in financial services, seeking more powers to oversee its use",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-    "published": "2026-07-06T14:17:42.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139058",
-    "category": "Funding",
-    "headline": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-    "summary": "Station F in Paris is preparing to support new AI startups through its accelerator program",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-    "published": "2026-07-06T13:00:00.000Z"
-  },
-  {
-    "id": "hn:48799256",
-    "category": "Policy",
-    "headline": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-    "summary": "Canada's AI strategy is being questioned over potential secret bills from Palantir",
-    "source": "Hacker News",
-    "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-    "published": "2026-07-06T00:04:48.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=961505",
-    "category": "Other",
-    "headline": "Some of the nation’s rich are letting AI teach their kids",
-    "summary": "Wealthy Americans are using AI to teach their kids, despite general distrust of AI, with companies offering expensive AI-powered education",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-    "published": "2026-07-05T22:30:54.000Z"
-  },
-  {
-    "id": "hn:48796817",
-    "category": "Models",
-    "headline": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-    "summary": "An AI tutoring system showed a significant effect size in a Dartmouth course, suggesting potential for AI in education",
-    "source": "Hacker News",
-    "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-    "published": "2026-07-05T18:47:43.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139008",
-    "category": "Tools",
-    "headline": "Amazon will stop accepting new customers for Mechanical Turk",
-    "summary": "Amazon's Mechanical Turk service is ending new customer signups, possibly signaling its end",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "published": "2026-07-05T17:43:36.000Z"
-  },
-  {
-    "id": "hn:48795830",
-    "category": "Models",
-    "headline": "A sociotechnical threat model for AI-driven smart home devices",
-    "summary": "Researchers consider threats to smart home devices that use artificial intelligence",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2602.09239",
-    "published": "2026-07-05T17:05:57.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=961468",
-    "category": "Other",
-    "headline": "Infuriating Google commercial imagines the founding fathers embracing AI",
-    "summary": "A Google commercial envisions the founding fathers using Google Workspace and AI to draft the Declaration of Independence",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-    "published": "2026-07-05T14:23:11.000Z"
   }
 ]
