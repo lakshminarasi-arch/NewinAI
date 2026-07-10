@@ -1,5 +1,158 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3140881",
+    "category": "Models",
+    "headline": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "summary": "OpenAI's new models will continue to power Microsoft's workplace and productivity apps, including Copilot 365",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "published": "2026-07-10T00:16:54.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140900",
+    "category": "Funding",
+    "headline": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "summary": "OpenAI's second in command, Fidji Simo, is leaving her full-time role after a longer than expected medical leave, creating a leadership gap",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "published": "2026-07-09T23:38:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140805",
+    "category": "Models",
+    "headline": "OpenAI launches its new family of models with GPT-5.6",
+    "summary": "OpenAI introduces a new model family with GPT-5.6, aiming to improve various areas like cybersecurity",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "published": "2026-07-09T22:24:24.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140819",
+    "category": "Funding",
+    "headline": "An AI agent startup just let its agent run its $100M fundraise",
+    "summary": "A startup used its own AI agent to successfully raise $100 million, demonstrating the agent's effectiveness",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "published": "2026-07-09T22:08:58.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140848",
+    "category": "Tools",
+    "headline": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "summary": "OpenAI stops its AI browser after less than a year, but will add some features to its desktop app and Chrome extension",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "published": "2026-07-09T22:03:54.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140701",
+    "category": "Models",
+    "headline": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "summary": "Elon Musk says he won't limit Anthropic's model hosting despite having a stake in a competing company",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "published": "2026-07-09T21:57:42.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140802",
+    "category": "Funding",
+    "headline": "Can AI answer the $3 trillion question?",
+    "summary": "The debate about AI's return on investment has resumed with higher numbers and potentially bigger consequences",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "published": "2026-07-09T21:47:50.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+    "category": "Tools",
+    "headline": "OpenAI wants its new tool to do your work for you and with you",
+    "summary": "OpenAI's rebranded Codex tool aims to automate and assist with work tasks for extended periods",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+    "published": "2026-07-09T21:25:55.000Z"
+  },
+  {
+    "id": "hn:48852199",
+    "category": "Models",
+    "headline": "Building a real-time AI tutor for 5-year-olds",
+    "summary": "Developing an AI system to provide real-time tutoring for young children",
+    "source": "Hacker News",
+    "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "published": "2026-07-09T20:51:06.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=963654",
+    "category": "Tools",
+    "headline": "The ChatGPT browser is already dead",
+    "summary": "OpenAI is shutting down ChatGPT Atlas, a browser that performed tasks, less than a year after its launch to focus on productivity features",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+    "published": "2026-07-09T20:34:05.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=963628",
+    "category": "Tools",
+    "headline": "Google will now tell you if an ad was made with AI",
+    "summary": "Google adds a label to ads made or edited with AI on its platforms, including Search, Discover, and YouTube, for transparency",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+    "published": "2026-07-09T20:11:38.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140525",
+    "category": "Tools",
+    "headline": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "summary": "Meta introduces Muse Spark to automate coding tasks like bug fixing and code migrations for large workloads",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "published": "2026-07-09T19:40:45.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140699",
+    "category": "Policy",
+    "headline": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "summary": "OpenAI allegedly hid tools and datasets that could identify copyrighted content in ChatGPT outputs, sparking a new motion for sanctions in a lawsuit",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+    "published": "2026-07-09T19:05:58.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+    "category": "Policy",
+    "headline": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+    "summary": "OpenAI might face sanctions for allegedly hiding and deleting ChatGPT logs in a copyright dispute with news organizations",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+    "published": "2026-07-09T18:57:53.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140626",
+    "category": "Policy",
+    "headline": "Google will now disclose which ads are made with AI",
+    "summary": "Google now requires ads to disclose if they use AI-created content, expanding a rule previously only applied to election ads",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+    "published": "2026-07-09T18:40:51.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140596",
+    "category": "Funding",
+    "headline": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+    "summary": "Gradium, an AI voice startup, has raised $100M to expand and compete for talent in the Bay Area",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+    "published": "2026-07-09T18:34:35.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140210",
+    "category": "Policy",
+    "headline": "How did the government decide OpenAI’s frontier model was safe to release?",
+    "summary": "The government's decision to clear OpenAI's frontier model for release is unclear due to lack of information on discussions with OpenAI and Anthropic",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+    "published": "2026-07-09T18:22:39.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3140527",
     "category": "Policy",
     "headline": "How to stop Meta’s AI image generator from using your Instagram photos",
@@ -295,158 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
     "published": "2026-07-08T15:41:06.000Z"
-  },
-  {
-    "id": "hn:48833183",
-    "category": "Tools",
-    "headline": "Show HN: Kastor – Terraform-style specs for AI agents",
-    "summary": "Kastor is a tool for defining AI agents using specs similar to Terraform",
-    "source": "Hacker News",
-    "url": "https://github.com/weirdGuy/kastor",
-    "published": "2026-07-08T15:25:09.000Z"
-  },
-  {
-    "id": "https://openai.com/index/government-national-security-partnerships",
-    "category": "Policy",
-    "headline": "Our approach to government and national security partnerships",
-    "summary": "OpenAI outlines its approach to partnering with governments and national security, focusing on responsible AI use and public safety",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/government-national-security-partnerships",
-    "published": "2026-07-08T13:30:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "category": "Research",
-    "headline": "Separating signal from noise in coding evaluations",
-    "summary": "OpenAI analysis finds issues with a popular coding benchmark, questioning its reliability for evaluating AI models",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "published": "2026-07-08T13:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3140197",
-    "category": "Research",
-    "headline": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-    "summary": "A startup thinks gaming data can help achieve artificial general intelligence by teaching models about space and time",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-    "published": "2026-07-08T13:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/k-12-educators-practical-skills",
-    "category": "Tools",
-    "headline": "Helping K–12 educators build practical AI skills",
-    "summary": "OpenAI Academy and Walton Family Foundation are offering AI training for K-12 teachers to develop practical skills",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/k-12-educators-practical-skills",
-    "published": "2026-07-08T10:00:00.000Z"
-  },
-  {
-    "id": "hn:48829242",
-    "category": "Tools",
-    "headline": "Geosql: A Claude/Codex skill for geospatial data",
-    "summary": "Geosql is a skill for Claude and Codex that handles geospatial data",
-    "source": "Hacker News",
-    "url": "https://github.com/dekart-xyz/geosql",
-    "published": "2026-07-08T08:37:26.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139750",
-    "category": "Tools",
-    "headline": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "summary": "French AI startup ZML releases a free product to improve AI performance on multiple chips, potentially reducing costs",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "published": "2026-07-08T08:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139582",
-    "category": "Funding",
-    "headline": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "summary": "SambaNova, a company making AI chips, has raised a large amount of money, now valued at $11 billion",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "published": "2026-07-08T07:16:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "category": "Other",
-    "headline": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-    "summary": "Hackers can exploit popular AI tools to create large botnets, using a technique that takes advantage of language models' limitations",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "published": "2026-07-08T07:00:51.000Z"
-  },
-  {
-    "id": "hn:48827858",
-    "category": "Other",
-    "headline": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-    "summary": "Researchers tricked GitHub's AI into revealing private repository information",
-    "source": "Hacker News",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "published": "2026-07-08T05:25:35.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.05456v1",
-    "category": "Models",
-    "headline": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-    "summary": "Researchers introduce Prompt-to-Paper, an AI system that aims to improve automated manuscript generation in bioinformatics by addressing issues with verifiable claims and experimental results",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.05456",
-    "published": "2026-07-08T04:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/introducing-gpt-live",
-    "category": "Models",
-    "headline": "Introducing GPT-Live",
-    "summary": "OpenAI introduces GPT-Live, a new voice model for more natural human-AI conversations, used in ChatGPT Voice",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-gpt-live",
-    "published": "2026-07-08T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139892",
-    "category": "Models",
-    "headline": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-    "summary": "Meta's new AI image generator Muse Image sparks user concerns over photo usage for various applications",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-    "published": "2026-07-07T22:18:10.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=962485",
-    "category": "Models",
-    "headline": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-    "summary": "Meta's new Muse Image model generates AI photos and can include other Instagram users, powered by Superintelligence Labs",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-    "published": "2026-07-07T20:31:58.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139798",
-    "category": "Models",
-    "headline": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-    "summary": "Open source AI models and frontier labs serve different phases of the AI life cycle, so their success isn't mutually exclusive",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-    "published": "2026-07-07T20:04:32.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139819",
-    "category": "Funding",
-    "headline": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-    "summary": "Microsoft reduces AI spending by using its own models more",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-    "published": "2026-07-07T19:58:20.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139842",
-    "category": "Tools",
-    "headline": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-    "summary": "Discord's AI moderation system wrongly banned users due to harmless images, a bug that was recently fixed",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-    "published": "2026-07-07T19:28:38.000Z"
   }
 ]
