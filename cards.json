@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3140971",
+    "category": "Funding",
+    "headline": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "summary": "SK Hynix raises large funds in US IPO, sparking calls for US chip factories, amid growing demand for AI chips",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "published": "2026-07-10T17:17:12.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=963961",
+    "category": "Policy",
+    "headline": "Instagram’s Adam Mosseri: If you don t like AI, then you shouldn t have it in your feed",
+    "summary": "Instagram's head says users who dislike AI content can choose not to have it in their feed, but doesn't think it should be filtered out entirely",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "published": "2026-07-10T13:45:02.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=963930",
+    "category": "Other",
+    "headline": "Would you host part of an AI data center in your home?",
+    "summary": "A company is testing a program where it pays homeowners to host AI computing units in their homes, powered by solar and battery storage, to sell compute power to AI firms",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+    "published": "2026-07-10T13:20:25.000Z"
+  },
+  {
     "id": "https://openai.com/index/deutsche-telekom",
     "category": "Tools",
     "headline": "How Deutsche Telekom is rewiring telecommunications with AI",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
     "published": "2026-07-08T17:11:18.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140033",
-    "category": "Models",
-    "headline": "OpenAI releases new voice models for more natural live conversations",
-    "summary": "OpenAI introduces new voice models for more natural conversations, enabling simultaneous speaking and listening for live translation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-    "published": "2026-07-08T17:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=962856",
-    "category": "Models",
-    "headline": "ChatGPT’s upgraded voice mode is better at shutting up",
-    "summary": "OpenAI upgrades ChatGPT's voice mode with a new model that interrupts less and waits for users to continue speaking, making conversations feel more natural",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-    "published": "2026-07-08T17:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "category": "Models",
-    "headline": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-    "summary": "Google updates Android Bench with new large language models, though Gemini still needs improvement",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "published": "2026-07-08T16:39:48.000Z"
   }
 ]
