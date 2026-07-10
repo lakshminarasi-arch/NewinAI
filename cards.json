@@ -1,5 +1,23 @@
 [
   {
+    "id": "oai:arXiv.org:2607.07716v1",
+    "category": "Research",
+    "headline": "Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution",
+    "summary": "Researchers propose a method to explain temporal graph network predictions by analyzing memory and topology to understand historical event influence",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.07716",
+    "published": "2026-07-10T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.07717v1",
+    "category": "Research",
+    "headline": "Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed Chest X-ray Classification",
+    "summary": "Researchers investigate how chest X-ray classification models can miss rare cases, especially in subgroups, and propose methods to address this issue",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.07717",
+    "published": "2026-07-10T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3140881",
     "category": "Models",
     "headline": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -315,15 +333,6 @@
     "published": "2026-07-09T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.06605v1",
-    "category": "Research",
-    "headline": "A Quiet Failure in Calibrated Virtual Screening: Marginal Conformal Prediction Under-Covers the Minority Class, and a Class-Conditional Fix Recovers It",
-    "summary": "Conformal prediction methods may not work well with imbalanced datasets, leaving minority classes under-covered, but a class-conditional fix can improve this",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.06605",
-    "published": "2026-07-09T04:00:00.000Z"
-  },
-  {
     "id": "hn:48839355",
     "category": "Models",
     "headline": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
     "published": "2026-07-08T16:22:38.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139890",
-    "category": "Funding",
-    "headline": "These AI startups are growing revenue at faster and faster rates",
-    "summary": "Some AI startups are experiencing rapid revenue growth, with certain companies growing at even faster rates",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-    "published": "2026-07-08T15:41:06.000Z"
   }
 ]
