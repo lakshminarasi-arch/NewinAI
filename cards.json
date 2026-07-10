@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3141193",
+    "category": "Models",
+    "headline": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "summary": "Hugging Face's CEO says open source AI is booming, with the company's platform used by half of the Fortune 500 to share and download models and datasets",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "published": "2026-07-10T19:00:00.000Z"
+  },
+  {
+    "id": "hn:48863490",
+    "category": "Models",
+    "headline": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "summary": "GPT-5.6 Sol Ultra allegedly provides proof for a mathematical conjecture",
+    "source": "Hacker News",
+    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "published": "2026-07-10T18:29:19.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3140971",
     "category": "Funding",
     "headline": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
@@ -7,6 +25,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
     "published": "2026-07-10T17:17:12.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140997",
+    "category": "Models",
+    "headline": "Hugging Face’s CEO on why companies are done renting their AI",
+    "summary": "Hugging Face's CEO says companies are moving away from renting AI, with open source AI on the rise and many using shared models and datasets",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "published": "2026-07-10T14:00:00.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=963961",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
     "published": "2026-07-08T18:30:08.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3140196",
-    "category": "Research",
-    "headline": "Why this CEO thinks video games make better training data than the internet",
-    "summary": "A CEO believes video games can provide better training data for artificial general intelligence than internet data, as games can help models understand movement and space",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-    "published": "2026-07-08T17:47:55.000Z"
-  },
-  {
-    "id": "hn:48834924",
-    "category": "Tools",
-    "headline": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-    "summary": "Microsoft introduces Flint, a language for visualizing AI agents",
-    "source": "Hacker News",
-    "url": "https://microsoft.github.io/flint-chart/#/",
-    "published": "2026-07-08T17:46:12.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140026",
-    "category": "Policy",
-    "headline": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-    "summary": "Meta adds a safeguard to prevent secret recordings on its AI glasses, but its AI strategy still collects and uses more personal data",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-    "published": "2026-07-08T17:11:18.000Z"
   }
 ]
