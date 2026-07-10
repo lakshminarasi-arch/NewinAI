@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/deutsche-telekom",
+    "category": "Tools",
+    "headline": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "summary": "Deutsche Telekom uses AI to improve customer service, employee tasks, and network operations",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "published": "2026-07-10T07:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.07716v1",
     "category": "Research",
     "headline": "Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
     "published": "2026-07-08T16:39:48.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140126",
-    "category": "Funding",
-    "headline": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-    "summary": "Prime Intellect got funding to help companies create their own AI agents without relying on external labs",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-    "published": "2026-07-08T16:22:38.000Z"
   }
 ]
