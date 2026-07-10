@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3141179",
+    "category": "Policy",
+    "headline": "Apple sues OpenAI over alleged trade secret theft",
+    "summary": "Apple accuses OpenAI of stealing trade secrets under direction of senior leaders, including a former Apple employee",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "published": "2026-07-10T21:00:29.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_podcast&p=3141193",
     "category": "Models",
     "headline": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
     "published": "2026-07-08T19:19:15.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140180",
-    "category": "Tools",
-    "headline": "Google Photos adds a new AI ‘Video Remix’ tool",
-    "summary": "Google Photos introduces a new AI tool to edit videos with effects like relighting and background changes",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-    "published": "2026-07-08T18:30:08.000Z"
   }
 ]
