@@ -1,5 +1,59 @@
 [
   {
+    "id": "oai:arXiv.org:2607.07721v1",
+    "category": "Research",
+    "headline": "Context Graphs for Proactive Enterprise Agents",
+    "summary": "Researchers propose using Context Graphs to create proactive enterprise agents that provide workers with relevant information before they ask",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.07721",
+    "published": "2026-07-11T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.07759v1",
+    "category": "Models",
+    "headline": "AI-integrated models for assessing agricultural resilience",
+    "summary": "Researchers created an AI tool combining economic and biophysical models to analyze agricultural supply chain disruptions and help policymakers assess impacts",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.07759",
+    "published": "2026-07-11T04:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3141357",
+    "category": "Tools",
+    "headline": "Meta removes controversial AI feature on Instagram after backlash",
+    "summary": "Meta removed an AI feature from Instagram due to negative user feedback, saying it didn't meet its goal of being a useful tool",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "published": "2026-07-10T23:55:07.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=964416",
+    "category": "Policy",
+    "headline": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "summary": "Meta stops an Instagram feature that allowed users to create AI deepfakes of public accounts without permission",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "published": "2026-07-10T23:49:50.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+    "category": "Research",
+    "headline": "Quantum error correction can constantly recalibrate a processor",
+    "summary": "Quantum error correction uses reinforcement learning to adjust control algorithms based on error information",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+    "published": "2026-07-10T23:02:30.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=964350",
+    "category": "Other",
+    "headline": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "summary": "Apple accuses OpenAI of stealing hardware secrets through former Apple employees, now working at OpenAI, to aid its hardware development",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "published": "2026-07-10T21:36:51.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3141179",
     "category": "Policy",
     "headline": "Apple sues OpenAI over alleged trade secret theft",
@@ -387,24 +441,6 @@
     "published": "2026-07-09T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.06720v1",
-    "category": "Research",
-    "headline": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-    "summary": "Researchers analyze in-context search in large language models, studying how self-reflection improves solution attempts through iterative generation and revision",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.06720",
-    "published": "2026-07-09T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.06601v1",
-    "category": "Models",
-    "headline": "TriRoute: Unified Learned Routing for Joint Adaptive Attention, Experts, and KV-Cache Allocation",
-    "summary": "Researchers propose TriRoute, a unified approach to optimize routing for language models, combining attention, expert selection, and cache allocation for better performance",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.06601",
-    "published": "2026-07-09T04:00:00.000Z"
-  },
-  {
     "id": "hn:48839355",
     "category": "Models",
     "headline": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
@@ -412,41 +448,5 @@
     "source": "Hacker News",
     "url": "https://mira-wm.com/",
     "published": "2026-07-09T00:27:57.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "category": "Policy",
-    "headline": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-    "summary": "An Ivy League professor suspected AI cheating and switched to in-person finals, resulting in a significant drop in scores",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "published": "2026-07-08T21:42:44.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140297",
-    "category": "Models",
-    "headline": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-    "summary": "Google's system detects and debunks fake images, including one of Senator Mitch McConnell, created using AI",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "published": "2026-07-08T20:37:03.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140162",
-    "category": "Models",
-    "headline": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-    "summary": "SpaceXAI's Grok 4.5 model is released, claiming to be a cheaper and more efficient alternative to other powerful AI models",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "published": "2026-07-08T19:30:16.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140241",
-    "category": "Models",
-    "headline": "This startup thinks robotics is about to have its ChatGPT moment",
-    "summary": "General Intuition uses video game data to train foundation models for physical AI, aiming to build smarter robots with less real-world data",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-    "published": "2026-07-08T19:19:15.000Z"
   }
 ]
