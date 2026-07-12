@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48875342",
+    "category": "Tools",
+    "headline": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+    "summary": "Sqlsure is a tool that checks AI generated SQL code for correctness",
+    "source": "Hacker News",
+    "url": "https://github.com/sqlsure/sqlsure",
+    "published": "2026-07-11T20:03:42.000Z"
+  },
+  {
     "id": "hn:48873417",
     "category": "Tools",
     "headline": "Show HN: Reame – a CPU inference server that gets faster as it runs",
@@ -438,15 +447,6 @@
     "summary": "OpenAI introduces a bug bounty program for its GPT-5.5 bio model",
     "source": "OpenAI",
     "url": "https://openai.com/index/bio-bug-bounty",
-    "published": "2026-07-09T10:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-6",
-    "category": "Models",
-    "headline": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "summary": "OpenAI introduces GPT-5.6, promising improved performance and efficiency for demanding tasks",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-5-6",
     "published": "2026-07-09T10:00:00.000Z"
   }
 ]
