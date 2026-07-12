@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=963346",
+    "category": "Policy",
+    "headline": "The fight against AI data centers is just beginning",
+    "summary": "Communities are starting to push back against the construction of AI data centers due to concerns over their impact on local power grids",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+    "published": "2026-07-12T12:00:00.000Z"
+  },
+  {
     "id": "hn:48875342",
     "category": "Tools",
     "headline": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
@@ -438,15 +447,6 @@
     "summary": "ChatGPT can now assist with complex tasks by interacting with apps and files to help complete projects",
     "source": "OpenAI",
     "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "published": "2026-07-09T10:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/bio-bug-bounty",
-    "category": "Models",
-    "headline": "GPT-5.5 Bio Bug Bounty",
-    "summary": "OpenAI introduces a bug bounty program for its GPT-5.5 bio model",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/bio-bug-bounty",
     "published": "2026-07-09T10:00:00.000Z"
   }
 ]
