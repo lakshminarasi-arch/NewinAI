@@ -1,5 +1,23 @@
 [
   {
+    "id": "hn:48882716",
+    "category": "Models",
+    "headline": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "summary": "A production AI agent was moved to GPT-5.6, resulting in improved speed and cost savings",
+    "source": "Hacker News",
+    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "published": "2026-07-12T17:13:07.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=964519",
+    "category": "Models",
+    "headline": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "summary": "Apple's failed self-driving car project led to the development of powerful AI chips, specifically the Neural Engine, which is used for on-device AI processing",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "published": "2026-07-12T16:27:06.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=963346",
     "category": "Policy",
     "headline": "The fight against AI data centers is just beginning",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
     "published": "2026-07-09T13:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=963052",
-    "category": "Tools",
-    "headline": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-    "summary": "FL Studio's AI chatbot Gopher now assists with tasks like laying down beats and adding effects, acting as a virtual engineer",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-    "published": "2026-07-09T13:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "category": "Tools",
-    "headline": "ChatGPT is now a partner for your most ambitious work",
-    "summary": "ChatGPT can now assist with complex tasks by interacting with apps and files to help complete projects",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "published": "2026-07-09T10:00:00.000Z"
   }
 ]
