@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2607.08773v1",
+    "category": "Research",
+    "headline": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+    "summary": "Researchers propose a framework to improve AI safety by reducing adversarial robustness to a lattice traversal problem for multilayered perceptrons",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.08773",
+    "published": "2026-07-13T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.08774v1",
+    "category": "Research",
+    "headline": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+    "summary": "Researchers introduce CogniConsole, a system to improve reliability in large language models by controlling task framing and context selection at inference time",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.08774",
+    "published": "2026-07-13T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.08776v1",
+    "category": "Research",
+    "headline": "A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions",
+    "summary": "Researchers propose a unified approach to understand how knowledge distillation works in large language models by analyzing interactions between input variables",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.08776",
+    "published": "2026-07-13T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.08778v1",
+    "category": "Research",
+    "headline": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
+    "summary": "Researchers propose iLENS, a framework using large language models to improve survival analysis for Alzheimer's disease prediction",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.08778",
+    "published": "2026-07-13T04:00:00.000Z"
+  },
+  {
     "id": "hn:48882716",
     "category": "Models",
     "headline": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
@@ -60,15 +96,6 @@
     "summary": "Researchers propose using Context Graphs to create proactive enterprise agents that provide workers with relevant information before they ask",
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2607.07721",
-    "published": "2026-07-11T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.07759v1",
-    "category": "Models",
-    "headline": "AI-integrated models for assessing agricultural resilience",
-    "summary": "Researchers created an AI tool combining economic and biophysical models to analyze agricultural supply chain disruptions and help policymakers assess impacts",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.07759",
     "published": "2026-07-11T04:00:00.000Z"
   },
   {
@@ -178,24 +205,6 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/deutsche-telekom",
     "published": "2026-07-10T07:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.07716v1",
-    "category": "Research",
-    "headline": "Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution",
-    "summary": "Researchers propose a method to explain temporal graph network predictions by analyzing memory and topology to understand historical event influence",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.07716",
-    "published": "2026-07-10T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.07717v1",
-    "category": "Research",
-    "headline": "Who Gets Missed in the Tail? Thresholded Subgroup Underdiagnosis in Long-Tailed Chest X-ray Classification",
-    "summary": "Researchers investigate how chest X-ray classification models can miss rare cases, especially in subgroups, and propose methods to address this issue",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.07717",
-    "published": "2026-07-10T04:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3140881",
@@ -438,15 +447,6 @@
     "summary": "Ollama, a tool for running AI on personal computers, gains popularity and funding, reaching nearly 9 million users",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-    "published": "2026-07-09T13:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140394",
-    "category": "Tools",
-    "headline": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-    "summary": "Character.AI produces interactive shows where users can chat and roleplay with characters, exploring different storylines",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
     "published": "2026-07-09T13:00:00.000Z"
   }
 ]
