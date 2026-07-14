@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3141909",
+    "category": "Other",
+    "headline": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "summary": "Successful tech individuals are working hard again due to the potential of AI to bring significant financial gains",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "published": "2026-07-14T02:46:42.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3141573",
+    "category": "Other",
+    "headline": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+    "summary": "Uber's product chief discusses the company's ambitions, including financial services and autonomous vehicles, and how AI is being integrated to improve rider and driver experiences",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "published": "2026-07-14T00:45:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3141426",
+    "category": "Funding",
+    "headline": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "summary": "PixVerse, a video generation startup, got a large investment to grow its global customer base and improve its world model",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "published": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3141670",
+    "category": "Funding",
+    "headline": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "summary": "Nous Research, creator of Hermes agent, seeks new funding at a 1.5 billion dollar valuation, aiming to raise at least 75 million dollars",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "published": "2026-07-13T23:31:18.000Z"
+  },
+  {
+    "id": "hn:48900319",
+    "category": "Tools",
+    "headline": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+    "summary": "A tool allows teams to share AI skills via a Dropbox folder",
+    "source": "Hacker News",
+    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "published": "2026-07-13T23:26:52.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3141632",
     "category": "Policy",
     "headline": "Satya Nadella has issued a shocking warning to companies using AI",
@@ -403,50 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
     "published": "2026-07-09T20:11:38.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140525",
-    "category": "Tools",
-    "headline": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "summary": "Meta introduces Muse Spark to automate coding tasks like bug fixing and code migrations for large workloads",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "published": "2026-07-09T19:40:45.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140699",
-    "category": "Policy",
-    "headline": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-    "summary": "OpenAI allegedly hid tools and datasets that could identify copyrighted content in ChatGPT outputs, sparking a new motion for sanctions in a lawsuit",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-    "published": "2026-07-09T19:05:58.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-    "category": "Policy",
-    "headline": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-    "summary": "OpenAI might face sanctions for allegedly hiding and deleting ChatGPT logs in a copyright dispute with news organizations",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-    "published": "2026-07-09T18:57:53.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140626",
-    "category": "Policy",
-    "headline": "Google will now disclose which ads are made with AI",
-    "summary": "Google now requires ads to disclose if they use AI-created content, expanding a rule previously only applied to election ads",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-    "published": "2026-07-09T18:40:51.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140596",
-    "category": "Funding",
-    "headline": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "summary": "Gradium, an AI voice startup, has raised $100M to expand and compete for talent in the Bay Area",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-    "published": "2026-07-09T18:34:35.000Z"
   }
 ]
