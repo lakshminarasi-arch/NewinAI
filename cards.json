@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3142002",
+    "category": "Models",
+    "headline": "The real AI race may no longer be at the frontier",
+    "summary": "Enterprises are shifting towards open AI models due to cost and accessibility, potentially making frontier models less important",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "published": "2026-07-14T14:24:53.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3141990",
+    "category": "Tools",
+    "headline": "Spotify expands its AI push with a ChatGPT-like music assistant",
+    "summary": "Spotify introduces an AI music assistant for Premium users to find music and podcasts through conversation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+    "published": "2026-07-14T14:06:47.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=965294",
+    "category": "Other",
+    "headline": "Sam Altman didn’t need another lawsuit",
+    "summary": "Apple sues OpenAI, alleging former Apple employees stole trade secrets to benefit OpenAI, putting OpenAI's hardware investments at risk",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+    "published": "2026-07-14T14:01:07.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139498",
+    "category": "Tools",
+    "headline": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+    "summary": "Superhuman's new AI feature can draft email replies that often need little to no editing",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+    "published": "2026-07-14T14:00:00.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=965270",
     "category": "Policy",
     "headline": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
@@ -412,41 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
     "published": "2026-07-09T22:24:24.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140819",
-    "category": "Funding",
-    "headline": "An AI agent startup just let its agent run its $100M fundraise",
-    "summary": "A startup used its own AI agent to successfully raise $100 million, demonstrating the agent's effectiveness",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-    "published": "2026-07-09T22:08:58.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140848",
-    "category": "Tools",
-    "headline": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "summary": "OpenAI stops its AI browser after less than a year, but will add some features to its desktop app and Chrome extension",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-    "published": "2026-07-09T22:03:54.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140701",
-    "category": "Models",
-    "headline": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-    "summary": "Elon Musk says he won't limit Anthropic's model hosting despite having a stake in a competing company",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-    "published": "2026-07-09T21:57:42.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140802",
-    "category": "Funding",
-    "headline": "Can AI answer the $3 trillion question?",
-    "summary": "The debate about AI's return on investment has resumed with higher numbers and potentially bigger consequences",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-    "published": "2026-07-09T21:47:50.000Z"
   }
 ]
