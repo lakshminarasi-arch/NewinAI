@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.theverge.com/?p=965270",
+    "category": "Policy",
+    "headline": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+    "summary": "Google DeepMind CEO Demis Hassabis proposes a global AI watchdog to regulate potentially dangerous models, suggesting the US should lead the initiative",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+    "published": "2026-07-14T11:43:29.000Z"
+  },
+  {
+    "id": "hn:48905028",
+    "category": "Models",
+    "headline": "Codex starts encrypting prompts, uses ciphertext for inference instead",
+    "summary": "Codex now encrypts user prompts and uses the encrypted text for its responses",
+    "source": "Hacker News",
+    "url": "https://github.com/openai/codex/issues/28058",
+    "published": "2026-07-14T11:21:32.000Z"
+  },
+  {
     "id": "hn:48903102",
     "category": "Tools",
     "headline": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
     "published": "2026-07-09T21:47:50.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-    "category": "Tools",
-    "headline": "OpenAI wants its new tool to do your work for you and with you",
-    "summary": "OpenAI's rebranded Codex tool aims to automate and assist with work tasks for extended periods",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-    "published": "2026-07-09T21:25:55.000Z"
-  },
-  {
-    "id": "hn:48852199",
-    "category": "Models",
-    "headline": "Building a real-time AI tutor for 5-year-olds",
-    "summary": "Developing an AI system to provide real-time tutoring for young children",
-    "source": "Hacker News",
-    "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-    "published": "2026-07-09T20:51:06.000Z"
   }
 ]
