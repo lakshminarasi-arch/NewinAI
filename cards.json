@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3142131",
+    "category": "Policy",
+    "headline": "New York State halts construction of all new data centers",
+    "summary": "New York State stops approving new data centers due to concerns over high electricity costs and water usage, amid an AI-driven building boom",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+    "published": "2026-07-14T15:17:59.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3141991",
+    "category": "Funding",
+    "headline": "Reflection inks $1B compute deal with Nebius",
+    "summary": "Reflection AI signed a $1 billion deal with Nebius for computing power to aid in open source AI development",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+    "published": "2026-07-14T14:37:48.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3142002",
     "category": "Models",
     "headline": "The real AI race may no longer be at the frontier",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "published": "2026-07-10T00:16:54.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140900",
-    "category": "Funding",
-    "headline": "Fidji Simo steps down from OpenAI’s no. 2 role",
-    "summary": "OpenAI's second in command, Fidji Simo, is leaving her full-time role after a longer than expected medical leave, creating a leadership gap",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-    "published": "2026-07-09T23:38:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140805",
-    "category": "Models",
-    "headline": "OpenAI launches its new family of models with GPT-5.6",
-    "summary": "OpenAI introduces a new model family with GPT-5.6, aiming to improve various areas like cybersecurity",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-    "published": "2026-07-09T22:24:24.000Z"
   }
 ]
