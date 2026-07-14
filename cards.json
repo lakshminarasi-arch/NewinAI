@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2607.09664v1",
+    "category": "Research",
+    "headline": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+    "summary": "Researchers use the Toulmin model to break down image-based diagnosis into components for more interpretable assessments, improving machine learning predictions in retinal diagnosis",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.09664",
+    "published": "2026-07-14T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.09665v1",
+    "category": "Research",
+    "headline": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+    "summary": "Researchers study how formatting affects large language model performance and introduce metrics to measure this impact",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.09665",
+    "published": "2026-07-14T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.09666v1",
+    "category": "Research",
+    "headline": "Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey",
+    "summary": "Researchers review combining knowledge graphs with graph neural networks, proposing a taxonomy framework to organize these technologies",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.09666",
+    "published": "2026-07-14T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.09668v1",
+    "category": "Research",
+    "headline": "Position: Every Ground Truth is a Human Construction, not an Objective Truth",
+    "summary": "A new position paper claims that ground truth datasets are human constructions, not objective truths, and argues for more transparency in the choices behind these datasets",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.09668",
+    "published": "2026-07-14T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3141909",
     "category": "Other",
     "headline": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -126,6 +162,15 @@
     "published": "2026-07-13T14:18:16.000Z"
   },
   {
+    "id": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "category": "Tools",
+    "headline": "Empowering India’s next generation of innovators with ATL Saathi",
+    "summary": "Google and AIM introduce ATL Saathi, an AI tool to support Indian educators in robotics labs",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "published": "2026-07-13T12:37:28.000Z"
+  },
+  {
     "id": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
     "category": "Models",
     "headline": "Simulating everything, sort of: The promise and limits of world models",
@@ -150,33 +195,6 @@
     "summary": "Researchers propose a framework to improve AI safety by reducing adversarial robustness to a lattice traversal problem for multilayered perceptrons",
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2607.08773",
-    "published": "2026-07-13T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.08774v1",
-    "category": "Research",
-    "headline": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-    "summary": "Researchers introduce CogniConsole, a system to improve reliability in large language models by controlling task framing and context selection at inference time",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.08774",
-    "published": "2026-07-13T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.08776v1",
-    "category": "Research",
-    "headline": "A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions",
-    "summary": "Researchers propose a unified approach to understand how knowledge distillation works in large language models by analyzing interactions between input variables",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.08776",
-    "published": "2026-07-13T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.08778v1",
-    "category": "Research",
-    "headline": "iLENS: Interpretable LLM-Guided Mixture-of-Experts for Neuroimaging Survival Analysis",
-    "summary": "Researchers propose iLENS, a framework using large language models to improve survival analysis for Alzheimer's disease prediction",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.08778",
     "published": "2026-07-13T04:00:00.000Z"
   },
   {
@@ -232,15 +250,6 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
     "published": "2026-07-11T14:13:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.07721v1",
-    "category": "Research",
-    "headline": "Context Graphs for Proactive Enterprise Agents",
-    "summary": "Researchers propose using Context Graphs to create proactive enterprise agents that provide workers with relevant information before they ask",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.07721",
-    "published": "2026-07-11T04:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3141357",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
     "published": "2026-07-09T20:34:05.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=963628",
-    "category": "Tools",
-    "headline": "Google will now tell you if an ad was made with AI",
-    "summary": "Google adds a label to ads made or edited with AI on its platforms, including Search, Discover, and YouTube, for transparency",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-    "published": "2026-07-09T20:11:38.000Z"
   }
 ]
