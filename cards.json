@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.theverge.com/?p=965486",
+    "category": "Policy",
+    "headline": "Meta accused of using biased AI targeting for mass layoffs",
+    "summary": "Former Meta employees claim the company used biased AI tools to target workers on leave for layoffs, disproportionately affecting those on parental or medical leave",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+    "published": "2026-07-14T17:18:11.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142125",
+    "category": "Policy",
+    "headline": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+    "summary": "Instagram head Adam Mosseri thinks companies will need to limit AI spending per engineer, similar to managing payroll expenses",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+    "published": "2026-07-14T16:22:15.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=965138",
+    "category": "Tools",
+    "headline": "The Google Images homepage will recommend photos even before you search",
+    "summary": "Google Images will show users a gallery of images tailored to their interests before they search, using intelligent tailoring",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+    "published": "2026-07-14T16:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=965358",
+    "category": "Tools",
+    "headline": "Spotify is now an AI chatbot, too",
+    "summary": "Spotify introduces a chatbot feature for Premium users to explore music and podcasts through conversations",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+    "published": "2026-07-14T15:47:36.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3142131",
     "category": "Policy",
     "headline": "New York State halts construction of all new data centers",
@@ -7,6 +43,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
     "published": "2026-07-14T15:17:59.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "category": "Policy",
+    "headline": "New York bans data center construction for a year, rattling AI industry",
+    "summary": "New York has halted data center construction for a year, which may impact the AI industry and inspire similar anti-AI movements",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "published": "2026-07-14T15:06:28.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3141991",
@@ -70,6 +115,15 @@
     "source": "Hacker News",
     "url": "https://github.com/openai/codex/issues/28058",
     "published": "2026-07-14T11:21:32.000Z"
+  },
+  {
+    "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "category": "Funding",
+    "headline": "How to manage AI investments in the agentic era",
+    "summary": "Enterprises can manage AI investments by measuring efficiency and scaling high-value workflows",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "published": "2026-07-14T10:00:00.000Z"
   },
   {
     "id": "hn:48903102",
@@ -394,59 +448,5 @@
     "source": "Hacker News",
     "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
     "published": "2026-07-10T18:29:19.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140971",
-    "category": "Funding",
-    "headline": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "summary": "SK Hynix raises large funds in US IPO, sparking calls for US chip factories, amid growing demand for AI chips",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "published": "2026-07-10T17:17:12.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140997",
-    "category": "Models",
-    "headline": "Hugging Face’s CEO on why companies are done renting their AI",
-    "summary": "Hugging Face's CEO says companies are moving away from renting AI, with open source AI on the rise and many using shared models and datasets",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "published": "2026-07-10T14:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=963961",
-    "category": "Policy",
-    "headline": "Instagram’s Adam Mosseri: If you don t like AI, then you shouldn t have it in your feed",
-    "summary": "Instagram's head says users who dislike AI content can choose not to have it in their feed, but doesn't think it should be filtered out entirely",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-    "published": "2026-07-10T13:45:02.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=963930",
-    "category": "Other",
-    "headline": "Would you host part of an AI data center in your home?",
-    "summary": "A company is testing a program where it pays homeowners to host AI computing units in their homes, powered by solar and battery storage, to sell compute power to AI firms",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-    "published": "2026-07-10T13:20:25.000Z"
-  },
-  {
-    "id": "https://openai.com/index/deutsche-telekom",
-    "category": "Tools",
-    "headline": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "summary": "Deutsche Telekom uses AI to improve customer service, employee tasks, and network operations",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/deutsche-telekom",
-    "published": "2026-07-10T07:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140881",
-    "category": "Models",
-    "headline": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "summary": "OpenAI's new models will continue to power Microsoft's workplace and productivity apps, including Copilot 365",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "published": "2026-07-10T00:16:54.000Z"
   }
 ]
