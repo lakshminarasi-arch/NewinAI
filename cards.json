@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48903102",
+    "category": "Tools",
+    "headline": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+    "summary": "A tool helps engineering teams assess their AI agent's maturity level quickly",
+    "source": "Hacker News",
+    "url": "https://agent-benchmarks.com/software-factory/",
+    "published": "2026-07-14T06:48:47.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.09664v1",
     "category": "Research",
     "headline": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
@@ -439,14 +448,5 @@
     "source": "Hacker News",
     "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
     "published": "2026-07-09T20:51:06.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=963654",
-    "category": "Tools",
-    "headline": "The ChatGPT browser is already dead",
-    "summary": "OpenAI is shutting down ChatGPT Atlas, a browser that performed tasks, less than a year after its launch to focus on productivity features",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-    "published": "2026-07-09T20:34:05.000Z"
   }
 ]
