@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=965901",
+    "category": "Tools",
+    "headline": "OpenAI finally launches hardware… for Codex",
+    "summary": "OpenAI releases Codex Micro, a limited-run hardware device for its coding platform, in collaboration with Work Louder",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+    "published": "2026-07-15T16:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3142774",
     "category": "Models",
     "headline": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
@@ -439,14 +448,5 @@
     "source": "Hacker News",
     "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
     "published": "2026-07-13T20:00:10.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141608",
-    "category": "Policy",
-    "headline": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-    "summary": "Apple's lawsuit against OpenAI includes claims of unauthorized system access and misuse of Apple hardware during job interviews",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-    "published": "2026-07-13T18:22:10.000Z"
   }
 ]
