@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3142774",
+    "category": "Models",
+    "headline": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "summary": "Apple's AI services are coming to China through a partnership with Alibaba, bringing Qwen AI models to Apple's systems",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "published": "2026-07-15T15:29:33.000Z"
+  },
+  {
+    "id": "hn:48920681",
+    "category": "Tools",
+    "headline": "Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents",
+    "summary": "Aict is a Unix coreutils variant that outputs data in XML or JSON formats, designed for use by AI agents",
+    "source": "Hacker News",
+    "url": "https://github.com/synseqack/aict",
+    "published": "2026-07-15T13:39:54.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142610",
+    "category": "Funding",
+    "headline": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "summary": "Anthropic and Blackstone invest in a company that helps businesses implement AI by sending engineers to work inside the companies",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "published": "2026-07-15T13:10:47.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142243",
+    "category": "Tools",
+    "headline": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "summary": "An app uses AI to turn camera roll photos into short social media videos, simplifying content creation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+    "published": "2026-07-15T13:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142019",
+    "category": "Funding",
+    "headline": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "summary": "Emergent, an Indian AI coding startup, achieves unicorn status after raising $130M in Series C funding, with over 200,000 paying customers",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "published": "2026-07-15T12:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142184",
+    "category": "Research",
+    "headline": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "summary": "Vint Cerf is developing a standard to identify AI agents on the internet",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+    "published": "2026-07-15T12:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.11896v1",
+    "category": "Models",
+    "headline": "OmniPMNet: Bridging discrete and gridded PM10 forecasts via omni-query neural processes",
+    "summary": "OmniPMNet is a neural process that combines discrete and gridded forecasts to improve particulate matter predictions, especially during severe dust storms",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.11896",
+    "published": "2026-07-15T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.11897v1",
+    "category": "Models",
+    "headline": "Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels",
+    "summary": "Researchers introduce Semidirect Fourier Delta Attention, a new attention mechanism that improves state tracking and memory in linear attention models",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.11897",
+    "published": "2026-07-15T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3142345",
     "category": "Funding",
     "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -297,15 +369,6 @@
     "published": "2026-07-14T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.09668v1",
-    "category": "Research",
-    "headline": "Position: Every Ground Truth is a Human Construction, not an Objective Truth",
-    "summary": "A new position paper claims that ground truth datasets are human constructions, not objective truths, and argues for more transparency in the choices behind these datasets",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.09668",
-    "published": "2026-07-14T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3141909",
     "category": "Other",
     "headline": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -385,68 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
     "published": "2026-07-13T18:22:10.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141477",
-    "category": "Policy",
-    "headline": "Should AI help you get away with killing your spouse?",
-    "summary": "Exploring the implications of AI being used for harmful purposes, such as assisting in violent crimes",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-    "published": "2026-07-13T16:31:23.000Z"
-  },
-  {
-    "id": "hn:48894630",
-    "category": "Tools",
-    "headline": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-    "summary": "A new programming language called Jacquard is designed for code written by AI and reviewed by humans",
-    "source": "Hacker News",
-    "url": "https://github.com/jbwinters/jacquard-lang",
-    "published": "2026-07-13T15:56:02.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141549",
-    "category": "Models",
-    "headline": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-    "summary": "Anthropic's AI model Claude is introducing pricing in Indian rupees for users in India, its second largest market",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-    "published": "2026-07-13T15:34:59.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-    "category": "Models",
-    "headline": "Now, defenders are embracing the prompt injection, too",
-    "summary": "Defenders use context bombing to trick hacking agents into shutting down before causing harm",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-    "published": "2026-07-13T15:06:34.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141472",
-    "category": "Tools",
-    "headline": "Waze adds new AI-powered features and customization updates",
-    "summary": "Waze introduces new AI features and customization options, using Google's Gemini AI assistant to enhance its service",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-    "published": "2026-07-13T14:18:16.000Z"
-  },
-  {
-    "id": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "category": "Tools",
-    "headline": "Empowering India’s next generation of innovators with ATL Saathi",
-    "summary": "Google and AIM introduce ATL Saathi, an AI tool to support Indian educators in robotics labs",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "published": "2026-07-13T12:37:28.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-    "category": "Models",
-    "headline": "Simulating everything, sort of: The promise and limits of world models",
-    "summary": "Experts discuss the capabilities and limitations of world models, which simulate complex systems",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-    "published": "2026-07-13T11:00:51.000Z"
   }
 ]
