@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3142768",
+    "category": "Models",
+    "headline": "Hack suggests AI music generator Suno scraped YouTube for training data",
+    "summary": "A hack revealed that AI music generator Suno used scraped YouTube audio for training data, covering decades of content",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+    "published": "2026-07-15T17:00:34.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142373",
+    "category": "Funding",
+    "headline": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "summary": "Whatnot buys AI startup Shaped to improve real-time product recommendations during live shopping",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+    "published": "2026-07-15T17:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142791",
+    "category": "Tools",
+    "headline": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+    "summary": "Microsoft used AI to help find and fix a record number of security issues in its products",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+    "published": "2026-07-15T16:20:18.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=965901",
     "category": "Tools",
     "headline": "OpenAI finally launches hardware… for Codex",
@@ -7,6 +34,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
     "published": "2026-07-15T16:00:00.000Z"
+  },
+  {
+    "id": "hn:48922434",
+    "category": "Models",
+    "headline": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "summary": "A 13-year-old Xeon processor runs a large language model at a slow speed without a GPU",
+    "source": "Hacker News",
+    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "published": "2026-07-15T15:34:05.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3142774",
@@ -45,6 +81,15 @@
     "published": "2026-07-15T13:00:00.000Z"
   },
   {
+    "id": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "category": "Policy",
+    "headline": "The US is advancing AI safety through state and federal action",
+    "summary": "The US is creating a national AI safety framework using a state-led approach to governance",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "published": "2026-07-15T12:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3142019",
     "category": "Funding",
     "headline": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
@@ -61,6 +106,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
     "published": "2026-07-15T12:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "category": "Models",
+    "headline": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "summary": "OpenAI's GPT-Red system uses self-play to enhance AI safety and robustness through automated testing",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "published": "2026-07-15T10:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2607.11896v1",
@@ -394,59 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
     "published": "2026-07-14T00:45:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141426",
-    "category": "Funding",
-    "headline": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "summary": "PixVerse, a video generation startup, got a large investment to grow its global customer base and improve its world model",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-    "published": "2026-07-14T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141670",
-    "category": "Funding",
-    "headline": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-    "summary": "Nous Research, creator of Hermes agent, seeks new funding at a 1.5 billion dollar valuation, aiming to raise at least 75 million dollars",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-    "published": "2026-07-13T23:31:18.000Z"
-  },
-  {
-    "id": "hn:48900319",
-    "category": "Tools",
-    "headline": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-    "summary": "A tool allows teams to share AI skills via a Dropbox folder",
-    "source": "Hacker News",
-    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-    "published": "2026-07-13T23:26:52.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141632",
-    "category": "Policy",
-    "headline": "Satya Nadella has issued a shocking warning to companies using AI",
-    "summary": "Microsoft CEO warns companies about the risks of using proprietary AI models",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-    "published": "2026-07-13T20:59:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=964714",
-    "category": "Tools",
-    "headline": "Siri AI is already changing how I use my iPhone",
-    "summary": "Siri AI in iOS 27 is being tested for its impact on iPhone usage, with a focus on fixing existing issues and improving speed",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-    "published": "2026-07-13T20:43:20.000Z"
-  },
-  {
-    "id": "hn:48897975",
-    "category": "Models",
-    "headline": "Show HN: I implemented a neural network in SQL",
-    "summary": "Someone created a neural network using SQL programming language",
-    "source": "Hacker News",
-    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "published": "2026-07-13T20:00:10.000Z"
   }
 ]
