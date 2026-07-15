@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=965616",
+    "category": "Other",
+    "headline": "AI slop movies are the new direct-to-video cash grabs",
+    "summary": "A film studio is making an AI-generated version of The Odyssey to capitalize on interest in a similar movie",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+    "published": "2026-07-15T20:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3142831",
     "category": "Tools",
     "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
@@ -369,6 +378,15 @@
     "published": "2026-07-14T15:06:28.000Z"
   },
   {
+    "id": "hn:48907681",
+    "category": "Tools",
+    "headline": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+    "summary": "A local runner for large language models is developed using OpenJDK Panama FFM in Java 22 for low latency",
+    "source": "Hacker News",
+    "url": "https://github.com/projectargus-cc/libargus.cc",
+    "published": "2026-07-14T14:40:46.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3141991",
     "category": "Funding",
     "headline": "Reflection inks $1B compute deal with Nebius",
@@ -430,23 +448,5 @@
     "source": "Hacker News",
     "url": "https://github.com/openai/codex/issues/28058",
     "published": "2026-07-14T11:21:32.000Z"
-  },
-  {
-    "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "category": "Funding",
-    "headline": "How to manage AI investments in the agentic era",
-    "summary": "Enterprises can manage AI investments by measuring efficiency and scaling high-value workflows",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "published": "2026-07-14T10:00:00.000Z"
-  },
-  {
-    "id": "hn:48903102",
-    "category": "Tools",
-    "headline": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-    "summary": "A tool helps engineering teams assess their AI agent's maturity level quickly",
-    "source": "Hacker News",
-    "url": "https://agent-benchmarks.com/software-factory/",
-    "published": "2026-07-14T06:48:47.000Z"
   }
 ]
