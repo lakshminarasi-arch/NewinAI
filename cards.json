@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3142831",
+    "category": "Tools",
+    "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "summary": "OpenAI releases a keyboard for its coding app despite a legal dispute over hardware",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "published": "2026-07-15T19:41:38.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142329",
+    "category": "Models",
+    "headline": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+    "summary": "Thinking Machines releases its first open AI model called Inkling, marking a shift away from general purpose AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "published": "2026-07-15T18:04:06.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=966072",
+    "category": "Models",
+    "headline": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+    "summary": "An AI music generator called Suno was trained using millions of songs and lyrics scraped from online platforms like YouTube and Deezer, sparking copyright concerns",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+    "published": "2026-07-15T17:48:01.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3142768",
     "category": "Models",
     "headline": "Hack suggests AI music generator Suno scraped YouTube for training data",
@@ -27,6 +54,15 @@
     "published": "2026-07-15T16:20:18.000Z"
   },
   {
+    "id": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+    "category": "Tools",
+    "headline": "OpenAI's first branded hardware is... a light-up keyboard?",
+    "summary": "OpenAI releases a light-up keyboard called Codex Micro to monitor multiple tasks at once",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+    "published": "2026-07-15T16:00:33.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=965901",
     "category": "Tools",
     "headline": "OpenAI finally launches hardware… for Codex",
@@ -52,6 +88,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
     "published": "2026-07-15T15:29:33.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3142876",
+    "category": "Funding",
+    "headline": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+    "summary": "Ode with Anthropic is a joint venture that embeds engineers in enterprise firms to provide AI services, aiming to replace traditional consultants",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+    "published": "2026-07-15T15:00:00.000Z"
   },
   {
     "id": "hn:48920681",
@@ -403,50 +448,5 @@
     "source": "Hacker News",
     "url": "https://agent-benchmarks.com/software-factory/",
     "published": "2026-07-14T06:48:47.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.09664v1",
-    "category": "Research",
-    "headline": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-    "summary": "Researchers use the Toulmin model to break down image-based diagnosis into components for more interpretable assessments, improving machine learning predictions in retinal diagnosis",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.09664",
-    "published": "2026-07-14T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.09665v1",
-    "category": "Research",
-    "headline": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-    "summary": "Researchers study how formatting affects large language model performance and introduce metrics to measure this impact",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.09665",
-    "published": "2026-07-14T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.09666v1",
-    "category": "Research",
-    "headline": "Knowledge Graphs Meet Graph Neural Networks: A Comprehensive Survey",
-    "summary": "Researchers review combining knowledge graphs with graph neural networks, proposing a taxonomy framework to organize these technologies",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.09666",
-    "published": "2026-07-14T04:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141909",
-    "category": "Other",
-    "headline": "Already rich, already successful, why the last wave of tech winners is grinding again",
-    "summary": "Successful tech individuals are working hard again due to the potential of AI to bring significant financial gains",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-    "published": "2026-07-14T02:46:42.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141573",
-    "category": "Other",
-    "headline": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-    "summary": "Uber's product chief discusses the company's ambitions, including financial services and autonomous vehicles, and how AI is being integrated to improve rider and driver experiences",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-    "published": "2026-07-14T00:45:00.000Z"
   }
 ]
