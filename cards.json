@@ -1,5 +1,50 @@
 [
   {
+    "id": "guLr7ih5ILpsMnOOTAHLN",
+    "category": "Other",
+    "headline": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "summary": "Most enterprises have had AI agent security incidents due to inadequate controls and shared credentials",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "published": "2026-07-16T19:02:38.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143447",
+    "category": "Tools",
+    "headline": "Google Vids now lets you star in your own AI videos",
+    "summary": "Google Vids introduces AI avatars, letting users create videos with digital versions of themselves, along with tools to generate and edit videos from prompts and images",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "published": "2026-07-16T18:32:54.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143441",
+    "category": "Tools",
+    "headline": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "summary": "Roblox introduces a feature to create basic games using text prompts with AI assistance",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "published": "2026-07-16T18:22:06.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=966647",
+    "category": "Policy",
+    "headline": "New York governor says she s using AI to analyze every single rule in the state",
+    "summary": "New York Governor Kathy Hochul is using AI to review state rules and regulations to identify outdated laws",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+    "published": "2026-07-16T17:58:37.000Z"
+  },
+  {
+    "id": "hn:48937756",
+    "category": "Models",
+    "headline": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+    "summary": "A German AI consortium has released Soofi S, a large open model that performs well on benchmarks",
+    "source": "Hacker News",
+    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+    "published": "2026-07-16T17:44:46.000Z"
+  },
+  {
     "id": "3RCeHS5ENXpygHO6HPhX6f",
     "category": "Funding",
     "headline": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
@@ -403,50 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
     "published": "2026-07-15T12:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142184",
-    "category": "Research",
-    "headline": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-    "summary": "Vint Cerf is developing a standard to identify AI agents on the internet",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-    "published": "2026-07-15T12:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "category": "Models",
-    "headline": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "summary": "OpenAI's GPT-Red system uses self-play to enhance AI safety and robustness through automated testing",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "published": "2026-07-15T10:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.11888v1",
-    "category": "Research",
-    "headline": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
-    "summary": "Researchers created a framework for optimal market making in perpetual futures markets, modeling it as a stochastic control problem with adaptive bid-ask spreads and inventory decisions",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.11888",
-    "published": "2026-07-15T04:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142345",
-    "category": "Funding",
-    "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "summary": "An OpenAI researcher plans to start an AI-based drug discovery company with potential investors",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "published": "2026-07-15T00:27:04.000Z"
-  },
-  {
-    "id": "hn:48913763",
-    "category": "Models",
-    "headline": "LeMario: Training a JEPA World Model on Super Mario Bros",
-    "summary": "Researchers train a world model on Super Mario Bros using JEPA",
-    "source": "Hacker News",
-    "url": "https://www.benjamin-bai.com/projects/lemario",
-    "published": "2026-07-14T22:30:47.000Z"
   }
 ]
