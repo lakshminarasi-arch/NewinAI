@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3143129",
+    "category": "Models",
+    "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "summary": "Microsoft trains sales team to promote its AI models as more efficient and cost-effective than competitors like OpenAI and Anthropic",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "published": "2026-07-15T23:59:44.000Z"
+  },
+  {
     "id": "2884mjZs7g6yWxefPaGVHN",
     "category": "Models",
     "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
@@ -196,6 +205,24 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
     "published": "2026-07-15T10:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.11888v1",
+    "category": "Research",
+    "headline": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+    "summary": "Researchers created a framework for optimal market making in perpetual futures markets, modeling it as a stochastic control problem with adaptive bid-ask spreads and inventory decisions",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.11888",
+    "published": "2026-07-15T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.11906v1",
+    "category": "Research",
+    "headline": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+    "summary": "Researchers survey in-context reinforcement learning, which enables models to learn from interaction context without updates",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.11906",
+    "published": "2026-07-15T04:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2607.11896v1",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
     "published": "2026-07-14T14:37:48.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142002",
-    "category": "Models",
-    "headline": "The real AI race may no longer be at the frontier",
-    "summary": "Enterprises are shifting towards open AI models due to cost and accessibility, potentially making frontier models less important",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-    "published": "2026-07-14T14:24:53.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141990",
-    "category": "Tools",
-    "headline": "Spotify expands its AI push with a ChatGPT-like music assistant",
-    "summary": "Spotify introduces an AI music assistant for Premium users to find music and podcasts through conversation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-    "published": "2026-07-14T14:06:47.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=965294",
-    "category": "Other",
-    "headline": "Sam Altman didn’t need another lawsuit",
-    "summary": "Apple sues OpenAI, alleging former Apple employees stole trade secrets to benefit OpenAI, putting OpenAI's hardware investments at risk",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-    "published": "2026-07-14T14:01:07.000Z"
   }
 ]
