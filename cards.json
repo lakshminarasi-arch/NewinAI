@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3143234",
+    "category": "Tools",
+    "headline": "Google’s AI Mode now lets you link and interact with select apps",
+    "summary": "Google's AI Mode update allows users to interact with certain apps, going beyond just answering questions to completing tasks",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "published": "2026-07-16T16:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143273",
+    "category": "Tools",
+    "headline": "Yes, you can now order DoorDash from the command line",
+    "summary": "DoorDash introduces a command-line tool for developers and AI agents to order food from the terminal",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "published": "2026-07-16T15:38:55.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143216",
+    "category": "Other",
+    "headline": "Why is OpenAI selling a ChatGPT basketball?",
+    "summary": "OpenAI has released a ChatGPT themed basketball, its first hardware product",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "published": "2026-07-16T15:31:09.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143111",
+    "category": "Funding",
+    "headline": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+    "summary": "A former DeepMind researcher has raised a large pre-seed valuation for a new venture focused on visual AI, citing its potential as a major frontier in the field",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+    "published": "2026-07-16T15:02:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142431",
+    "category": "Research",
+    "headline": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+    "summary": "AMI Labs CEO Alexandre LeBrun is cautious about labeling his AI as superintelligence, showing skepticism towards the term",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+    "published": "2026-07-16T14:40:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3143233",
     "category": "Models",
     "headline": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
@@ -403,50 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
     "published": "2026-07-14T19:39:39.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=965600",
-    "category": "Tools",
-    "headline": "SpaceXAI s Grok programming tool was uploading its users entire codebase to cloud storage",
-    "summary": "SpaceXAI's Grok tool was found uploading entire user codebases to cloud storage, more than it should, but the issue has been disabled",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-    "published": "2026-07-14T19:25:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142189",
-    "category": "Policy",
-    "headline": "Google faces another AI training lawsuit from major publishers",
-    "summary": "Publishers claim Google used their copyrighted works to train AI without permission",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-    "published": "2026-07-14T18:33:31.000Z"
-  },
-  {
-    "id": "hn:48910545",
-    "category": "Models",
-    "headline": "Bonsai 27B: A 27B-Class model that runs on a phone",
-    "summary": "A new model called Bonsai 27B can run on a phone, despite being a large 27B-class model",
-    "source": "Hacker News",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "published": "2026-07-14T17:50:48.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142153",
-    "category": "Policy",
-    "headline": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-    "summary": "DeepMind's CEO suggests creating an independent body to set standards for advanced AI models and their release",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-    "published": "2026-07-14T17:45:55.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=965486",
-    "category": "Policy",
-    "headline": "Meta accused of using biased AI targeting for mass layoffs",
-    "summary": "Former Meta employees claim the company used biased AI tools to target workers on leave for layoffs, disproportionately affecting those on parental or medical leave",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-    "published": "2026-07-14T17:18:11.000Z"
   }
 ]
