@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://www.theverge.com/?p=966442",
+    "category": "Tools",
+    "headline": "Claude can now use your 1Password credentials for you",
+    "summary": "1Password's new integration with Claude allows the chatbot to use stored credentials for tasks without exposing them to Anthropic's AI models",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+    "published": "2026-07-16T13:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=966438",
+    "category": "Policy",
+    "headline": "Google ordered to open Android and Search to rivals in Europe",
+    "summary": "Google must open Android and Search to rival AI assistants and search engines in Europe due to antitrust rules",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+    "published": "2026-07-16T12:06:51.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=965066",
+    "category": "Policy",
+    "headline": "COMPUTER COPS: Inside the big business of selling AI to the police",
+    "summary": "AI is being sold to police to automate routine tasks, potentially changing the heart of policing in America",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+    "published": "2026-07-16T11:00:00.000Z"
+  },
+  {
+    "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "category": "Models",
+    "headline": "Our approach to bioresilience",
+    "summary": "Google DeepMind and Isomorphic Labs are collaborating on bioresilience using AI models",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "published": "2026-07-16T09:30:42.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142836",
+    "category": "Models",
+    "headline": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "summary": "Applied Computing is developing an AI model for oil and gas operators to manage entire plants, after raising $20M in funding",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "published": "2026-07-16T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.13037v1",
+    "category": "Research",
+    "headline": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+    "summary": "Researchers introduce OriginBlame, a system to track data ownership in AI training datasets, enabling precise removal of specific records when requested",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.13037",
+    "published": "2026-07-16T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.13049v1",
+    "category": "Models",
+    "headline": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+    "summary": "Researchers propose SPINE, a framework to help deploy AI decision-making into physical robot platforms with minimal expert calibration",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.13049",
+    "published": "2026-07-16T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.13042v1",
+    "category": "Research",
+    "headline": "Automatic Differentiation from Scratch: How PyTorch Computes Gradients in Physics-Informed Neural Networks",
+    "summary": "Researchers explain how PyTorch computes gradients in physics-informed neural networks using automatic differentiation, tracing the process step by step",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.13042",
+    "published": "2026-07-16T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.13043v1",
+    "category": "Research",
+    "headline": "Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Learning",
+    "summary": "Researchers propose a new strategy for efficient transfer learning, reducing computational costs by decoupling feature extraction and classifier optimization",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.13043",
+    "published": "2026-07-16T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3143129",
     "category": "Models",
     "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
@@ -216,33 +297,6 @@
     "published": "2026-07-15T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.11906v1",
-    "category": "Research",
-    "headline": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-    "summary": "Researchers survey in-context reinforcement learning, which enables models to learn from interaction context without updates",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.11906",
-    "published": "2026-07-15T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.11896v1",
-    "category": "Models",
-    "headline": "OmniPMNet: Bridging discrete and gridded PM10 forecasts via omni-query neural processes",
-    "summary": "OmniPMNet is a neural process that combines discrete and gridded forecasts to improve particulate matter predictions, especially during severe dust storms",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.11896",
-    "published": "2026-07-15T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.11897v1",
-    "category": "Models",
-    "headline": "Semidirect Fourier Delta Attention: Phase-Controlled Delta Memory with Constructive Chunk-WY Kernels",
-    "summary": "Researchers introduce Semidirect Fourier Delta Attention, a new attention mechanism that improves state tracking and memory in linear attention models",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.11897",
-    "published": "2026-07-15T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3142345",
     "category": "Funding",
     "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -394,59 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
     "published": "2026-07-14T16:22:15.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=965138",
-    "category": "Tools",
-    "headline": "The Google Images homepage will recommend photos even before you search",
-    "summary": "Google Images will show users a gallery of images tailored to their interests before they search, using intelligent tailoring",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-    "published": "2026-07-14T16:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=965358",
-    "category": "Tools",
-    "headline": "Spotify is now an AI chatbot, too",
-    "summary": "Spotify introduces a chatbot feature for Premium users to explore music and podcasts through conversations",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-    "published": "2026-07-14T15:47:36.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142131",
-    "category": "Policy",
-    "headline": "New York State halts construction of all new data centers",
-    "summary": "New York State stops approving new data centers due to concerns over high electricity costs and water usage, amid an AI-driven building boom",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-    "published": "2026-07-14T15:17:59.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "category": "Policy",
-    "headline": "New York bans data center construction for a year, rattling AI industry",
-    "summary": "New York has halted data center construction for a year, which may impact the AI industry and inspire similar anti-AI movements",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "published": "2026-07-14T15:06:28.000Z"
-  },
-  {
-    "id": "hn:48907681",
-    "category": "Tools",
-    "headline": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
-    "summary": "A local runner for large language models is developed using OpenJDK Panama FFM in Java 22 for low latency",
-    "source": "Hacker News",
-    "url": "https://github.com/projectargus-cc/libargus.cc",
-    "published": "2026-07-14T14:40:46.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141991",
-    "category": "Funding",
-    "headline": "Reflection inks $1B compute deal with Nebius",
-    "summary": "Reflection AI signed a $1 billion deal with Nebius for computing power to aid in open source AI development",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-    "published": "2026-07-14T14:37:48.000Z"
   }
 ]
