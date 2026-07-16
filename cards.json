@@ -1,5 +1,23 @@
 [
   {
+    "id": "hn:48941051",
+    "category": "Tools",
+    "headline": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+    "summary": "A tool called ReasonGate aims to prevent large language models from being manipulated by malicious prompts",
+    "source": "Hacker News",
+    "url": "https://github.com/cgrtml/reasongate",
+    "published": "2026-07-16T22:21:31.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "category": "Policy",
+    "headline": "It's official: EU will force Google to share search data and open up AI on Android",
+    "summary": "The EU is requiring Google to share search data and open up AI on Android, despite Google's concerns about user privacy and security",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "published": "2026-07-16T20:41:45.000Z"
+  },
+  {
     "id": "hn:48939764",
     "category": "Tools",
     "headline": "Timeline Scan – AI fixes the dates on your scanned photos",
@@ -7,6 +25,15 @@
     "source": "Hacker News",
     "url": "https://timelinescan.com/",
     "published": "2026-07-16T20:25:47.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+    "category": "Policy",
+    "headline": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+    "summary": "Linux creator Linus Torvalds dismisses critics of AI coding tools, suggesting they can fork the project or leave",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+    "published": "2026-07-16T19:18:23.000Z"
   },
   {
     "id": "guLr7ih5ILpsMnOOTAHLN",
@@ -421,32 +448,5 @@
     "source": "Hacker News",
     "url": "https://github.com/synseqack/aict",
     "published": "2026-07-15T13:39:54.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142610",
-    "category": "Funding",
-    "headline": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-    "summary": "Anthropic and Blackstone invest in a company that helps businesses implement AI by sending engineers to work inside the companies",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "published": "2026-07-15T13:10:47.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142243",
-    "category": "Tools",
-    "headline": "Reelful’s AI turns your camera roll into short-form videos for social media",
-    "summary": "An app uses AI to turn camera roll photos into short social media videos, simplifying content creation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-    "published": "2026-07-15T13:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "category": "Policy",
-    "headline": "The US is advancing AI safety through state and federal action",
-    "summary": "The US is creating a national AI safety framework using a state-led approach to governance",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "published": "2026-07-15T12:00:00.000Z"
   }
 ]
