@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3143568",
+    "category": "Funding",
+    "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "summary": "Investors who backed GPU development are now funding inference chips in a $400 million deal, indicating a shift in AI infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "published": "2026-07-17T12:00:00.000Z"
+  },
+  {
     "id": "hn:48946010",
     "category": "Models",
     "headline": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
@@ -7,6 +16,15 @@
     "source": "Hacker News",
     "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
     "published": "2026-07-17T11:30:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "category": "Tools",
+    "headline": "A scorecard for the AI age",
+    "summary": "OpenAI introduces a scorecard to measure AI return on investment through task success and dependability",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "published": "2026-07-17T10:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2607.14123v1",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
     "published": "2026-07-15T16:00:00.000Z"
-  },
-  {
-    "id": "hn:48922434",
-    "category": "Models",
-    "headline": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-    "summary": "A 13-year-old Xeon processor runs a large language model at a slow speed without a GPU",
-    "source": "Hacker News",
-    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "published": "2026-07-15T15:34:05.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142774",
-    "category": "Models",
-    "headline": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-    "summary": "Apple's AI services are coming to China through a partnership with Alibaba, bringing Qwen AI models to Apple's systems",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "published": "2026-07-15T15:29:33.000Z"
   }
 ]
