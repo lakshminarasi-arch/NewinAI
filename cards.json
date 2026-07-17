@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48946010",
+    "category": "Models",
+    "headline": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+    "summary": "An AI project won a DeepMind Kaggle competition prize",
+    "source": "Hacker News",
+    "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+    "published": "2026-07-17T11:30:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.14123v1",
     "category": "Research",
     "headline": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
     "published": "2026-07-15T15:29:33.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3142876",
-    "category": "Funding",
-    "headline": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-    "summary": "Ode with Anthropic is a joint venture that embeds engineers in enterprise firms to provide AI services, aiming to replace traditional consultants",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-    "published": "2026-07-15T15:00:00.000Z"
   }
 ]
