@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3143864",
+    "category": "Tools",
+    "headline": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+    "summary": "Vertu's luxury foldable device features an AI agent, with performance tested in daily use, including workflows and security",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "published": "2026-07-17T22:55:09.000Z"
+  },
+  {
+    "id": "hn:48952880",
+    "category": "Policy",
+    "headline": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "summary": "Nurses claim AI and workplace surveillance are negatively impacting their work and patient care",
+    "source": "Hacker News",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "published": "2026-07-17T22:26:30.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143817",
+    "category": "Funding",
+    "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "summary": "Databricks has transformed into an AI-focused company, researching cost savings of open weight AI models for coding",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "published": "2026-07-17T22:12:56.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3143772",
     "category": "Tools",
     "headline": "Agility Robotics plants its flag in Tesla’s backyard",
@@ -421,32 +448,5 @@
     "source": "VentureBeat",
     "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
     "published": "2026-07-15T22:24:17.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=966293",
-    "category": "Policy",
-    "headline": "xAI sues a man for using Grok to generate CSAM deepfakes",
-    "summary": "xAI is suing a man for allegedly using its Grok AI chatbot to create and distribute child sexual abuse material, claiming he bypassed safeguards",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-    "published": "2026-07-15T21:33:20.000Z"
-  },
-  {
-    "id": "hn:48927095",
-    "category": "Policy",
-    "headline": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-    "summary": "Investing in free and open source AI is recommended for governments, companies, and nonprofits",
-    "source": "Hacker News",
-    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "published": "2026-07-15T21:16:36.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=965616",
-    "category": "Other",
-    "headline": "AI slop movies are the new direct-to-video cash grabs",
-    "summary": "A film studio is making an AI-generated version of The Odyssey to capitalize on interest in a similar movie",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-    "published": "2026-07-15T20:00:00.000Z"
   }
 ]
