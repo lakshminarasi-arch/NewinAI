@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.theverge.com/?p=967486",
+    "category": "Tools",
+    "headline": "TikTok is testing an AI likeness detection tool",
+    "summary": "TikTok is testing a tool to detect AI-generated likenesses, allowing creators to report them after verifying their identity",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+    "published": "2026-07-17T19:34:30.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3143835",
+    "category": "Funding",
+    "headline": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "summary": "Apple's lawsuit against OpenAI alleges trade secret theft and could impact OpenAI's IPO plans",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "published": "2026-07-17T17:45:46.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=967244",
+    "category": "Policy",
+    "headline": "Apple’s plot to crush OpenAI",
+    "summary": "Apple is suing OpenAI, with experts questioning the allegations, possibly to eliminate a competitor or take advantage of OpenAI's weakness",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+    "published": "2026-07-17T17:41:32.000Z"
+  },
+  {
+    "id": "hn:48949240",
+    "category": "Research",
+    "headline": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+    "summary": "Researchers achieved fast inference on the CIFAR-10 dataset using homomorphic encryption",
+    "source": "Hacker News",
+    "url": "https://sofar.belfortlabs.cloud/",
+    "published": "2026-07-17T16:29:52.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3143704",
     "category": "Policy",
     "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
@@ -7,6 +43,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
     "published": "2026-07-17T15:21:17.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3143831",
+    "category": "Other",
+    "headline": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+    "summary": "Apple sues OpenAI for trade secrets, alleging misconduct and poaching over 400 employees, which could impact OpenAI's potential IPO",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+    "published": "2026-07-17T14:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3143568",
@@ -403,50 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
     "published": "2026-07-15T18:04:06.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=966072",
-    "category": "Models",
-    "headline": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-    "summary": "An AI music generator called Suno was trained using millions of songs and lyrics scraped from online platforms like YouTube and Deezer, sparking copyright concerns",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-    "published": "2026-07-15T17:48:01.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142768",
-    "category": "Models",
-    "headline": "Hack suggests AI music generator Suno scraped YouTube for training data",
-    "summary": "A hack revealed that AI music generator Suno used scraped YouTube audio for training data, covering decades of content",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-    "published": "2026-07-15T17:00:34.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142373",
-    "category": "Funding",
-    "headline": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-    "summary": "Whatnot buys AI startup Shaped to improve real-time product recommendations during live shopping",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-    "published": "2026-07-15T17:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142791",
-    "category": "Tools",
-    "headline": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-    "summary": "Microsoft used AI to help find and fix a record number of security issues in its products",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-    "published": "2026-07-15T16:20:18.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-    "category": "Tools",
-    "headline": "OpenAI's first branded hardware is... a light-up keyboard?",
-    "summary": "OpenAI releases a light-up keyboard called Codex Micro to monitor multiple tasks at once",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-    "published": "2026-07-15T16:00:33.000Z"
   }
 ]
