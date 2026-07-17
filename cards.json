@@ -1,5 +1,23 @@
 [
   {
+    "id": "oai:arXiv.org:2607.14123v1",
+    "category": "Research",
+    "headline": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
+    "summary": "Explainable AI techniques are not being used effectively in real-world workflows due to a lack of foundational research on integrating explanations into systems",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.14123",
+    "published": "2026-07-17T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.14125v1",
+    "category": "Models",
+    "headline": "CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models",
+    "summary": "Researchers propose CARPRT, a method to improve zero-shot image classification in vision-language models by reweighting prompts for each class",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.14125",
+    "published": "2026-07-17T04:00:00.000Z"
+  },
+  {
     "id": "hn:48941051",
     "category": "Tools",
     "headline": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
@@ -279,15 +297,6 @@
     "published": "2026-07-16T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.13043v1",
-    "category": "Research",
-    "headline": "Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Learning",
-    "summary": "Researchers propose a new strategy for efficient transfer learning, reducing computational costs by decoupling feature extraction and classifier optimization",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.13043",
-    "published": "2026-07-16T04:00:00.000Z"
-  },
-  {
     "id": "https://openai.com/index/cars24",
     "category": "Tools",
     "headline": "How Cars24 scales conversations and builds faster with OpenAI",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
     "published": "2026-07-15T15:00:00.000Z"
-  },
-  {
-    "id": "hn:48920681",
-    "category": "Tools",
-    "headline": "Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents",
-    "summary": "Aict is a Unix coreutils variant that outputs data in XML or JSON formats, designed for use by AI agents",
-    "source": "Hacker News",
-    "url": "https://github.com/synseqack/aict",
-    "published": "2026-07-15T13:39:54.000Z"
   }
 ]
