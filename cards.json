@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3143772",
+    "category": "Tools",
+    "headline": "Agility Robotics plants its flag in Tesla’s backyard",
+    "summary": "Agility Robotics is opening a training center for its Digit robots in California, near Tesla's headquarters",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "published": "2026-07-17T20:19:49.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143715",
+    "category": "Other",
+    "headline": "AI-driven memory crunch jolts India’s smartphone market",
+    "summary": "India's smartphone market is slowing down due to the impact of AI on consumer electronics, affecting pricing, demand, and corporate strategy",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "published": "2026-07-17T20:09:27.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=967486",
     "category": "Tools",
     "headline": "TikTok is testing an AI likeness detection tool",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
     "published": "2026-07-15T20:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142831",
-    "category": "Tools",
-    "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-    "summary": "OpenAI releases a keyboard for its coding app despite a legal dispute over hardware",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-    "published": "2026-07-15T19:41:38.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142329",
-    "category": "Models",
-    "headline": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-    "summary": "Thinking Machines releases its first open AI model called Inkling, marking a shift away from general purpose AI",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-    "published": "2026-07-15T18:04:06.000Z"
   }
 ]
