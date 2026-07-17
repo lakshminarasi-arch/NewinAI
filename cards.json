@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3143704",
+    "category": "Policy",
+    "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "summary": "Patreon is blocking AI bots from scraping creator content without permission using Cloudflare",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "published": "2026-07-17T15:21:17.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3143568",
     "category": "Funding",
     "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
     "published": "2026-07-15T16:00:33.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=965901",
-    "category": "Tools",
-    "headline": "OpenAI finally launches hardware… for Codex",
-    "summary": "OpenAI releases Codex Micro, a limited-run hardware device for its coding platform, in collaboration with Work Louder",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-    "published": "2026-07-15T16:00:00.000Z"
   }
 ]
