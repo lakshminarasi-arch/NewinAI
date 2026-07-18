@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3144034",
+    "category": "Funding",
+    "headline": "Neil Rimer thinks the AI money is coming back out",
+    "summary": "Venture capitalist Neil Rimer predicts AI wealth in Silicon Valley will be redistributed",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "published": "2026-07-18T04:47:25.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3143864",
     "category": "Tools",
     "headline": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
     "published": "2026-07-15T23:59:44.000Z"
-  },
-  {
-    "id": "2884mjZs7g6yWxefPaGVHN",
-    "category": "Models",
-    "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-    "summary": "Enterprises have a deployment issue with AI, not a platform problem, with many using chatbots as agents and seeking reliable execution from model providers",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-    "published": "2026-07-15T22:24:17.000Z"
   }
 ]
