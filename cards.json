@@ -1,5 +1,23 @@
 [
   {
+    "id": "hn:48962983",
+    "category": "Policy",
+    "headline": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+    "summary": "A mayor stops landlords from using artificial intelligence images in advertisements",
+    "source": "Hacker News",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "published": "2026-07-18T22:13:39.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=967630",
+    "category": "Other",
+    "headline": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+    "summary": "Author Dave Eggers criticized OpenAI, saying ChatGPT is silencing a generation, during a talk to company staff",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "published": "2026-07-18T20:54:42.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3144070",
     "category": "Models",
     "headline": "Kimi: Threat or menace?",
@@ -429,24 +447,6 @@
     "summary": "Researchers introduce OriginBlame, a system to track data ownership in AI training datasets, enabling precise removal of specific records when requested",
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2607.13037",
-    "published": "2026-07-16T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.13049v1",
-    "category": "Models",
-    "headline": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-    "summary": "Researchers propose SPINE, a framework to help deploy AI decision-making into physical robot platforms with minimal expert calibration",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.13049",
-    "published": "2026-07-16T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.13042v1",
-    "category": "Research",
-    "headline": "Automatic Differentiation from Scratch: How PyTorch Computes Gradients in Physics-Informed Neural Networks",
-    "summary": "Researchers explain how PyTorch computes gradients in physics-informed neural networks using automatic differentiation, tracing the process step by step",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.13042",
     "published": "2026-07-16T04:00:00.000Z"
   }
 ]
