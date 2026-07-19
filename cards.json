@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48971738",
+    "category": "Research",
+    "headline": "AI advice made people 3x less accurate but 2x confident, researchers found",
+    "summary": "Researchers discovered that people who received advice from AI were less accurate but more confident in their decisions",
+    "source": "Hacker News",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "published": "2026-07-19T21:18:10.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=967678",
     "category": "Other",
     "headline": "I hate that I don’t hate this song made with Suno",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
     "published": "2026-07-16T13:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=966438",
-    "category": "Policy",
-    "headline": "Google ordered to open Android and Search to rivals in Europe",
-    "summary": "Google must open Android and Search to rival AI assistants and search engines in Europe due to antitrust rules",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-    "published": "2026-07-16T12:06:51.000Z"
   }
 ]
