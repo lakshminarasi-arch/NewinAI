@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3144080",
+    "category": "Other",
+    "headline": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "summary": "Director Christopher Nolan views AI as a threat, comparing it to a Trojan horse",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "published": "2026-07-19T14:52:08.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3143631",
     "category": "Research",
     "headline": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
     "published": "2026-07-16T11:00:00.000Z"
-  },
-  {
-    "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "category": "Models",
-    "headline": "Our approach to bioresilience",
-    "summary": "Google DeepMind and Isomorphic Labs are collaborating on bioresilience using AI models",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "published": "2026-07-16T09:30:42.000Z"
   }
 ]
