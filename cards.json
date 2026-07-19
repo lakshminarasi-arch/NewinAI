@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3143631",
+    "category": "Research",
+    "headline": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "summary": "Nonprofit Current AI aims to create a free, inclusive AI network accessible to all cultures and devices",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "published": "2026-07-19T14:00:00.000Z"
+  },
+  {
     "id": "hn:48965850",
     "category": "Models",
     "headline": "OpenAI reduces Codex Model Context Size from 372k to 272k",
@@ -439,14 +448,5 @@
     "source": "Google DeepMind",
     "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
     "published": "2026-07-16T09:30:42.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142836",
-    "category": "Models",
-    "headline": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-    "summary": "Applied Computing is developing an AI model for oil and gas operators to manage entire plants, after raising $20M in funding",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-    "published": "2026-07-16T04:00:00.000Z"
   }
 ]
