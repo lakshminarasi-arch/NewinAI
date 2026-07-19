@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=967678",
+    "category": "Other",
+    "headline": "I hate that I don’t hate this song made with Suno",
+    "summary": "Musician 1010Benja uses AI to create song, despite initial skepticism, the result is surprisingly enjoyable",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+    "published": "2026-07-19T17:35:54.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3144080",
     "category": "Other",
     "headline": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
     "published": "2026-07-16T12:06:51.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=965066",
-    "category": "Policy",
-    "headline": "COMPUTER COPS: Inside the big business of selling AI to the police",
-    "summary": "AI is being sold to police to automate routine tasks, potentially changing the heart of policing in America",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-    "published": "2026-07-16T11:00:00.000Z"
   }
 ]
