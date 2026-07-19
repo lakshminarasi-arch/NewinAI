@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:48965850",
+    "category": "Models",
+    "headline": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "summary": "OpenAI shrinks Codex model context size for efficiency",
+    "source": "Hacker News",
+    "url": "https://github.com/openai/codex/pull/33972/files",
+    "published": "2026-07-19T07:54:39.000Z"
+  },
+  {
     "id": "hn:48962983",
     "category": "Policy",
     "headline": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
@@ -438,15 +447,6 @@
     "summary": "Applied Computing is developing an AI model for oil and gas operators to manage entire plants, after raising $20M in funding",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-    "published": "2026-07-16T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.13037v1",
-    "category": "Research",
-    "headline": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-    "summary": "Researchers introduce OriginBlame, a system to track data ownership in AI training datasets, enabling precise removal of specific records when requested",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.13037",
     "published": "2026-07-16T04:00:00.000Z"
   }
 ]
