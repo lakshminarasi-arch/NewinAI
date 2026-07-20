@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2607.15280v1",
+    "category": "Models",
+    "headline": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+    "summary": "Researchers propose GraphDx, a framework that uses knowledge graphs and large language models to improve sequential diagnosis while considering resource costs",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.15280",
+    "published": "2026-07-20T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.15281v1",
+    "category": "Research",
+    "headline": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+    "summary": "Researchers propose a framework for explicit and auditable causal reasoning in large language models to improve understanding of underlying mechanisms",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.15281",
+    "published": "2026-07-20T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.15293v1",
+    "category": "Research",
+    "headline": "Structure of the Circular-Dyadic Convolution Error",
+    "summary": "Researchers analyze the error in using the Hadamard transform for circular-dyadic convolution, finding some input and output positions are error-free, and characterizing the algebraic error",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.15293",
+    "published": "2026-07-20T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.15313v1",
+    "category": "Research",
+    "headline": "Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling",
+    "summary": "Researchers argue that quantum program generation should prioritize validity over scaling due to strict mathematical constraints and a significant syntax-semantics gap",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.15313",
+    "published": "2026-07-20T04:00:00.000Z"
+  },
+  {
     "id": "hn:48971738",
     "category": "Research",
     "headline": "AI advice made people 3x less accurate but 2x confident, researchers found",
@@ -225,15 +261,6 @@
     "published": "2026-07-17T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.14125v1",
-    "category": "Models",
-    "headline": "CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models",
-    "summary": "Researchers propose CARPRT, a method to improve zero-shot image classification in vision-language models by reweighting prompts for each class",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.14125",
-    "published": "2026-07-17T04:00:00.000Z"
-  },
-  {
     "id": "hn:48941051",
     "category": "Tools",
     "headline": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
     "published": "2026-07-16T14:40:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143233",
-    "category": "Models",
-    "headline": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-    "summary": "Moonshot's Kimi 3 model aims to compete with Anthropic's Opus 4.8, featuring a large parameter count",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-    "published": "2026-07-16T14:26:29.000Z"
-  },
-  {
-    "id": "hn:48934583",
-    "category": "Policy",
-    "headline": "Show HN: AI Law Tracker – one audited API for US, EU and global AI law",
-    "summary": "A single API tracks AI laws in the US, EU, and globally",
-    "source": "Hacker News",
-    "url": "https://ai-law-tracker.com",
-    "published": "2026-07-16T13:51:32.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=966442",
-    "category": "Tools",
-    "headline": "Claude can now use your 1Password credentials for you",
-    "summary": "1Password's new integration with Claude allows the chatbot to use stored credentials for tasks without exposing them to Anthropic's AI models",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-    "published": "2026-07-16T13:00:00.000Z"
   }
 ]
