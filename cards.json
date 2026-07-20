@@ -1,5 +1,23 @@
 [
   {
+    "id": "hn:48979201",
+    "category": "Models",
+    "headline": "Lossless model compression experiment: GLM-5.2 in 25% less memory",
+    "summary": "Researchers reduced memory usage of the GLM-5.2 model by 25 percent",
+    "source": "Hacker News",
+    "url": "https://brianbell-x.github.io/weight-compression/",
+    "published": "2026-07-20T14:16:45.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+    "category": "Tools",
+    "headline": "Beyond grep: The case for a context-rich AI coding harness",
+    "summary": "A coding tool uses AI to provide context for coding, going beyond basic search functions",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+    "published": "2026-07-20T11:20:10.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=967781",
     "category": "Models",
     "headline": "China delivers a one-two punch to America’s AI dominance",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
     "published": "2026-07-16T15:31:09.000Z"
-  },
-  {
-    "id": "hn:48935687",
-    "category": "Models",
-    "headline": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-    "summary": "A guide to training a general AI kick drum model on an old Linux desktop with limited VRAM",
-    "source": "Hacker News",
-    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "published": "2026-07-16T15:13:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143111",
-    "category": "Funding",
-    "headline": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-    "summary": "A former DeepMind researcher has raised a large pre-seed valuation for a new venture focused on visual AI, citing its potential as a major frontier in the field",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-    "published": "2026-07-16T15:02:00.000Z"
   }
 ]
