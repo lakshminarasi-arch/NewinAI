@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.theverge.com/?p=968136",
+    "category": "Models",
+    "headline": "America needs to stop getting shocked by Chinese AI",
+    "summary": "Chinese AI companies unveiled models that can compete with top systems, causing market and policy reactions",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+    "published": "2026-07-21T11:08:56.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144417",
+    "category": "Funding",
+    "headline": "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else",
+    "summary": "Gritt aims to use robots for automating construction tasks, starting with solar plant builds, after raising $34 million",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+    "published": "2026-07-21T10:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.16195v1",
+    "category": "Research",
+    "headline": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+    "summary": "Researchers found that human raters' emotional states can influence their preferences in Reinforcement Learning from Human Feedback, affecting data quality",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.16195",
+    "published": "2026-07-21T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.16196v1",
+    "category": "Research",
+    "headline": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+    "summary": "Researchers created a framework for developing deep learning models to recognize human emotions through touch in soft companions, using a dataset of labelled gestures",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.16196",
+    "published": "2026-07-21T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.16194v1",
+    "category": "Research",
+    "headline": "Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization",
+    "summary": "Researchers propose a new method combining reinforcement learning and genetic algorithms to optimize investment portfolios by balancing risk and return",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.16194",
+    "published": "2026-07-21T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.16203v1",
+    "category": "Research",
+    "headline": "DocOCR-Eval: A Correction-Based Framework for OCR Tool Selection Without Ground Truth",
+    "summary": "Researchers propose a framework to select the best OCR tool for document parsing without needing ground truth data",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.16203",
+    "published": "2026-07-21T04:00:00.000Z"
+  },
+  {
     "id": "hn:48987618",
     "category": "Tools",
     "headline": "Show HN: Turn casual photos into professional headshots with AI",
@@ -141,33 +195,6 @@
     "summary": "Researchers propose GraphDx, a framework that uses knowledge graphs and large language models to improve sequential diagnosis while considering resource costs",
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2607.15280",
-    "published": "2026-07-20T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.15281v1",
-    "category": "Research",
-    "headline": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
-    "summary": "Researchers propose a framework for explicit and auditable causal reasoning in large language models to improve understanding of underlying mechanisms",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.15281",
-    "published": "2026-07-20T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.15293v1",
-    "category": "Research",
-    "headline": "Structure of the Circular-Dyadic Convolution Error",
-    "summary": "Researchers analyze the error in using the Hadamard transform for circular-dyadic convolution, finding some input and output positions are error-free, and characterizing the algebraic error",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.15293",
-    "published": "2026-07-20T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.15313v1",
-    "category": "Research",
-    "headline": "Position: Quantum Program Generation Must Prioritize Validity Over Probabilistic Scaling",
-    "summary": "Researchers argue that quantum program generation should prioritize validity over scaling due to strict mathematical constraints and a significant syntax-semantics gap",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.15313",
     "published": "2026-07-20T04:00:00.000Z"
   },
   {
@@ -387,15 +414,6 @@
     "published": "2026-07-17T10:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.14123v1",
-    "category": "Research",
-    "headline": "Position: Explainability Research Must Prioritize Foundations over Ad-hoc Methods",
-    "summary": "Explainable AI techniques are not being used effectively in real-world workflows due to a lack of foundational research on integrating explanations into systems",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.14123",
-    "published": "2026-07-17T04:00:00.000Z"
-  },
-  {
     "id": "hn:48941051",
     "category": "Tools",
     "headline": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
@@ -430,23 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
     "published": "2026-07-16T19:18:23.000Z"
-  },
-  {
-    "id": "guLr7ih5ILpsMnOOTAHLN",
-    "category": "Other",
-    "headline": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "summary": "Most enterprises have had AI agent security incidents due to inadequate controls and shared credentials",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-    "published": "2026-07-16T19:02:38.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143447",
-    "category": "Tools",
-    "headline": "Google Vids now lets you star in your own AI videos",
-    "summary": "Google Vids introduces AI avatars, letting users create videos with digital versions of themselves, along with tools to generate and edit videos from prompts and images",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "published": "2026-07-16T18:32:54.000Z"
   }
 ]
