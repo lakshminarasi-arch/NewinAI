@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.theverge.com/?p=968703",
+    "category": "Tools",
+    "headline": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+    "summary": "Director Neill Blomkamp's new short film uses AI to generate all shots, testing generative AI capabilities",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+    "published": "2026-07-21T22:06:43.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968988",
+    "category": "Models",
+    "headline": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+    "summary": "OpenAI's AI models accidentally breached Hugging Face during testing, exploiting vulnerabilities to gain internet access",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+    "published": "2026-07-21T21:48:54.000Z"
+  },
+  {
+    "id": "hn:48998606",
+    "category": "Models",
+    "headline": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "summary": "Gemini's last models no longer use temperature, top_p, and top_k due to deprecation",
+    "source": "Hacker News",
+    "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "published": "2026-07-21T21:27:54.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3144991",
     "category": "Models",
     "headline": "OpenAI says Hugging Face was breached by its own pre-release models",
@@ -421,32 +448,5 @@
     "source": "Hacker News",
     "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
     "published": "2026-07-17T22:26:30.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143817",
-    "category": "Funding",
-    "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "summary": "Databricks has transformed into an AI-focused company, researching cost savings of open weight AI models for coding",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "published": "2026-07-17T22:12:56.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143772",
-    "category": "Tools",
-    "headline": "Agility Robotics plants its flag in Tesla’s backyard",
-    "summary": "Agility Robotics is opening a training center for its Digit robots in California, near Tesla's headquarters",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-    "published": "2026-07-17T20:19:49.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143715",
-    "category": "Other",
-    "headline": "AI-driven memory crunch jolts India’s smartphone market",
-    "summary": "India's smartphone market is slowing down due to the impact of AI on consumer electronics, affecting pricing, demand, and corporate strategy",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-    "published": "2026-07-17T20:09:27.000Z"
   }
 ]
