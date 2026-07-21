@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3144907",
+    "category": "Tools",
+    "headline": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "summary": "Jack Dorsey's new platform allows teams and AI agents to communicate together in a group chat",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "published": "2026-07-21T19:43:41.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144827",
+    "category": "Tools",
+    "headline": "AI and the rise of the universal entertainment app",
+    "summary": "AI helps streaming platforms create and recommend content, making them all-purpose entertainment apps",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "published": "2026-07-21T19:39:30.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968855",
+    "category": "Tools",
+    "headline": "Substack adds an AI detector to help spot blogs written by no one",
+    "summary": "Substack introduces an AI detector tool to identify potential AI-generated content, helping users determine authenticity",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+    "published": "2026-07-21T19:22:28.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144838",
+    "category": "Models",
+    "headline": "Google releases three new Gemini models — but no 3.5 Pro",
+    "summary": "Google introduces three new Gemini models, sparking questions about their AI strategy due to the absence of the Gemini 3.5 Pro",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "published": "2026-07-21T17:11:50.000Z"
+  },
+  {
+    "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "category": "Tools",
+    "headline": "Introducing the ChatGPT for small business program",
+    "summary": "OpenAI launches a program to help small businesses use ChatGPT for automation and growth",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "published": "2026-07-21T17:00:00.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "category": "Models",
+    "headline": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+    "summary": "Google introduces new Gemini 3.6 AI model and teases upcoming versions, including Gemini 4, focusing on flash and cybersecurity",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "published": "2026-07-21T16:58:25.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968724",
+    "category": "Policy",
+    "headline": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+    "summary": "A judge approved a $1.5 billion settlement between Anthropic and authors who claimed the company's AI models used their copyrighted books without permission",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+    "published": "2026-07-21T16:53:37.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144722",
+    "category": "Policy",
+    "headline": "US threatens sanctions against Chinese AI models over IP theft",
+    "summary": "The US may sanction Chinese AI models due to alleged intellectual property theft, aiming to slow China's AI progress",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "published": "2026-07-21T15:37:05.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968572",
+    "category": "Models",
+    "headline": "Google launches a cheaper alternative to large AI security models like Mythos",
+    "summary": "Google introduces Gemini 3.6 Flash, a cheaper alternative to large AI security models for finding vulnerabilities",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+    "published": "2026-07-21T15:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144590",
+    "category": "Other",
+    "headline": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+    "summary": "Deezer reports a large portion of daily music uploads are created using artificial intelligence, with over 90,000 tracks uploaded daily",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+    "published": "2026-07-21T13:27:42.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=968136",
     "category": "Models",
     "headline": "America needs to stop getting shocked by Chinese AI",
@@ -70,6 +160,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
     "published": "2026-07-21T00:12:24.000Z"
+  },
+  {
+    "id": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "category": "Funding",
+    "headline": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "summary": "OpenAI adds David Vélez and Robin Vince to its boards, bringing finance and tech expertise",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "published": "2026-07-21T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3144451",
@@ -349,104 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
     "published": "2026-07-17T17:45:46.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=967244",
-    "category": "Policy",
-    "headline": "Apple’s plot to crush OpenAI",
-    "summary": "Apple is suing OpenAI, with experts questioning the allegations, possibly to eliminate a competitor or take advantage of OpenAI's weakness",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-    "published": "2026-07-17T17:41:32.000Z"
-  },
-  {
-    "id": "hn:48949240",
-    "category": "Research",
-    "headline": "Homomorphically encrypted CIFAR-10 inference in 200ms",
-    "summary": "Researchers achieved fast inference on the CIFAR-10 dataset using homomorphic encryption",
-    "source": "Hacker News",
-    "url": "https://sofar.belfortlabs.cloud/",
-    "published": "2026-07-17T16:29:52.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143704",
-    "category": "Policy",
-    "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-    "summary": "Patreon is blocking AI bots from scraping creator content without permission using Cloudflare",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-    "published": "2026-07-17T15:21:17.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3143831",
-    "category": "Other",
-    "headline": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-    "summary": "Apple sues OpenAI for trade secrets, alleging misconduct and poaching over 400 employees, which could impact OpenAI's potential IPO",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-    "published": "2026-07-17T14:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143568",
-    "category": "Funding",
-    "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-    "summary": "Investors who backed GPU development are now funding inference chips in a $400 million deal, indicating a shift in AI infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "published": "2026-07-17T12:00:00.000Z"
-  },
-  {
-    "id": "hn:48946010",
-    "category": "Models",
-    "headline": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-    "summary": "An AI project won a DeepMind Kaggle competition prize",
-    "source": "Hacker News",
-    "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-    "published": "2026-07-17T11:30:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "category": "Tools",
-    "headline": "A scorecard for the AI age",
-    "summary": "OpenAI introduces a scorecard to measure AI return on investment through task success and dependability",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "published": "2026-07-17T10:00:00.000Z"
-  },
-  {
-    "id": "hn:48941051",
-    "category": "Tools",
-    "headline": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
-    "summary": "A tool called ReasonGate aims to prevent large language models from being manipulated by malicious prompts",
-    "source": "Hacker News",
-    "url": "https://github.com/cgrtml/reasongate",
-    "published": "2026-07-16T22:21:31.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-    "category": "Policy",
-    "headline": "It's official: EU will force Google to share search data and open up AI on Android",
-    "summary": "The EU is requiring Google to share search data and open up AI on Android, despite Google's concerns about user privacy and security",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-    "published": "2026-07-16T20:41:45.000Z"
-  },
-  {
-    "id": "hn:48939764",
-    "category": "Tools",
-    "headline": "Timeline Scan – AI fixes the dates on your scanned photos",
-    "summary": "AI technology helps correct dates on scanned photos",
-    "source": "Hacker News",
-    "url": "https://timelinescan.com/",
-    "published": "2026-07-16T20:25:47.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-    "category": "Policy",
-    "headline": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-    "summary": "Linux creator Linus Torvalds dismisses critics of AI coding tools, suggesting they can fork the project or leave",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-    "published": "2026-07-16T19:18:23.000Z"
   }
 ]
