@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3144991",
+    "category": "Models",
+    "headline": "OpenAI says Hugging Face was breached by its own pre-release models",
+    "summary": "OpenAI claims its internal testing caused a breach at Hugging Face using pre-release models",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "published": "2026-07-21T20:56:55.000Z"
+  },
+  {
+    "id": "hn:48997941",
+    "category": "Tools",
+    "headline": "Show HN: Orate – On-device neural text-to-speech queue for Mac",
+    "summary": "Orate is a tool that uses neural networks for text-to-speech on Mac devices",
+    "source": "Hacker News",
+    "url": "https://orate.to/",
+    "published": "2026-07-21T20:38:29.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3144907",
     "category": "Tools",
     "headline": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
     "published": "2026-07-17T20:09:27.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=967486",
-    "category": "Tools",
-    "headline": "TikTok is testing an AI likeness detection tool",
-    "summary": "TikTok is testing a tool to detect AI-generated likenesses, allowing creators to report them after verifying their identity",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-    "published": "2026-07-17T19:34:30.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3143835",
-    "category": "Funding",
-    "headline": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-    "summary": "Apple's lawsuit against OpenAI alleges trade secret theft and could impact OpenAI's IPO plans",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "published": "2026-07-17T17:45:46.000Z"
   }
 ]
