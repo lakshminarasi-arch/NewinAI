@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3144516",
+    "category": "Policy",
+    "headline": "Anthropic’s landmark $1.5B copyright settlement is approved",
+    "summary": "A $1.5B copyright settlement for Anthropic has been approved, but it doesn't address the larger issue of using copyrighted material to train AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "published": "2026-07-21T00:12:24.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144451",
+    "category": "Policy",
+    "headline": "Trump’s latest AI czar has already resigned",
+    "summary": "The director of the Center for AI Standards and Innovation has resigned, marking another departure from the role",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "published": "2026-07-20T22:21:04.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968375",
+    "category": "Policy",
+    "headline": "Here are the 30,000 songs Sony is suing Udio s AI music generator over",
+    "summary": "Sony Music sues Udio's AI music generator for copyright infringement of over 30,000 songs",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+    "published": "2026-07-20T22:19:12.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144366",
+    "category": "Models",
+    "headline": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "summary": "Google is developing a new AI chip to improve efficiency of its Gemini models",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "published": "2026-07-20T21:21:15.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144390",
+    "category": "Tools",
+    "headline": "AI’s most important protocol is getting a little bit easier to use",
+    "summary": "A key AI protocol is being updated for easier use with a stateless approach to session IDs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "published": "2026-07-20T20:50:40.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144280",
+    "category": "Policy",
+    "headline": "OpenAI is scared of open-weight models. Should the US be?",
+    "summary": "OpenAI is concerned about open-weight models, particularly those made in China, highlighting the challenges of commercializing AI",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "published": "2026-07-20T19:33:25.000Z"
+  },
+  {
+    "id": "hn:48982681",
+    "category": "Tools",
+    "headline": "Nativ: Run frontier open models locally on your Mac",
+    "summary": "Nativ allows users to run open models on their Mac locally",
+    "source": "Hacker News",
+    "url": "https://blaizzy.github.io/nativ/",
+    "published": "2026-07-20T18:16:08.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=967791",
+    "category": "Tools",
+    "headline": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "summary": "Adobe updates its camera app with generative AI tools, allowing users to opt out and continue using the app as before",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+    "published": "2026-07-20T16:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144118",
+    "category": "Tools",
+    "headline": "Adobe camera app’s new feature will critique your photos using AI",
+    "summary": "Adobe's camera app uses AI to critique photos and remove backgrounds",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+    "published": "2026-07-20T15:45:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144190",
+    "category": "Policy",
+    "headline": "YouTube clarifies policies around AI slop and upsetting videos",
+    "summary": "YouTube updates policies to restrict ad revenue for low-quality and AI-generated videos",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "published": "2026-07-20T15:23:06.000Z"
+  },
+  {
     "id": "hn:48979201",
     "category": "Models",
     "headline": "Lossless model compression experiment: GLM-5.2 in 25% less memory",
@@ -25,6 +115,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
     "published": "2026-07-20T10:16:33.000Z"
+  },
+  {
+    "id": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "category": "Research",
+    "headline": "Safety and alignment in an era of long-horizon models",
+    "summary": "OpenAI discusses safety concerns and lessons learned from using long-running AI models, including new risks and improved safeguards",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "published": "2026-07-20T10:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2607.15280v1",
@@ -349,104 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
     "published": "2026-07-16T18:22:06.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=966647",
-    "category": "Policy",
-    "headline": "New York governor says she s using AI to analyze every single rule in the state",
-    "summary": "New York Governor Kathy Hochul is using AI to review state rules and regulations to identify outdated laws",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-    "published": "2026-07-16T17:58:37.000Z"
-  },
-  {
-    "id": "hn:48937756",
-    "category": "Models",
-    "headline": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-    "summary": "A German AI consortium has released Soofi S, a large open model that performs well on benchmarks",
-    "source": "Hacker News",
-    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-    "published": "2026-07-16T17:44:46.000Z"
-  },
-  {
-    "id": "3RCeHS5ENXpygHO6HPhX6f",
-    "category": "Funding",
-    "headline": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-    "summary": "Enterprises are quickly buying AI infrastructure, but struggle to measure its costs, with most planning to switch or add providers soon, prioritizing integration and total cost over token price",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-    "published": "2026-07-16T17:35:19.000Z"
-  },
-  {
-    "id": "2Jg9kvtAsPN9IxCbC6KaEt",
-    "category": "Models",
-    "headline": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-    "summary": "Enterprises are struggling to trust their AI systems due to context gaps, despite advancements in retrieval technologies, and are turning to governed semantic layers as a solution",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-    "published": "2026-07-16T17:06:08.000Z"
-  },
-  {
-    "id": "hn:48936880",
-    "category": "Research",
-    "headline": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-    "summary": "Researchers use traditional machine learning to identify texts generated by large language models",
-    "source": "Hacker News",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "published": "2026-07-16T16:41:37.000Z"
-  },
-  {
-    "id": "6G1thpG74idpHRWrKUSYQ9",
-    "category": "Models",
-    "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-    "summary": "Many enterprise AI organizations are deploying autonomous AI agents to production despite having evaluation processes that don't accurately reflect real-world outcomes",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-    "published": "2026-07-16T16:40:48.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=966112",
-    "category": "Tools",
-    "headline": "Google is renaming NotebookLM to Gemini Notebook",
-    "summary": "Google renames its AI note-taking app from NotebookLM to Gemini Notebook, integrating it deeper with Google Search while remaining standalone",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-    "published": "2026-07-16T16:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "category": "Policy",
-    "headline": "Why teens deserve access to safe AI",
-    "summary": "OpenAI is working to make ChatGPT safer for teenagers with protections and controls",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "published": "2026-07-16T16:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143234",
-    "category": "Tools",
-    "headline": "Google’s AI Mode now lets you link and interact with select apps",
-    "summary": "Google's AI Mode update allows users to interact with certain apps, going beyond just answering questions to completing tasks",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "published": "2026-07-16T16:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143273",
-    "category": "Tools",
-    "headline": "Yes, you can now order DoorDash from the command line",
-    "summary": "DoorDash introduces a command-line tool for developers and AI agents to order food from the terminal",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "published": "2026-07-16T15:38:55.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143216",
-    "category": "Other",
-    "headline": "Why is OpenAI selling a ChatGPT basketball?",
-    "summary": "OpenAI has released a ChatGPT themed basketball, its first hardware product",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-    "published": "2026-07-16T15:31:09.000Z"
   }
 ]
