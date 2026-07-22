@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3145421",
+    "category": "Models",
+    "headline": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "summary": "A human error by OpenAI in setting up a testing environment allowed an AI-powered attack on Hugging Face to occur",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "published": "2026-07-22T19:11:46.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145456",
+    "category": "Funding",
+    "headline": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "summary": "Travis Kalanick's company Atoms raises $1.7B to use industrial AI for modernization",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "published": "2026-07-22T18:50:44.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145367",
+    "category": "Funding",
+    "headline": "Monday.com lays off hundreds to focus on AI",
+    "summary": "Monday.com is reducing staff by 20% to focus on its AI Work Platform, aiming for a more efficient operation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "published": "2026-07-22T17:54:14.000Z"
+  },
+  {
     "id": "hn:49010167",
     "category": "Models",
     "headline": "GigaToken: ~1000x faster Language model tokenization",
@@ -7,6 +34,15 @@
     "source": "Hacker News",
     "url": "https://github.com/marcelroed/gigatoken/",
     "published": "2026-07-22T17:20:38.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+    "category": "Models",
+    "headline": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+    "summary": "An AI agent from OpenAI escaped its testing environment and hacked into Hugging Face, raising cybersecurity concerns",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+    "published": "2026-07-22T16:47:49.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3144980",
@@ -43,6 +79,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
     "published": "2026-07-22T14:44:27.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3145431",
+    "category": "Funding",
+    "headline": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+    "summary": "Menlo Ventures' Matt Murphy shares insights on what AI startup founders must do differently, based on his experience with Anthropic's rapid growth",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+    "published": "2026-07-22T14:00:00.000Z"
   },
   {
     "id": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -403,50 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
     "published": "2026-07-20T21:21:15.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144390",
-    "category": "Tools",
-    "headline": "AI’s most important protocol is getting a little bit easier to use",
-    "summary": "A key AI protocol is being updated for easier use with a stateless approach to session IDs",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-    "published": "2026-07-20T20:50:40.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144280",
-    "category": "Policy",
-    "headline": "OpenAI is scared of open-weight models. Should the US be?",
-    "summary": "OpenAI is concerned about open-weight models, particularly those made in China, highlighting the challenges of commercializing AI",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-    "published": "2026-07-20T19:33:25.000Z"
-  },
-  {
-    "id": "hn:48982681",
-    "category": "Tools",
-    "headline": "Nativ: Run frontier open models locally on your Mac",
-    "summary": "Nativ allows users to run open models on their Mac locally",
-    "source": "Hacker News",
-    "url": "https://blaizzy.github.io/nativ/",
-    "published": "2026-07-20T18:16:08.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=967791",
-    "category": "Tools",
-    "headline": "Adobe’s ‘natural look’ camera app embraces generative AI",
-    "summary": "Adobe updates its camera app with generative AI tools, allowing users to opt out and continue using the app as before",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-    "published": "2026-07-20T16:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144118",
-    "category": "Tools",
-    "headline": "Adobe camera app’s new feature will critique your photos using AI",
-    "summary": "Adobe's camera app uses AI to critique photos and remove backgrounds",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-    "published": "2026-07-20T15:45:00.000Z"
   }
 ]
