@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "category": "Funding",
+    "headline": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "summary": "Google is giving $40 million in AI resources to the Genesis Mission for scientific discovery",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "published": "2026-07-22T13:38:54.000Z"
+  },
+  {
+    "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "category": "Funding",
+    "headline": "Building AI infrastructure with the Effingham County community",
+    "summary": "OpenAI is launching Project Camellia in Effingham County, focusing on responsible energy use and community investment",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "published": "2026-07-22T13:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968680",
+    "category": "Models",
+    "headline": "Meta made its own AI detection system. It should have just used Google’s",
+    "summary": "Meta developed Content Seal, an AI detection system to identify generated images, but it may be less effective than Google's SynthID",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+    "published": "2026-07-22T11:00:00.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=969137",
     "category": "Policy",
     "headline": "Utility companies are promising to spare us from AI’s energy bill",
@@ -9,6 +36,15 @@
     "published": "2026-07-22T10:12:13.000Z"
   },
   {
+    "id": "https://techcrunch.com/?p=3144940",
+    "category": "Tools",
+    "headline": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "summary": "Glow aims to tackle new endpoint security risks caused by AI and developer tools in enterprises",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "published": "2026-07-22T10:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3145013",
     "category": "Tools",
     "headline": "Synthesia’s AI training platform is moving beyond videos into live coaching",
@@ -16,6 +52,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
     "published": "2026-07-22T08:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/introducing-openai-presence",
+    "category": "Tools",
+    "headline": "Introducing OpenAI Presence",
+    "summary": "OpenAI launches a platform to help companies create and deploy trusted AI voice and chat agents",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "published": "2026-07-22T05:30:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2607.18239v1",
@@ -403,50 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
     "published": "2026-07-19T17:35:54.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144080",
-    "category": "Other",
-    "headline": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "summary": "Director Christopher Nolan views AI as a threat, comparing it to a Trojan horse",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-    "published": "2026-07-19T14:52:08.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143631",
-    "category": "Research",
-    "headline": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-    "summary": "Nonprofit Current AI aims to create a free, inclusive AI network accessible to all cultures and devices",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-    "published": "2026-07-19T14:00:00.000Z"
-  },
-  {
-    "id": "hn:48965850",
-    "category": "Models",
-    "headline": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-    "summary": "OpenAI shrinks Codex model context size for efficiency",
-    "source": "Hacker News",
-    "url": "https://github.com/openai/codex/pull/33972/files",
-    "published": "2026-07-19T07:54:39.000Z"
-  },
-  {
-    "id": "hn:48962983",
-    "category": "Policy",
-    "headline": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-    "summary": "A mayor stops landlords from using artificial intelligence images in advertisements",
-    "source": "Hacker News",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "published": "2026-07-18T22:13:39.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=967630",
-    "category": "Other",
-    "headline": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-    "summary": "Author Dave Eggers criticized OpenAI, saying ChatGPT is silencing a generation, during a talk to company staff",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "published": "2026-07-18T20:54:42.000Z"
   }
 ]
