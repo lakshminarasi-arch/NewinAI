@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3145006",
+    "category": "Other",
+    "headline": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "summary": "Rumors are circulating about Anthropic and Physical Intelligence after Anthropic and OpenAI's recent acquisition activities",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "published": "2026-07-22T03:20:57.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145004",
+    "category": "Tools",
+    "headline": "Meta is testing an AI bedtime story app for people with no imagination",
+    "summary": "Meta is developing an app that uses AI to create bedtime stories, potentially replacing human imagination",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "published": "2026-07-21T23:55:10.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=968703",
     "category": "Tools",
     "headline": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
@@ -70,6 +88,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
     "published": "2026-07-21T19:22:28.000Z"
+  },
+  {
+    "id": "hn:48996652",
+    "category": "Models",
+    "headline": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "summary": "A judge approved a settlement over pirated books used to train the Claude AI model",
+    "source": "Hacker News",
+    "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "published": "2026-07-21T19:04:39.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3144838",
@@ -421,32 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
     "published": "2026-07-18T11:18:25.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144034",
-    "category": "Funding",
-    "headline": "Neil Rimer thinks the AI money is coming back out",
-    "summary": "Venture capitalist Neil Rimer predicts AI wealth in Silicon Valley will be redistributed",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-    "published": "2026-07-18T04:47:25.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143864",
-    "category": "Tools",
-    "headline": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "summary": "Vertu's luxury foldable device features an AI agent, with performance tested in daily use, including workflows and security",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "published": "2026-07-17T22:55:09.000Z"
-  },
-  {
-    "id": "hn:48952880",
-    "category": "Policy",
-    "headline": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-    "summary": "Nurses claim AI and workplace surveillance are negatively impacting their work and patient care",
-    "source": "Hacker News",
-    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "published": "2026-07-17T22:26:30.000Z"
   }
 ]
