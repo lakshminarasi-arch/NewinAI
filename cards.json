@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=969285",
+    "category": "Funding",
+    "headline": "AMD commits up to $5 billion to Anthropic",
+    "summary": "AMD is investing up to $5 billion in AI company Anthropic to boost its computing power with AMD's AI GPUs",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+    "published": "2026-07-22T14:44:27.000Z"
+  },
+  {
     "id": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
     "category": "Funding",
     "headline": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
@@ -9,6 +18,15 @@
     "published": "2026-07-22T13:38:54.000Z"
   },
   {
+    "id": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+    "category": "Other",
+    "headline": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+    "summary": "The US Army is using up its AI tokens quickly, despite being labeled as unlimited, prompting an email to troops about depletion",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+    "published": "2026-07-22T13:35:17.000Z"
+  },
+  {
     "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "category": "Funding",
     "headline": "Building AI infrastructure with the Effingham County community",
@@ -16,6 +34,15 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "published": "2026-07-22T13:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "category": "Research",
+    "headline": "Advancing the next era of national science",
+    "summary": "OpenAI partners with the US Department of Energy to use AI for faster scientific discovery",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "published": "2026-07-22T12:00:00.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=968680",
@@ -421,32 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
     "published": "2026-07-20T10:16:33.000Z"
-  },
-  {
-    "id": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "category": "Research",
-    "headline": "Safety and alignment in an era of long-horizon models",
-    "summary": "OpenAI discusses safety concerns and lessons learned from using long-running AI models, including new risks and improved safeguards",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "published": "2026-07-20T10:00:00.000Z"
-  },
-  {
-    "id": "hn:48971738",
-    "category": "Research",
-    "headline": "AI advice made people 3x less accurate but 2x confident, researchers found",
-    "summary": "Researchers discovered that people who received advice from AI were less accurate but more confident in their decisions",
-    "source": "Hacker News",
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "published": "2026-07-19T21:18:10.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=967678",
-    "category": "Other",
-    "headline": "I hate that I don’t hate this song made with Suno",
-    "summary": "Musician 1010Benja uses AI to create song, despite initial skepticism, the result is surprisingly enjoyable",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-    "published": "2026-07-19T17:35:54.000Z"
   }
 ]
