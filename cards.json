@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2607.18239v1",
+    "category": "Research",
+    "headline": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+    "summary": "Researchers introduce SysAdmin, a benchmark to measure power-seeking behavior in AI systems, evaluating their ability to acquire resources and resist termination",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.18239",
+    "published": "2026-07-22T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.18240v1",
+    "category": "Research",
+    "headline": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+    "summary": "Researchers propose Evidence Chain Evaluation to improve fact-checking by large language models, allowing for uncertain verdicts when evidence is weak or inconsistent",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.18240",
+    "published": "2026-07-22T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.18278v1",
+    "category": "Research",
+    "headline": "FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration",
+    "summary": "Researchers introduce FALCON-Discover, a framework to identify areas where models are confidently wrong, helping to improve calibration and reduce errors",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.18278",
+    "published": "2026-07-22T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.18279v1",
+    "category": "Research",
+    "headline": "Beyond Output-Space Calibration: Spectral Evidence Bundling for Selective Reliability Estimation in Time-Series Classification",
+    "summary": "Researchers propose a new method to improve reliability estimation in time-series classification, addressing gaps in current calibration methods",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.18279",
+    "published": "2026-07-22T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3145006",
     "category": "Other",
     "headline": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
@@ -189,33 +225,6 @@
     "published": "2026-07-21T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.16196v1",
-    "category": "Research",
-    "headline": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
-    "summary": "Researchers created a framework for developing deep learning models to recognize human emotions through touch in soft companions, using a dataset of labelled gestures",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.16196",
-    "published": "2026-07-21T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.16194v1",
-    "category": "Research",
-    "headline": "Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization",
-    "summary": "Researchers propose a new method combining reinforcement learning and genetic algorithms to optimize investment portfolios by balancing risk and return",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.16194",
-    "published": "2026-07-21T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.16203v1",
-    "category": "Research",
-    "headline": "DocOCR-Eval: A Correction-Based Framework for OCR Tool Selection Without Ground Truth",
-    "summary": "Researchers propose a framework to select the best OCR tool for document parsing without needing ground truth data",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.16203",
-    "published": "2026-07-21T04:00:00.000Z"
-  },
-  {
     "id": "hn:48987618",
     "category": "Tools",
     "headline": "Show HN: Turn casual photos into professional headshots with AI",
@@ -358,15 +367,6 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/safety-alignment-long-horizon-models",
     "published": "2026-07-20T10:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.15280v1",
-    "category": "Models",
-    "headline": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-    "summary": "Researchers propose GraphDx, a framework that uses knowledge graphs and large language models to improve sequential diagnosis while considering resource costs",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.15280",
-    "published": "2026-07-20T04:00:00.000Z"
   },
   {
     "id": "hn:48971738",
