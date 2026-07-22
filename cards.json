@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3145503",
+    "category": "Funding",
+    "headline": "Google justifies its massive AI spending with a booming cloud business",
+    "summary": "Google's cloud business is doing well due to companies using its AI services, leading to record profits",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "published": "2026-07-22T22:01:52.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3145517",
     "category": "Policy",
     "headline": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
@@ -439,14 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "published": "2026-07-21T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144451",
-    "category": "Policy",
-    "headline": "Trump’s latest AI czar has already resigned",
-    "summary": "The director of the Center for AI Standards and Innovation has resigned, marking another departure from the role",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-    "published": "2026-07-20T22:21:04.000Z"
   }
 ]
