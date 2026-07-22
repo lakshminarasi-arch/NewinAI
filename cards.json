@@ -1,5 +1,41 @@
 [
   {
+    "id": "hn:49010167",
+    "category": "Models",
+    "headline": "GigaToken: ~1000x faster Language model tokenization",
+    "summary": "GigaToken is a language model that tokenizes around 1000 times faster",
+    "source": "Hacker News",
+    "url": "https://github.com/marcelroed/gigatoken/",
+    "published": "2026-07-22T17:20:38.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3144980",
+    "category": "Policy",
+    "headline": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "summary": "A US open source AI lab claims Chinese AI models are not inherently dangerous despite growing concerns",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "published": "2026-07-22T16:24:08.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145276",
+    "category": "Tools",
+    "headline": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "summary": "Substack introduces a tool to estimate the amount of AI-written content in newsletters, promoting transparency around AI-assisted writing",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "published": "2026-07-22T16:23:09.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145288",
+    "category": "Funding",
+    "headline": "OpenAI’s AI spending spree has ballooned to $750B",
+    "summary": "OpenAI plans to spend a large amount on infrastructure by 2030, comparable to a country's GDP",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "published": "2026-07-22T16:13:30.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=969285",
     "category": "Funding",
     "headline": "AMD commits up to $5 billion to Anthropic",
@@ -412,41 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
     "published": "2026-07-20T15:45:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144190",
-    "category": "Policy",
-    "headline": "YouTube clarifies policies around AI slop and upsetting videos",
-    "summary": "YouTube updates policies to restrict ad revenue for low-quality and AI-generated videos",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-    "published": "2026-07-20T15:23:06.000Z"
-  },
-  {
-    "id": "hn:48979201",
-    "category": "Models",
-    "headline": "Lossless model compression experiment: GLM-5.2 in 25% less memory",
-    "summary": "Researchers reduced memory usage of the GLM-5.2 model by 25 percent",
-    "source": "Hacker News",
-    "url": "https://brianbell-x.github.io/weight-compression/",
-    "published": "2026-07-20T14:16:45.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-    "category": "Tools",
-    "headline": "Beyond grep: The case for a context-rich AI coding harness",
-    "summary": "A coding tool uses AI to provide context for coding, going beyond basic search functions",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-    "published": "2026-07-20T11:20:10.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=967781",
-    "category": "Models",
-    "headline": "China delivers a one-two punch to America’s AI dominance",
-    "summary": "Chinese AI companies Moonshot and Alibaba are challenging US dominance with new models that claim to match US performance at a lower cost",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-    "published": "2026-07-20T10:16:33.000Z"
   }
 ]
