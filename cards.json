@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.theverge.com/?p=969137",
+    "category": "Policy",
+    "headline": "Utility companies are promising to spare us from AI’s energy bill",
+    "summary": "US utility companies and data centers promise to protect consumers from increased electricity bills due to the AI boom",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+    "published": "2026-07-22T10:12:13.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145013",
+    "category": "Tools",
+    "headline": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+    "summary": "Synthesia's AI platform now offers live coaching with interactive avatars for workplace conversation practice and feedback",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+    "published": "2026-07-22T08:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.18239v1",
     "category": "Research",
     "headline": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
     "published": "2026-07-18T20:54:42.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144070",
-    "category": "Models",
-    "headline": "Kimi: Threat or menace?",
-    "summary": "Moonshot AI's updated Kimi model sparks concern over its potential impact, described as 'full AI communism'",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "published": "2026-07-18T18:51:07.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-    "category": "Policy",
-    "headline": "Will AI fix prior authorization—or make it worse?",
-    "summary": "The government is testing AI for making insurance coverage decisions, potentially changing prior authorization processes",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-    "published": "2026-07-18T11:18:25.000Z"
   }
 ]
