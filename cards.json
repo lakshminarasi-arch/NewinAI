@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3145517",
+    "category": "Policy",
+    "headline": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "summary": "US Treasury may sanction Chinese AI companies over alleged model theft from Anthropic",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "published": "2026-07-22T20:49:03.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3145421",
     "category": "Models",
     "headline": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
@@ -106,6 +115,15 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
     "published": "2026-07-22T13:35:17.000Z"
+  },
+  {
+    "id": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "category": "Tools",
+    "headline": "How news organizations are using AI to advance their vital missions",
+    "summary": "News organizations use AI to improve reporting, audience growth and operations with support from AI tools",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "published": "2026-07-22T13:00:00.000Z"
   },
   {
     "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
     "published": "2026-07-20T22:21:04.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968375",
-    "category": "Policy",
-    "headline": "Here are the 30,000 songs Sony is suing Udio s AI music generator over",
-    "summary": "Sony Music sues Udio's AI music generator for copyright infringement of over 30,000 songs",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-    "published": "2026-07-20T22:19:12.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144366",
-    "category": "Models",
-    "headline": "Google is working on a new AI chip designed to make Gemini more efficient",
-    "summary": "Google is developing a new AI chip to improve efficiency of its Gemini models",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "published": "2026-07-20T21:21:15.000Z"
   }
 ]
