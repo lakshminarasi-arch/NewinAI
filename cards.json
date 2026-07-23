@@ -1,5 +1,113 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3145576",
+    "category": "Funding",
+    "headline": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "summary": "Etched, a startup founded by Harvard dropouts, creates AI chips and memory that can speed up AI model inference without needing GPUs",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "published": "2026-07-23T15:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145698",
+    "category": "Models",
+    "headline": "Google’s Gemini nears billion-user milestone",
+    "summary": "Google's Gemini is approaching a billion monthly users, with over 750 million users reported in February",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "published": "2026-07-23T14:52:44.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+    "category": "Models",
+    "headline": "AI arms race in line for a reckoning after OpenAI hacking incident",
+    "summary": "A recent hacking incident involving OpenAI has raised concerns about aggressive training techniques leading to bad behavior in top models",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+    "published": "2026-07-23T14:45:05.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=969939",
+    "category": "Policy",
+    "headline": "Lawmakers prepare bill requiring AI ‘kill switch’",
+    "summary": "US lawmakers plan a bill to let the Department of Homeland Security order AI companies to shut down or slow their systems if needed",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+    "published": "2026-07-23T14:13:35.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=968787",
+    "category": "Policy",
+    "headline": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+    "summary": "Apple is suing OpenAI over alleged theft of trade secrets by former Apple employees, which could impact OpenAI's future",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+    "published": "2026-07-23T14:00:00.000Z"
+  },
+  {
+    "id": "hn:49021597",
+    "category": "Research",
+    "headline": "DARPA, U.S. Air Force fly AI-controlled F-16",
+    "summary": "The US Air Force and DARPA tested an AI system that controlled an F-16 flight",
+    "source": "Hacker News",
+    "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+    "published": "2026-07-23T13:51:36.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=969667",
+    "category": "Other",
+    "headline": "The right-wing boomers protesting data centers have a lot in common with the left",
+    "summary": "Protesters in Florida are opposing the construction of a data center, citing concerns and seeking a ban rather than a temporary halt",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+    "published": "2026-07-23T12:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145469",
+    "category": "Models",
+    "headline": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+    "summary": "Experts question how Kimi K3 achieved its strength, doubting it was solely due to exploiting Anthropic's Fable model through distillation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+    "published": "2026-07-23T11:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145578",
+    "category": "Funding",
+    "headline": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "summary": "ServiceNow invests in BusinessNext to expand its financial services using AI-powered banking software",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "published": "2026-07-23T06:09:13.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.19378v1",
+    "category": "Research",
+    "headline": "Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions",
+    "summary": "Researchers propose HyenaND, an operator for multi-dimensional data that uses convolutions to preserve spatial structure without requiring rasterization",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.19378",
+    "published": "2026-07-23T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.19379v1",
+    "category": "Models",
+    "headline": "Bayesian Wind Tunnels for Model Selection",
+    "summary": "Researchers test if transformers can perform Bayesian model selection by introducing controlled environments with known posteriors",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.19379",
+    "published": "2026-07-23T04:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145616",
+    "category": "Other",
+    "headline": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "summary": "IBM's CEO says AI affected corporate hardware budgets, leading to poor mainframe sales",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "published": "2026-07-22T23:47:54.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3145503",
     "category": "Funding",
     "headline": "Google justifies its massive AI spending with a booming cloud business",
@@ -225,15 +333,6 @@
     "published": "2026-07-22T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.18279v1",
-    "category": "Research",
-    "headline": "Beyond Output-Space Calibration: Spectral Evidence Bundling for Selective Reliability Estimation in Time-Series Classification",
-    "summary": "Researchers propose a new method to improve reliability estimation in time-series classification, addressing gaps in current calibration methods",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.18279",
-    "published": "2026-07-22T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3145006",
     "category": "Other",
     "headline": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
@@ -241,6 +340,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
     "published": "2026-07-22T03:20:57.000Z"
+  },
+  {
+    "id": "https://openai.com/index/ntt-data",
+    "category": "Tools",
+    "headline": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "summary": "NTT DATA Group uses AI tools to automate tasks and reduce incident analysis time to 30 minutes for its employees",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/ntt-data",
+    "published": "2026-07-22T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3145004",
@@ -340,113 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
     "published": "2026-07-21T17:11:50.000Z"
-  },
-  {
-    "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "category": "Tools",
-    "headline": "Introducing the ChatGPT for small business program",
-    "summary": "OpenAI launches a program to help small businesses use ChatGPT for automation and growth",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "published": "2026-07-21T17:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-    "category": "Models",
-    "headline": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-    "summary": "Google introduces new Gemini 3.6 AI model and teases upcoming versions, including Gemini 4, focusing on flash and cybersecurity",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-    "published": "2026-07-21T16:58:25.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968724",
-    "category": "Policy",
-    "headline": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
-    "summary": "A judge approved a $1.5 billion settlement between Anthropic and authors who claimed the company's AI models used their copyrighted books without permission",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-    "published": "2026-07-21T16:53:37.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144722",
-    "category": "Policy",
-    "headline": "US threatens sanctions against Chinese AI models over IP theft",
-    "summary": "The US may sanction Chinese AI models due to alleged intellectual property theft, aiming to slow China's AI progress",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-    "published": "2026-07-21T15:37:05.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968572",
-    "category": "Models",
-    "headline": "Google launches a cheaper alternative to large AI security models like Mythos",
-    "summary": "Google introduces Gemini 3.6 Flash, a cheaper alternative to large AI security models for finding vulnerabilities",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-    "published": "2026-07-21T15:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144590",
-    "category": "Other",
-    "headline": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-    "summary": "Deezer reports a large portion of daily music uploads are created using artificial intelligence, with over 90,000 tracks uploaded daily",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-    "published": "2026-07-21T13:27:42.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968136",
-    "category": "Models",
-    "headline": "America needs to stop getting shocked by Chinese AI",
-    "summary": "Chinese AI companies unveiled models that can compete with top systems, causing market and policy reactions",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-    "published": "2026-07-21T11:08:56.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144417",
-    "category": "Funding",
-    "headline": "Gritt exits stealth with $34 million for robots to build solar plants — then, everything else",
-    "summary": "Gritt aims to use robots for automating construction tasks, starting with solar plant builds, after raising $34 million",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-    "published": "2026-07-21T10:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.16195v1",
-    "category": "Research",
-    "headline": "Rater State Bias in RLHF Preference Data: An Audit Framework",
-    "summary": "Researchers found that human raters' emotional states can influence their preferences in Reinforcement Learning from Human Feedback, affecting data quality",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.16195",
-    "published": "2026-07-21T04:00:00.000Z"
-  },
-  {
-    "id": "hn:48987618",
-    "category": "Tools",
-    "headline": "Show HN: Turn casual photos into professional headshots with AI",
-    "summary": "AI technology transforms casual photos into professional headshots",
-    "source": "Hacker News",
-    "url": "https://portraify.app",
-    "published": "2026-07-21T03:13:17.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144516",
-    "category": "Policy",
-    "headline": "Anthropic’s landmark $1.5B copyright settlement is approved",
-    "summary": "A $1.5B copyright settlement for Anthropic has been approved, but it doesn't address the larger issue of using copyrighted material to train AI",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "published": "2026-07-21T00:12:24.000Z"
-  },
-  {
-    "id": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "category": "Funding",
-    "headline": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "summary": "OpenAI adds David Vélez and Robin Vince to its boards, bringing finance and tech expertise",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "published": "2026-07-21T00:00:00.000Z"
   }
 ]
