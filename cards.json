@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2607.20452v1",
+    "category": "Models",
+    "headline": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+    "summary": "AINTMA is an AI system for autonomous test management, using multiple agents for tasks like test discovery and risk assessment in cloud environments",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.20452",
+    "published": "2026-07-24T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.20462v1",
+    "category": "Research",
+    "headline": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+    "summary": "Researchers study how watermarks affect large language models in medical texts, finding most evaluations focus on general benchmarks rather than specific domains like medicine",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.20462",
+    "published": "2026-07-24T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.20465v1",
+    "category": "Research",
+    "headline": "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators",
+    "summary": "Researchers propose a benchmark to evaluate large language models' ability to prepare training data, focusing on data construction and quality evaluation",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.20465",
+    "published": "2026-07-24T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.20492v1",
+    "category": "Models",
+    "headline": "PhantomFill: When the Form Demands an Answer, Language Models Invent One",
+    "summary": "Researchers found language models often invent answers when filling forms, even when the question cannot be answered, due to the format requiring a response",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.20492",
+    "published": "2026-07-24T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3145932",
     "category": "Tools",
     "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -216,33 +252,6 @@
     "published": "2026-07-23T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.19350v1",
-    "category": "Research",
-    "headline": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-    "summary": "Researchers propose a hybrid AI framework combining LSTM and graph neural networks to detect financial fraud and resist adversarial tactics",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.19350",
-    "published": "2026-07-23T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.19378v1",
-    "category": "Research",
-    "headline": "Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions",
-    "summary": "Researchers propose HyenaND, an operator for multi-dimensional data that uses convolutions to preserve spatial structure without requiring rasterization",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.19378",
-    "published": "2026-07-23T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.19379v1",
-    "category": "Models",
-    "headline": "Bayesian Wind Tunnels for Model Selection",
-    "summary": "Researchers test if transformers can perform Bayesian model selection by introducing controlled environments with known posteriors",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.19379",
-    "published": "2026-07-23T04:00:00.000Z"
-  },
-  {
     "id": "https://openai.com/index/health-in-chatgpt",
     "category": "Tools",
     "headline": "Launching Health in ChatGPT",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
     "published": "2026-07-22T10:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145013",
-    "category": "Tools",
-    "headline": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-    "summary": "Synthesia's AI platform now offers live coaching with interactive avatars for workplace conversation practice and feedback",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-    "published": "2026-07-22T08:00:00.000Z"
   }
 ]
