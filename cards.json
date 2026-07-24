@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3146199",
+    "category": "Tools",
+    "headline": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "summary": "OpenAI's ChatGPT desktop app now has a voice mode for task completion and agent control",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+    "published": "2026-07-24T13:36:42.000Z"
+  },
+  {
+    "id": "hn:49034342",
+    "category": "Tools",
+    "headline": "I Tried Building a Real App with AI. It Took a Year",
+    "summary": "Someone spent a year building a real app using artificial intelligence",
+    "source": "Hacker News",
+    "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+    "published": "2026-07-24T12:00:17.000Z"
+  },
+  {
     "id": "hn:49033363",
     "category": "Tools",
     "headline": "Launching Health in ChatGPT to US Users",
@@ -430,23 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
     "published": "2026-07-22T12:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968680",
-    "category": "Models",
-    "headline": "Meta made its own AI detection system. It should have just used Google’s",
-    "summary": "Meta developed Content Seal, an AI detection system to identify generated images, but it may be less effective than Google's SynthID",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-    "published": "2026-07-22T11:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=969137",
-    "category": "Policy",
-    "headline": "Utility companies are promising to spare us from AI’s energy bill",
-    "summary": "US utility companies and data centers promise to protect consumers from increased electricity bills due to the AI boom",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-    "published": "2026-07-22T10:12:13.000Z"
   }
 ]
