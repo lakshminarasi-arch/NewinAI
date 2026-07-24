@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3146619",
+    "category": "Funding",
+    "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+    "summary": "New AI lab Prentis, co-founded by Reid Hoffman and Marc Pincus, aims to automate routine computer tasks with AI, seeking to raise $100M",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+    "published": "2026-07-24T22:25:58.000Z"
+  },
+  {
     "id": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
     "category": "Policy",
     "headline": "Canadian legislator reads out apparent LLM response in floor speech",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
     "published": "2026-07-22T18:50:44.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145367",
-    "category": "Funding",
-    "headline": "Monday.com lays off hundreds to focus on AI",
-    "summary": "Monday.com is reducing staff by 20% to focus on its AI Work Platform, aiming for a more efficient operation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-    "published": "2026-07-22T17:54:14.000Z"
   }
 ]
