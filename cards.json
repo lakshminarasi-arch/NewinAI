@@ -1,5 +1,122 @@
 [
   {
+    "id": "https://www.theverge.com/?p=970399",
+    "category": "Tools",
+    "headline": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "summary": "Amazon's Alexa Plus gets an AI update to better understand complex voice commands and control smart home devices",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "published": "2026-07-23T21:15:06.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145851",
+    "category": "Tools",
+    "headline": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "summary": "AMD introduces Helios, a rack-scale AI system to compete with Nvidia, shipping later this year",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "published": "2026-07-23T20:33:02.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+    "category": "Tools",
+    "headline": "Forgot your Google password? Now you can log in with a selfie.",
+    "summary": "Google introduces a new login method using selfie videos for account access and age verification, utilizing AI",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+    "published": "2026-07-23T19:14:25.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "category": "Policy",
+    "headline": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+    "summary": "A proposed bill allows the Homeland Security chief to order shutdowns of AI systems deemed rogue",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "published": "2026-07-23T19:08:01.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145822",
+    "category": "Models",
+    "headline": "Anthropic updates Claude voice mode with more capable models",
+    "summary": "Anthropic improves Claude's voice mode with advanced models for tasks like rescheduling meetings and drafting emails",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "published": "2026-07-23T19:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=970065",
+    "category": "Models",
+    "headline": "Claude’s voice mode is now available for Opus and Sonnet",
+    "summary": "Anthropic expands voice mode to Opus and Sonnet models, allowing more complex tasks and integration with various apps",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "published": "2026-07-23T19:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145881",
+    "category": "Funding",
+    "headline": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "summary": "AegisAI uses AI agents to analyze messages for anomalies, aiming to stop AI-driven spear phishing attacks",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "published": "2026-07-23T18:38:34.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145764",
+    "category": "Tools",
+    "headline": "Runway launches AI model router as generative media gets crowded",
+    "summary": "Runway's Media Router tool selects the best AI model for generating images, videos, or audio based on quality, speed, or cost priorities",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "published": "2026-07-23T17:07:35.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145731",
+    "category": "Tools",
+    "headline": "OpenAI makes ChatGPT Health available to all US users",
+    "summary": "OpenAI's ChatGPT Health is now available to all US users, allowing integration with personal health data services",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "published": "2026-07-23T17:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=970115",
+    "category": "Models",
+    "headline": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "summary": "OpenAI is releasing ChatGPT Health, allowing users to connect medical records and health data, with claims of superior reasoning to human clinicians, though this claim is being tempered",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+    "published": "2026-07-23T17:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3145730",
+    "category": "Other",
+    "headline": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "summary": "Meta uses a song about human extinction in an ad meant to inspire AI optimism",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "published": "2026-07-23T16:28:50.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "category": "Funding",
+    "headline": "Google just had its first negative cash flow quarter due to massive AI spending",
+    "summary": "Google's large investments in artificial intelligence led to its first quarter with negative cash flow despite high revenue",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "published": "2026-07-23T16:04:19.000Z"
+  },
+  {
+    "id": "hn:49023427",
+    "category": "Tools",
+    "headline": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+    "summary": "OneCLI is an open source credential gateway designed to keep secrets secure from AI agents",
+    "source": "Hacker News",
+    "url": "https://github.com/onecli/onecli",
+    "published": "2026-07-23T15:42:40.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3145576",
     "category": "Funding",
     "headline": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
@@ -97,6 +214,15 @@
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2607.19379",
     "published": "2026-07-23T04:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/health-in-chatgpt",
+    "category": "Tools",
+    "headline": "Launching Health in ChatGPT",
+    "summary": "ChatGPT now allows US users to link medical records and Apple Health for personalized health insights",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "published": "2026-07-23T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3145616",
@@ -322,131 +448,5 @@
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2607.18240",
     "published": "2026-07-22T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.18278v1",
-    "category": "Research",
-    "headline": "FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration",
-    "summary": "Researchers introduce FALCON-Discover, a framework to identify areas where models are confidently wrong, helping to improve calibration and reduce errors",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.18278",
-    "published": "2026-07-22T04:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145006",
-    "category": "Other",
-    "headline": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-    "summary": "Rumors are circulating about Anthropic and Physical Intelligence after Anthropic and OpenAI's recent acquisition activities",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-    "published": "2026-07-22T03:20:57.000Z"
-  },
-  {
-    "id": "https://openai.com/index/ntt-data",
-    "category": "Tools",
-    "headline": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "summary": "NTT DATA Group uses AI tools to automate tasks and reduce incident analysis time to 30 minutes for its employees",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/ntt-data",
-    "published": "2026-07-22T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145004",
-    "category": "Tools",
-    "headline": "Meta is testing an AI bedtime story app for people with no imagination",
-    "summary": "Meta is developing an app that uses AI to create bedtime stories, potentially replacing human imagination",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-    "published": "2026-07-21T23:55:10.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968703",
-    "category": "Tools",
-    "headline": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-    "summary": "Director Neill Blomkamp's new short film uses AI to generate all shots, testing generative AI capabilities",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-    "published": "2026-07-21T22:06:43.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968988",
-    "category": "Models",
-    "headline": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-    "summary": "OpenAI's AI models accidentally breached Hugging Face during testing, exploiting vulnerabilities to gain internet access",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-    "published": "2026-07-21T21:48:54.000Z"
-  },
-  {
-    "id": "hn:48998606",
-    "category": "Models",
-    "headline": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-    "summary": "Gemini's last models no longer use temperature, top_p, and top_k due to deprecation",
-    "source": "Hacker News",
-    "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-    "published": "2026-07-21T21:27:54.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144991",
-    "category": "Models",
-    "headline": "OpenAI says Hugging Face was breached by its own pre-release models",
-    "summary": "OpenAI claims its internal testing caused a breach at Hugging Face using pre-release models",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-    "published": "2026-07-21T20:56:55.000Z"
-  },
-  {
-    "id": "hn:48997941",
-    "category": "Tools",
-    "headline": "Show HN: Orate – On-device neural text-to-speech queue for Mac",
-    "summary": "Orate is a tool that uses neural networks for text-to-speech on Mac devices",
-    "source": "Hacker News",
-    "url": "https://orate.to/",
-    "published": "2026-07-21T20:38:29.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144907",
-    "category": "Tools",
-    "headline": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-    "summary": "Jack Dorsey's new platform allows teams and AI agents to communicate together in a group chat",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-    "published": "2026-07-21T19:43:41.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144827",
-    "category": "Tools",
-    "headline": "AI and the rise of the universal entertainment app",
-    "summary": "AI helps streaming platforms create and recommend content, making them all-purpose entertainment apps",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-    "published": "2026-07-21T19:39:30.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968855",
-    "category": "Tools",
-    "headline": "Substack adds an AI detector to help spot blogs written by no one",
-    "summary": "Substack introduces an AI detector tool to identify potential AI-generated content, helping users determine authenticity",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-    "published": "2026-07-21T19:22:28.000Z"
-  },
-  {
-    "id": "hn:48996652",
-    "category": "Models",
-    "headline": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-    "summary": "A judge approved a settlement over pirated books used to train the Claude AI model",
-    "source": "Hacker News",
-    "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-    "published": "2026-07-21T19:04:39.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144838",
-    "category": "Models",
-    "headline": "Google releases three new Gemini models — but no 3.5 Pro",
-    "summary": "Google introduces three new Gemini models, sparking questions about their AI strategy due to the absence of the Gemini 3.5 Pro",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-    "published": "2026-07-21T17:11:50.000Z"
   }
 ]
