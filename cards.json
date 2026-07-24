@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3145932",
+    "category": "Tools",
+    "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "summary": "Cybersecurity researchers say AI guardrails from OpenAI and Anthropic hinder their work in finding unknown vulnerabilities",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "published": "2026-07-24T01:00:00.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=970399",
     "category": "Tools",
     "headline": "Alexa Plus is getting an AI update to handle more complicated instructions",
@@ -196,6 +205,24 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
     "published": "2026-07-23T06:09:13.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.19349v1",
+    "category": "Research",
+    "headline": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+    "summary": "Researchers introduce FineServe, a dataset to help understand large language model serving workloads and improve efficiency",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.19349",
+    "published": "2026-07-23T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.19350v1",
+    "category": "Research",
+    "headline": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+    "summary": "Researchers propose a hybrid AI framework combining LSTM and graph neural networks to detect financial fraud and resist adversarial tactics",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.19350",
+    "published": "2026-07-23T04:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2607.19378v1",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
     "published": "2026-07-22T08:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/introducing-openai-presence",
-    "category": "Tools",
-    "headline": "Introducing OpenAI Presence",
-    "summary": "OpenAI launches a platform to help companies create and deploy trusted AI voice and chat agents",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-openai-presence",
-    "published": "2026-07-22T05:30:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.18239v1",
-    "category": "Research",
-    "headline": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-    "summary": "Researchers introduce SysAdmin, a benchmark to measure power-seeking behavior in AI systems, evaluating their ability to acquire resources and resist termination",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.18239",
-    "published": "2026-07-22T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.18240v1",
-    "category": "Research",
-    "headline": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-    "summary": "Researchers propose Evidence Chain Evaluation to improve fact-checking by large language models, allowing for uncertain verdicts when evidence is weak or inconsistent",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.18240",
-    "published": "2026-07-22T04:00:00.000Z"
   }
 ]
