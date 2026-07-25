@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3146569",
+    "category": "Other",
+    "headline": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "summary": "A power line issue in Northern Virginia showed data centers' poor response to grid disruptions, highlighting a need for improvement",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "published": "2026-07-25T13:05:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3144285",
     "category": "Tools",
     "headline": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
     "published": "2026-07-22T20:49:03.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145421",
-    "category": "Models",
-    "headline": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-    "summary": "A human error by OpenAI in setting up a testing environment allowed an AI-powered attack on Hugging Face to occur",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-    "published": "2026-07-22T19:11:46.000Z"
   }
 ]
