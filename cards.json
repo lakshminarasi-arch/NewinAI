@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3144285",
+    "category": "Tools",
+    "headline": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "summary": "OpenAI's new AI keypad may entertain some coders, but could confuse others due to its complexity",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "published": "2026-07-25T00:23:11.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3146619",
     "category": "Funding",
     "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
     "published": "2026-07-22T19:11:46.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145456",
-    "category": "Funding",
-    "headline": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-    "summary": "Travis Kalanick's company Atoms raises $1.7B to use industrial AI for modernization",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-    "published": "2026-07-22T18:50:44.000Z"
   }
 ]
