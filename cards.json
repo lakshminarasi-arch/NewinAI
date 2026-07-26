@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3146794",
+    "category": "Models",
+    "headline": "Making sense of the panic over Chinese AI",
+    "summary": "A Chinese AI model caused concern among Silicon Valley and Wall Street investors and experts",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "published": "2026-07-26T19:40:57.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3146775",
+    "category": "Policy",
+    "headline": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "summary": "Hugging Face CEO demands openness after a significant cyberattack on OpenAI, considered the first of its kind by an autonomous agent",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "published": "2026-07-26T16:33:13.000Z"
+  },
+  {
     "id": "hn:49051361",
     "category": "Models",
     "headline": "The new rules of context engineering for Claude 5 generation models",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
     "published": "2026-07-23T06:09:13.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.19349v1",
-    "category": "Research",
-    "headline": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-    "summary": "Researchers introduce FineServe, a dataset to help understand large language model serving workloads and improve efficiency",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.19349",
-    "published": "2026-07-23T04:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/health-in-chatgpt",
-    "category": "Tools",
-    "headline": "Launching Health in ChatGPT",
-    "summary": "ChatGPT now allows US users to link medical records and Apple Health for personalized health insights",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "published": "2026-07-23T00:00:00.000Z"
   }
 ]
