@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+    "category": "Policy",
+    "headline": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+    "summary": "An artist is taking an AI meme generator to court for using their personal comic as a template for ads without permission",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+    "published": "2026-07-27T10:50:37.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.21596v1",
     "category": "Models",
     "headline": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
@@ -34,6 +43,15 @@
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2607.21633",
     "published": "2026-07-27T04:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "category": "Research",
+    "headline": "How AI is expanding what people do at work",
+    "summary": "OpenAI research finds AI is changing work tasks, allowing workers to take on various roles and blur job boundaries",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "published": "2026-07-27T03:30:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3146429",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
     "published": "2026-07-23T14:00:00.000Z"
-  },
-  {
-    "id": "hn:49021597",
-    "category": "Research",
-    "headline": "DARPA, U.S. Air Force fly AI-controlled F-16",
-    "summary": "The US Air Force and DARPA tested an AI system that controlled an F-16 flight",
-    "source": "Hacker News",
-    "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-    "published": "2026-07-23T13:51:36.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=969667",
-    "category": "Other",
-    "headline": "The right-wing boomers protesting data centers have a lot in common with the left",
-    "summary": "Protesters in Florida are opposing the construction of a data center, citing concerns and seeking a ban rather than a temporary halt",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-    "published": "2026-07-23T12:00:00.000Z"
   }
 ]
