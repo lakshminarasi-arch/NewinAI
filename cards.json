@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "category": "Tools",
+    "headline": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "summary": "Microsoft introduces new AI security tools that are said to perform better and cost less than similar tools from competitors",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "published": "2026-07-27T21:56:14.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3147049",
     "category": "Policy",
     "headline": "Satya Nadella says companies that trust one AI for everything may not survive",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
     "published": "2026-07-23T19:14:25.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-    "category": "Policy",
-    "headline": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-    "summary": "A proposed bill allows the Homeland Security chief to order shutdowns of AI systems deemed rogue",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-    "published": "2026-07-23T19:08:01.000Z"
   }
 ]
