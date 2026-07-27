@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+    "category": "Funding",
+    "headline": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+    "summary": "Verizon expects to gain revenue from AI through deals involving dark fiber and updated data centers",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+    "published": "2026-07-27T18:48:41.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3146944",
+    "category": "Models",
+    "headline": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "summary": "Microsoft introduces its first AI security model and a new security platform to enhance cybersecurity offerings",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "published": "2026-07-27T18:32:11.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3146990",
     "category": "Models",
     "headline": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
@@ -16,6 +34,15 @@
     "source": "Hacker News",
     "url": "https://usefeyn.com/blog/feynobg/",
     "published": "2026-07-27T16:59:08.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+    "category": "Models",
+    "headline": "ChatGPT starts blocking direct requests to copy an author's style",
+    "summary": "ChatGPT now blocks requests to directly copy an author's writing style, instead capturing broad qualities, which may have legal implications",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+    "published": "2026-07-27T16:58:46.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=971444",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
     "published": "2026-07-23T19:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=970065",
-    "category": "Models",
-    "headline": "Claude’s voice mode is now available for Opus and Sonnet",
-    "summary": "Anthropic expands voice mode to Opus and Sonnet models, allowing more complex tasks and integration with various apps",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-    "published": "2026-07-23T19:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145881",
-    "category": "Funding",
-    "headline": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-    "summary": "AegisAI uses AI agents to analyze messages for anomalies, aiming to stop AI-driven spear phishing attacks",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-    "published": "2026-07-23T18:38:34.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145764",
-    "category": "Tools",
-    "headline": "Runway launches AI model router as generative media gets crowded",
-    "summary": "Runway's Media Router tool selects the best AI model for generating images, videos, or audio based on quality, speed, or cost priorities",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "published": "2026-07-23T17:07:35.000Z"
   }
 ]
