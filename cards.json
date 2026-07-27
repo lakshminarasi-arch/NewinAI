@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3147049",
+    "category": "Policy",
+    "headline": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "summary": "Microsoft CEO Satya Nadella warns that companies relying too heavily on one AI system may face survival issues",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "published": "2026-07-27T21:17:11.000Z"
+  },
+  {
     "id": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
     "category": "Funding",
     "headline": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
     "published": "2026-07-23T19:08:01.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145822",
-    "category": "Models",
-    "headline": "Anthropic updates Claude voice mode with more capable models",
-    "summary": "Anthropic improves Claude's voice mode with advanced models for tasks like rescheduling meetings and drafting emails",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "published": "2026-07-23T19:00:00.000Z"
   }
 ]
