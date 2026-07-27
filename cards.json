@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3146990",
+    "category": "Models",
+    "headline": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "summary": "A breach at Hugging Face has sparked debate about controlling and aligning powerful AI systems",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "published": "2026-07-27T17:28:42.000Z"
+  },
+  {
+    "id": "hn:49072462",
+    "category": "Models",
+    "headline": "Show HN: FeyNoBg – Automatic background removal model and training library",
+    "summary": "FeyNoBg is a model and library for automatically removing backgrounds from images",
+    "source": "Hacker News",
+    "url": "https://usefeyn.com/blog/feynobg/",
+    "published": "2026-07-27T16:59:08.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=971444",
+    "category": "Models",
+    "headline": "Why China is giving away its best AI models",
+    "summary": "China's Moonshot AI is releasing its Kimi K3 model's weights for free, posing a challenge to US companies with a cheaper alternative",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "published": "2026-07-27T16:51:50.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3146923",
+    "category": "Tools",
+    "headline": "Threads users can now chat with Meta AI in their DMs",
+    "summary": "Meta AI chatbot is now available in Threads direct messages for user conversations",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "published": "2026-07-27T16:45:24.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3146884",
+    "category": "Models",
+    "headline": "Google’s AI search is rapidly becoming the default, new data shows",
+    "summary": "Google's AI search results now appear in nearly half of all searches, showing how quickly AI is changing online information discovery",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "published": "2026-07-27T15:57:12.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3146499",
+    "category": "Other",
+    "headline": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "summary": "TechCrunch Disrupt 2026 features a Smart Systems Stage discussing AI's impact on energy and infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "published": "2026-07-27T15:30:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3146871",
     "category": "Research",
     "headline": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
@@ -394,59 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
     "published": "2026-07-23T17:07:35.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145731",
-    "category": "Tools",
-    "headline": "OpenAI makes ChatGPT Health available to all US users",
-    "summary": "OpenAI's ChatGPT Health is now available to all US users, allowing integration with personal health data services",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-    "published": "2026-07-23T17:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=970115",
-    "category": "Models",
-    "headline": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-    "summary": "OpenAI is releasing ChatGPT Health, allowing users to connect medical records and health data, with claims of superior reasoning to human clinicians, though this claim is being tempered",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-    "published": "2026-07-23T17:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145730",
-    "category": "Other",
-    "headline": "Meta launched a new AI optimism ad set to a song about human extinction",
-    "summary": "Meta uses a song about human extinction in an ad meant to inspire AI optimism",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-    "published": "2026-07-23T16:28:50.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "category": "Funding",
-    "headline": "Google just had its first negative cash flow quarter due to massive AI spending",
-    "summary": "Google's large investments in artificial intelligence led to its first quarter with negative cash flow despite high revenue",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "published": "2026-07-23T16:04:19.000Z"
-  },
-  {
-    "id": "hn:49023427",
-    "category": "Tools",
-    "headline": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-    "summary": "OneCLI is an open source credential gateway designed to keep secrets secure from AI agents",
-    "source": "Hacker News",
-    "url": "https://github.com/onecli/onecli",
-    "published": "2026-07-23T15:42:40.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145576",
-    "category": "Funding",
-    "headline": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-    "summary": "Etched, a startup founded by Harvard dropouts, creates AI chips and memory that can speed up AI model inference without needing GPUs",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-    "published": "2026-07-23T15:00:00.000Z"
   }
 ]
