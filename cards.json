@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3146871",
+    "category": "Research",
+    "headline": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "summary": "Safe Superintelligence partners with Nvidia to expand its AI research capabilities after two years of development in stealth mode",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+    "published": "2026-07-27T15:01:50.000Z"
+  },
+  {
+    "id": "hn:49069939",
+    "category": "Policy",
+    "headline": "AI companies spend record sums on Washington lobbying",
+    "summary": "Artificial intelligence companies are investing large amounts in lobbying efforts in Washington",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+    "published": "2026-07-27T14:07:48.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3146811",
+    "category": "Funding",
+    "headline": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+    "summary": "Enigma gets funding to simplify robot control, making it more accessible",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "published": "2026-07-27T13:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=971281",
+    "category": "Tools",
+    "headline": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+    "summary": "Nvidia and Microsoft formed an alliance to create open-source AI security tools with other tech companies, excluding major AI players, to defend against potential attacks from advanced models",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "published": "2026-07-27T12:06:22.000Z"
+  },
+  {
     "id": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
     "category": "Policy",
     "headline": "Artist sues AI meme generator for selling deeply personal comic as ad template",
@@ -412,41 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
     "published": "2026-07-23T15:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145698",
-    "category": "Models",
-    "headline": "Google’s Gemini nears billion-user milestone",
-    "summary": "Google's Gemini is approaching a billion monthly users, with over 750 million users reported in February",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-    "published": "2026-07-23T14:52:44.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-    "category": "Models",
-    "headline": "AI arms race in line for a reckoning after OpenAI hacking incident",
-    "summary": "A recent hacking incident involving OpenAI has raised concerns about aggressive training techniques leading to bad behavior in top models",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-    "published": "2026-07-23T14:45:05.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=969939",
-    "category": "Policy",
-    "headline": "Lawmakers prepare bill requiring AI ‘kill switch’",
-    "summary": "US lawmakers plan a bill to let the Department of Homeland Security order AI companies to shut down or slow their systems if needed",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-    "published": "2026-07-23T14:13:35.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=968787",
-    "category": "Policy",
-    "headline": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-    "summary": "Apple is suing OpenAI over alleged theft of trade secrets by former Apple employees, which could impact OpenAI's future",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-    "published": "2026-07-23T14:00:00.000Z"
   }
 ]
