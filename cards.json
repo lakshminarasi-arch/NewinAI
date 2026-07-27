@@ -1,5 +1,50 @@
 [
   {
+    "id": "oai:arXiv.org:2607.21596v1",
+    "category": "Models",
+    "headline": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+    "summary": "FlowEvo is a framework that helps AI agents learn from experience by saving useful procedures for future tasks, improving problem-solving abilities",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.21596",
+    "published": "2026-07-27T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.21597v1",
+    "category": "Research",
+    "headline": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+    "summary": "Researchers propose a new framework to evaluate wildfire risk signals, focusing on operational coherence rather than prediction accuracy",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.21597",
+    "published": "2026-07-27T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.21623v1",
+    "category": "Research",
+    "headline": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
+    "summary": "Researchers propose a cloud-based architecture for scalable AI monitoring, using microservices for tasks like conformal prediction and fairness monitoring",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.21623",
+    "published": "2026-07-27T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.21633v1",
+    "category": "Research",
+    "headline": "On the Depth Scalability of Logic Gate Networks",
+    "summary": "Researchers investigate why Logic Gate Networks don't improve with depth, finding issues with optimization and topology, and propose a solution to support useful computation in deeper layers",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.21633",
+    "published": "2026-07-27T04:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3146429",
+    "category": "Research",
+    "headline": "Are brain waves the next unlock for physical AI?",
+    "summary": "Researchers consider using brain waves to improve physical AI models, which currently rely on cameras and annotations",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "published": "2026-07-27T00:19:14.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3146794",
     "category": "Models",
     "headline": "Making sense of the panic over Chinese AI",
@@ -216,33 +261,6 @@
     "published": "2026-07-24T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.20462v1",
-    "category": "Research",
-    "headline": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-    "summary": "Researchers study how watermarks affect large language models in medical texts, finding most evaluations focus on general benchmarks rather than specific domains like medicine",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.20462",
-    "published": "2026-07-24T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.20465v1",
-    "category": "Research",
-    "headline": "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators",
-    "summary": "Researchers propose a benchmark to evaluate large language models' ability to prepare training data, focusing on data construction and quality evaluation",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.20465",
-    "published": "2026-07-24T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.20492v1",
-    "category": "Models",
-    "headline": "PhantomFill: When the Form Demands an Answer, Language Models Invent One",
-    "summary": "Researchers found language models often invent answers when filling forms, even when the question cannot be answered, due to the format requiring a response",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.20492",
-    "published": "2026-07-24T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3145932",
     "category": "Tools",
     "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
     "published": "2026-07-23T12:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145469",
-    "category": "Models",
-    "headline": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-    "summary": "Experts question how Kimi K3 achieved its strength, doubting it was solely due to exploiting Anthropic's Fable model through distillation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-    "published": "2026-07-23T11:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145578",
-    "category": "Funding",
-    "headline": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-    "summary": "ServiceNow invests in BusinessNext to expand its financial services using AI-powered banking software",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-    "published": "2026-07-23T06:09:13.000Z"
   }
 ]
