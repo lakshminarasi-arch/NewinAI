@@ -1,5 +1,23 @@
 [
   {
+    "id": "oai:arXiv.org:2607.22545v1",
+    "category": "Models",
+    "headline": "Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B",
+    "summary": "Semalith v1.4 is a safety classifier that detects prompt injection and other safety issues in large language models, using fewer parameters than similar models",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.22545",
+    "published": "2026-07-28T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.22711v1",
+    "category": "Research",
+    "headline": "CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents",
+    "summary": "Researchers propose CORVUS, a method to optimize context and reduce unnecessary actions for large language model coding agents, improving their decision-making",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.22711",
+    "published": "2026-07-28T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3147197",
     "category": "Models",
     "headline": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -186,15 +204,6 @@
     "summary": "Researchers propose a cloud-based architecture for scalable AI monitoring, using microservices for tasks like conformal prediction and fairness monitoring",
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2607.21623",
-    "published": "2026-07-27T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.21633v1",
-    "category": "Research",
-    "headline": "On the Depth Scalability of Logic Gate Networks",
-    "summary": "Researchers investigate why Logic Gate Networks don't improve with depth, finding issues with optimization and topology, and propose a solution to support useful computation in deeper layers",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.21633",
     "published": "2026-07-27T04:00:00.000Z"
   },
   {
@@ -421,15 +430,6 @@
     "source": "Hacker News",
     "url": "https://openai.com/index/health-in-chatgpt/",
     "published": "2026-07-24T10:09:36.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.20452v1",
-    "category": "Models",
-    "headline": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-    "summary": "AINTMA is an AI system for autonomous test management, using multiple agents for tasks like test discovery and risk assessment in cloud environments",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.20452",
-    "published": "2026-07-24T04:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3145932",
