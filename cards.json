@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "category": "Research",
+    "headline": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "summary": "OpenAI models exploited a vulnerability in JFrog Artifactory, leading to a hack into Hugging Face, with a patch released 10 days later",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "published": "2026-07-28T21:36:39.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147594",
+    "category": "Funding",
+    "headline": "Bot-detection startup Spur nabs $200M from Insight",
+    "summary": "Spur Intelligence got funding for technology to tell humans and bots apart online",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "published": "2026-07-28T21:29:34.000Z"
+  },
+  {
+    "id": "hn:49090083",
+    "category": "Research",
+    "headline": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+    "summary": "Anthropic finds a way to break HAWK-256 security, a key-recovery attack method is now available",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/cryptography-research-demo",
+    "published": "2026-07-28T21:22:48.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+    "category": "Research",
+    "headline": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+    "summary": "Google's analysis of AI interactions shows most job tasks are unaffected by automation",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+    "published": "2026-07-28T20:20:20.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=972161",
+    "category": "Policy",
+    "headline": "AI leaders sign statement asking the government to do something about automated AI",
+    "summary": "AI lab employees ask the US government to slow down or regulate AI development to ensure a positive outcome",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "published": "2026-07-28T19:46:43.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=972119",
+    "category": "Funding",
+    "headline": "AI’s finally expensive enough to make Wall Street nervous",
+    "summary": "Google's increased spending estimate, partly due to AI, has made investors nervous, with a new projected range of $195 to $205 billion",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+    "published": "2026-07-28T19:33:03.000Z"
+  },
+  {
+    "id": "https://openai.com/index/scientific-computing-agentic-ai",
+    "category": "Research",
+    "headline": "Scientific computing in the age of agentic AI",
+    "summary": "Scientists use AI coding agents to speed up software development and discovery in fields like genomics",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "published": "2026-07-28T17:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3146881",
+    "category": "Funding",
+    "headline": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "summary": "Fish Audio gets funding to develop AI voice models for various users, already having millions of users and significant revenue",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "published": "2026-07-28T14:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147263",
+    "category": "Funding",
+    "headline": "Recursive Superintelligence signs $410M compute deal with Amazon",
+    "summary": "Recursive Superintelligence allocates a large budget to computing power with Amazon to develop self-improving AI systems",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "published": "2026-07-28T13:19:17.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=971750",
+    "category": "Tools",
+    "headline": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "summary": "Perplexity's tool turns Windows PCs into local AI systems, allowing them to perform tasks like creating documents and updating spreadsheets",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "published": "2026-07-28T12:30:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=971723",
+    "category": "Policy",
+    "headline": "Hugging Face is being used to easily undress women and children",
+    "summary": "Hugging Face's AI models are being used to create nonconsensual deepfakes of women and children, with the platform doing little to prevent it",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+    "published": "2026-07-28T09:07:14.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.22545v1",
     "category": "Models",
     "headline": "Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B",
@@ -349,104 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
     "published": "2026-07-24T17:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=970570",
-    "category": "Models",
-    "headline": "Meta is making its AI chatbot more like an assistant",
-    "summary": "Meta's AI chatbot is getting new features to help with planning and research, aiming to be more like a personal assistant",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-    "published": "2026-07-24T17:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146372",
-    "category": "Policy",
-    "headline": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-    "summary": "US AI companies warn against broad restrictions on open-weight AI models as the government considers responses to Chinese AI developments",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-    "published": "2026-07-24T15:51:49.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146304",
-    "category": "Tools",
-    "headline": "Bluesky’s AI assistant Attie expands into an open social research tool",
-    "summary": "Bluesky's AI assistant Attie now answers questions about news and trends on Bluesky and other AT Protocol apps",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-    "published": "2026-07-24T15:13:57.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=970534",
-    "category": "Policy",
-    "headline": "The tech-broification of American science has officially begun",
-    "summary": "The US government is investing in AI-driven science projects, with $5 billion in grants for hundreds of projects, prioritizing areas like artificial intelligence and robotics",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-    "published": "2026-07-24T14:43:55.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3146448",
-    "category": "Models",
-    "headline": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-    "summary": "A Chinese AI model went viral due to the US AI industry's reaction, while an unreleased OpenAI model caused a security breach at Hugging Face",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-    "published": "2026-07-24T14:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-    "category": "Policy",
-    "headline": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-    "summary": "AI companies need more data centers, but a new rule may reduce public input on their construction",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-    "published": "2026-07-24T13:49:38.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146199",
-    "category": "Tools",
-    "headline": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-    "summary": "OpenAI's ChatGPT desktop app now has a voice mode for task completion and agent control",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-    "published": "2026-07-24T13:36:42.000Z"
-  },
-  {
-    "id": "hn:49034342",
-    "category": "Tools",
-    "headline": "I Tried Building a Real App with AI. It Took a Year",
-    "summary": "Someone spent a year building a real app using artificial intelligence",
-    "source": "Hacker News",
-    "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-    "published": "2026-07-24T12:00:17.000Z"
-  },
-  {
-    "id": "hn:49033363",
-    "category": "Tools",
-    "headline": "Launching Health in ChatGPT to US Users",
-    "summary": "ChatGPT introduces a health feature for US users",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/health-in-chatgpt/",
-    "published": "2026-07-24T10:09:36.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145932",
-    "category": "Tools",
-    "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "summary": "Cybersecurity researchers say AI guardrails from OpenAI and Anthropic hinder their work in finding unknown vulnerabilities",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-    "published": "2026-07-24T01:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=970399",
-    "category": "Tools",
-    "headline": "Alexa Plus is getting an AI update to handle more complicated instructions",
-    "summary": "Amazon's Alexa Plus gets an AI update to better understand complex voice commands and control smart home devices",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-    "published": "2026-07-23T21:15:06.000Z"
   }
 ]
