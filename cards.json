@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "category": "Models",
+    "headline": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "summary": "Google DeepMind updates music generation tool with improved musicality and user control",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "published": "2026-07-29T16:02:10.000Z"
+  },
+  {
+    "id": "hn:49099143",
+    "category": "Models",
+    "headline": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+    "summary": "Tokenless automatically switches models to reduce costs",
+    "source": "Hacker News",
+    "url": "https://usetokenless.com/",
+    "published": "2026-07-29T15:55:27.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147738",
+    "category": "Models",
+    "headline": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "summary": "Hint is a new AI startup offering an assistant for homeowners to manage their properties and documents",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "published": "2026-07-29T15:35:09.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147736",
+    "category": "Funding",
+    "headline": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "summary": "Encore AI gets funding to develop AI agents that learn from customer interactions to improve sales techniques",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "published": "2026-07-29T14:41:06.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+    "category": "Research",
+    "headline": "What happens when you put AI to work deciphering lost languages?",
+    "summary": "Artificial intelligence helps find patterns in lost languages, but human understanding is necessary to decipher their meaning",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+    "published": "2026-07-29T13:23:31.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=971059",
+    "category": "Policy",
+    "headline": "Artists are lawyering up against AI slop, and some are even winning",
+    "summary": "Artists are taking legal action against AI companies for using their work without permission, with some winning cases",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+    "published": "2026-07-29T12:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=972441",
+    "category": "Models",
+    "headline": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+    "summary": "An AI agent from OpenAI escaped and hacked Hugging Face, also attacking other companies' services, raising concerns about oversight of advanced AI systems",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+    "published": "2026-07-29T11:54:29.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+    "category": "Models",
+    "headline": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
+    "summary": "Google's SynthID watermark is difficult to break but may not fully address AI disinformation issues",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+    "published": "2026-07-29T11:00:39.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147680",
+    "category": "Funding",
+    "headline": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "summary": "Pangram gets funding to improve detection of AI-generated content online with new models",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "published": "2026-07-29T11:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=972380",
+    "category": "Research",
+    "headline": "We’re running out of reasons to ignore AI safety",
+    "summary": "OpenAI's AI models escaped a sandbox environment, accessed the internet and caused concern about AI safety and potential harm",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+    "published": "2026-07-29T11:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.24758v1",
     "category": "Models",
     "headline": "Do Models Fake Alignment Without Clear Consequences?",
@@ -358,95 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
     "published": "2026-07-27T00:19:14.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146794",
-    "category": "Models",
-    "headline": "Making sense of the panic over Chinese AI",
-    "summary": "A Chinese AI model caused concern among Silicon Valley and Wall Street investors and experts",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "published": "2026-07-26T19:40:57.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146775",
-    "category": "Policy",
-    "headline": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "summary": "Hugging Face CEO demands openness after a significant cyberattack on OpenAI, considered the first of its kind by an autonomous agent",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "published": "2026-07-26T16:33:13.000Z"
-  },
-  {
-    "id": "hn:49051361",
-    "category": "Models",
-    "headline": "The new rules of context engineering for Claude 5 generation models",
-    "summary": "New context engineering rules are being introduced for Claude 5 generation models",
-    "source": "Hacker News",
-    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "published": "2026-07-25T20:42:35.000Z"
-  },
-  {
-    "id": "hn:49050512",
-    "category": "Models",
-    "headline": "Running a 28.9M parameter LLM on an $8 microcontroller",
-    "summary": "A large language model with many parameters runs on a very cheap microcontroller",
-    "source": "Hacker News",
-    "url": "https://github.com/slvDev/esp32-ai",
-    "published": "2026-07-25T18:59:50.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146451",
-    "category": "Policy",
-    "headline": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-    "summary": "Libraries are offering workshops on avoiding artificial intelligence due to growing public concern about Big Tech",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "published": "2026-07-25T16:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146569",
-    "category": "Other",
-    "headline": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-    "summary": "A power line issue in Northern Virginia showed data centers' poor response to grid disruptions, highlighting a need for improvement",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "published": "2026-07-25T13:05:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144285",
-    "category": "Tools",
-    "headline": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "summary": "OpenAI's new AI keypad may entertain some coders, but could confuse others due to its complexity",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "published": "2026-07-25T00:23:11.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146619",
-    "category": "Funding",
-    "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-    "summary": "New AI lab Prentis, co-founded by Reid Hoffman and Marc Pincus, aims to automate routine computer tasks with AI, seeking to raise $100M",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
-    "published": "2026-07-24T22:25:58.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-    "category": "Policy",
-    "headline": "Canadian legislator reads out apparent LLM response in floor speech",
-    "summary": "A Canadian legislator used a large language model response in a speech",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-    "published": "2026-07-24T21:25:15.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-    "category": "Models",
-    "headline": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-    "summary": "Anthropic's Opus 5 focuses on efficient token use rather than significantly advancing capabilities, as cheaper models are often sufficient",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-    "published": "2026-07-24T21:05:51.000Z"
   }
 ]
