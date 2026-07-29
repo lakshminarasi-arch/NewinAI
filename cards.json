@@ -1,5 +1,68 @@
 [
   {
+    "id": "oai:arXiv.org:2607.24758v1",
+    "category": "Models",
+    "headline": "Do Models Fake Alignment Without Clear Consequences?",
+    "summary": "Large language models can alter behavior to meet evaluator expectations, but the reasons for this alignment faking are not well understood, even without clear consequences",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.24758",
+    "published": "2026-07-29T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.24759v1",
+    "category": "Research",
+    "headline": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+    "summary": "Researchers propose a templated substrate to improve knowledge sharing and collaboration with large language model agents, addressing the issue of lost information and repeated failures",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.24759",
+    "published": "2026-07-29T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.24875v1",
+    "category": "Research",
+    "headline": "FinAbstain: Uncertainty-Calibrated Multimodal RAG for Selective Financial Forecasting",
+    "summary": "Researchers introduce FinAbstain, a framework for uncertainty-calibrated financial forecasting using multimodal retrieval-augmented generation",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.24875",
+    "published": "2026-07-29T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.24880v1",
+    "category": "Research",
+    "headline": "Human Preference aligned Tabular Similarity",
+    "summary": "Researchers propose evaluating tabular embeddings based on human preference to improve similarity search in business systems",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.24880",
+    "published": "2026-07-29T04:00:00.000Z"
+  },
+  {
+    "id": "hn:49093232",
+    "category": "Models",
+    "headline": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "summary": "Researchers propose a unified model for robot co-design that considers motion conditions",
+    "source": "Hacker News",
+    "url": "https://transformer-transformer.github.io/",
+    "published": "2026-07-29T03:52:29.000Z"
+  },
+  {
+    "id": "hn:49092499",
+    "category": "Models",
+    "headline": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "summary": "Andrew Ng's company LearnVector creates personalized learning experiences using AI",
+    "source": "Hacker News",
+    "url": "https://learnvector.ai/",
+    "published": "2026-07-29T01:49:19.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147673",
+    "category": "Funding",
+    "headline": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "summary": "Cyera buys Oasis Security to improve safety for growing numbers of AI agents",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "published": "2026-07-29T00:09:05.000Z"
+  },
+  {
     "id": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
     "category": "Research",
     "headline": "We now have a better understanding how OpenAI hacked into Hugging Face",
@@ -105,15 +168,6 @@
     "summary": "Semalith v1.4 is a safety classifier that detects prompt injection and other safety issues in large language models, using fewer parameters than similar models",
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2607.22545",
-    "published": "2026-07-28T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.22711v1",
-    "category": "Research",
-    "headline": "CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents",
-    "summary": "Researchers propose CORVUS, a method to optimize context and reduce unnecessary actions for large language model coding agents, improving their decision-making",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.22711",
     "published": "2026-07-28T04:00:00.000Z"
   },
   {
@@ -261,6 +315,15 @@
     "published": "2026-07-27T13:00:00.000Z"
   },
   {
+    "id": "hn:49069033",
+    "category": "Research",
+    "headline": "Truth is not a direction: a Tarski attack on LLM probes",
+    "summary": "Researchers examine Tarski attack on large language model probes to test truthfulness",
+    "source": "Hacker News",
+    "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+    "published": "2026-07-27T12:56:36.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=971281",
     "category": "Tools",
     "headline": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
@@ -277,33 +340,6 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
     "published": "2026-07-27T10:50:37.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.21596v1",
-    "category": "Models",
-    "headline": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
-    "summary": "FlowEvo is a framework that helps AI agents learn from experience by saving useful procedures for future tasks, improving problem-solving abilities",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.21596",
-    "published": "2026-07-27T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.21597v1",
-    "category": "Research",
-    "headline": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
-    "summary": "Researchers propose a new framework to evaluate wildfire risk signals, focusing on operational coherence rather than prediction accuracy",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.21597",
-    "published": "2026-07-27T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.21623v1",
-    "category": "Research",
-    "headline": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
-    "summary": "Researchers propose a cloud-based architecture for scalable AI monitoring, using microservices for tasks like conformal prediction and fairness monitoring",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.21623",
-    "published": "2026-07-27T04:00:00.000Z"
   },
   {
     "id": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -412,41 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
     "published": "2026-07-24T21:05:51.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146380",
-    "category": "Models",
-    "headline": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "summary": "Cognition acquired Poke to improve its AI assistant's conversational style, showing that AI personality is becoming a key advantage",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "published": "2026-07-24T18:07:32.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-    "category": "Models",
-    "headline": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-    "summary": "Scientists use AlphaFold AI to redesign gene editing proteins for safety by identifying mistake-prone areas",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-    "published": "2026-07-24T17:31:26.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146446",
-    "category": "Models",
-    "headline": "Anthropic launches Opus 5",
-    "summary": "Anthropic's Opus 5 is a more affordable and less restrictive alternative to Fable",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "published": "2026-07-24T17:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=970105",
-    "category": "Models",
-    "headline": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-    "summary": "Anthropic's new model Opus 5 has capabilities similar to Fable 5 and excels in complex coding tasks",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-    "published": "2026-07-24T17:00:00.000Z"
   }
 ]
