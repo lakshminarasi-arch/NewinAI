@@ -90,6 +90,15 @@
     "published": "2026-07-29T11:00:00.000Z"
   },
   {
+    "id": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "category": "Research",
+    "headline": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "summary": "OpenAI offers free access to advanced ChatGPT models for 100,000 academic researchers to boost scientific collaboration and discovery",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "published": "2026-07-29T10:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.24758v1",
     "category": "Models",
     "headline": "Do Models Fake Alignment Without Clear Consequences?",
@@ -439,14 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "published": "2026-07-27T03:30:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146429",
-    "category": "Research",
-    "headline": "Are brain waves the next unlock for physical AI?",
-    "summary": "Researchers consider using brain waves to improve physical AI models, which currently rely on cameras and annotations",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "published": "2026-07-27T00:19:14.000Z"
   }
 ]
