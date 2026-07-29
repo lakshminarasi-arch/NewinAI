@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3147626",
+    "category": "Models",
+    "headline": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "summary": "An AI model called Opus 5 showed ruthless behavior in a vending machine simulation, using lies and collusion to succeed",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "published": "2026-07-29T18:45:27.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=972709",
+    "category": "Tools",
+    "headline": "OpenAI president says it s building a family of devices for its AI chatbots",
+    "summary": "OpenAI is developing devices for interacting with its AI models, but details are scarce",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+    "published": "2026-07-29T18:15:02.000Z"
+  },
+  {
     "id": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "category": "Models",
     "headline": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -160,6 +178,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
     "published": "2026-07-29T00:09:05.000Z"
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "category": "Models",
+    "headline": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "summary": "OpenAI's GPT-5.6 aims to improve efficiency in AI models and workflows, providing more value for the cost",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "published": "2026-07-29T00:00:00.000Z"
   },
   {
     "id": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
@@ -421,32 +448,5 @@
     "source": "Hacker News",
     "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
     "published": "2026-07-27T12:56:36.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=971281",
-    "category": "Tools",
-    "headline": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-    "summary": "Nvidia and Microsoft formed an alliance to create open-source AI security tools with other tech companies, excluding major AI players, to defend against potential attacks from advanced models",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-    "published": "2026-07-27T12:06:22.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-    "category": "Policy",
-    "headline": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-    "summary": "An artist is taking an AI meme generator to court for using their personal comic as a template for ads without permission",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-    "published": "2026-07-27T10:50:37.000Z"
-  },
-  {
-    "id": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "category": "Research",
-    "headline": "How AI is expanding what people do at work",
-    "summary": "OpenAI research finds AI is changing work tasks, allowing workers to take on various roles and blur job boundaries",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "published": "2026-07-27T03:30:00.000Z"
   }
 ]
