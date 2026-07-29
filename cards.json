@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3147648",
+    "category": "Other",
+    "headline": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "summary": "TechCrunch Disrupt 2026 features an AI Stage to explore the latest AI trends and issues",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "published": "2026-07-29T21:16:39.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147986",
+    "category": "Research",
+    "headline": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "summary": "Lilian Weng left Thinking Machines due to health reasons and joined OpenAI, a company she previously worked for as VP of AI Safety Research",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "published": "2026-07-29T21:07:48.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=972850",
+    "category": "Policy",
+    "headline": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+    "summary": "xAI is suing Minnesota over a law targeting nudification apps, claiming it violates the First Amendment and forces the company to restrict image-editing features",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+    "published": "2026-07-29T21:06:52.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3147626",
     "category": "Models",
     "headline": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
     "published": "2026-07-27T15:01:50.000Z"
-  },
-  {
-    "id": "hn:49069939",
-    "category": "Policy",
-    "headline": "AI companies spend record sums on Washington lobbying",
-    "summary": "Artificial intelligence companies are investing large amounts in lobbying efforts in Washington",
-    "source": "Hacker News",
-    "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-    "published": "2026-07-27T14:07:48.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146811",
-    "category": "Funding",
-    "headline": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-    "summary": "Enigma gets funding to simplify robot control, making it more accessible",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "published": "2026-07-27T13:00:00.000Z"
-  },
-  {
-    "id": "hn:49069033",
-    "category": "Research",
-    "headline": "Truth is not a direction: a Tarski attack on LLM probes",
-    "summary": "Researchers examine Tarski attack on large language model probes to test truthfulness",
-    "source": "Hacker News",
-    "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-    "published": "2026-07-27T12:56:36.000Z"
   }
 ]
