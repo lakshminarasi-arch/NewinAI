@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3148017",
+    "category": "Models",
+    "headline": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "summary": "Mark Zuckerberg expects personal AI agents to be used by billions in five years, as Meta invests heavily in AI infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "published": "2026-07-29T23:00:11.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148002",
+    "category": "Funding",
+    "headline": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "summary": "Microsoft's investment in Anthropic generated $3.2 billion, while its investment in OpenAI had mixed results",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "published": "2026-07-29T22:46:03.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148020",
+    "category": "Models",
+    "headline": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "summary": "Meta CEO Mark Zuckerberg sees a large opportunity for AI in enterprises, including agents, APIs, and software",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "published": "2026-07-29T22:23:12.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=972927",
+    "category": "Tools",
+    "headline": "Microsoft confirms Copilot ‘super app’ coming this year",
+    "summary": "Microsoft is developing an AI super app that combines chat, coding, and other capabilities, set to launch this year for both consumers and businesses",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+    "published": "2026-07-29T22:17:38.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=972294",
+    "category": "Models",
+    "headline": "Mark Zuckerberg is planning a big push into personal AI agents",
+    "summary": "Meta plans to introduce personal AI agents that can assist users with various tasks and goals, working continuously on their behalf",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+    "published": "2026-07-29T21:48:07.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3147648",
     "category": "Other",
     "headline": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
@@ -70,6 +115,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
     "published": "2026-07-29T15:35:09.000Z"
+  },
+  {
+    "id": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "category": "Models",
+    "headline": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "summary": "Enabling two API settings improved GPT-5.6 performance on a benchmark by retaining reasoning and enabling compaction, leading to higher scores and efficiency",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "published": "2026-07-29T15:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3147736",
@@ -394,59 +448,5 @@
     "source": "Hacker News",
     "url": "https://usefeyn.com/blog/feynobg/",
     "published": "2026-07-27T16:59:08.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "category": "Models",
-    "headline": "ChatGPT starts blocking direct requests to copy an author's style",
-    "summary": "ChatGPT now blocks requests to directly copy an author's writing style, instead capturing broad qualities, which may have legal implications",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "published": "2026-07-27T16:58:46.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=971444",
-    "category": "Models",
-    "headline": "Why China is giving away its best AI models",
-    "summary": "China's Moonshot AI is releasing its Kimi K3 model's weights for free, posing a challenge to US companies with a cheaper alternative",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-    "published": "2026-07-27T16:51:50.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146923",
-    "category": "Tools",
-    "headline": "Threads users can now chat with Meta AI in their DMs",
-    "summary": "Meta AI chatbot is now available in Threads direct messages for user conversations",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "published": "2026-07-27T16:45:24.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146884",
-    "category": "Models",
-    "headline": "Google’s AI search is rapidly becoming the default, new data shows",
-    "summary": "Google's AI search results now appear in nearly half of all searches, showing how quickly AI is changing online information discovery",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "published": "2026-07-27T15:57:12.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146499",
-    "category": "Other",
-    "headline": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-    "summary": "TechCrunch Disrupt 2026 features a Smart Systems Stage discussing AI's impact on energy and infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "published": "2026-07-27T15:30:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146871",
-    "category": "Research",
-    "headline": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "summary": "Safe Superintelligence partners with Nvidia to expand its AI research capabilities after two years of development in stealth mode",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "published": "2026-07-27T15:01:50.000Z"
   }
 ]
