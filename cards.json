@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3148116",
+    "category": "Funding",
+    "headline": "Dili raises $21.7 million to bring AI compliance to the infrastructure boom",
+    "summary": "Dili gets funding to use AI for compliance in infrastructure projects",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+    "published": "2026-07-30T13:00:00.000Z"
+  },
+  {
+    "id": "hn:49108556",
+    "category": "Policy",
+    "headline": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+    "summary": "EU to apply strict rules to platforms like ChatGPT and Roblox",
+    "source": "Hacker News",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+    "published": "2026-07-30T11:30:34.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.26119v1",
+    "category": "Research",
+    "headline": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+    "summary": "Researchers investigate why reinforcement learning models outperform supervised fine-tuned models in mathematical problem-solving, finding differences in internal representations",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.26119",
+    "published": "2026-07-30T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.26120v1",
+    "category": "Research",
+    "headline": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+    "summary": "Researchers study objective misalignment in multi-agent systems powered by large language models, using a social deduction game to evaluate how hidden goals affect collective objectives",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.26120",
+    "published": "2026-07-30T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.26059v1",
+    "category": "Research",
+    "headline": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
+    "summary": "Researchers found that deep reinforcement learning agents using frozen random CNN feature extractors develop sparse representations without any sparsity objective",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.26059",
+    "published": "2026-07-30T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.26061v1",
+    "category": "Research",
+    "headline": "Sim2Win: A Team-Agnostic, Event-Based Pre-Match Outcome Prediction and Tactical Profiling System for Football",
+    "summary": "Researchers introduce Sim2Win, a system that predicts football match outcomes and provides tactical recommendations using event data from various teams and competitions",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.26061",
+    "published": "2026-07-30T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3148055",
     "category": "Models",
     "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -216,33 +270,6 @@
     "published": "2026-07-29T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.24759v1",
-    "category": "Research",
-    "headline": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-    "summary": "Researchers propose a templated substrate to improve knowledge sharing and collaboration with large language model agents, addressing the issue of lost information and repeated failures",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.24759",
-    "published": "2026-07-29T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.24875v1",
-    "category": "Research",
-    "headline": "FinAbstain: Uncertainty-Calibrated Multimodal RAG for Selective Financial Forecasting",
-    "summary": "Researchers introduce FinAbstain, a framework for uncertainty-calibrated financial forecasting using multimodal retrieval-augmented generation",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.24875",
-    "published": "2026-07-29T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.24880v1",
-    "category": "Research",
-    "headline": "Human Preference aligned Tabular Similarity",
-    "summary": "Researchers propose evaluating tabular embeddings based on human preference to improve similarity search in business systems",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.24880",
-    "published": "2026-07-29T04:00:00.000Z"
-  },
-  {
     "id": "hn:49093232",
     "category": "Models",
     "headline": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
@@ -378,15 +405,6 @@
     "published": "2026-07-28T09:07:14.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.22545v1",
-    "category": "Models",
-    "headline": "Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B",
-    "summary": "Semalith v1.4 is a safety classifier that detects prompt injection and other safety issues in large language models, using fewer parameters than similar models",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.22545",
-    "published": "2026-07-28T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3147197",
     "category": "Models",
     "headline": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -430,23 +448,5 @@
     "source": "Hacker News",
     "url": "https://github.com/FrigadeHQ/yap",
     "published": "2026-07-27T18:36:02.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146944",
-    "category": "Models",
-    "headline": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "summary": "Microsoft introduces its first AI security model and a new security platform to enhance cybersecurity offerings",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "published": "2026-07-27T18:32:11.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146990",
-    "category": "Models",
-    "headline": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "summary": "A breach at Hugging Face has sparked debate about controlling and aligning powerful AI systems",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "published": "2026-07-27T17:28:42.000Z"
   }
 ]
