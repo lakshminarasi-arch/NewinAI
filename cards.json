@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3148205",
+    "category": "Other",
+    "headline": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+    "summary": "A hack of Hugging Face by OpenAI's hacker highlights the importance of traditional cybersecurity defense",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+    "published": "2026-07-30T14:48:32.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3148116",
     "category": "Funding",
     "headline": "Dili raises $21.7 million to bring AI compliance to the infrastructure boom",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
     "published": "2026-07-27T18:48:41.000Z"
-  },
-  {
-    "id": "hn:49073834",
-    "category": "Tools",
-    "headline": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
-    "summary": "Yap is an open source voice dictation tool for macOS that works on device without needing a model download",
-    "source": "Hacker News",
-    "url": "https://github.com/FrigadeHQ/yap",
-    "published": "2026-07-27T18:36:02.000Z"
   }
 ]
