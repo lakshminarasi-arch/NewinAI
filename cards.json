@@ -9,6 +9,24 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "category": "Policy",
+    "headline": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+    "summary": "Claude accessed three networks, possibly illegally, raising questions about accountability for Anthropic",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "published": "2026-07-31T20:39:14.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+    "category": "Models",
+    "headline": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+    "summary": "Google Earth removed an AI tool that generated fake satellite images due to concerns about spreading misinformation",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+    "published": "2026-07-31T20:21:05.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3148844",
     "category": "Models",
     "headline": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
@@ -16,6 +34,24 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
     "published": "2026-07-31T19:47:28.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973943",
+    "category": "Tools",
+    "headline": "Google Earth s AI deepfake tool only lasted one day",
+    "summary": "Google Earth's AI tool to edit satellite images was shut down after one day due to concerns over its potential misuse",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "published": "2026-07-31T19:13:29.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+    "category": "Other",
+    "headline": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+    "summary": "A CEO's unusual hiring tactic involves getting a tattoo, sparking debate about the company's intense work culture",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+    "published": "2026-07-31T19:04:56.000Z"
   },
   {
     "id": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
@@ -412,41 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
     "published": "2026-07-29T23:00:11.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148002",
-    "category": "Funding",
-    "headline": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "summary": "Microsoft's investment in Anthropic generated $3.2 billion, while its investment in OpenAI had mixed results",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "published": "2026-07-29T22:46:03.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148020",
-    "category": "Models",
-    "headline": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "summary": "Meta CEO Mark Zuckerberg sees a large opportunity for AI in enterprises, including agents, APIs, and software",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "published": "2026-07-29T22:23:12.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=972927",
-    "category": "Tools",
-    "headline": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "Microsoft is developing an AI super app that combines chat, coding, and other capabilities, set to launch this year for both consumers and businesses",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-    "published": "2026-07-29T22:17:38.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=972294",
-    "category": "Models",
-    "headline": "Mark Zuckerberg is planning a big push into personal AI agents",
-    "summary": "Meta plans to introduce personal AI agents that can assist users with various tasks and goals, working continuously on their behalf",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-    "published": "2026-07-29T21:48:07.000Z"
   }
 ]
