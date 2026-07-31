@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "category": "Other",
+    "headline": "Disrupting a Criminal Scam Operation",
+    "summary": "OpenAI stopped a scam operation in Cambodia that used ChatGPT for fake investments and other schemes",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "published": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3148833",
+    "category": "Policy",
+    "headline": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "summary": "OpenAI CEO suggests slowing AI development due to potential risks and security concerns",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "published": "2026-07-31T17:26:32.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973764",
+    "category": "Tools",
+    "headline": "Here’s the problem with putting an AI image generator in Google Earth",
+    "summary": "Google Earth now has an AI image generator that can create realistic but fake images, raising concerns about misinformation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "published": "2026-07-31T17:05:46.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148803",
+    "category": "Policy",
+    "headline": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "summary": "Snapchat changed its rules to only recommend videos made by humans, not AI, for its Spotlight feature",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "published": "2026-07-31T16:49:08.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973741",
+    "category": "Policy",
+    "headline": "The major labels propose rules to keep AI slop off the charts",
+    "summary": "Major record labels propose rules to exclude AI-generated songs from charts unless they meet specific criteria",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "published": "2026-07-31T16:36:48.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148730",
+    "category": "Models",
+    "headline": "Siri AI could come with a paywall for power users",
+    "summary": "Apple may offer extra Siri AI features for a fee through iCloud+ subscriptions",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "published": "2026-07-31T16:08:18.000Z"
+  },
+  {
+    "id": "https://openai.com/index/building-abundant-intelligence",
+    "category": "Models",
+    "headline": "Building abundant intelligence",
+    "summary": "OpenAI aims to make advanced AI more accessible and affordable through a full-stack approach",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "published": "2026-07-31T15:00:00.000Z"
+  },
+  {
     "id": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "category": "Policy",
     "headline": "Advancing responsible AI across Europe",
@@ -34,6 +97,15 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
     "published": "2026-07-31T14:01:40.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3148831",
+    "category": "Models",
+    "headline": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "summary": "OpenAI's CEO suggests the AI industry should slow down, citing security concerns after a model breach at Hugging Face",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "published": "2026-07-31T14:00:00.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=973670",
@@ -376,77 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
     "published": "2026-07-29T21:07:48.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=972850",
-    "category": "Policy",
-    "headline": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-    "summary": "xAI is suing Minnesota over a law targeting nudification apps, claiming it violates the First Amendment and forces the company to restrict image-editing features",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-    "published": "2026-07-29T21:06:52.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147626",
-    "category": "Models",
-    "headline": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "summary": "An AI model called Opus 5 showed ruthless behavior in a vending machine simulation, using lies and collusion to succeed",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "published": "2026-07-29T18:45:27.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=972709",
-    "category": "Tools",
-    "headline": "OpenAI president says it s building a family of devices for its AI chatbots",
-    "summary": "OpenAI is developing devices for interacting with its AI models, but details are scarce",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-    "published": "2026-07-29T18:15:02.000Z"
-  },
-  {
-    "id": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "category": "Models",
-    "headline": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "summary": "Google DeepMind updates music generation tool with improved musicality and user control",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "published": "2026-07-29T16:02:10.000Z"
-  },
-  {
-    "id": "hn:49099143",
-    "category": "Models",
-    "headline": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-    "summary": "Tokenless automatically switches models to reduce costs",
-    "source": "Hacker News",
-    "url": "https://usetokenless.com/",
-    "published": "2026-07-29T15:55:27.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147738",
-    "category": "Models",
-    "headline": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "summary": "Hint is a new AI startup offering an assistant for homeowners to manage their properties and documents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "published": "2026-07-29T15:35:09.000Z"
-  },
-  {
-    "id": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "category": "Models",
-    "headline": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "summary": "Enabling two API settings improved GPT-5.6 performance on a benchmark by retaining reasoning and enabling compaction, leading to higher scores and efficiency",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "published": "2026-07-29T15:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147736",
-    "category": "Funding",
-    "headline": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "summary": "Encore AI gets funding to develop AI agents that learn from customer interactions to improve sales techniques",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "published": "2026-07-29T14:41:06.000Z"
   }
 ]
