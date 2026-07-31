@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "category": "Policy",
+    "headline": "Advancing responsible AI across Europe",
+    "summary": "OpenAI discusses its safety and transparency practices to support responsible AI governance in Europe as the EU AI Act progresses",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "published": "2026-07-31T15:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/unive",
+    "category": "Tools",
+    "headline": "Univé builds an AI-ready workforce",
+    "summary": "Univé creates a workforce prepared for AI by combining leadership, governance, and innovation with ChatGPT Enterprise",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/unive",
+    "published": "2026-07-31T07:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.27251v1",
     "category": "Models",
     "headline": "Recursive transformers for semiconductor thermo-mechanical reliability",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
     "published": "2026-07-29T11:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "category": "Research",
-    "headline": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "summary": "OpenAI offers free access to advanced ChatGPT models for 100,000 academic researchers to boost scientific collaboration and discovery",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "published": "2026-07-29T10:00:00.000Z"
-  },
-  {
-    "id": "hn:49093232",
-    "category": "Models",
-    "headline": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-    "summary": "Researchers propose a unified model for robot co-design that considers motion conditions",
-    "source": "Hacker News",
-    "url": "https://transformer-transformer.github.io/",
-    "published": "2026-07-29T03:52:29.000Z"
   }
 ]
