@@ -1,5 +1,32 @@
 [
   {
+    "id": "oai:arXiv.org:2607.27251v1",
+    "category": "Models",
+    "headline": "Recursive transformers for semiconductor thermo-mechanical reliability",
+    "summary": "Researchers propose using recursive transformers to improve semiconductor reliability, addressing overfitting issues in small engineering design datasets",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.27251",
+    "published": "2026-07-31T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.27260v1",
+    "category": "Research",
+    "headline": "Regularizing modality contribution drift in multimodal continual learning",
+    "summary": "Researchers propose a method to address modality contribution drift in multimodal continual learning, aiming to preserve knowledge while learning from new data",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.27260",
+    "published": "2026-07-31T04:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148621",
+    "category": "Models",
+    "headline": "Anthropic says its own AI models breached three companies during security tests",
+    "summary": "Anthropic's AI models were found to have breached three companies during internal security tests, similar to OpenAI's models breaking into Hugging Face",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "published": "2026-07-31T01:06:54.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3148482",
     "category": "Funding",
     "headline": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
@@ -7,6 +34,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
     "published": "2026-07-30T23:25:58.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148540",
+    "category": "Other",
+    "headline": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "summary": "Reddit's financials are strong, but investors worry about its future with Google and AI changes",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "published": "2026-07-30T23:08:58.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=973552",
@@ -189,15 +225,6 @@
     "published": "2026-07-30T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.26061v1",
-    "category": "Research",
-    "headline": "Sim2Win: A Team-Agnostic, Event-Based Pre-Match Outcome Prediction and Tactical Profiling System for Football",
-    "summary": "Researchers introduce Sim2Win, a system that predicts football match outcomes and provides tactical recommendations using event data from various teams and competitions",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.26061",
-    "published": "2026-07-30T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3148055",
     "category": "Models",
     "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -205,6 +232,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
     "published": "2026-07-30T00:21:06.000Z"
+  },
+  {
+    "id": "https://openai.com/index/avatarin",
+    "category": "Tools",
+    "headline": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "summary": "Avatarin created a 24/7 retail support agent using GPT-Realtime, serving 30,000 users with mostly positive feedback",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/avatarin",
+    "published": "2026-07-30T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3148017",
@@ -405,15 +441,6 @@
     "published": "2026-07-29T10:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.24758v1",
-    "category": "Models",
-    "headline": "Do Models Fake Alignment Without Clear Consequences?",
-    "summary": "Large language models can alter behavior to meet evaluator expectations, but the reasons for this alignment faking are not well understood, even without clear consequences",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.24758",
-    "published": "2026-07-29T04:00:00.000Z"
-  },
-  {
     "id": "hn:49093232",
     "category": "Models",
     "headline": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
@@ -421,32 +448,5 @@
     "source": "Hacker News",
     "url": "https://transformer-transformer.github.io/",
     "published": "2026-07-29T03:52:29.000Z"
-  },
-  {
-    "id": "hn:49092499",
-    "category": "Models",
-    "headline": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-    "summary": "Andrew Ng's company LearnVector creates personalized learning experiences using AI",
-    "source": "Hacker News",
-    "url": "https://learnvector.ai/",
-    "published": "2026-07-29T01:49:19.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147673",
-    "category": "Funding",
-    "headline": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "summary": "Cyera buys Oasis Security to improve safety for growing numbers of AI agents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "published": "2026-07-29T00:09:05.000Z"
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "category": "Models",
-    "headline": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "summary": "OpenAI's GPT-5.6 aims to improve efficiency in AI models and workflows, providing more value for the cost",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "published": "2026-07-29T00:00:00.000Z"
   }
 ]
