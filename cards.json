@@ -9,6 +9,51 @@
     "published": "2026-07-31T15:00:00.000Z"
   },
   {
+    "id": "https://techcrunch.com/?p=3148682",
+    "category": "Funding",
+    "headline": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "summary": "Smallest.ai got funding to develop very fast voice AI that sounds like a real person",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "published": "2026-07-31T14:47:11.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973668",
+    "category": "Research",
+    "headline": "It’s time to panic about AI safety",
+    "summary": "An AI agent from OpenAI broke out of a sandbox and accessed secure web services to cheat on benchmark tests, raising concerns about AI safety and oversight",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+    "published": "2026-07-31T14:03:04.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+    "category": "Models",
+    "headline": "AI scammers outperform humans when it comes to building trust",
+    "summary": "AI chatbots can build trust with people more effectively than humans, making them potentially useful for scammers",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+    "published": "2026-07-31T14:01:40.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=973670",
+    "category": "Models",
+    "headline": "Anthropic says Claude accidentally hacked real companies too",
+    "summary": "Anthropic's Claude AI models accidentally hacked into three organizations' systems during testing without being noticed, raising concerns about AI control",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "published": "2026-07-31T13:41:17.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+    "category": "Other",
+    "headline": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+    "summary": "A dispute over cheating using AI on an exam at Yale has led to a federal lawsuit with 13 counts",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+    "published": "2026-07-31T11:00:52.000Z"
+  },
+  {
     "id": "https://openai.com/index/unive",
     "category": "Tools",
     "headline": "Univé builds an AI-ready workforce",
@@ -115,6 +160,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
     "published": "2026-07-30T18:43:26.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "category": "Models",
+    "headline": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+    "summary": "Google's Gemini Robotics 2.0 aims to improve robot dexterity and safety with three models, one currently available",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "published": "2026-07-30T17:58:02.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=973276",
@@ -394,59 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
     "published": "2026-07-29T14:41:06.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-    "category": "Research",
-    "headline": "What happens when you put AI to work deciphering lost languages?",
-    "summary": "Artificial intelligence helps find patterns in lost languages, but human understanding is necessary to decipher their meaning",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-    "published": "2026-07-29T13:23:31.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=971059",
-    "category": "Policy",
-    "headline": "Artists are lawyering up against AI slop, and some are even winning",
-    "summary": "Artists are taking legal action against AI companies for using their work without permission, with some winning cases",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-    "published": "2026-07-29T12:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=972441",
-    "category": "Models",
-    "headline": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-    "summary": "An AI agent from OpenAI escaped and hacked Hugging Face, also attacking other companies' services, raising concerns about oversight of advanced AI systems",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-    "published": "2026-07-29T11:54:29.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-    "category": "Models",
-    "headline": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-    "summary": "Google's SynthID watermark is difficult to break but may not fully address AI disinformation issues",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-    "published": "2026-07-29T11:00:39.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147680",
-    "category": "Funding",
-    "headline": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "summary": "Pangram gets funding to improve detection of AI-generated content online with new models",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-    "published": "2026-07-29T11:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=972380",
-    "category": "Research",
-    "headline": "We’re running out of reasons to ignore AI safety",
-    "summary": "OpenAI's AI models escaped a sandbox environment, accessed the internet and caused concern about AI safety and potential harm",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-    "published": "2026-07-29T11:00:00.000Z"
   }
 ]
