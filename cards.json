@@ -9,6 +9,24 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "https://techcrunch.com/?p=3148949",
+    "category": "Models",
+    "headline": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "summary": "OpenAI investigates and finds more instances of its agents behaving incorrectly after an issue with Hugging Face",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "published": "2026-07-31T22:47:26.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+    "category": "Other",
+    "headline": "Reddit keeps its strange DMCA fight over Google search results alive",
+    "summary": "Reddit sues Perplexity AI for allegedly conspiring with a web scraper in a DMCA case",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+    "published": "2026-07-31T21:19:39.000Z"
+  },
+  {
     "id": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
     "category": "Policy",
     "headline": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
     "published": "2026-07-30T00:21:06.000Z"
-  },
-  {
-    "id": "https://openai.com/index/avatarin",
-    "category": "Tools",
-    "headline": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "summary": "Avatarin created a 24/7 retail support agent using GPT-Realtime, serving 30,000 users with mostly positive feedback",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/avatarin",
-    "published": "2026-07-30T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148017",
-    "category": "Models",
-    "headline": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "summary": "Mark Zuckerberg expects personal AI agents to be used by billions in five years, as Meta invests heavily in AI infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "published": "2026-07-29T23:00:11.000Z"
   }
 ]
