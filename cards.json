@@ -9,6 +9,15 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "https://techcrunch.com/?p=3149027",
+    "category": "Policy",
+    "headline": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "summary": "A court ruling allows Minnesota to proceed with banning apps that digitally remove clothing from images",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "published": "2026-08-01T20:26:04.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3149017",
     "category": "Other",
     "headline": "YouTuber Hank Green says his AI usage is ‘not healthy’",
@@ -16,6 +25,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
     "published": "2026-08-01T19:45:45.000Z"
+  },
+  {
+    "id": "hn:49136955",
+    "category": "Research",
+    "headline": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+    "summary": "Researchers are examining large amounts of HuggingFace training data for potential secrets",
+    "source": "Hacker News",
+    "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+    "published": "2026-08-01T18:21:41.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=974209",
@@ -430,23 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
     "published": "2026-07-30T14:53:07.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148205",
-    "category": "Other",
-    "headline": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-    "summary": "A hack of Hugging Face by OpenAI's hacker highlights the importance of traditional cybersecurity defense",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-    "published": "2026-07-30T14:48:32.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148116",
-    "category": "Funding",
-    "headline": "Dili raises $21.7 million to bring AI compliance to the infrastructure boom",
-    "summary": "Dili gets funding to use AI for compliance in infrastructure projects",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-    "published": "2026-07-30T13:00:00.000Z"
   }
 ]
