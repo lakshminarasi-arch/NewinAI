@@ -9,6 +9,15 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "hn:49139102",
+    "category": "Models",
+    "headline": "AI financial advice is surprisingly good if you ask the right questions",
+    "summary": "AI provides good financial advice when given the right questions to answer",
+    "source": "Hacker News",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "published": "2026-08-01T22:25:12.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3149027",
     "category": "Policy",
     "headline": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
     "published": "2026-07-30T15:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-    "category": "Policy",
-    "headline": "New MCP specification addresses the main barrier to enterprise adoption",
-    "summary": "A new specification and policy for an AI protocol aim to address a major obstacle to its adoption by enterprises",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-    "published": "2026-07-30T14:53:07.000Z"
   }
 ]
