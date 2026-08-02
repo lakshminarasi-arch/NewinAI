@@ -9,6 +9,15 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "hn:49140080",
+    "category": "Models",
+    "headline": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+    "summary": "Researchers explore using INT4 in-memory cells for large language model attention in persistent state machines",
+    "source": "Hacker News",
+    "url": "https://zenodo.org/records/21753002",
+    "published": "2026-08-02T01:01:45.000Z"
+  },
+  {
     "id": "hn:49139102",
     "category": "Models",
     "headline": "AI financial advice is surprisingly good if you ask the right questions",
@@ -439,14 +448,5 @@
     "source": "Google DeepMind",
     "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
     "published": "2026-07-30T15:00:59.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147978",
-    "category": "Funding",
-    "headline": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-    "summary": "US companies are competing to hire a limited number of engineers with expertise to deliver AI return on investment",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "published": "2026-07-30T15:00:00.000Z"
   }
 ]
