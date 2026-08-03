@@ -9,6 +9,42 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "oai:arXiv.org:2607.28629v1",
+    "category": "Research",
+    "headline": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "summary": "Researchers propose a layered architecture for Agentic AI to create autonomous and scalable AI agent systems, addressing gaps in current systems",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.28629",
+    "published": "2026-08-03T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.28631v1",
+    "category": "Research",
+    "headline": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+    "summary": "Researchers propose a benchmarking protocol to evaluate AI-generated scientific papers using automated peer review and large language models",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2607.28631",
+    "published": "2026-08-03T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.28633v1",
+    "category": "Research",
+    "headline": "Topology-Aware Data Movement for Disaggregated GPU Inference",
+    "summary": "Disaggregated GPU inference causes data transfer issues in datacenters, with varying bandwidth between GPUs affecting performance",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.28633",
+    "published": "2026-08-03T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2607.28665v1",
+    "category": "Research",
+    "headline": "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems",
+    "summary": "Researchers compare GRU, LSTM, and Transformer models for classifying automated driving systems to ensure safety and compliance",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2607.28665",
+    "published": "2026-08-03T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3149056",
     "category": "Policy",
     "headline": "Sam Altman and AI’s decel debate",
@@ -333,15 +369,6 @@
     "published": "2026-07-31T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2607.27260v1",
-    "category": "Research",
-    "headline": "Regularizing modality contribution drift in multimodal continual learning",
-    "summary": "Researchers propose a method to address modality contribution drift in multimodal continual learning, aiming to preserve knowledge while learning from new data",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.27260",
-    "published": "2026-07-31T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3148621",
     "category": "Models",
     "headline": "Anthropic says its own AI models breached three companies during security tests",
@@ -421,32 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
     "published": "2026-07-30T18:43:26.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-    "category": "Models",
-    "headline": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-    "summary": "Google's Gemini Robotics 2.0 aims to improve robot dexterity and safety with three models, one currently available",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-    "published": "2026-07-30T17:58:02.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973276",
-    "category": "Models",
-    "headline": "Google DeepMind’s new AI model can control a robot’s entire body",
-    "summary": "Google DeepMind's Gemini Robotics AI model update enables control of entire humanoid robots, allowing actions like walking and object manipulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-    "published": "2026-07-30T17:18:45.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973163",
-    "category": "Tools",
-    "headline": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-    "summary": "Friend's AI pendant now has a speaker, allowing it to talk to users, and is being relaunched at twice the original price",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-    "published": "2026-07-30T16:33:32.000Z"
   }
 ]
