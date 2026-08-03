@@ -9,6 +9,24 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "https://techcrunch.com/?p=3149056",
+    "category": "Policy",
+    "headline": "Sam Altman and AI’s decel debate",
+    "summary": "Sam Altman suggests slowing the pace of AI development, sparking debate in the industry",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "published": "2026-08-02T20:54:22.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=974018",
+    "category": "Policy",
+    "headline": "Is paying artists enough to convince them to embrace AI?",
+    "summary": "Artists are concerned about AI startups using their work without permission, leading to a new wave of companies marketing themselves as more ethical",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "published": "2026-08-02T13:00:00.000Z"
+  },
+  {
     "id": "hn:49140340",
     "category": "Tools",
     "headline": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
@@ -279,6 +297,15 @@
     "published": "2026-07-31T13:41:17.000Z"
   },
   {
+    "id": "hn:49122655",
+    "category": "Models",
+    "headline": "Autoregressive Language Model on the 6502 Processor",
+    "summary": "A language model is being developed to run on an old 6502 processor",
+    "source": "Hacker News",
+    "url": "https://mattbeton.com/blog/bitnet-6502.html",
+    "published": "2026-07-31T13:08:30.000Z"
+  },
+  {
     "id": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
     "category": "Other",
     "headline": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
@@ -421,32 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
     "published": "2026-07-30T16:33:32.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148308",
-    "category": "Funding",
-    "headline": "Okta buys AI security startup Permiso — source says for about $200M",
-    "summary": "Okta acquires Permiso, an AI security startup, to enhance identity threat detection for non-human identities in cloud environments",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "published": "2026-07-30T16:09:42.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148216",
-    "category": "Tools",
-    "headline": "Meta says AI is making it easier to build new apps — and more are coming",
-    "summary": "Meta claims AI simplifies building new apps, with more products coming soon",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "published": "2026-07-30T15:41:16.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148209",
-    "category": "Funding",
-    "headline": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "summary": "Nscale is acquiring Anyscale to expand its control over the AI computing process, helping companies manage AI workloads",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "published": "2026-07-30T15:19:15.000Z"
   }
 ]
