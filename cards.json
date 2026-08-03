@@ -9,6 +9,24 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "hn:49154127",
+    "category": "Tools",
+    "headline": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "summary": "Nightcrawler is a local AI pentesting tool that runs on smartphones for security testing",
+    "source": "Hacker News",
+    "url": "https://github.com/garagehq/nightcrawler/",
+    "published": "2026-08-03T11:06:15.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=974342",
+    "category": "Models",
+    "headline": "China s Alibaba takes another swipe at America’s AI supremacy",
+    "summary": "Alibaba releases its largest AI model, Qwen3.8-Max, claiming performance similar to top US models, and makes it available to users",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "published": "2026-08-03T11:01:11.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2607.28629v1",
     "category": "Research",
     "headline": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
     "published": "2026-07-30T20:26:38.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148423",
-    "category": "Tools",
-    "headline": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "summary": "An AI wearable called Friend now has a voice feature, but its price has significantly increased",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "published": "2026-07-30T19:44:16.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148357",
-    "category": "Tools",
-    "headline": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "summary": "Google used AI to fix a large number of Chrome bugs in June, more than in the past two years, with the help of large language models and AI tools",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "published": "2026-07-30T18:57:58.000Z"
   }
 ]
