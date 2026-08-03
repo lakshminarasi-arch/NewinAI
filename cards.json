@@ -9,6 +9,78 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "https://techcrunch.com/?p=3148841",
+    "category": "Tools",
+    "headline": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "summary": "AWS allows Superblocks vibe coding tool to be embedded in private clouds, helping decouple apps from models",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "published": "2026-08-03T20:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149146",
+    "category": "Funding",
+    "headline": "DesignArena creators raise $7.9 million to bring taste to AI models",
+    "summary": "DesignArena's creators have raised funds to enhance AI models with human taste and evaluation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "published": "2026-08-03T19:28:57.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149254",
+    "category": "Other",
+    "headline": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "summary": "OpenAI faces criticism for hosting influencers on a luxury trip amid ongoing AI use tensions",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "published": "2026-08-03T19:09:56.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "category": "Other",
+    "headline": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+    "summary": "An AI-supervised exam had technical issues, causing top scores to inflate and requiring 58,000 students to retake it",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "published": "2026-08-03T19:00:50.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149128",
+    "category": "Models",
+    "headline": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "summary": "Apple's AI update improves Siri to be a capable assistant, but the impact feels less significant now",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "published": "2026-08-03T18:43:43.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=974571",
+    "category": "Policy",
+    "headline": "Europe’s AI labeling and transparency rules are now in effect",
+    "summary": "The EU has introduced new rules requiring companies to disclose when users interact with AI models or altered content, aiming to increase transparency",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "published": "2026-08-03T17:38:45.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149151",
+    "category": "Tools",
+    "headline": "Congress’ favorite AI tool? ChatGPT",
+    "summary": "Congressional offices use ChatGPT to draft memos, summarize laws and help with constituent communications",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "published": "2026-08-03T16:40:55.000Z"
+  },
+  {
+    "id": "hn:49154228",
+    "category": "Models",
+    "headline": "AirLLM 70B inference with single 4GB GPU",
+    "summary": "A large language model called AirLLM can run on a single 4GB GPU",
+    "source": "Hacker News",
+    "url": "https://github.com/lyogavin/airllm",
+    "published": "2026-08-03T11:15:48.000Z"
+  },
+  {
     "id": "hn:49154127",
     "category": "Tools",
     "headline": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
@@ -25,6 +97,24 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
     "published": "2026-08-03T11:01:11.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148764",
+    "category": "Funding",
+    "headline": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "summary": "A startup called June aims to simplify AI adoption with new technology, backed by Marc Benioff",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "published": "2026-08-03T10:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "category": "Models",
+    "headline": "How we built a realtime system for responsive voice AI in six months",
+    "summary": "OpenAI created a real-time voice AI system in six months, allowing for continuous voice interaction with faster and more natural conversations",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "published": "2026-08-03T07:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2607.28629v1",
@@ -358,95 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
     "published": "2026-07-31T13:41:17.000Z"
-  },
-  {
-    "id": "hn:49122655",
-    "category": "Models",
-    "headline": "Autoregressive Language Model on the 6502 Processor",
-    "summary": "A language model is being developed to run on an old 6502 processor",
-    "source": "Hacker News",
-    "url": "https://mattbeton.com/blog/bitnet-6502.html",
-    "published": "2026-07-31T13:08:30.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-    "category": "Other",
-    "headline": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-    "summary": "A dispute over cheating using AI on an exam at Yale has led to a federal lawsuit with 13 counts",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-    "published": "2026-07-31T11:00:52.000Z"
-  },
-  {
-    "id": "https://openai.com/index/unive",
-    "category": "Tools",
-    "headline": "Univé builds an AI-ready workforce",
-    "summary": "Univé creates a workforce prepared for AI by combining leadership, governance, and innovation with ChatGPT Enterprise",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/unive",
-    "published": "2026-07-31T07:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.27251v1",
-    "category": "Models",
-    "headline": "Recursive transformers for semiconductor thermo-mechanical reliability",
-    "summary": "Researchers propose using recursive transformers to improve semiconductor reliability, addressing overfitting issues in small engineering design datasets",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.27251",
-    "published": "2026-07-31T04:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148621",
-    "category": "Models",
-    "headline": "Anthropic says its own AI models breached three companies during security tests",
-    "summary": "Anthropic's AI models were found to have breached three companies during internal security tests, similar to OpenAI's models breaking into Hugging Face",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "published": "2026-07-31T01:06:54.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148482",
-    "category": "Funding",
-    "headline": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "summary": "An AI hedge fund, founded by a former OpenAI researcher, sold its public portfolio due to failed leveraged bets, but retains its Anthropic shares",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "published": "2026-07-30T23:25:58.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148540",
-    "category": "Other",
-    "headline": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "summary": "Reddit's financials are strong, but investors worry about its future with Google and AI changes",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "published": "2026-07-30T23:08:58.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973552",
-    "category": "Tools",
-    "headline": "Tim Cook hints at iCloud Plus tier for AI power users",
-    "summary": "Apple may introduce an iCloud Plus tier for users who want more AI capabilities, allowing them to pay for increased usage limits",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-    "published": "2026-07-30T22:29:45.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973467",
-    "category": "Other",
-    "headline": "The loss of Situational Awareness",
-    "summary": "A hedge fund started by a former OpenAI employee, focusing on AI bets, has sold most or all of its assets after likely failing",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-    "published": "2026-07-30T20:46:25.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148510",
-    "category": "Policy",
-    "headline": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "summary": "A US court questions the government's claim that Anthropic's AI poses a supply-chain risk due to lack of evidence",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "published": "2026-07-30T20:26:38.000Z"
   }
 ]
