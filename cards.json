@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=973098",
+    "category": "Other",
+    "headline": "Can Reddit fend off a new wave of AI SEO spam?",
+    "summary": "Reddit faces a new challenge from AI-generated spam posts that promote products in a subtle and deceptive manner",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "published": "2026-08-04T10:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2608.00001v1",
     "category": "Research",
     "headline": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
@@ -438,15 +447,6 @@
     "summary": "OpenAI aims to make advanced AI more accessible and affordable through a full-stack approach",
     "source": "OpenAI",
     "url": "https://openai.com/index/building-abundant-intelligence",
-    "published": "2026-07-31T15:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "category": "Policy",
-    "headline": "Advancing responsible AI across Europe",
-    "summary": "OpenAI discusses its safety and transparency practices to support responsible AI governance in Europe as the EU AI Act progresses",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "published": "2026-07-31T15:00:00.000Z"
   }
 ]
