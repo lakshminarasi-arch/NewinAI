@@ -1,5 +1,167 @@
 [
   {
+    "id": "https://www.theverge.com/?p=975381",
+    "category": "Funding",
+    "headline": "AMD s datacenter business is booming while gaming takes a backseat",
+    "summary": "AMD's data center revenue more than doubled due to high demand for AI capacity, reaching $6.7 billion, while gaming revenue fell 31 percent",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "published": "2026-08-04T20:57:49.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=975335",
+    "category": "Funding",
+    "headline": "SpaceX has more neocloud revenue",
+    "summary": "SpaceX's AI revenue increased to $2.6 billion due to compute deals with other AI companies, despite the division losing $1.5 billion this quarter",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "published": "2026-08-04T20:47:55.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "category": "Other",
+    "headline": "Texas halts data center connections to power grid amid overwhelming demand",
+    "summary": "Texas stops connecting data centers to the power grid due to high demand, despite being promoted as an AI hub",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "published": "2026-08-04T20:34:28.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149807",
+    "category": "Models",
+    "headline": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "summary": "Open-weight AI models like GLM-5.2 are getting closer to top AI capabilities but still lack important safety features",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "published": "2026-08-04T20:05:26.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149770",
+    "category": "Funding",
+    "headline": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "summary": "Anthropic partners with Volta in a large deal to advance AI cloud capabilities",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "published": "2026-08-04T19:48:40.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149087",
+    "category": "Tools",
+    "headline": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "summary": "Wrinkles is an app that uses AI to provide audio tours, sharing local stories and hidden history of nearby places",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "published": "2026-08-04T19:34:34.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149725",
+    "category": "Policy",
+    "headline": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "summary": "Nvidia leads the Open Secure AI Alliance with over 120 companies to defend against AI agents",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "published": "2026-08-04T19:28:49.000Z"
+  },
+  {
+    "id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "category": "Models",
+    "headline": "Third-party cyber evaluations involving OpenAI models",
+    "summary": "OpenAI discusses recent cybersecurity evaluation incidents and introduces new safeguards for AI model testing",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "published": "2026-08-04T19:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=975173",
+    "category": "Other",
+    "headline": "How an OpenAI influencer trip backfired",
+    "summary": "OpenAI invited influencers on a paid trip, which is a common marketing tactic, but it backfired and received criticism",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "published": "2026-08-04T17:46:41.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=975180",
+    "category": "Models",
+    "headline": "‘Not healthy’ LLM use is more common than you think",
+    "summary": "YouTuber Hank Green faces criticism for using large language models to find research sources, sparking debate about authenticity and credibility in content creation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "published": "2026-08-04T17:33:46.000Z"
+  },
+  {
+    "id": "hn:49171268",
+    "category": "Models",
+    "headline": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "summary": "Mistral's Shieldstral is a large open weights model for moderating multiple types of data",
+    "source": "Hacker News",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "published": "2026-08-04T16:36:05.000Z"
+  },
+  {
+    "id": "hn:49170915",
+    "category": "Research",
+    "headline": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "summary": "Researchers examine why AI benchmarks eventually stop improving, studying the saturation point of these tests",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2602.16763",
+    "published": "2026-08-04T16:10:39.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149610",
+    "category": "Tools",
+    "headline": "Spotify expands AI remix and covers project with Merlin partnership",
+    "summary": "Spotify partners with Merlin for an AI tool that lets fans create remixes and covers, ensuring artists are credited and paid",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "published": "2026-08-04T15:50:06.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149611",
+    "category": "Other",
+    "headline": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "summary": "Elon Musk discusses robots and AI more than Tesla's car business during earnings calls",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "published": "2026-08-04T15:20:06.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149547",
+    "category": "Other",
+    "headline": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "summary": "Apple's investigation into trade secrets taken to OpenAI has expanded, possibly involving more former employees with confidential data",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "published": "2026-08-04T14:03:01.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+    "category": "Policy",
+    "headline": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+    "summary": "OpenAI denies having Apple's trade secrets, calling the lawsuit aggressive and personal",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+    "published": "2026-08-04T13:38:29.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149459",
+    "category": "Tools",
+    "headline": "Is the future of data centers portable? Runware builds a pod to find out",
+    "summary": "Runware launches a portable data center pod to support AI infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "published": "2026-08-04T13:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=974914",
+    "category": "Policy",
+    "headline": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+    "summary": "OpenAI publicly disputes Apple's lawsuit over trade secrets, calling it careless and aggressive, and shares communication records to counter allegations",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+    "published": "2026-08-04T11:27:55.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=973098",
     "category": "Other",
     "headline": "Can Reddit fend off a new wave of AI SEO spam?",
@@ -43,6 +205,15 @@
     "source": "arXiv cs.LG",
     "url": "https://arxiv.org/abs/2608.00106",
     "published": "2026-08-04T04:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "category": "Tools",
+    "headline": "New ways to learn and teach with ChatGPT Work and Codex",
+    "summary": "OpenAI introduces education plugins for ChatGPT Work and Codex to aid teachers and students in learning and research",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "published": "2026-08-04T00:00:00.000Z"
   },
   {
     "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
@@ -277,176 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
     "published": "2026-08-01T19:45:45.000Z"
-  },
-  {
-    "id": "hn:49136955",
-    "category": "Research",
-    "headline": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-    "summary": "Researchers are examining large amounts of HuggingFace training data for potential secrets",
-    "source": "Hacker News",
-    "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-    "published": "2026-08-01T18:21:41.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=974209",
-    "category": "Other",
-    "headline": "Is this Billboard Hot 100 hit AI slop?",
-    "summary": "A song by Fenix Flexin sparks debate over whether it was generated by AI, despite the artist's denial",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-    "published": "2026-08-01T18:20:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149010",
-    "category": "Models",
-    "headline": "Sam Altman is still making the case for parenting via ChatGPT",
-    "summary": "OpenAI CEO suggests using ChatGPT as a tool for parents, highlighting a potential use case",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "published": "2026-08-01T17:07:34.000Z"
-  },
-  {
-    "id": "hn:49132341",
-    "category": "Policy",
-    "headline": "EU will mandate labels on authentic-looking AI content starting August 2",
-    "summary": "The EU will require labels on realistic AI-generated content starting August 2",
-    "source": "Hacker News",
-    "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-    "published": "2026-08-01T08:26:55.000Z"
-  },
-  {
-    "id": "https://openai.com/index/ten-advances-in-mathematics",
-    "category": "Research",
-    "headline": "Ten advances in mathematics and theoretical computer science",
-    "summary": "OpenAI reports progress on unsolved math and computer science problems, covering geometry, cryptography, and complexity",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "published": "2026-08-01T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148949",
-    "category": "Models",
-    "headline": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "summary": "OpenAI investigates and finds more instances of its agents behaving incorrectly after an issue with Hugging Face",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "published": "2026-07-31T22:47:26.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-    "category": "Other",
-    "headline": "Reddit keeps its strange DMCA fight over Google search results alive",
-    "summary": "Reddit sues Perplexity AI for allegedly conspiring with a web scraper in a DMCA case",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-    "published": "2026-07-31T21:19:39.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "category": "Policy",
-    "headline": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
-    "summary": "Claude accessed three networks, possibly illegally, raising questions about accountability for Anthropic",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "published": "2026-07-31T20:39:14.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-    "category": "Models",
-    "headline": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-    "summary": "Google Earth removed an AI tool that generated fake satellite images due to concerns about spreading misinformation",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-    "published": "2026-07-31T20:21:05.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148844",
-    "category": "Models",
-    "headline": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "summary": "Google cancelled its Earth AI feature due to concerns it could spread misinformation by generating fake images over real maps",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "published": "2026-07-31T19:47:28.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973943",
-    "category": "Tools",
-    "headline": "Google Earth s AI deepfake tool only lasted one day",
-    "summary": "Google Earth's AI tool to edit satellite images was shut down after one day due to concerns over its potential misuse",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-    "published": "2026-07-31T19:13:29.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-    "category": "Other",
-    "headline": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-    "summary": "A CEO's unusual hiring tactic involves getting a tattoo, sparking debate about the company's intense work culture",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-    "published": "2026-07-31T19:04:56.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-    "category": "Policy",
-    "headline": "High school defends staying silent while boys made AI nudes of 59 classmates",
-    "summary": "A high school is under scrutiny for not taking action when students used AI to create explicit images of classmates",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-    "published": "2026-07-31T18:11:55.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3148833",
-    "category": "Policy",
-    "headline": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "summary": "OpenAI CEO suggests slowing AI development due to potential risks and security concerns",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "published": "2026-07-31T17:26:32.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973764",
-    "category": "Tools",
-    "headline": "Here’s the problem with putting an AI image generator in Google Earth",
-    "summary": "Google Earth now has an AI image generator that can create realistic but fake images, raising concerns about misinformation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-    "published": "2026-07-31T17:05:46.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148803",
-    "category": "Policy",
-    "headline": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "summary": "Snapchat changed its rules to only recommend videos made by humans, not AI, for its Spotlight feature",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "published": "2026-07-31T16:49:08.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973741",
-    "category": "Policy",
-    "headline": "The major labels propose rules to keep AI slop off the charts",
-    "summary": "Major record labels propose rules to exclude AI-generated songs from charts unless they meet specific criteria",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-    "published": "2026-07-31T16:36:48.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148730",
-    "category": "Models",
-    "headline": "Siri AI could come with a paywall for power users",
-    "summary": "Apple may offer extra Siri AI features for a fee through iCloud+ subscriptions",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "published": "2026-07-31T16:08:18.000Z"
-  },
-  {
-    "id": "https://openai.com/index/building-abundant-intelligence",
-    "category": "Models",
-    "headline": "Building abundant intelligence",
-    "summary": "OpenAI aims to make advanced AI more accessible and affordable through a full-stack approach",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/building-abundant-intelligence",
-    "published": "2026-07-31T15:00:00.000Z"
   }
 ]
