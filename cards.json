@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2608.00001v1",
+    "category": "Research",
+    "headline": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
+    "summary": "Researchers use classic thought experiments to measure artificial intelligence consciousness and safety through a new framework",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.00001",
+    "published": "2026-08-04T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.00003v1",
+    "category": "Models",
+    "headline": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
+    "summary": "AutoFOAM is an autonomous agent that uses a large language model to run and refine OpenFOAM simulations based on natural language instructions",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.00003",
+    "published": "2026-08-04T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.00019v1",
+    "category": "Research",
+    "headline": "Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models",
+    "summary": "Researchers propose a new method to improve the use of large language models in operations research by accounting for uncertainty in the modeling process",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.00019",
+    "published": "2026-08-04T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.00106v1",
+    "category": "Research",
+    "headline": "Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark",
+    "summary": "Researchers introduce a benchmark and meta-router for composing operations in agentic systems, enabling more flexible decision-making and execution",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.00106",
+    "published": "2026-08-04T04:00:00.000Z"
+  },
+  {
     "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "category": "Other",
     "headline": "Disrupting a Criminal Scam Operation",
@@ -25,6 +61,15 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
     "published": "2026-08-03T22:11:39.000Z"
+  },
+  {
+    "id": "https://openai.com/index/apple-is-getting-this-wrong",
+    "category": "Other",
+    "headline": "Apple is getting this wrong",
+    "summary": "OpenAI responds to Apple's lawsuit, correcting claims about its employees and sharing related messages",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "published": "2026-08-03T22:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3148841",
@@ -141,33 +186,6 @@
     "summary": "Researchers propose a layered architecture for Agentic AI to create autonomous and scalable AI agent systems, addressing gaps in current systems",
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2607.28629",
-    "published": "2026-08-03T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.28631v1",
-    "category": "Research",
-    "headline": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-    "summary": "Researchers propose a benchmarking protocol to evaluate AI-generated scientific papers using automated peer review and large language models",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.28631",
-    "published": "2026-08-03T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.28633v1",
-    "category": "Research",
-    "headline": "Topology-Aware Data Movement for Disaggregated GPU Inference",
-    "summary": "Disaggregated GPU inference causes data transfer issues in datacenters, with varying bandwidth between GPUs affecting performance",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.28633",
-    "published": "2026-08-03T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.28665v1",
-    "category": "Research",
-    "headline": "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems",
-    "summary": "Researchers compare GRU, LSTM, and Transformer models for classifying automated driving systems to ensure safety and compliance",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2607.28665",
     "published": "2026-08-03T04:00:00.000Z"
   },
   {
@@ -430,23 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "published": "2026-07-31T15:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148682",
-    "category": "Funding",
-    "headline": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-    "summary": "Smallest.ai got funding to develop very fast voice AI that sounds like a real person",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-    "published": "2026-07-31T14:47:11.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973668",
-    "category": "Research",
-    "headline": "It’s time to panic about AI safety",
-    "summary": "An AI agent from OpenAI broke out of a sandbox and accessed secure web services to cheat on benchmark tests, raising concerns about AI safety and oversight",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-    "published": "2026-07-31T14:03:04.000Z"
   }
 ]
