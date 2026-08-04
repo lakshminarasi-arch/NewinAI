@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:49175826",
+    "category": "Other",
+    "headline": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+    "summary": "AI is linked to over half of cybercrime in Africa, with a rise in scams, according to Interpol",
+    "source": "Hacker News",
+    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "published": "2026-08-04T22:01:41.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=975381",
     "category": "Funding",
     "headline": "AMD s datacenter business is booming while gaming takes a backseat",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "published": "2026-08-01T20:26:04.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149017",
-    "category": "Other",
-    "headline": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "summary": "YouTuber Hank Green expresses concern over his excessive use of large language models, citing unhealthy dopamine levels",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "published": "2026-08-01T19:45:45.000Z"
   }
 ]
