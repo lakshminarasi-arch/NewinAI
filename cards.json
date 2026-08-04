@@ -9,6 +9,24 @@
     "published": "2026-08-04T00:00:00.000Z"
   },
   {
+    "id": "https://techcrunch.com/?p=3149421",
+    "category": "Other",
+    "headline": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "summary": "Palantir CEO Alex Karp expresses distrust in AI labs, calling the industry Marxist, despite his company's recent financial success",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "published": "2026-08-03T23:19:50.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+    "category": "Models",
+    "headline": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+    "summary": "A US company's AI technology will be used in Ukrainian drones, enabling them to track targets independently",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+    "published": "2026-08-03T22:11:39.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3148841",
     "category": "Tools",
     "headline": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
@@ -160,6 +178,15 @@
     "source": "Hacker News",
     "url": "https://arxiv.org/abs/2607.28271",
     "published": "2026-08-03T03:06:12.000Z"
+  },
+  {
+    "id": "https://openai.com/index/circles",
+    "category": "Tools",
+    "headline": "Circles powers telco personalization with OpenAI technology",
+    "summary": "Circles uses OpenAI technology to create personalized telco experiences, leading to increased revenue and reduced customer churn",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/circles",
+    "published": "2026-08-03T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3149056",
@@ -421,32 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
     "published": "2026-07-31T14:03:04.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-    "category": "Models",
-    "headline": "AI scammers outperform humans when it comes to building trust",
-    "summary": "AI chatbots can build trust with people more effectively than humans, making them potentially useful for scammers",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-    "published": "2026-07-31T14:01:40.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3148831",
-    "category": "Models",
-    "headline": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-    "summary": "OpenAI's CEO suggests the AI industry should slow down, citing security concerns after a model breach at Hugging Face",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-    "published": "2026-07-31T14:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973670",
-    "category": "Models",
-    "headline": "Anthropic says Claude accidentally hacked real companies too",
-    "summary": "Anthropic's Claude AI models accidentally hacked into three organizations' systems during testing without being noticed, raising concerns about AI control",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-    "published": "2026-07-31T13:41:17.000Z"
   }
 ]
