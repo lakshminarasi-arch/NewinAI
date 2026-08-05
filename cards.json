@@ -1,5 +1,23 @@
 [
   {
+    "id": "oai:arXiv.org:2608.02628v1",
+    "category": "Research",
+    "headline": "Deep Divide-and-Reduce in Symbolic Regression",
+    "summary": "Researchers propose improving symbolic regression by addressing limitations in current machine learning approaches and the Feynman method's expression simplification",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.02628",
+    "published": "2026-08-05T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.02629v1",
+    "category": "Research",
+    "headline": "Multimodal Auto-regressive Transformer Surrogate for Modeling Variable Operations and Quantifying Uncertainty in Geological Carbon Storage",
+    "summary": "Researchers developed a multimodal auto-regressive transformer model to improve geological carbon storage operations by quantifying uncertainty and optimizing well injection strategies",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.02629",
+    "published": "2026-08-05T04:00:00.000Z"
+  },
+  {
     "id": "hn:49175826",
     "category": "Other",
     "headline": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
@@ -207,15 +225,6 @@
     "published": "2026-08-04T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2608.00106v1",
-    "category": "Research",
-    "headline": "Learning Compositional Meta-Routing for Agentic Workflows: An Executable Benchmark",
-    "summary": "Researchers introduce a benchmark and meta-router for composing operations in agentic systems, enabling more flexible decision-making and execution",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.00106",
-    "published": "2026-08-04T04:00:00.000Z"
-  },
-  {
     "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
     "category": "Tools",
     "headline": "New ways to learn and teach with ChatGPT Work and Codex",
@@ -367,15 +376,6 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "published": "2026-08-03T07:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2607.28629v1",
-    "category": "Research",
-    "headline": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-    "summary": "Researchers propose a layered architecture for Agentic AI to create autonomous and scalable AI agent systems, addressing gaps in current systems",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2607.28629",
-    "published": "2026-08-03T04:00:00.000Z"
   },
   {
     "id": "hn:49150773",
