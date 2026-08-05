@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3150081",
+    "category": "Models",
+    "headline": "Anthropic is hiring an AI chip design team",
+    "summary": "Anthropic is forming a team to design custom AI chips for faster and more efficient model performance",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "published": "2026-08-05T14:13:18.000Z"
+  },
+  {
+    "id": "hn:49183110",
+    "category": "Tools",
+    "headline": "Show HN: Vocab Top – AI-powered vocabulary builder that helps you retain words",
+    "summary": "Vocab Top is an AI tool that helps users learn and remember new words",
+    "source": "Hacker News",
+    "url": "https://www.vocab.top/",
+    "published": "2026-08-05T14:06:20.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149608",
+    "category": "Tools",
+    "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "summary": "MacPaw partners with Liquid AI to provide on-device inference for app developers, using Liquid AI's models to build a local AI assistant",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "published": "2026-08-05T12:28:38.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=975516",
+    "category": "Tools",
+    "headline": "Google Assistant will disappear from your phone next month",
+    "summary": "Google will remove Google Assistant from Android phones and tablets starting September 4th, replacing it with Gemini",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+    "published": "2026-08-05T11:12:50.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3149729",
     "category": "Funding",
     "headline": "AI makes weather prediction better. Can WindBorne make it lucrative?",
@@ -412,41 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/circles",
     "published": "2026-08-03T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149056",
-    "category": "Policy",
-    "headline": "Sam Altman and AI’s decel debate",
-    "summary": "Sam Altman suggests slowing the pace of AI development, sparking debate in the industry",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "published": "2026-08-02T20:54:22.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=974018",
-    "category": "Policy",
-    "headline": "Is paying artists enough to convince them to embrace AI?",
-    "summary": "Artists are concerned about AI startups using their work without permission, leading to a new wave of companies marketing themselves as more ethical",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-    "published": "2026-08-02T13:00:00.000Z"
-  },
-  {
-    "id": "hn:49140340",
-    "category": "Tools",
-    "headline": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-    "summary": "A tool helps calculate costs for using AI APIs based on real workloads",
-    "source": "Hacker News",
-    "url": "https://costperprompt.com/",
-    "published": "2026-08-02T01:56:44.000Z"
-  },
-  {
-    "id": "hn:49140080",
-    "category": "Models",
-    "headline": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
-    "summary": "Researchers explore using INT4 in-memory cells for large language model attention in persistent state machines",
-    "source": "Hacker News",
-    "url": "https://zenodo.org/records/21753002",
-    "published": "2026-08-02T01:01:45.000Z"
   }
 ]
