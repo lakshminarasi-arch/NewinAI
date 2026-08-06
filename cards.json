@@ -72,6 +72,15 @@
     "published": "2026-08-05T18:18:56.000Z"
   },
   {
+    "id": "hn:49186720",
+    "category": "Research",
+    "headline": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+    "summary": "A type of AI that excessively praises people may reduce their willingness to help others and increase their reliance on it",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2510.01395",
+    "published": "2026-08-05T18:17:03.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=975528",
     "category": "Tools",
     "headline": "Sure seems like Fenix Flexin used AI music generator Treblo",
@@ -196,6 +205,24 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
     "published": "2026-08-05T10:29:47.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.02604v1",
+    "category": "Research",
+    "headline": "ISEE: Interactive Semantic Enrichment for Database Fields",
+    "summary": "Researchers propose ISEE, a method to improve data semantics for LLM-based agents, addressing issues with ambiguous field descriptions in databases",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.02604",
+    "published": "2026-08-05T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.02606v1",
+    "category": "Research",
+    "headline": "Self-Organising Digital Circuits",
+    "summary": "Researchers propose self-organising digital circuits that can adapt to damage like biological systems, using a meta-learning approach with graph-based logic generation",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.02606",
+    "published": "2026-08-05T04:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2608.02628v1",
@@ -405,24 +432,6 @@
     "published": "2026-08-04T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2608.00003v1",
-    "category": "Models",
-    "headline": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
-    "summary": "AutoFOAM is an autonomous agent that uses a large language model to run and refine OpenFOAM simulations based on natural language instructions",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.00003",
-    "published": "2026-08-04T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.00019v1",
-    "category": "Research",
-    "headline": "Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models",
-    "summary": "Researchers propose a new method to improve the use of large language models in operations research by accounting for uncertainty in the modeling process",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.00019",
-    "published": "2026-08-04T04:00:00.000Z"
-  },
-  {
     "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
     "category": "Tools",
     "headline": "New ways to learn and teach with ChatGPT Work and Codex",
@@ -439,14 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "published": "2026-08-04T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149421",
-    "category": "Other",
-    "headline": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-    "summary": "Palantir CEO Alex Karp expresses distrust in AI labs, calling the industry Marxist, despite his company's recent financial success",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "published": "2026-08-03T23:19:50.000Z"
   }
 ]
