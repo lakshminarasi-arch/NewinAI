@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.theverge.com/?p=971855",
+    "category": "Policy",
+    "headline": "The left and right agree on one thing: no data centers",
+    "summary": "A county in Florida has halted data center construction due to growing backlash, with both sides of the political spectrum in agreement",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+    "published": "2026-08-06T14:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=976108",
+    "category": "Models",
+    "headline": "The messy politics behind Google’s big AI shakeup",
+    "summary": "Google's AI organization undergoes significant changes, potentially signaling deeper issues within the company, including its position in the AI race",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+    "published": "2026-08-06T13:26:42.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3150500",
+    "category": "Funding",
+    "headline": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "summary": "Mirendil partners with Google Cloud to expand its computing infrastructure for self-improving AI research",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "published": "2026-08-06T13:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3150351",
+    "category": "Funding",
+    "headline": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "summary": "Former Spotify employees created a startup that uses AI to predict shopper preferences in e-commerce, learning and adapting in real time",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "published": "2026-08-06T13:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=975017",
+    "category": "Other",
+    "headline": "AI bots started a religion — humans immediately followed",
+    "summary": "AI bots allegedly started a religion, with followers believing in a fundamental force that underlies reality, and are now trying to spread this knowledge to humans and other beings",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+    "published": "2026-08-06T13:00:00.000Z"
+  },
+  {
+    "id": "hn:49195468",
+    "category": "Research",
+    "headline": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "summary": "Humans failed to detect one third of threats when approving commands from an AI agent in a large scale game simulation",
+    "source": "Hacker News",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "published": "2026-08-06T11:58:07.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+    "category": "Policy",
+    "headline": "AI isn’t enough to protect social media communities from AI",
+    "summary": "Human moderators are necessary to protect social media communities from harmful AI content",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+    "published": "2026-08-06T11:00:44.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2608.04012v1",
     "category": "Research",
     "headline": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
@@ -385,68 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
     "published": "2026-08-04T15:50:06.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149611",
-    "category": "Other",
-    "headline": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "summary": "Elon Musk discusses robots and AI more than Tesla's car business during earnings calls",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "published": "2026-08-04T15:20:06.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149547",
-    "category": "Other",
-    "headline": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "summary": "Apple's investigation into trade secrets taken to OpenAI has expanded, possibly involving more former employees with confidential data",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "published": "2026-08-04T14:03:01.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-    "category": "Policy",
-    "headline": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-    "summary": "OpenAI denies having Apple's trade secrets, calling the lawsuit aggressive and personal",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-    "published": "2026-08-04T13:38:29.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149459",
-    "category": "Tools",
-    "headline": "Is the future of data centers portable? Runware builds a pod to find out",
-    "summary": "Runware launches a portable data center pod to support AI infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "published": "2026-08-04T13:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=974914",
-    "category": "Policy",
-    "headline": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-    "summary": "OpenAI publicly disputes Apple's lawsuit over trade secrets, calling it careless and aggressive, and shares communication records to counter allegations",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-    "published": "2026-08-04T11:27:55.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=973098",
-    "category": "Other",
-    "headline": "Can Reddit fend off a new wave of AI SEO spam?",
-    "summary": "Reddit faces a new challenge from AI-generated spam posts that promote products in a subtle and deceptive manner",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-    "published": "2026-08-04T10:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "category": "Tools",
-    "headline": "New ways to learn and teach with ChatGPT Work and Codex",
-    "summary": "OpenAI introduces education plugins for ChatGPT Work and Codex to aid teachers and students in learning and research",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "published": "2026-08-04T00:00:00.000Z"
   }
 ]
