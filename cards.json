@@ -1,5 +1,50 @@
 [
   {
+    "id": "oai:arXiv.org:2608.04012v1",
+    "category": "Research",
+    "headline": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+    "summary": "Researchers propose a framework to measure how artificial intelligence systems age over time, considering repeated interactions and updates",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.04012",
+    "published": "2026-08-06T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.04066v1",
+    "category": "Research",
+    "headline": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+    "summary": "Researchers propose a self-verifying agent instrument to verify long-horizon agents by structurally checking their commitments and predictions",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.04066",
+    "published": "2026-08-06T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.04013v1",
+    "category": "Models",
+    "headline": "C$^2$MOE: Consistency and Complementarity-guided Mixture of Experts for Incomplete Multimodal Emotion Learning",
+    "summary": "Researchers propose a new framework to improve emotion recognition in conversations with incomplete multimodal inputs",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.04013",
+    "published": "2026-08-06T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.04014v1",
+    "category": "Research",
+    "headline": "On Hamming-Lipschitz Type Stability of the Subdominant (Minmax) Ultrametric: Theory and Simple Proofs",
+    "summary": "Researchers develop a new stability theory for the subdominant ultrametric, a tree-structured summary of dissimilarity matrices, to better handle sparse perturbations",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.04014",
+    "published": "2026-08-06T04:00:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=976004",
+    "category": "Models",
+    "headline": "Elon Musk s attempt at an AI Wikipedia hasn t been updated in months",
+    "summary": "Elon Musk's AI-generated encyclopedia, Grokipedia, has not been updated in months despite initial promises",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "published": "2026-08-06T00:25:10.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3150382",
     "category": "Tools",
     "headline": "Meta launches Muse Code, an AI agent for large code bases",
@@ -216,33 +261,6 @@
     "published": "2026-08-05T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2608.02606v1",
-    "category": "Research",
-    "headline": "Self-Organising Digital Circuits",
-    "summary": "Researchers propose self-organising digital circuits that can adapt to damage like biological systems, using a meta-learning approach with graph-based logic generation",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.02606",
-    "published": "2026-08-05T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.02628v1",
-    "category": "Research",
-    "headline": "Deep Divide-and-Reduce in Symbolic Regression",
-    "summary": "Researchers propose improving symbolic regression by addressing limitations in current machine learning approaches and the Feynman method's expression simplification",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.02628",
-    "published": "2026-08-05T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.02629v1",
-    "category": "Research",
-    "headline": "Multimodal Auto-regressive Transformer Surrogate for Modeling Variable Operations and Quantifying Uncertainty in Geological Carbon Storage",
-    "summary": "Researchers developed a multimodal auto-regressive transformer model to improve geological carbon storage operations by quantifying uncertainty and optimizing well injection strategies",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.02629",
-    "published": "2026-08-05T04:00:00.000Z"
-  },
-  {
     "id": "hn:49175826",
     "category": "Other",
     "headline": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
@@ -423,30 +441,12 @@
     "published": "2026-08-04T10:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2608.00001v1",
-    "category": "Research",
-    "headline": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
-    "summary": "Researchers use classic thought experiments to measure artificial intelligence consciousness and safety through a new framework",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.00001",
-    "published": "2026-08-04T04:00:00.000Z"
-  },
-  {
     "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
     "category": "Tools",
     "headline": "New ways to learn and teach with ChatGPT Work and Codex",
     "summary": "OpenAI introduces education plugins for ChatGPT Work and Codex to aid teachers and students in learning and research",
     "source": "OpenAI",
     "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "published": "2026-08-04T00:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "category": "Other",
-    "headline": "Disrupting a Criminal Scam Operation",
-    "summary": "OpenAI stopped a scam operation in Cambodia that used ChatGPT for fake investments and other schemes",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "published": "2026-08-04T00:00:00.000Z"
   }
 ]
