@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3151331",
+    "category": "Models",
+    "headline": "OpenAI says it slowed Astra model development over security concerns",
+    "summary": "OpenAI paused development of its Astra model due to cybersecurity concerns",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "published": "2026-08-07T22:48:24.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151218",
+    "category": "Tools",
+    "headline": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "summary": "Rippling created a tool to track employee AI spending after experiencing high AI costs internally",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "published": "2026-08-07T21:30:11.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=976801",
     "category": "Other",
     "headline": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
@@ -430,23 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
     "published": "2026-08-05T19:19:04.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-    "category": "Models",
-    "headline": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
-    "summary": "Google's AI team faces changes as DeepMind's leader steps down and senior scientists leave",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-    "published": "2026-08-05T19:05:58.000Z"
-  },
-  {
-    "id": "hn:49186762",
-    "category": "Models",
-    "headline": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-    "summary": "Open models achieve better retrieval results than GPT-5.6 Sol at a significantly lower cost",
-    "source": "Hacker News",
-    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-    "published": "2026-08-05T18:18:56.000Z"
   }
 ]
