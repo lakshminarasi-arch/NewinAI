@@ -1,5 +1,131 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3151017",
+    "category": "Tools",
+    "headline": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "summary": "OpenAI is developing a smart speaker with AI, priced around $300 to $400",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "published": "2026-08-06T22:43:53.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=976431",
+    "category": "Tools",
+    "headline": "Jony Ive s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "summary": "OpenAI is developing a smart speaker with Jony Ive, a battery-powered device with moving parts and sensors, expected to launch in 2027 for over $300",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "published": "2026-08-06T20:55:39.000Z"
+  },
+  {
+    "id": "hn:49201970",
+    "category": "Models",
+    "headline": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "summary": "AMD buys Taalas to improve model performance by directly etching them into silicon",
+    "source": "Hacker News",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "published": "2026-08-06T20:23:11.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+    "category": "Policy",
+    "headline": "Suno hopes to go legit with watermarks for AI-generated music",
+    "summary": "Suno aims to prevent misuse of AI-generated music with watermarks and download limits",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+    "published": "2026-08-06T20:17:36.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "category": "Models",
+    "headline": "Anthropic will design its own hardware to power Claude",
+    "summary": "Anthropic plans to create its own hardware to support its AI model Claude, aiming to reduce reliance on Nvidia",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "published": "2026-08-06T20:03:44.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "category": "Research",
+    "headline": "Large genome models used to design new viruses",
+    "summary": "An AI system uses large genome models to create new versions of a virus that kills bacteria",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "published": "2026-08-06T19:04:57.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=976289",
+    "category": "Tools",
+    "headline": "Suno shares plans to combat spammy AI music",
+    "summary": "Suno is introducing watermarking and transparency tools to combat spammy AI-generated music and increase legitimacy",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "published": "2026-08-06T17:39:43.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3150766",
+    "category": "Tools",
+    "headline": "ChatGPT brings unlimited text chats to free users",
+    "summary": "ChatGPT now offers unlimited text chats to its free users and introduces a new think button for complex queries",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "published": "2026-08-06T17:34:42.000Z"
+  },
+  {
+    "id": "hn:49199357",
+    "category": "Models",
+    "headline": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+    "summary": "ChatGPT is getting updates to its GPT-5.6 Sol model and expanding access to GPT-5.6 Luna for free users",
+    "source": "Hacker News",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "published": "2026-08-06T17:02:04.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3150524",
+    "category": "Funding",
+    "headline": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "summary": "Naïve gets funding to automate business setup and operation tasks using its infrastructure",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "published": "2026-08-06T17:00:37.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+    "category": "Tools",
+    "headline": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+    "summary": "Cloudflare releases open-source platform using AI to help non-coders work with code",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+    "published": "2026-08-06T16:15:30.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3150667",
+    "category": "Tools",
+    "headline": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "summary": "Gen Z dating apps are using AI to match users instead of swiping",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "published": "2026-08-06T15:53:03.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3150664",
+    "category": "Other",
+    "headline": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "summary": "OpenAI argues Apple's security practices are flawed, citing examples like accessing a former employee's iCloud account, which undermines Apple's trade secrets case",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "published": "2026-08-06T15:10:32.000Z"
+  },
+  {
+    "id": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "category": "Models",
+    "headline": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "summary": "A new AI model from Google DeepMind makes progress in predicting cyclones",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "published": "2026-08-06T15:06:15.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=971855",
     "category": "Policy",
     "headline": "The left and right agree on one thing: no data centers",
@@ -63,6 +189,15 @@
     "published": "2026-08-06T11:00:44.000Z"
   },
   {
+    "id": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "category": "Policy",
+    "headline": "Working with the American Psychological Association on youth mental health and AI",
+    "summary": "OpenAI and the American Psychological Association collaborate to create guidelines and resources for using AI responsibly in youth mental health",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "published": "2026-08-06T06:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2608.04012v1",
     "category": "Research",
     "headline": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
@@ -106,6 +241,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
     "published": "2026-08-06T00:25:10.000Z"
+  },
+  {
+    "id": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "category": "Models",
+    "headline": "From asking to doing: How the world is putting ChatGPT to work",
+    "summary": "OpenAI data reveals global usage patterns of ChatGPT, including adoption rates and trends",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "published": "2026-08-06T00:00:00.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3150382",
@@ -304,149 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
     "published": "2026-08-05T11:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=975509",
-    "category": "Policy",
-    "headline": "Trump’s AI testing plan is limited and vague",
-    "summary": "The Trump administration's AI testing plan has limitations and lacks clarity, excluding open models from its guidelines",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-    "published": "2026-08-05T10:29:47.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.02604v1",
-    "category": "Research",
-    "headline": "ISEE: Interactive Semantic Enrichment for Database Fields",
-    "summary": "Researchers propose ISEE, a method to improve data semantics for LLM-based agents, addressing issues with ambiguous field descriptions in databases",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.02604",
-    "published": "2026-08-05T04:00:00.000Z"
-  },
-  {
-    "id": "hn:49175826",
-    "category": "Other",
-    "headline": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-    "summary": "AI is linked to over half of cybercrime in Africa, with a rise in scams, according to Interpol",
-    "source": "Hacker News",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "published": "2026-08-04T22:01:41.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=975381",
-    "category": "Funding",
-    "headline": "AMD s datacenter business is booming while gaming takes a backseat",
-    "summary": "AMD's data center revenue more than doubled due to high demand for AI capacity, reaching $6.7 billion, while gaming revenue fell 31 percent",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-    "published": "2026-08-04T20:57:49.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=975335",
-    "category": "Funding",
-    "headline": "SpaceX has more neocloud revenue",
-    "summary": "SpaceX's AI revenue increased to $2.6 billion due to compute deals with other AI companies, despite the division losing $1.5 billion this quarter",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-    "published": "2026-08-04T20:47:55.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-    "category": "Other",
-    "headline": "Texas halts data center connections to power grid amid overwhelming demand",
-    "summary": "Texas stops connecting data centers to the power grid due to high demand, despite being promoted as an AI hub",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-    "published": "2026-08-04T20:34:28.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149807",
-    "category": "Models",
-    "headline": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "summary": "Open-weight AI models like GLM-5.2 are getting closer to top AI capabilities but still lack important safety features",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "published": "2026-08-04T20:05:26.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149770",
-    "category": "Funding",
-    "headline": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "summary": "Anthropic partners with Volta in a large deal to advance AI cloud capabilities",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "published": "2026-08-04T19:48:40.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149087",
-    "category": "Tools",
-    "headline": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "summary": "Wrinkles is an app that uses AI to provide audio tours, sharing local stories and hidden history of nearby places",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "published": "2026-08-04T19:34:34.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149725",
-    "category": "Policy",
-    "headline": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-    "summary": "Nvidia leads the Open Secure AI Alliance with over 120 companies to defend against AI agents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "published": "2026-08-04T19:28:49.000Z"
-  },
-  {
-    "id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "category": "Models",
-    "headline": "Third-party cyber evaluations involving OpenAI models",
-    "summary": "OpenAI discusses recent cybersecurity evaluation incidents and introduces new safeguards for AI model testing",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "published": "2026-08-04T19:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=975173",
-    "category": "Other",
-    "headline": "How an OpenAI influencer trip backfired",
-    "summary": "OpenAI invited influencers on a paid trip, which is a common marketing tactic, but it backfired and received criticism",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-    "published": "2026-08-04T17:46:41.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=975180",
-    "category": "Models",
-    "headline": "‘Not healthy’ LLM use is more common than you think",
-    "summary": "YouTuber Hank Green faces criticism for using large language models to find research sources, sparking debate about authenticity and credibility in content creation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-    "published": "2026-08-04T17:33:46.000Z"
-  },
-  {
-    "id": "hn:49171268",
-    "category": "Models",
-    "headline": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-    "summary": "Mistral's Shieldstral is a large open weights model for moderating multiple types of data",
-    "source": "Hacker News",
-    "url": "https://mistral.ai/news/shieldstral/",
-    "published": "2026-08-04T16:36:05.000Z"
-  },
-  {
-    "id": "hn:49170915",
-    "category": "Research",
-    "headline": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-    "summary": "Researchers examine why AI benchmarks eventually stop improving, studying the saturation point of these tests",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2602.16763",
-    "published": "2026-08-04T16:10:39.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149610",
-    "category": "Tools",
-    "headline": "Spotify expands AI remix and covers project with Merlin partnership",
-    "summary": "Spotify partners with Merlin for an AI tool that lets fans create remixes and covers, ensuring artists are credited and paid",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-    "published": "2026-08-04T15:50:06.000Z"
   }
 ]
