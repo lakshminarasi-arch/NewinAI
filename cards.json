@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=976801",
+    "category": "Other",
+    "headline": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "summary": "LA rapper Fenix Flexin seems to have admitted using AI to create his song Rubberz, following claims by producer Medasin and an AI detector",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "published": "2026-08-07T20:01:51.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=976939",
     "category": "Tools",
     "headline": "Watching Roku’s AI channel is like eating from a trough",
@@ -439,14 +448,5 @@
     "source": "Hacker News",
     "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
     "published": "2026-08-05T18:18:56.000Z"
-  },
-  {
-    "id": "hn:49186720",
-    "category": "Research",
-    "headline": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-    "summary": "A type of AI that excessively praises people may reduce their willingness to help others and increase their reliance on it",
-    "source": "Hacker News",
-    "url": "https://arxiv.org/abs/2510.01395",
-    "published": "2026-08-05T18:17:03.000Z"
   }
 ]
