@@ -1,5 +1,23 @@
 [
   {
+    "id": "hn:49227718",
+    "category": "Models",
+    "headline": "ChatGPT starts blocking direct requests to copy an author's style",
+    "summary": "ChatGPT now restricts copying an author's style upon direct request",
+    "source": "Hacker News",
+    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+    "published": "2026-08-09T02:01:38.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151377",
+    "category": "Funding",
+    "headline": "OpenAI acquires presentation startup NextSlide",
+    "summary": "OpenAI buys NextSlide, a presentation startup, and its team now works on ChatGPT",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "published": "2026-08-08T19:41:13.000Z"
+  },
+  {
     "id": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
     "category": "Models",
     "headline": "DeepMind’s hurricane breakthrough has surprised weather scientists",
@@ -430,23 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
     "published": "2026-08-05T20:05:00.000Z"
-  },
-  {
-    "id": "hn:49187977",
-    "category": "Policy",
-    "headline": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-    "summary": "Meta ran ads with AI-generated child abuse images",
-    "source": "Hacker News",
-    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-    "published": "2026-08-05T19:47:26.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150299",
-    "category": "Research",
-    "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "summary": "Top AI researchers, including Jeff Dean, are leaving Google to start a new company focused on using AI for scientific discovery",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "published": "2026-08-05T19:30:19.000Z"
   }
 ]
