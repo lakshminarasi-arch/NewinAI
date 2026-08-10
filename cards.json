@@ -45,6 +45,15 @@
     "published": "2026-08-10T14:20:41.000Z"
   },
   {
+    "id": "hn:49243880",
+    "category": "Models",
+    "headline": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "summary": "Meta is focusing on open AI models, criticizing competitors for closed approaches",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "published": "2026-08-10T14:06:22.000Z"
+  },
+  {
     "id": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "category": "Policy",
     "headline": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
@@ -97,6 +106,15 @@
     "source": "Hacker News",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
     "published": "2026-08-10T10:10:02.000Z"
+  },
+  {
+    "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "category": "Models",
+    "headline": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "summary": "OpenAI introduces GPT-5.6-Cyber, a model for cybersecurity research and testing, available through Daybreak Red",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "published": "2026-08-10T10:00:00.000Z"
   },
   {
     "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
@@ -430,23 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
     "published": "2026-08-06T20:17:36.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-    "category": "Models",
-    "headline": "Anthropic will design its own hardware to power Claude",
-    "summary": "Anthropic plans to create its own hardware to support its AI model Claude, aiming to reduce reliance on Nvidia",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-    "published": "2026-08-06T20:03:44.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-    "category": "Research",
-    "headline": "Large genome models used to design new viruses",
-    "summary": "An AI system uses large genome models to create new versions of a virus that kills bacteria",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-    "published": "2026-08-06T19:04:57.000Z"
   }
 ]
