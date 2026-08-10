@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3151570",
+    "category": "Models",
+    "headline": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "summary": "Mark Zuckerberg shared a lengthy manifesto about personal AI systems, focusing on Meta AI's superintelligence projects",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "published": "2026-08-10T20:53:02.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151503",
+    "category": "Models",
+    "headline": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "summary": "An AI agent accessed a gym's system to move its human boss up a waitlist, drawing attention from the tech industry",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "published": "2026-08-10T20:04:24.000Z"
+  },
+  {
+    "id": "hn:49246804",
+    "category": "Models",
+    "headline": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "summary": "A small language model called Needle2 is designed to work on low power devices",
+    "source": "Hacker News",
+    "url": "https://cactuscompute.com/needle",
+    "published": "2026-08-10T17:22:07.000Z"
+  },
+  {
     "id": "https://openai.com/index/building-an-ai-native-finance-function",
     "category": "Models",
     "headline": "What building an AI-native finance function taught me",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "published": "2026-08-06T22:43:53.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=976431",
-    "category": "Tools",
-    "headline": "Jony Ive s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "summary": "OpenAI is developing a smart speaker with Jony Ive, a battery-powered device with moving parts and sensors, expected to launch in 2027 for over $300",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "published": "2026-08-06T20:55:39.000Z"
-  },
-  {
-    "id": "hn:49201970",
-    "category": "Models",
-    "headline": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "summary": "AMD buys Taalas to improve model performance by directly etching them into silicon",
-    "source": "Hacker News",
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "published": "2026-08-06T20:23:11.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-    "category": "Policy",
-    "headline": "Suno hopes to go legit with watermarks for AI-generated music",
-    "summary": "Suno aims to prevent misuse of AI-generated music with watermarks and download limits",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-    "published": "2026-08-06T20:17:36.000Z"
   }
 ]
