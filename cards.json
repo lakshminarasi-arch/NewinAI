@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "category": "Models",
+    "headline": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+    "summary": "Meta is trying to improve its AI strategy with new open models after falling behind competitors",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "published": "2026-08-10T22:13:03.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3151570",
     "category": "Models",
     "headline": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
@@ -205,6 +214,24 @@
     "source": "Hacker News",
     "url": "https://www.whodunnitai.com/",
     "published": "2026-08-10T03:18:40.000Z"
+  },
+  {
+    "id": "https://openai.com/index/zapier",
+    "category": "Tools",
+    "headline": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "summary": "Zapier's marketing team uses ChatGPT Work to improve lead funnels, create campaign assets, and automate reports",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/zapier",
+    "published": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "category": "Tools",
+    "headline": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "summary": "Virgin Atlantic uses ChatGPT Work to improve customer experiences by connecting signals across their journey",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "published": "2026-08-10T00:00:00.000Z"
   },
   {
     "id": "https://openai.com/index/premium-seats-chatgpt-business",
@@ -421,32 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
     "published": "2026-08-07T13:29:22.000Z"
-  },
-  {
-    "id": "https://openai.com/index/hsp-gruppe",
-    "category": "Tools",
-    "headline": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "summary": "HSP GRUPPE uses AI to enhance tax advisory services and productivity",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/hsp-gruppe",
-    "published": "2026-08-07T09:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.05159v1",
-    "category": "Research",
-    "headline": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-    "summary": "Researchers propose Agentic Nesting to improve existing enterprise application integration and services, addressing data silos and process fragmentation",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.05159",
-    "published": "2026-08-07T04:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151017",
-    "category": "Tools",
-    "headline": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "summary": "OpenAI is developing a smart speaker with AI, priced around $300 to $400",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "published": "2026-08-06T22:43:53.000Z"
   }
 ]
