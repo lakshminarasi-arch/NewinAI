@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:49239751",
+    "category": "Tools",
+    "headline": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "summary": "Docker offers isolated environments for artificial intelligence agents to operate in",
+    "source": "Hacker News",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "published": "2026-08-10T06:02:38.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2608.06394v1",
     "category": "Research",
     "headline": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
@@ -439,14 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
     "published": "2026-08-06T13:00:00.000Z"
-  },
-  {
-    "id": "hn:49195468",
-    "category": "Research",
-    "headline": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "summary": "Humans failed to detect one third of threats when approving commands from an AI agent in a large scale game simulation",
-    "source": "Hacker News",
-    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "published": "2026-08-06T11:58:07.000Z"
   }
 ]
