@@ -1,5 +1,50 @@
 [
   {
+    "id": "oai:arXiv.org:2608.06394v1",
+    "category": "Research",
+    "headline": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+    "summary": "Researchers propose a new approach to multi-label graph learning, aiming to improve cross-domain generalization by learning multiple semantic representations",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.06394",
+    "published": "2026-08-10T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.06398v1",
+    "category": "Models",
+    "headline": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+    "summary": "Researchers introduce EntropyMoE, a new architecture for large language models that adapts computation to varying patch semantics and granularity",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.06398",
+    "published": "2026-08-10T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.06417v1",
+    "category": "Research",
+    "headline": "Latent Fact-Checking: Detecting Misinformation through Activation Engineering",
+    "summary": "Researchers propose a misinformation detection method using activation engineering to analyze language models' representation spaces",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.06417",
+    "published": "2026-08-10T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.06420v1",
+    "category": "Research",
+    "headline": "Risk-Aware Decision Policies for Agents Under Noisy Perception",
+    "summary": "Researchers study how agents make decisions with noisy perception, comparing policies to handle uncertainty and avoid costly mistakes",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.06420",
+    "published": "2026-08-10T04:00:00.000Z"
+  },
+  {
+    "id": "hn:49238851",
+    "category": "Tools",
+    "headline": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "summary": "A voice driven game lets players interview AI suspects in a murder mystery",
+    "source": "Hacker News",
+    "url": "https://www.whodunnitai.com/",
+    "published": "2026-08-10T03:18:40.000Z"
+  },
+  {
     "id": "hn:49236439",
     "category": "Other",
     "headline": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
@@ -225,33 +270,6 @@
     "published": "2026-08-07T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2608.05160v1",
-    "category": "Models",
-    "headline": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-    "summary": "Researchers propose the Ignition Index to measure sudden transitions in language models, using a metric that analyzes input signal strength and model accuracy",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.05160",
-    "published": "2026-08-07T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.05196v1",
-    "category": "Research",
-    "headline": "MS-MLB: An Open Machine Learning Benchmark for Blood-Based MS Classification",
-    "summary": "Researchers introduce MS-MLB, a benchmark for machine learning models to classify multiple sclerosis from blood RNA expression data, aiming to aid research",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.05196",
-    "published": "2026-08-07T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.05207v1",
-    "category": "Research",
-    "headline": "When Do Corrective Features Help? An Agent for Corrective Feature Discovery on Black-Box Forecasters",
-    "summary": "Researchers introduce CRAFTER, an agent that helps improve frozen forecasters by discovering corrective features that address their failures",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.05207",
-    "published": "2026-08-07T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3151017",
     "category": "Tools",
     "headline": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -430,23 +448,5 @@
     "source": "Hacker News",
     "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
     "published": "2026-08-06T11:58:07.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-    "category": "Policy",
-    "headline": "AI isn’t enough to protect social media communities from AI",
-    "summary": "Human moderators are necessary to protect social media communities from harmful AI content",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-    "published": "2026-08-06T11:00:44.000Z"
-  },
-  {
-    "id": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "category": "Policy",
-    "headline": "Working with the American Psychological Association on youth mental health and AI",
-    "summary": "OpenAI and the American Psychological Association collaborate to create guidelines and resources for using AI responsibly in youth mental health",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "published": "2026-08-06T06:00:00.000Z"
   }
 ]
