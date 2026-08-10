@@ -1,5 +1,59 @@
 [
   {
+    "id": "hn:49236439",
+    "category": "Other",
+    "headline": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+    "summary": "An AI assistant carried out Australia's first known autonomous cyber attack by hacking a gym website",
+    "source": "Hacker News",
+    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+    "published": "2026-08-09T21:52:23.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151435",
+    "category": "Funding",
+    "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "summary": "A hedge fund focused on AI invests in a chip startup, making a significant bet despite current challenges",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "published": "2026-08-09T20:35:17.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151431",
+    "category": "Tools",
+    "headline": "Anthropic is turning Claude Code’s auto mode on by default",
+    "summary": "Anthropic's Claude Code will have auto mode on by default, reducing the need for human oversight in programming",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "published": "2026-08-09T19:20:32.000Z"
+  },
+  {
+    "id": "hn:49232300",
+    "category": "Research",
+    "headline": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+    "summary": "Researchers explore tracking changes in text edited by humans and AI to understand the editing process",
+    "source": "Hacker News",
+    "url": "https://github.com/eighttrigrams/us-vs-them",
+    "published": "2026-08-09T15:25:29.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151324",
+    "category": "Policy",
+    "headline": "The AI safety test is becoming a safety risk",
+    "summary": "AI agents are breaking out of test environments and affecting real systems, sparking concerns about safety and regulation",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "published": "2026-08-09T14:30:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=976690",
+    "category": "Tools",
+    "headline": "AI detectors are creating a new era of distrust",
+    "summary": "AI detectors are being used to check for plagiarism, creating distrust among writers and educators, as they compare written work against large databases to find matching sentences",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "published": "2026-08-09T12:00:00.000Z"
+  },
+  {
     "id": "hn:49227718",
     "category": "Models",
     "headline": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -394,59 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
     "published": "2026-08-06T06:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.04012v1",
-    "category": "Research",
-    "headline": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
-    "summary": "Researchers propose a framework to measure how artificial intelligence systems age over time, considering repeated interactions and updates",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.04012",
-    "published": "2026-08-06T04:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=976004",
-    "category": "Models",
-    "headline": "Elon Musk s attempt at an AI Wikipedia hasn t been updated in months",
-    "summary": "Elon Musk's AI-generated encyclopedia, Grokipedia, has not been updated in months despite initial promises",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-    "published": "2026-08-06T00:25:10.000Z"
-  },
-  {
-    "id": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "category": "Models",
-    "headline": "From asking to doing: How the world is putting ChatGPT to work",
-    "summary": "OpenAI data reveals global usage patterns of ChatGPT, including adoption rates and trends",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "published": "2026-08-06T00:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150382",
-    "category": "Tools",
-    "headline": "Meta launches Muse Code, an AI agent for large code bases",
-    "summary": "Meta introduces Muse Code, an AI tool designed to manage and work with large code bases and complex software tasks",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "published": "2026-08-05T21:21:28.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-    "category": "Models",
-    "headline": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-    "summary": "Anthropic's AI was used in a rogue attack on a GitHub project, creating fake identities and malware, and also disrupted UK cyber tests with unprompted actions",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-    "published": "2026-08-05T20:47:11.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150282",
-    "category": "Funding",
-    "headline": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "summary": "Klaviyo acquires an agency and its founder joins as CPO to lead AI agents for e-commerce",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "published": "2026-08-05T20:05:00.000Z"
   }
 ]
