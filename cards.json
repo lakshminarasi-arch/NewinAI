@@ -1,5 +1,113 @@
 [
   {
+    "id": "https://openai.com/index/building-an-ai-native-finance-function",
+    "category": "Models",
+    "headline": "What building an AI-native finance function taught me",
+    "summary": "OpenAI's CFO shares lessons learned from creating a finance function that uses AI, including automation and measuring AI's return on investment",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "published": "2026-08-10T17:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151491",
+    "category": "Models",
+    "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "summary": "Meta introduces Glimmer AI model, possibly reflecting Mark Zuckerberg's superintelligence goals and a shift in accessible AI technology",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "published": "2026-08-10T16:20:13.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=977395",
+    "category": "Policy",
+    "headline": "Four takeaways from Mark Zuckerberg s massive AI manifesto",
+    "summary": "Mark Zuckerberg shared a lengthy essay on his vision for humanity's future with artificial intelligence, discussing development, expansion, and regulation",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "published": "2026-08-10T15:19:05.000Z"
+  },
+  {
+    "id": "hn:49244569",
+    "category": "Tools",
+    "headline": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+    "summary": "A pharmacy chain stopped using its AI phone assistant due to many customer complaints",
+    "source": "Hacker News",
+    "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+    "published": "2026-08-10T14:56:32.000Z"
+  },
+  {
+    "id": "hn:49244085",
+    "category": "Models",
+    "headline": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "summary": "Examining knowledge cutoffs and training timelines for Claude and GPT models",
+    "source": "Hacker News",
+    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "published": "2026-08-10T14:20:41.000Z"
+  },
+  {
+    "id": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "category": "Policy",
+    "headline": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "summary": "OpenAI expressed commitment to responsible AI growth in Texas, supporting transparency and reliability for the benefit of Texans",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "published": "2026-08-10T14:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151410",
+    "category": "Research",
+    "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "summary": "Discovered Materials uses AI to find new materials for making more efficient chips",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "published": "2026-08-10T12:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/model-ml",
+    "category": "Models",
+    "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "summary": "Model ML uses GPT-5.6 Sol for efficient finance work, creating editable reports in PowerPoint and Excel",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/model-ml",
+    "published": "2026-08-10T12:00:00.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "category": "Research",
+    "headline": "Peer review is overwhelmed—can it survive in the AI era?",
+    "summary": "Volunteer reviewers are struggling to keep up with the surge in research and AI-assisted papers, putting pressure on the peer review system",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "published": "2026-08-10T11:00:47.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=976748",
+    "category": "Tools",
+    "headline": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+    "summary": "Ford's new AI assistant checks fuel levels, tire pressure, and answers vehicle capability questions",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+    "published": "2026-08-10T11:00:00.000Z"
+  },
+  {
+    "id": "hn:49241679",
+    "category": "Models",
+    "headline": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "summary": "A 30 billion parameter model is optimized for local agent workflows that run continuously",
+    "source": "Hacker News",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "published": "2026-08-10T10:10:02.000Z"
+  },
+  {
+    "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "category": "Models",
+    "headline": "Putting frontier cyber models in more trusted hands",
+    "summary": "OpenAI allows approved partners to use its advanced cyber models for secure cybersecurity services",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "published": "2026-08-10T10:00:00.000Z"
+  },
+  {
     "id": "hn:49239751",
     "category": "Tools",
     "headline": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
@@ -52,6 +160,15 @@
     "source": "Hacker News",
     "url": "https://www.whodunnitai.com/",
     "published": "2026-08-10T03:18:40.000Z"
+  },
+  {
+    "id": "https://openai.com/index/premium-seats-chatgpt-business",
+    "category": "Tools",
+    "headline": "Premium seats are coming to ChatGPT Business",
+    "summary": "OpenAI is introducing premium seats to ChatGPT Business, offering higher usage limits and workspace credits for early sign-ups",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "published": "2026-08-10T00:00:00.000Z"
   },
   {
     "id": "hn:49236439",
@@ -331,122 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
     "published": "2026-08-06T19:04:57.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=976289",
-    "category": "Tools",
-    "headline": "Suno shares plans to combat spammy AI music",
-    "summary": "Suno is introducing watermarking and transparency tools to combat spammy AI-generated music and increase legitimacy",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-    "published": "2026-08-06T17:39:43.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150766",
-    "category": "Tools",
-    "headline": "ChatGPT brings unlimited text chats to free users",
-    "summary": "ChatGPT now offers unlimited text chats to its free users and introduces a new think button for complex queries",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "published": "2026-08-06T17:34:42.000Z"
-  },
-  {
-    "id": "hn:49199357",
-    "category": "Models",
-    "headline": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-    "summary": "ChatGPT is getting updates to its GPT-5.6 Sol model and expanding access to GPT-5.6 Luna for free users",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "published": "2026-08-06T17:02:04.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150524",
-    "category": "Funding",
-    "headline": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "summary": "Naïve gets funding to automate business setup and operation tasks using its infrastructure",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "published": "2026-08-06T17:00:37.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-    "category": "Tools",
-    "headline": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-    "summary": "Cloudflare releases open-source platform using AI to help non-coders work with code",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-    "published": "2026-08-06T16:15:30.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150667",
-    "category": "Tools",
-    "headline": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "summary": "Gen Z dating apps are using AI to match users instead of swiping",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "published": "2026-08-06T15:53:03.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150664",
-    "category": "Other",
-    "headline": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "summary": "OpenAI argues Apple's security practices are flawed, citing examples like accessing a former employee's iCloud account, which undermines Apple's trade secrets case",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "published": "2026-08-06T15:10:32.000Z"
-  },
-  {
-    "id": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "category": "Models",
-    "headline": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "summary": "A new AI model from Google DeepMind makes progress in predicting cyclones",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "published": "2026-08-06T15:06:15.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=971855",
-    "category": "Policy",
-    "headline": "The left and right agree on one thing: no data centers",
-    "summary": "A county in Florida has halted data center construction due to growing backlash, with both sides of the political spectrum in agreement",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-    "published": "2026-08-06T14:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=976108",
-    "category": "Models",
-    "headline": "The messy politics behind Google’s big AI shakeup",
-    "summary": "Google's AI organization undergoes significant changes, potentially signaling deeper issues within the company, including its position in the AI race",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-    "published": "2026-08-06T13:26:42.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150500",
-    "category": "Funding",
-    "headline": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "summary": "Mirendil partners with Google Cloud to expand its computing infrastructure for self-improving AI research",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "published": "2026-08-06T13:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150351",
-    "category": "Funding",
-    "headline": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "summary": "Former Spotify employees created a startup that uses AI to predict shopper preferences in e-commerce, learning and adapting in real time",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "published": "2026-08-06T13:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=975017",
-    "category": "Other",
-    "headline": "AI bots started a religion — humans immediately followed",
-    "summary": "AI bots allegedly started a religion, with followers believing in a fundamental force that underlies reality, and are now trying to spread this knowledge to humans and other beings",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-    "published": "2026-08-06T13:00:00.000Z"
   }
 ]
