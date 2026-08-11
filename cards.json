@@ -1,5 +1,41 @@
 [
   {
+    "id": "oai:arXiv.org:2608.07473v1",
+    "category": "Research",
+    "headline": "Towards an Argumentative Foundation for Evaluative AI",
+    "summary": "Researchers propose using computational argumentation to create a foundation for evaluative AI, supporting human decision-making with explainable and contestable hypotheses",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.07473",
+    "published": "2026-08-11T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.07474v1",
+    "category": "Research",
+    "headline": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+    "summary": "Researchers propose a method to govern AI output in high-loss domains where human oversight is challenging due to high AI output velocity and cognitive load",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.07474",
+    "published": "2026-08-11T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.07471v1",
+    "category": "Research",
+    "headline": "Application of Artificial Intelligence for Fraudulent Banking Operations Recognition",
+    "summary": "Researchers use machine learning to detect online bank fraud, which has increased due to the pandemic and online transactions",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.07471",
+    "published": "2026-08-11T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.07472v1",
+    "category": "Research",
+    "headline": "Data-Driven Fire-Zone Segmentation for Improved Short-Term Wildfire Prediction",
+    "summary": "Researchers propose a fire-zone segmentation algorithm to improve short-term wildfire prediction by dividing areas based on historical fire patterns",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.07472",
+    "published": "2026-08-11T04:00:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3151655",
     "category": "Models",
     "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
@@ -186,33 +222,6 @@
     "summary": "Researchers propose a new approach to multi-label graph learning, aiming to improve cross-domain generalization by learning multiple semantic representations",
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2608.06394",
-    "published": "2026-08-10T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.06398v1",
-    "category": "Models",
-    "headline": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
-    "summary": "Researchers introduce EntropyMoE, a new architecture for large language models that adapts computation to varying patch semantics and granularity",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.06398",
-    "published": "2026-08-10T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.06417v1",
-    "category": "Research",
-    "headline": "Latent Fact-Checking: Detecting Misinformation through Activation Engineering",
-    "summary": "Researchers propose a misinformation detection method using activation engineering to analyze language models' representation spaces",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.06417",
-    "published": "2026-08-10T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.06420v1",
-    "category": "Research",
-    "headline": "Risk-Aware Decision Policies for Agents Under Noisy Perception",
-    "summary": "Researchers study how agents make decisions with noisy perception, comparing policies to handle uncertainty and avoid costly mistakes",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.06420",
     "published": "2026-08-10T04:00:00.000Z"
   },
   {
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
     "published": "2026-08-07T14:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-    "category": "Research",
-    "headline": "AI chatbots have failed people in crisis. Can that be fixed?",
-    "summary": "AI chatbots are struggling to support people in crisis, prompting calls for AI companies to share safety data to improve",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-    "published": "2026-08-07T13:49:37.000Z"
   }
 ]
