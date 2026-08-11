@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3151655",
+    "category": "Models",
+    "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "summary": "OpenAI introduces a new AI model to enhance cybersecurity defenses as AI-led attacks increase",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "published": "2026-08-10T23:56:15.000Z"
+  },
+  {
     "id": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
     "category": "Models",
     "headline": "With new open models, Meta pitches another reboot of its struggling AI strategy",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
     "published": "2026-08-07T13:49:37.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-    "category": "Models",
-    "headline": "ByteDance trains massive AI model in bid to rival Anthropic",
-    "summary": "ByteDance is training a large AI model to compete with Anthropic, using 10 trillion parameters",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-    "published": "2026-08-07T13:29:22.000Z"
   }
 ]
