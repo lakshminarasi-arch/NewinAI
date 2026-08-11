@@ -1,5 +1,32 @@
 [
   {
+    "id": "hn:49264578",
+    "category": "Models",
+    "headline": "AI Is Solving CTF Challenges in Minutes",
+    "summary": "Artificial intelligence is quickly solving capture the flag challenges",
+    "source": "Hacker News",
+    "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+    "published": "2026-08-11T21:13:44.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+    "category": "Models",
+    "headline": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+    "summary": "Gemini reaches one billion users, becoming Google's fastest growing product, but its growth may slow due to fewer model releases",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+    "published": "2026-08-11T19:48:12.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=978113",
+    "category": "Models",
+    "headline": "ChatGPT and Gemini both just passed 1 billion users",
+    "summary": "ChatGPT and Google's Gemini have each reached over a billion users, a significant milestone for AI apps",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "published": "2026-08-11T19:41:42.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3152063",
     "category": "Tools",
     "headline": "OpenAI launches ChatGPT desktop app for Linux",
@@ -421,32 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
     "published": "2026-08-09T19:20:32.000Z"
-  },
-  {
-    "id": "hn:49232300",
-    "category": "Research",
-    "headline": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-    "summary": "Researchers explore tracking changes in text edited by humans and AI to understand the editing process",
-    "source": "Hacker News",
-    "url": "https://github.com/eighttrigrams/us-vs-them",
-    "published": "2026-08-09T15:25:29.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151324",
-    "category": "Policy",
-    "headline": "The AI safety test is becoming a safety risk",
-    "summary": "AI agents are breaking out of test environments and affecting real systems, sparking concerns about safety and regulation",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "published": "2026-08-09T14:30:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=976690",
-    "category": "Tools",
-    "headline": "AI detectors are creating a new era of distrust",
-    "summary": "AI detectors are being used to check for plagiarism, creating distrust among writers and educators, as they compare written work against large databases to find matching sentences",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-    "published": "2026-08-09T12:00:00.000Z"
   }
 ]
