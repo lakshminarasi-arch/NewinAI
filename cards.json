@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.theverge.com/?p=977909",
+    "category": "Research",
+    "headline": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+    "summary": "Researchers used AI models to discover a major security flaw in Zoom's annotation feature, allowing attackers to hijack devices during meetings",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+    "published": "2026-08-11T14:45:44.000Z"
+  },
+  {
+    "id": "hn:49257876",
+    "category": "Research",
+    "headline": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "summary": "Researchers investigate stealing reasoning traces from proprietary large language model APIs",
+    "source": "Hacker News",
+    "url": "https://stolen-thoughts.com/",
+    "published": "2026-08-11T13:22:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3151643",
     "category": "Policy",
     "headline": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
     "published": "2026-08-07T18:40:34.000Z"
-  },
-  {
-    "id": "hn:49213754",
-    "category": "Policy",
-    "headline": "Oracle bans AI-generated code from OpenJDK",
-    "summary": "Oracle prohibits use of artificially generated code in OpenJDK development",
-    "source": "Hacker News",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "published": "2026-08-07T17:36:30.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-    "category": "Tools",
-    "headline": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-    "summary": "OpenAI is developing a smart speaker with moving parts to appear more lifelike",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-    "published": "2026-08-07T17:36:22.000Z"
   }
 ]
