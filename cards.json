@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=977273",
+    "category": "Research",
+    "headline": "The AI takeover of mathematics has begun",
+    "summary": "Mathematics is being impacted by AI as it solves long-standing problems, prompting soul searching among mathematicians about the field's future",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+    "published": "2026-08-11T11:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2608.07473v1",
     "category": "Research",
     "headline": "Towards an Argumentative Foundation for Evaluative AI",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
     "published": "2026-08-07T14:22:49.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3151233",
-    "category": "Other",
-    "headline": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-    "summary": "Historian Jill Lepore thinks tech companies use grand language to describe products like a new government, criticizing Silicon Valley's approach",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "published": "2026-08-07T14:00:00.000Z"
   }
 ]
