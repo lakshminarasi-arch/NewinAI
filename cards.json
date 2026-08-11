@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3152063",
+    "category": "Tools",
+    "headline": "OpenAI launches ChatGPT desktop app for Linux",
+    "summary": "OpenAI releases a dedicated ChatGPT app for Linux computers",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "published": "2026-08-11T19:15:35.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3152071",
+    "category": "Models",
+    "headline": "Google’s Gemini app surges to one billion users",
+    "summary": "Google's Gemini app has reached one billion users, similar to OpenAI's ChatGPT",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "published": "2026-08-11T18:49:12.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=978048",
+    "category": "Other",
+    "headline": "Another OpenAI executive takes off",
+    "summary": "OpenAI's special projects lead and former COO is leaving after eight years to start something new, aiming to help advance the mission from a different perspective",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+    "published": "2026-08-11T17:50:01.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151968",
+    "category": "Other",
+    "headline": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "summary": "OpenAI's longtime COO is leaving to start a new project, but will continue to support the company's mission",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "published": "2026-08-11T17:41:34.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151907",
+    "category": "Funding",
+    "headline": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "summary": "River AI, a new startup, gets $1.1 billion funding for its vision of personal agents, led by General Catalyst",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "published": "2026-08-11T17:41:22.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3151819",
     "category": "Models",
     "headline": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
@@ -52,6 +97,15 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
     "published": "2026-08-11T13:00:00.000Z"
+  },
+  {
+    "id": "hn:49257160",
+    "category": "Other",
+    "headline": "OpenAI’s head of ethics leaves less than a year after joining",
+    "summary": "OpenAI's ethics leader has departed after less than a year in the role",
+    "source": "Hacker News",
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "published": "2026-08-11T12:23:07.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=977823",
@@ -394,59 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
     "published": "2026-08-09T12:00:00.000Z"
-  },
-  {
-    "id": "hn:49227718",
-    "category": "Models",
-    "headline": "ChatGPT starts blocking direct requests to copy an author's style",
-    "summary": "ChatGPT now restricts copying an author's style upon direct request",
-    "source": "Hacker News",
-    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "published": "2026-08-09T02:01:38.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151377",
-    "category": "Funding",
-    "headline": "OpenAI acquires presentation startup NextSlide",
-    "summary": "OpenAI buys NextSlide, a presentation startup, and its team now works on ChatGPT",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "published": "2026-08-08T19:41:13.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-    "category": "Models",
-    "headline": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-    "summary": "DeepMind's WeatherNext model can accurately predict weather with lower quality data, surprising weather scientists",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-    "published": "2026-08-08T11:05:50.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151331",
-    "category": "Models",
-    "headline": "OpenAI says it slowed Astra model development over security concerns",
-    "summary": "OpenAI paused development of its Astra model due to cybersecurity concerns",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "published": "2026-08-07T22:48:24.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151218",
-    "category": "Tools",
-    "headline": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "summary": "Rippling created a tool to track employee AI spending after experiencing high AI costs internally",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "published": "2026-08-07T21:30:11.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=976801",
-    "category": "Other",
-    "headline": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "summary": "LA rapper Fenix Flexin seems to have admitted using AI to create his song Rubberz, following claims by producer Medasin and an AI detector",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "published": "2026-08-07T20:01:51.000Z"
   }
 ]
