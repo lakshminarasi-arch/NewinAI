@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3151819",
+    "category": "Models",
+    "headline": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+    "summary": "An unreleased Anthropic model has made notable progress on the long-standing Riemann hypothesis math problem",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+    "published": "2026-08-11T16:25:20.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=977921",
+    "category": "Tools",
+    "headline": "Apple could help you prove your iPhone photos aren’t deepfakes",
+    "summary": "Apple is developing a feature to verify iPhone photos by embedding metadata at capture, helping prove they are not deepfakes",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+    "published": "2026-08-11T16:19:15.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=977909",
     "category": "Research",
     "headline": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
     "published": "2026-08-07T20:01:51.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=976939",
-    "category": "Tools",
-    "headline": "Watching Roku’s AI channel is like eating from a trough",
-    "summary": "Roku added AI-generated content channels to its streaming service, offering a constant source of new content",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "published": "2026-08-07T18:59:46.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=976948",
-    "category": "Models",
-    "headline": "OpenAI puts the brakes on a new model because it s supposedly too powerful",
-    "summary": "OpenAI pauses development of its Astra model due to security concerns, citing it doesn't meet new standards after recent AI model breaches",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "published": "2026-08-07T18:40:34.000Z"
   }
 ]
