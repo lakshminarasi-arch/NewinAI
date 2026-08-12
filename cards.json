@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3152463",
+    "category": "Funding",
+    "headline": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "summary": "Cognition, an AI coding startup, may raise funds at a $40 billion valuation after recently raising $1 billion",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "published": "2026-08-12T18:19:12.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3152082",
+    "category": "Policy",
+    "headline": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "summary": "Three AI experts discuss regulation and open-source access to promote US competitiveness in AI development",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "published": "2026-08-12T17:51:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3152464",
+    "category": "Funding",
+    "headline": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "summary": "Thrive Holdings gets 2 billion dollars to use AI in big companies",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "published": "2026-08-12T17:41:29.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=979112",
     "category": "Policy",
     "headline": "Twitch streamers can now opt out from training Amazon’s AI",
@@ -421,32 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/building-an-ai-native-finance-function",
     "published": "2026-08-10T17:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151491",
-    "category": "Models",
-    "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-    "summary": "Meta introduces Glimmer AI model, possibly reflecting Mark Zuckerberg's superintelligence goals and a shift in accessible AI technology",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "published": "2026-08-10T16:20:13.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=977395",
-    "category": "Policy",
-    "headline": "Four takeaways from Mark Zuckerberg s massive AI manifesto",
-    "summary": "Mark Zuckerberg shared a lengthy essay on his vision for humanity's future with artificial intelligence, discussing development, expansion, and regulation",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-    "published": "2026-08-10T15:19:05.000Z"
-  },
-  {
-    "id": "hn:49244569",
-    "category": "Tools",
-    "headline": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-    "summary": "A pharmacy chain stopped using its AI phone assistant due to many customer complaints",
-    "source": "Hacker News",
-    "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-    "published": "2026-08-10T14:56:32.000Z"
   }
 ]
