@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://www.theverge.com/?p=979112",
+    "category": "Policy",
+    "headline": "Twitch streamers can now opt out from training Amazon’s AI",
+    "summary": "Twitch streamers can now choose not to let their content help train Amazon's AI models, excluding their data from future AI training",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "published": "2026-08-12T17:29:10.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3152358",
+    "category": "Tools",
+    "headline": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "summary": "Automattic's AI-powered contacts app Mesh is now available on Android, helping manage relationships",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "published": "2026-08-12T16:57:58.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3152427",
+    "category": "Tools",
+    "headline": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "summary": "A company called Sandbar makes a ring that uses AI for voice-based note taking, part of a trend of wearables for capturing thoughts and ideas",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "published": "2026-08-12T16:46:02.000Z"
+  },
+  {
+    "id": "hn:49274858",
+    "category": "Funding",
+    "headline": "AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025",
+    "summary": "Lovable, an AI coding startup, has increased its valuation to $13.3 billion after raising $400 million",
+    "source": "Hacker News",
+    "url": "https://lovable.dev/blog/series-c",
+    "published": "2026-08-12T16:20:34.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=978982",
+    "category": "Other",
+    "headline": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "summary": "D'Addario used AI music in a promotional video, despite initial denials and alternative explanations",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "published": "2026-08-12T15:52:07.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+    "category": "Other",
+    "headline": "Booksellers suspect AI firms are buying and then destroying rare books",
+    "summary": "Booksellers think AI companies are buying rare books in bulk just to destroy them",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+    "published": "2026-08-12T15:19:17.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3152426",
+    "category": "Tools",
+    "headline": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "summary": "A company called Sandbar is developing a voice-enabled ring to capture thoughts and ideas, joining other wearables in the market",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "published": "2026-08-12T14:22:00.000Z"
+  },
+  {
     "id": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "category": "Models",
     "headline": "Putting sign language AI into users’ hands",
@@ -385,68 +448,5 @@
     "source": "Hacker News",
     "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
     "published": "2026-08-10T14:56:32.000Z"
-  },
-  {
-    "id": "hn:49244085",
-    "category": "Models",
-    "headline": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-    "summary": "Examining knowledge cutoffs and training timelines for Claude and GPT models",
-    "source": "Hacker News",
-    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-    "published": "2026-08-10T14:20:41.000Z"
-  },
-  {
-    "id": "hn:49243880",
-    "category": "Models",
-    "headline": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-    "summary": "Meta is focusing on open AI models, criticizing competitors for closed approaches",
-    "source": "Hacker News",
-    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "published": "2026-08-10T14:06:22.000Z"
-  },
-  {
-    "id": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "category": "Policy",
-    "headline": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "summary": "OpenAI expressed commitment to responsible AI growth in Texas, supporting transparency and reliability for the benefit of Texans",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "published": "2026-08-10T14:00:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151410",
-    "category": "Research",
-    "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "summary": "Discovered Materials uses AI to find new materials for making more efficient chips",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "published": "2026-08-10T12:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/model-ml",
-    "category": "Models",
-    "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "summary": "Model ML uses GPT-5.6 Sol for efficient finance work, creating editable reports in PowerPoint and Excel",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/model-ml",
-    "published": "2026-08-10T12:00:00.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-    "category": "Research",
-    "headline": "Peer review is overwhelmed—can it survive in the AI era?",
-    "summary": "Volunteer reviewers are struggling to keep up with the surge in research and AI-assisted papers, putting pressure on the peer review system",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-    "published": "2026-08-10T11:00:47.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=976748",
-    "category": "Tools",
-    "headline": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-    "summary": "Ford's new AI assistant checks fuel levels, tire pressure, and answers vehicle capability questions",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-    "published": "2026-08-10T11:00:00.000Z"
   }
 ]
