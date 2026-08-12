@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "category": "Models",
+    "headline": "Putting sign language AI into users’ hands",
+    "summary": "Google DeepMind introduces a model that translates sign language into text for Deaf and hard of hearing users",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "published": "2026-08-12T14:01:59.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+    "category": "Other",
+    "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+    "summary": "Google's 2026 hardware lineup prioritizes AI and user experience over hardware upgrades",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+    "published": "2026-08-12T14:00:51.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=978094",
+    "category": "Other",
+    "headline": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "summary": "Google's Pixel Watch 5 focuses on AI and health features with minor hardware updates",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "published": "2026-08-12T14:00:00.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=978671",
     "category": "Funding",
     "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
@@ -421,32 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
     "published": "2026-08-10T11:00:00.000Z"
-  },
-  {
-    "id": "hn:49241679",
-    "category": "Models",
-    "headline": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-    "summary": "A 30 billion parameter model is optimized for local agent workflows that run continuously",
-    "source": "Hacker News",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "published": "2026-08-10T10:10:02.000Z"
-  },
-  {
-    "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "category": "Models",
-    "headline": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "summary": "OpenAI introduces GPT-5.6-Cyber, a model for cybersecurity research and testing, available through Daybreak Red",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "published": "2026-08-10T10:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "category": "Models",
-    "headline": "Putting frontier cyber models in more trusted hands",
-    "summary": "OpenAI allows approved partners to use its advanced cyber models for secure cybersecurity services",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "published": "2026-08-10T10:00:00.000Z"
   }
 ]
