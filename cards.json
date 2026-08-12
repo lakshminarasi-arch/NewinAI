@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://www.theverge.com/?p=978671",
+    "category": "Funding",
+    "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+    "summary": "An Australian entrepreneur used AI tools to create a cancer vaccine for his dog and is now launching a startup to offer personalized mRNA cancer vaccines for dogs and potentially humans",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+    "published": "2026-08-12T12:09:34.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=978666",
+    "category": "Tools",
+    "headline": "Grok is now an AI ‘teammate’ you can assign work",
+    "summary": "Grok is an AI service that can be assigned work and uses your online accounts to complete tasks",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "published": "2026-08-12T11:58:54.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3151847",
+    "category": "Funding",
+    "headline": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+    "summary": "Blacksmith, an AI code-testing startup, has seen its valuation increase nearly ten times in under a year with revenue growing over tenfold",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "published": "2026-08-12T11:00:00.000Z"
+  },
+  {
+    "id": "hn:49269090",
+    "category": "Research",
+    "headline": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+    "summary": "A startup uses AI agents to find new materials",
+    "source": "Hacker News",
+    "url": "https://discoveredmaterials.com/research/",
+    "published": "2026-08-12T07:51:20.000Z"
+  },
+  {
+    "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "category": "Research",
+    "headline": "From assistance to execution: How enterprises put AI to work",
+    "summary": "Enterprises are using AI for tasks beyond assistance, with some firms leading in adoption using tools like ChatGPT and Codex",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "published": "2026-08-12T06:00:00.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2608.09997v1",
     "category": "Research",
     "headline": "Transformer Geometry Observatory TGO-IV: Developmental Topology Observatory",
@@ -403,50 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "published": "2026-08-10T10:00:00.000Z"
-  },
-  {
-    "id": "hn:49239751",
-    "category": "Tools",
-    "headline": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-    "summary": "Docker offers isolated environments for artificial intelligence agents to operate in",
-    "source": "Hacker News",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "published": "2026-08-10T06:02:38.000Z"
-  },
-  {
-    "id": "hn:49238851",
-    "category": "Tools",
-    "headline": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "summary": "A voice driven game lets players interview AI suspects in a murder mystery",
-    "source": "Hacker News",
-    "url": "https://www.whodunnitai.com/",
-    "published": "2026-08-10T03:18:40.000Z"
-  },
-  {
-    "id": "https://openai.com/index/zapier",
-    "category": "Tools",
-    "headline": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "summary": "Zapier's marketing team uses ChatGPT Work to improve lead funnels, create campaign assets, and automate reports",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/zapier",
-    "published": "2026-08-10T00:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "category": "Tools",
-    "headline": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "summary": "Virgin Atlantic uses ChatGPT Work to improve customer experiences by connecting signals across their journey",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "published": "2026-08-10T00:00:00.000Z"
-  },
-  {
-    "id": "https://openai.com/index/premium-seats-chatgpt-business",
-    "category": "Tools",
-    "headline": "Premium seats are coming to ChatGPT Business",
-    "summary": "OpenAI is introducing premium seats to ChatGPT Business, offering higher usage limits and workspace credits for early sign-ups",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "published": "2026-08-10T00:00:00.000Z"
   }
 ]
