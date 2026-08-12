@@ -1,5 +1,23 @@
 [
   {
+    "id": "oai:arXiv.org:2608.09997v1",
+    "category": "Research",
+    "headline": "Transformer Geometry Observatory TGO-IV: Developmental Topology Observatory",
+    "summary": "Researchers analyze how transformer models learn by studying representation evolution across layers",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.09997",
+    "published": "2026-08-12T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.10007v1",
+    "category": "Models",
+    "headline": "Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification",
+    "summary": "Researchers propose new neural networks that handle noisy data and outliers better by using intuitionistic fuzzy logic",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.10007",
+    "published": "2026-08-12T04:00:00.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=978558",
     "category": "Models",
     "headline": "Saber denies replacing Rideshare Stimulator s writers with ChatGPT",
@@ -216,15 +234,6 @@
     "published": "2026-08-11T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2608.07472v1",
-    "category": "Research",
-    "headline": "Data-Driven Fire-Zone Segmentation for Improved Short-Term Wildfire Prediction",
-    "summary": "Researchers propose a fire-zone segmentation algorithm to improve short-term wildfire prediction by dividing areas based on historical fire patterns",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.07472",
-    "published": "2026-08-11T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3151655",
     "category": "Models",
     "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
@@ -403,15 +412,6 @@
     "source": "Hacker News",
     "url": "https://www.docker.com/products/docker-sandboxes/",
     "published": "2026-08-10T06:02:38.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.06394v1",
-    "category": "Research",
-    "headline": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
-    "summary": "Researchers propose a new approach to multi-label graph learning, aiming to improve cross-domain generalization by learning multiple semantic representations",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.06394",
-    "published": "2026-08-10T04:00:00.000Z"
   },
   {
     "id": "hn:49238851",
