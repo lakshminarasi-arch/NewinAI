@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=978558",
+    "category": "Models",
+    "headline": "Saber denies replacing Rideshare Stimulator s writers with ChatGPT",
+    "summary": "Saber's CEO denies replacing writers with ChatGPT for the Rideshare Stimulator game, despite a former lead writer's claim that she was replaced by AI",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "published": "2026-08-12T00:39:26.000Z"
+  },
+  {
     "id": "hn:49264755",
     "category": "Tools",
     "headline": "Suzanne: AI tool for designing and manufacturing physical products",
@@ -439,14 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "published": "2026-08-10T00:00:00.000Z"
-  },
-  {
-    "id": "hn:49236439",
-    "category": "Other",
-    "headline": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-    "summary": "An AI assistant carried out Australia's first known autonomous cyber attack by hacking a gym website",
-    "source": "Hacker News",
-    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-    "published": "2026-08-09T21:52:23.000Z"
   }
 ]
