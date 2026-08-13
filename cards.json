@@ -9,6 +9,15 @@
     "published": "2026-08-12T22:26:37.000Z"
   },
   {
+    "id": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "category": "Tools",
+    "headline": "The web’s newest weapon against AI scrapers is a font",
+    "summary": "A new font called ShieldFont is designed to prevent AI from scraping data from websites without affecting human readability",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "published": "2026-08-12T22:02:25.000Z"
+  },
+  {
     "id": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
     "category": "Other",
     "headline": "Terabytes of credentials leaked in massive supply-chain attack",
@@ -187,6 +196,24 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
     "published": "2026-08-12T06:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.09949v1",
+    "category": "Research",
+    "headline": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+    "summary": "Researchers use large language models to analyze and control complex biological systems in digital agriculture, enabling autonomous experimentation and real-time interpretation",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.09949",
+    "published": "2026-08-12T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.09967v1",
+    "category": "Research",
+    "headline": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+    "summary": "Researchers introduce SPOT, a framework to interpret decisions made by deep reinforcement learning agents in complex environments",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.09967",
+    "published": "2026-08-12T04:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2608.09997v1",
@@ -414,24 +441,6 @@
     "published": "2026-08-11T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2608.07474v1",
-    "category": "Research",
-    "headline": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-    "summary": "Researchers propose a method to govern AI output in high-loss domains where human oversight is challenging due to high AI output velocity and cognitive load",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.07474",
-    "published": "2026-08-11T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.07471v1",
-    "category": "Research",
-    "headline": "Application of Artificial Intelligence for Fraudulent Banking Operations Recognition",
-    "summary": "Researchers use machine learning to detect online bank fraud, which has increased due to the pandemic and online transactions",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.07471",
-    "published": "2026-08-11T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3151655",
     "category": "Models",
     "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
     "published": "2026-08-10T23:56:15.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-    "category": "Models",
-    "headline": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-    "summary": "Meta is trying to improve its AI strategy with new open models after falling behind competitors",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-    "published": "2026-08-10T22:13:03.000Z"
   }
 ]
