@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3152844",
+    "category": "Funding",
+    "headline": "OpenAI hires new CRO as executive shake-up continues",
+    "summary": "OpenAI appoints Dali Rajic as its new chief revenue officer amid ongoing executive changes",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "published": "2026-08-13T17:07:13.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3152748",
     "category": "Tools",
     "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -9,6 +18,15 @@
     "published": "2026-08-13T15:30:52.000Z"
   },
   {
+    "id": "https://www.theverge.com/?p=977994",
+    "category": "Models",
+    "headline": "I looked inside an AI generated movie, and the best parts were all human",
+    "summary": "A movie generated with AI features human-created characters and storylines, with the most engaging parts being made by humans",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "published": "2026-08-13T15:30:00.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3152223",
     "category": "Funding",
     "headline": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
@@ -16,6 +34,24 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
     "published": "2026-08-13T15:08:00.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=979370",
+    "category": "Models",
+    "headline": "Does Google even want to win at AI?",
+    "summary": "Google's AI division is undergoing changes, with key leaders leaving or stepping aside, raising questions about the company's AI strategy",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+    "published": "2026-08-13T14:10:31.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+    "category": "Funding",
+    "headline": "Anthropic could be worth $2 trillion when it goes public",
+    "summary": "Anthropic, the maker of Claude, may have a record-breaking IPO due to its fast-growing revenue",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+    "published": "2026-08-13T13:58:56.000Z"
   },
   {
     "id": "https://www.theverge.com/?p=979466",
@@ -43,6 +79,24 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
     "published": "2026-08-13T11:10:18.000Z"
+  },
+  {
+    "id": "https://openai.com/index/previewing-ultrafast",
+    "category": "Models",
+    "headline": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "summary": "OpenAI introduces Ultrafast mode, running GPT-5.6 Sol up to 14 times faster with Cerebras technology",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "published": "2026-08-13T10:00:00.000Z"
+  },
+  {
+    "id": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "category": "Funding",
+    "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "summary": "OpenAI hires Dali Rajic to lead revenue efforts and help businesses get the most out of AI",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "published": "2026-08-13T09:00:00.000Z"
   },
   {
     "id": "oai:arXiv.org:2608.11207v1",
@@ -394,59 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
     "published": "2026-08-11T16:25:20.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=977921",
-    "category": "Tools",
-    "headline": "Apple could help you prove your iPhone photos aren’t deepfakes",
-    "summary": "Apple is developing a feature to verify iPhone photos by embedding metadata at capture, helping prove they are not deepfakes",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-    "published": "2026-08-11T16:19:15.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=977909",
-    "category": "Research",
-    "headline": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-    "summary": "Researchers used AI models to discover a major security flaw in Zoom's annotation feature, allowing attackers to hijack devices during meetings",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-    "published": "2026-08-11T14:45:44.000Z"
-  },
-  {
-    "id": "hn:49257876",
-    "category": "Research",
-    "headline": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "summary": "Researchers investigate stealing reasoning traces from proprietary large language model APIs",
-    "source": "Hacker News",
-    "url": "https://stolen-thoughts.com/",
-    "published": "2026-08-11T13:22:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151643",
-    "category": "Policy",
-    "headline": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-    "summary": "Spotify will label and exclude music from AI-generated artist profiles from its recommendations",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "published": "2026-08-11T13:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=977815",
-    "category": "Policy",
-    "headline": "Spotify says it won t recommend music from AI Personas",
-    "summary": "Spotify will label and remove AI-generated music from recommendations, using human review and AI tools to identify fake artist profiles",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-    "published": "2026-08-11T13:00:00.000Z"
-  },
-  {
-    "id": "hn:49257160",
-    "category": "Other",
-    "headline": "OpenAI’s head of ethics leaves less than a year after joining",
-    "summary": "OpenAI's ethics leader has departed after less than a year in the role",
-    "source": "Hacker News",
-    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-    "published": "2026-08-11T12:23:07.000Z"
   }
 ]
