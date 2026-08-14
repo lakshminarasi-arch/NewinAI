@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.theverge.com/?p=980416",
+    "category": "Tools",
+    "headline": "You can now turn off Google Gemini s visible watermarks",
+    "summary": "Google now lets users remove visible watermarks from AI-generated content, but invisible watermarks will remain",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "published": "2026-08-14T16:39:32.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3153145",
+    "category": "Tools",
+    "headline": "Google will now allow users to remove visible watermark from its AI generations",
+    "summary": "Google lets users remove visible watermarks from AI-generated content, but invisible markers remain to identify AI origins",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "published": "2026-08-14T16:13:40.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3153153",
+    "category": "Models",
+    "headline": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "summary": "Meta releases open-weight AI model Glimmer for public use, contrasting with its more powerful locked model, as Mark Zuckerberg advocates for AI accessibility",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "published": "2026-08-14T15:43:28.000Z"
+  },
+  {
+    "id": "hn:49300314",
+    "category": "Research",
+    "headline": "Google is making private AI practical with homomorphic encryption",
+    "summary": "Google works on making private AI practical using homomorphic encryption",
+    "source": "Hacker News",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "published": "2026-08-14T15:43:10.000Z"
+  },
+  {
     "id": "hn:49299605",
     "category": "Models",
     "headline": "Qwen 3.8 27B is out: open weights, best local dense model yet",
@@ -34,6 +70,15 @@
     "source": "Hacker News",
     "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
     "published": "2026-08-14T14:22:39.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
+    "category": "Models",
+    "headline": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "summary": "Meta releases Glimmer, an open AI model for public use, contrasting with its locked model Muse Spark, emphasizing AI for everyone",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "published": "2026-08-14T14:00:00.000Z"
   },
   {
     "id": "hn:49298088",
@@ -403,50 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
     "published": "2026-08-12T14:22:00.000Z"
-  },
-  {
-    "id": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "category": "Models",
-    "headline": "Putting sign language AI into users’ hands",
-    "summary": "Google DeepMind introduces a model that translates sign language into text for Deaf and hard of hearing users",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "published": "2026-08-12T14:01:59.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-    "category": "Other",
-    "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-    "summary": "Google's 2026 hardware lineup prioritizes AI and user experience over hardware upgrades",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-    "published": "2026-08-12T14:00:51.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=978094",
-    "category": "Other",
-    "headline": "Google’s Pixel Watch 5 dives deeper into AI and health",
-    "summary": "Google's Pixel Watch 5 focuses on AI and health features with minor hardware updates",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-    "published": "2026-08-12T14:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=978671",
-    "category": "Funding",
-    "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-    "summary": "An Australian entrepreneur used AI tools to create a cancer vaccine for his dog and is now launching a startup to offer personalized mRNA cancer vaccines for dogs and potentially humans",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-    "published": "2026-08-12T12:09:34.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=978666",
-    "category": "Tools",
-    "headline": "Grok is now an AI ‘teammate’ you can assign work",
-    "summary": "Grok is an AI service that can be assigned work and uses your online accounts to complete tasks",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-    "published": "2026-08-12T11:58:54.000Z"
   }
 ]
