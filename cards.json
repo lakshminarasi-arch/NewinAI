@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "category": "Other",
+    "headline": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "summary": "A man tried to influence a court's decision by adding AI prompts to his legal filings, but a judge warned against misusing chatbots in this way",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "published": "2026-08-14T17:26:53.000Z"
+  },
+  {
+    "id": "hn:49301417",
+    "category": "Tools",
+    "headline": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "summary": "Researchers develop a tool to verify contracts for large language model generated GPU kernels",
+    "source": "Hacker News",
+    "url": "https://arxiv.org/abs/2608.12700",
+    "published": "2026-08-14T16:57:14.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=980416",
     "category": "Tools",
     "headline": "You can now turn off Google Gemini s visible watermarks",
@@ -430,23 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
     "published": "2026-08-12T15:52:07.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "category": "Other",
-    "headline": "Booksellers suspect AI firms are buying and then destroying rare books",
-    "summary": "Booksellers think AI companies are buying rare books in bulk just to destroy them",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "published": "2026-08-12T15:19:17.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3152426",
-    "category": "Tools",
-    "headline": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-    "summary": "A company called Sandbar is developing a voice-enabled ring to capture thoughts and ideas, joining other wearables in the market",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-    "published": "2026-08-12T14:22:00.000Z"
   }
 ]
