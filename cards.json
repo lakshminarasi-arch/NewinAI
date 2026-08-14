@@ -1,5 +1,68 @@
 [
   {
+    "id": "hn:49292932",
+    "category": "Tools",
+    "headline": "How AI text watermarking works",
+    "summary": "AI text watermarking is a technique that uses artificial intelligence to embed hidden marks in text",
+    "source": "Hacker News",
+    "url": "https://declaude.org/watermarking/",
+    "published": "2026-08-13T23:16:55.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=979871",
+    "category": "Tools",
+    "headline": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "summary": "Microsoft's chatbot avatar Mico is being moved from Copilot to Learn Live, where it will have more interactions",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "published": "2026-08-13T21:42:38.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3152760",
+    "category": "Models",
+    "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "summary": "A new AI model is introduced with a cost-saving feature to reduce token costs during deployment",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "published": "2026-08-13T21:13:24.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3152870",
+    "category": "Funding",
+    "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "summary": "Databricks initially sought $1B in funding but ended up with $5B due to high investor demand, valuing the company at $190B",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "published": "2026-08-13T20:14:39.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=979815",
+    "category": "Funding",
+    "headline": "OpenAI is losing its second executive this week",
+    "summary": "OpenAI's chief revenue officer Denise Dresser is leaving to pursue other opportunities, marking the company's second executive departure this week",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "published": "2026-08-13T19:28:39.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3152914",
+    "category": "Funding",
+    "headline": "IBM partners with OpenAI to bolster enterprise AI push",
+    "summary": "IBM is teaming up with OpenAI to train its consultants on OpenAI's technology to boost its enterprise AI efforts",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "published": "2026-08-13T19:19:49.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3152849",
+    "category": "Research",
+    "headline": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "summary": "Anthropic's AI agents interacted in unexpected ways, such as clashing and colluding, when given the same task, raising concerns about current safety tests",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "published": "2026-08-13T18:28:14.000Z"
+  },
+  {
     "id": "https://techcrunch.com/?p=3152844",
     "category": "Funding",
     "headline": "OpenAI hires new CRO as executive shake-up continues",
@@ -7,6 +70,15 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "published": "2026-08-13T17:07:13.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "category": "Models",
+    "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+    "summary": "Google releases Gemini 3.7 Flash with significant updates just weeks after the previous version",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "published": "2026-08-13T17:00:13.000Z"
   },
   {
     "id": "https://techcrunch.com/?p=3152748",
@@ -79,6 +151,15 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
     "published": "2026-08-13T11:10:18.000Z"
+  },
+  {
+    "id": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "category": "Models",
+    "headline": "The builder’s guide to GPT‑5.6",
+    "summary": "Startups use GPT-5.6 to build faster and more cost-efficient AI agents with improved model selection and API capabilities",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "published": "2026-08-13T11:00:00.000Z"
   },
   {
     "id": "https://openai.com/index/previewing-ultrafast",
@@ -367,86 +448,5 @@
     "source": "Hacker News",
     "url": "https://www.suzanne3d.com/",
     "published": "2026-08-11T21:28:26.000Z"
-  },
-  {
-    "id": "hn:49264578",
-    "category": "Models",
-    "headline": "AI Is Solving CTF Challenges in Minutes",
-    "summary": "Artificial intelligence is quickly solving capture the flag challenges",
-    "source": "Hacker News",
-    "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
-    "published": "2026-08-11T21:13:44.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-    "category": "Models",
-    "headline": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-    "summary": "Gemini reaches one billion users, becoming Google's fastest growing product, but its growth may slow due to fewer model releases",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-    "published": "2026-08-11T19:48:12.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=978113",
-    "category": "Models",
-    "headline": "ChatGPT and Gemini both just passed 1 billion users",
-    "summary": "ChatGPT and Google's Gemini have each reached over a billion users, a significant milestone for AI apps",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-    "published": "2026-08-11T19:41:42.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3152063",
-    "category": "Tools",
-    "headline": "OpenAI launches ChatGPT desktop app for Linux",
-    "summary": "OpenAI releases a dedicated ChatGPT app for Linux computers",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "published": "2026-08-11T19:15:35.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3152071",
-    "category": "Models",
-    "headline": "Google’s Gemini app surges to one billion users",
-    "summary": "Google's Gemini app has reached one billion users, similar to OpenAI's ChatGPT",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "published": "2026-08-11T18:49:12.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=978048",
-    "category": "Other",
-    "headline": "Another OpenAI executive takes off",
-    "summary": "OpenAI's special projects lead and former COO is leaving after eight years to start something new, aiming to help advance the mission from a different perspective",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-    "published": "2026-08-11T17:50:01.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151968",
-    "category": "Other",
-    "headline": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-    "summary": "OpenAI's longtime COO is leaving to start a new project, but will continue to support the company's mission",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "published": "2026-08-11T17:41:34.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151907",
-    "category": "Funding",
-    "headline": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "summary": "River AI, a new startup, gets $1.1 billion funding for its vision of personal agents, led by General Catalyst",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "published": "2026-08-11T17:41:22.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151819",
-    "category": "Models",
-    "headline": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-    "summary": "An unreleased Anthropic model has made notable progress on the long-standing Riemann hypothesis math problem",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-    "published": "2026-08-11T16:25:20.000Z"
   }
 ]
