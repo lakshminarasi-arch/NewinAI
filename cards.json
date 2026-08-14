@@ -1,5 +1,50 @@
 [
   {
+    "id": "hn:49299605",
+    "category": "Models",
+    "headline": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+    "summary": "A new version of the Qwen model is released, offering open weights and claimed to be the best local dense model available",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "published": "2026-08-14T15:00:00.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3153090",
+    "category": "Models",
+    "headline": "Kog is going deeper to squeeze more inference out of GPUs",
+    "summary": "French startup Kog challenges the idea that GPUs are not suitable for certain workflows, aiming to improve inference",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "published": "2026-08-14T14:50:11.000Z"
+  },
+  {
+    "id": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "category": "Models",
+    "headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "summary": "OpenAI and Anthropic lower model prices due to new competition from Chinese AI companies",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "published": "2026-08-14T14:27:14.000Z"
+  },
+  {
+    "id": "hn:49299102",
+    "category": "Tools",
+    "headline": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+    "summary": "A tool called AI Model Atlas visualizes machine learning models as a 3D graph to show their connections",
+    "source": "Hacker News",
+    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "published": "2026-08-14T14:22:39.000Z"
+  },
+  {
+    "id": "hn:49298088",
+    "category": "Tools",
+    "headline": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+    "summary": "A new tool allows sharing AI agents via URL, running locally with WebGPU",
+    "source": "Hacker News",
+    "url": "https://hashagent.pages.dev/",
+    "published": "2026-08-14T12:57:02.000Z"
+  },
+  {
     "id": "https://www.theverge.com/?p=980160",
     "category": "Models",
     "headline": "Apple trained its own AI model for China with help from Alibaba",
@@ -403,50 +448,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
     "published": "2026-08-12T11:58:54.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151847",
-    "category": "Funding",
-    "headline": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "summary": "Blacksmith, an AI code-testing startup, has seen its valuation increase nearly ten times in under a year with revenue growing over tenfold",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "published": "2026-08-12T11:00:00.000Z"
-  },
-  {
-    "id": "hn:49269090",
-    "category": "Research",
-    "headline": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-    "summary": "A startup uses AI agents to find new materials",
-    "source": "Hacker News",
-    "url": "https://discoveredmaterials.com/research/",
-    "published": "2026-08-12T07:51:20.000Z"
-  },
-  {
-    "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "category": "Research",
-    "headline": "From assistance to execution: How enterprises put AI to work",
-    "summary": "Enterprises are using AI for tasks beyond assistance, with some firms leading in adoption using tools like ChatGPT and Codex",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "published": "2026-08-12T06:00:00.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=978558",
-    "category": "Models",
-    "headline": "Saber denies replacing Rideshare Stimulator s writers with ChatGPT",
-    "summary": "Saber's CEO denies replacing writers with ChatGPT for the Rideshare Stimulator game, despite a former lead writer's claim that she was replaced by AI",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-    "published": "2026-08-12T00:39:26.000Z"
-  },
-  {
-    "id": "https://openai.com/index/ringcentral",
-    "category": "Tools",
-    "headline": "How RingCentral builds AI-native work from engineering to ops",
-    "summary": "RingCentral uses AI tools like ChatGPT Work and Codex to speed up product development and improve operations",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/ringcentral",
-    "published": "2026-08-12T00:00:00.000Z"
   }
 ]
