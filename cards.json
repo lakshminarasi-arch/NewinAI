@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.theverge.com/?p=980160",
+    "category": "Models",
+    "headline": "Apple trained its own AI model for China with help from Alibaba",
+    "summary": "Apple developed a custom AI model for China with help from Alibaba, giving them more control in the market",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "published": "2026-08-14T09:21:17.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.12419v1",
+    "category": "Models",
+    "headline": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining",
+    "summary": "Researchers propose LoKiFormer, a new large language model that improves pretraining efficiency by addressing limitations in self-attention and knowledge storage",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.12419",
+    "published": "2026-08-14T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.12422v1",
+    "category": "Research",
+    "headline": "Which Site, and When: A Free-Satellite-Data Test of Himalayan Glacial Lake Bursts, Landslides, and Ice Floods",
+    "summary": "Researchers use satellite data to predict glacial lake bursts, landslides, and ice floods in the Nepal Himalaya",
+    "source": "arXiv cs.LG",
+    "url": "https://arxiv.org/abs/2608.12422",
+    "published": "2026-08-14T04:00:00.000Z"
+  },
+  {
     "id": "hn:49292932",
     "category": "Tools",
     "headline": "How AI text watermarking works",
@@ -207,15 +234,6 @@
     "published": "2026-08-13T04:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2608.11256v1",
-    "category": "Research",
-    "headline": "Why AI Detection Fails for Academic Integrity",
-    "summary": "AI detectors used by institutions to check academic integrity often fail to distinguish between AI edited and fully generated content, leading to potential false flags",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.11256",
-    "published": "2026-08-13T04:00:00.000Z"
-  },
-  {
     "id": "https://techcrunch.com/?p=3152533",
     "category": "Tools",
     "headline": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
@@ -414,15 +432,6 @@
     "published": "2026-08-12T06:00:00.000Z"
   },
   {
-    "id": "oai:arXiv.org:2608.09949v1",
-    "category": "Research",
-    "headline": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
-    "summary": "Researchers use large language models to analyze and control complex biological systems in digital agriculture, enabling autonomous experimentation and real-time interpretation",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.09949",
-    "published": "2026-08-12T04:00:00.000Z"
-  },
-  {
     "id": "https://www.theverge.com/?p=978558",
     "category": "Models",
     "headline": "Saber denies replacing Rideshare Stimulator s writers with ChatGPT",
@@ -439,14 +448,5 @@
     "source": "OpenAI",
     "url": "https://openai.com/index/ringcentral",
     "published": "2026-08-12T00:00:00.000Z"
-  },
-  {
-    "id": "hn:49264755",
-    "category": "Tools",
-    "headline": "Suzanne: AI tool for designing and manufacturing physical products",
-    "summary": "Suzanne is a tool that uses AI for designing and making physical products",
-    "source": "Hacker News",
-    "url": "https://www.suzanne3d.com/",
-    "published": "2026-08-11T21:28:26.000Z"
   }
 ]
