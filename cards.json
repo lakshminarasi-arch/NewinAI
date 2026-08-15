@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:49309050",
+    "category": "Policy",
+    "headline": "Debian has begun voting on the future of AI/LLM contributions",
+    "summary": "Debian members are voting on how to handle contributions related to artificial intelligence and large language models",
+    "source": "Hacker News",
+    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "published": "2026-08-15T09:20:07.000Z"
+  },
+  {
     "id": "hn:49307700",
     "category": "Models",
     "headline": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
@@ -439,14 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
     "published": "2026-08-12T16:46:02.000Z"
-  },
-  {
-    "id": "hn:49274858",
-    "category": "Funding",
-    "headline": "AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025",
-    "summary": "Lovable, an AI coding startup, has increased its valuation to $13.3 billion after raising $400 million",
-    "source": "Hacker News",
-    "url": "https://lovable.dev/blog/series-c",
-    "published": "2026-08-12T16:20:34.000Z"
   }
 ]
