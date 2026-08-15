@@ -1,5 +1,23 @@
 [
   {
+    "id": "oai:arXiv.org:2608.12325v1",
+    "category": "Research",
+    "headline": "Position: Reasoning is a Learnable Rule-Based Process",
+    "summary": "Researchers argue that reasoning can be learned through rule-based processes, combining symbolic AI and deep generative models",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.12325",
+    "published": "2026-08-15T04:00:00.000Z"
+  },
+  {
+    "id": "oai:arXiv.org:2608.12345v1",
+    "category": "Research",
+    "headline": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+    "summary": "Researchers created IntegrityBench to test language models' ability to maintain research integrity under pressure, finding they fail about one in three critical decisions",
+    "source": "arXiv cs.AI",
+    "url": "https://arxiv.org/abs/2608.12345",
+    "published": "2026-08-15T04:00:00.000Z"
+  },
+  {
     "id": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
     "category": "Other",
     "headline": "Suspecting court of using AI, man injected prompts in filings to try to win case",
@@ -321,24 +339,6 @@
     "summary": "Researchers propose a control system to manage interactions between large language models with opposing goals, aiming to prevent conversation collapse",
     "source": "arXiv cs.AI",
     "url": "https://arxiv.org/abs/2608.11207",
-    "published": "2026-08-13T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.11210v1",
-    "category": "Tools",
-    "headline": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-    "summary": "Distribird is a tool that helps create prior distributions for Bayesian model calibration by automatically searching literature for relevant information",
-    "source": "arXiv cs.AI",
-    "url": "https://arxiv.org/abs/2608.11210",
-    "published": "2026-08-13T04:00:00.000Z"
-  },
-  {
-    "id": "oai:arXiv.org:2608.11254v1",
-    "category": "Research",
-    "headline": "FarSky: Task-Aware Latent-Space Coupling for Generative Intra-Hour Solar Forecasting",
-    "summary": "Researchers propose FarSky, a generative framework for intra-hour solar forecasting using latent-space coupling to improve forecast accuracy",
-    "source": "arXiv cs.LG",
-    "url": "https://arxiv.org/abs/2608.11254",
     "published": "2026-08-13T04:00:00.000Z"
   },
   {
