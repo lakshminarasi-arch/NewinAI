@@ -1,5 +1,14 @@
 [
   {
+    "id": "hn:49307700",
+    "category": "Models",
+    "headline": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+    "summary": "ThoughtDAG is a graph for large language model conversations that can be edited",
+    "source": "Hacker News",
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "published": "2026-08-15T04:42:07.000Z"
+  },
+  {
     "id": "oai:arXiv.org:2608.12325v1",
     "category": "Research",
     "headline": "Position: Reasoning is a Learnable Rule-Based Process",
@@ -439,14 +448,5 @@
     "source": "Hacker News",
     "url": "https://lovable.dev/blog/series-c",
     "published": "2026-08-12T16:20:34.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=978982",
-    "category": "Other",
-    "headline": "Guitar company D’Addario admits that AI music was used in a promotional video",
-    "summary": "D'Addario used AI music in a promotional video, despite initial denials and alternative explanations",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-    "published": "2026-08-12T15:52:07.000Z"
   }
 ]
