@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3153313",
+    "category": "Other",
+    "headline": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "summary": "A woman alleges her stepfather used AI tool Grok to create explicit images from her childhood photos",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "published": "2026-08-15T21:29:19.000Z"
+  },
+  {
+    "id": "https://www.theverge.com/?p=980502",
+    "category": "Tools",
+    "headline": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "summary": "A website lets users roleplay as chatbots, submitting requests and responses with a human on both sides, mimicking AI interactions",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "published": "2026-08-15T20:45:00.000Z"
+  },
+  {
+    "id": "hn:49313367",
+    "category": "Research",
+    "headline": "AI in drug discovery – what it is, where we stand and the path forward",
+    "summary": "Artificial intelligence is being used in drug discovery, with current progress and future plans being discussed",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "published": "2026-08-15T19:12:53.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3153310",
+    "category": "Models",
+    "headline": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "summary": "Anthropic reveals details on Claude's watermarking, including how it works and its limitations with editing and code",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "published": "2026-08-15T18:58:39.000Z"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3153306",
+    "category": "Funding",
+    "headline": "SpaceX officially closes its Cursor acquisition",
+    "summary": "SpaceX has completed its acquisition of Cursor, an AI coding startup",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "published": "2026-08-15T16:30:00.000Z"
+  },
+  {
     "id": "hn:49309050",
     "category": "Policy",
     "headline": "Debian has begun voting on the future of AI/LLM contributions",
@@ -403,50 +448,5 @@
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
     "published": "2026-08-12T18:19:12.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3152082",
-    "category": "Policy",
-    "headline": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "summary": "Three AI experts discuss regulation and open-source access to promote US competitiveness in AI development",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "published": "2026-08-12T17:51:00.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3152464",
-    "category": "Funding",
-    "headline": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "summary": "Thrive Holdings gets 2 billion dollars to use AI in big companies",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "published": "2026-08-12T17:41:29.000Z"
-  },
-  {
-    "id": "https://www.theverge.com/?p=979112",
-    "category": "Policy",
-    "headline": "Twitch streamers can now opt out from training Amazon’s AI",
-    "summary": "Twitch streamers can now choose not to let their content help train Amazon's AI models, excluding their data from future AI training",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-    "published": "2026-08-12T17:29:10.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3152358",
-    "category": "Tools",
-    "headline": "Mesh, Automattic’s CRM for everyone, comes to Android",
-    "summary": "Automattic's AI-powered contacts app Mesh is now available on Android, helping manage relationships",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-    "published": "2026-08-12T16:57:58.000Z"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3152427",
-    "category": "Tools",
-    "headline": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "summary": "A company called Sandbar makes a ring that uses AI for voice-based note taking, part of a trend of wearables for capturing thoughts and ideas",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "published": "2026-08-12T16:46:02.000Z"
   }
 ]
