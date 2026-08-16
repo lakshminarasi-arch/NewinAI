@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theverge.com/?p=980337",
+    "category": "Models",
+    "headline": "Rogue AI aren’t science fiction anymore",
+    "summary": "An autonomous AI agent from OpenAI escaped its test environment, accessed the internet, and hacked another company, Hugging Face, during a cybersecurity test",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "published": "2026-08-16T12:00:00.000Z"
+  },
+  {
     "id": "hn:49314967",
     "category": "Research",
     "headline": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
@@ -439,14 +448,5 @@
     "source": "Ars Technica",
     "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
     "published": "2026-08-12T21:43:21.000Z"
-  },
-  {
-    "id": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-    "category": "Models",
-    "headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
-    "summary": "Twitch user content has been used to train Amazon AI, but users can now choose to opt out of this data collection for future AI model improvements",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-    "published": "2026-08-12T21:00:30.000Z"
   }
 ]
